@@ -1,5 +1,8 @@
 # Spell Inventors
 
+**Aganazzar**  
+Aganazzar's Scorcher  
+
 **Aksa**  
 Aksa's Disintegrate  
 Aksa's Enlarge/Reduce  
@@ -8,29 +11,29 @@ Aksa's Mending
 Aksa's Passwall  
 Aksa's Shatter  
 
+**Asmiak**  
+Asmiak's Burning Hands  
+
 **Balagarn**  
 Balagarn's Iron Horn  
 
 **Bigby**  
 Bigby's Besieging Bolt  
-Bigby's Clenched Fist  
-Bigby's Crushing Hand  
-Bigby's Forceful Hand  
-Bigby's Grasping Hand  
-Bigby's Interposing Hand  
+Bigby's Hand  
 
 **Carbury**  
-Carbury's Invisible Stalker  
 Carbury's Magic Mouth  
+Carbury's Major Image  
 Carbury's Phantasmal Force  
-Carbury's Phantasmal Force, Improved  
 Carbury's Phantasmal Killer  
 Carbury's Phantom Steed  
-Carbury's Spectral Force  
+Carbury's Silent Image  
 Carbury's Spook  
 Carbury's Unseen Servant  
 
 **Dace**  
+Dace's Comprehend Languages  
+Dace's Tongues  
 Dace's Ventriloquism  
 
 **Dalamar**  
@@ -39,42 +42,74 @@ Dalamar's Lightning Lance
 **Daltim**  
 Daltim's Fiery Tentacles  
 
+**Decampus**  
+Decampus's Alarm  
+
+**Efteran**  
+Efteran's Dream  
+Efteran's Sleep  
+
+**Enollar**  
+Enollar's Mislead  
+Enollar's Remove Curse  
+Enollar's Sending  
+Enollar's Sequester  
+
 **Evard**  
 Evard's Black Tentacles  
 
 **Fahren**  
 Fahren's Darkness  
 
-**Halaster**  
+**Gwynn**  
+Gwynn's Feign Death  
+Gwynn's Vampiric Touch  
+
+**Halaster Blackcloak**  
 Halaster's Blacksphere  
 
 **Hamring**  
+Hamring's Feeblemind  
+Hamring's Hypnotic Pattern  
+Hamring's Mass Suggestion  
 Hamring's Ray of Enfeeblement  
+Hamring's Scare  
 
 **Horizikaul**  
 Horizikaul's Boom  
 Horizikaul's Versatile Vibration  
 
-**Khelben Arunsun**  
-Khelben's Warding Whip  
+**Jarm**  
+Jarm's Legend Lore  
+Jarm's Magic Jar  
+Jarm's Mount  
+
+**Keonid**  
+Keonid's Charm Person  
+Keonid's Confusion  
+Keonid's Fear  
+Keonid's Friends  
+Keonid's Geas  
+Keonid's Suggestion  
 
 **Laeral**  
 Laeral's Silver Lance  
 
 **Leomund**  
-Leomund's Arena  
-Leomund's Billet  
-Leomund's Hidden Lodge  
-Leomund's Lamentable Belabourment  
 Leomund's Secret Chest  
-Leomund's Secure Shelter  
-Leomund's Spacious Carriage  
 Leomund's Tiny Hut  
-Leomund's Tiny Igloo  
-Leomund's Trap
+
+**Lucke**  
+Lucke's Conjure Animals  
+Lucke's Contagion  
 
 **Lurue**  
 Lurue's Alicorn Lance  
+
+**M'dahl**  
+M'dahl's Guards and Wards  
+M'dhal's Magic Circle  
+M'dahl's Protection from Evil and Good  
 
 **Matick**  
 Matick's Mage Armor  
@@ -90,35 +125,133 @@ Mestil's Acid Breath
 Mestil's Acid Sheath  
 
 **Mordenkainen**  
-Mordenkainen's Arcane Seal  
-Mordenkainen's Celerity  
-Mordenkainen's Defense Against Lycanthropes  
-Mordenkainen's Defense Against Nonmagical Reptiles and Amphibians  
-Mordenkainen's Disjunction  
-Mordenkainen's Electric Arc  
-Mordenkainen's Encompassing Vision  
 Mordenkainen's Faithful Hound  
-Mordenkainen's Faithful Phantom Defenders  
-Mordenkainen's Faithful Phantom Guardian  
-Mordenkainen's Faithful Phantom Shield-Maidens  
 Mordenkainen's Force Missiles  
-Mordenkainen's Involuntary Wizardry  
-Mordenkainen's Lucubration  
 Mordenkainen's Magnificent Mansion  
-Mordenkainen's Penultimate Cogitation  
 Mordenkainen's Private Sanctum  
-Mordenkainen's Protection from Avians  
-Mordenkainen's Protection from Insects and Arachnids  
-Mordenkainen's Protection from Slime  
 Mordenkainen's Sword  
 
 **Nalevac**  
 Nalevac's Color Spray  
+Nalevac's Darkvision  
+
+**Noanar**  
+Noanar's Delayed Blast Fireball  
+Noanar's Fire Shield  
+Noanar's Fireball  
+Noanar's Wall of Fire  
+
+**Nystul**  
+Nystul's Magic Aura  
+
+**Oberon**  
+Oberon's Banishment  
+Oberon's Blink  
+Oberon's Dimension Door  
+Oberon's Telekinesis  
+Oberon's Teleport  
+
+**Pockall**  
+Pockall's Charm Monster  
+Pockall's Greater Invisibility  
+Pockall's Invisibility  
+Pockall's Sphere of Invisibility  
 
 **Primidon**  
 Primidon's Burning Hands  
+Primidon's Flame Arrows  
+Primidon's Flaming Sphere  
+Primidon's Incendiary Cloud  
+Primidon's Pyrotechnics  
+
+**Prug**  
+Prug's Dominate Person  
+Prug's Hold Monster  
+Prug's Hold Person  
+
+**Ptack**  
+Ptack's Arcane Lock  
+Ptack's Knock  
+Ptack's Nondetection  
+
+**Quantoul**  
+Quantoul's Alter Self  
+Quantoul's Disguise Self  
+Quantoul's Enhance Ability  
+Quantoul's Gaseous Form  
+Quantoul's Haste  
+Quantoul's Polymorph  
+Quantoul's Slow  
+Quantoul's Spider Climb  
+
+**Raliteff**  
+Raliteff's Illusory Script  
+
+**Shan**  
+Shan's Grease  
+Shan's Wall of Force  
+Shan's Web  
+
+**Smolyn**  
+Smolyn's Blindness / Deafness  
+Smolyn's Blur  
+Smolyn's Eyebite  
+Smolyn's Foresight  
+Smolyn's Mirror Image  
+Smolyn's True Seeing  
+
+**Stoca**  
+Stoca's Fly  
+Stoca's Water Breathing  
+
+**Tasha**  
+Tasha's Hideous Laughter  
+
+**Tenser**  
+Tenser's Floating Disk  
+
+**Tolodine**  
+Tolodine's Acid Fog  
+Tolodine's Cloudkill  
+Tolodine's Gust of Wind  
+Tolodine's Stinking Cloud  
+Tolodine's Wind Wall  
+
+**Trebbe**  
+Trebbe's Antimagic Field  
+Trebbe's Arcane Eye  
+Trebbe's Detect Evil and Good  
+Trebbe's Detect Magic  
+Trebbe's Identify  
+Trebbe's See Invisibility  
+Trebbe's Spell Turning  
+Trebbe's Weird  
+
+**Undine**  
+Undine's Rope Trick  
+
+**Veridon**  
+Veridon's Chill Touch  
+Veridon's Cone of Cold  
+Veridon's Fog Cloud  
+Veridon's Ice Storm  
+Veridon's Solid Fog  
+Veridon's Wall of Fog  
+Veridon's Wall of Ice  
 
 **Volhm**  
 Volhm's Chain Lightning  
 Volhm's Lightning Bolt  
 Volhm's Shocking Grasp  
+
+**Yturn**  
+Yturn's Feather Fall  
+Yturn's Jump  
+Yturn's Levitate  
+
+**Zahn**  
+Zahn's Clairvoyance  
+Zahn's Detect Thoughts  
+Zahn's Find Familiar  
+Zahn's Locate Object  
+Zahn's Mirage Arcane  

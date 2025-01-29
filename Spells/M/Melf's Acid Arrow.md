@@ -1,5 +1,4 @@
 ## Melf's Acid Arrow
-*Homebrew*  
 *Level 2 Evocation (Wizard)*
 
 **Casting Time:** Action  
