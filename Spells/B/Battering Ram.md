@@ -1,5 +1,4 @@
 ## Battering Ram
-*Homebrew*  
 *Level 1 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  

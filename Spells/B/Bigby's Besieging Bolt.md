@@ -1,5 +1,4 @@
 ## Bigby's Besieging Bolt
-*Homebrew*  
 *Level 6 Evocation (Wizard)*
 
 **Casting Time:** Action  

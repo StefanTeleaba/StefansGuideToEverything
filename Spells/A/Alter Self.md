@@ -1,5 +1,4 @@
 ## Alter Self
-*Homebrew*  
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  

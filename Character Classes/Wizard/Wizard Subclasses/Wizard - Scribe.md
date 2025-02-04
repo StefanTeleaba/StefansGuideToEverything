@@ -1,4 +1,4 @@
-# Arcane Scribe 
+# Scribe 
 
 *by*  
 *PerfectlyCircularSeal*  

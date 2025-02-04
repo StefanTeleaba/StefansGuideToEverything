@@ -10,3 +10,5 @@ A bright streak flashes from you to a point you choose within range and then blo
 Flammable objects in the area that aren't being worn or carried start burning.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
+
+***Using a Higher-Level Spell Slot.*** The radius of the Sphere increases by 5 feet for each spell slot level above 3.

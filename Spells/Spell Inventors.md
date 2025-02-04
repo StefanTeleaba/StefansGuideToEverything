@@ -79,6 +79,9 @@ Hamring's Scare
 Horizikaul's Boom  
 Horizikaul's Versatile Vibration  
 
+**Jallarzi**  
+Jallarzi's Storm of Radiance  
+
 **Jarm**  
 Jarm's Legend Lore  
 Jarm's Magic Jar  
@@ -151,6 +154,13 @@ Oberon's Dimension Door
 Oberon's Telekinesis  
 Oberon's Teleport  
 
+**Otiluke**  
+Otiluke's Freezing Sphere  
+Otiluke's Resilient Sphere  
+
+**Otto**  
+Otto's Irresistible Dance  
+
 **Pockall**  
 Pockall's Charm Monster  
 Pockall's Greater Invisibility  
@@ -187,6 +197,9 @@ Quantoul's Spider Climb
 **Raliteff**  
 Raliteff's Illusory Script  
 
+**Rary**  
+Rary's Telepathic Bond  
+
 **Shan**  
 Shan's Grease  
 Shan's Wall of Force  
@@ -205,6 +218,7 @@ Stoca's Fly
 Stoca's Water Breathing  
 
 **Tasha**  
+Tasha's Bubbling Cauldron  
 Tasha's Hideous Laughter  
 
 **Tenser**  
@@ -243,6 +257,9 @@ Veridon's Wall of Ice
 Volhm's Chain Lightning  
 Volhm's Lightning Bolt  
 Volhm's Shocking Grasp  
+
+**Yolande**  
+Yolande's Regal Presence  
 
 **Yturn**  
 Yturn's Feather Fall  

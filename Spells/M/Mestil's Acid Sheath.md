@@ -1,5 +1,4 @@
 ## Mestil's Acid Sheath
-*Homebrew*  
 *Level 5 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  

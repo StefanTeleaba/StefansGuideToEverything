@@ -1,5 +1,4 @@
 # Arcane Bolt
-*Homebrew*  
 *Evocation Cantrip (Wizard)*
 
 **Casting Time:** Action
