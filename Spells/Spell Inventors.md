@@ -20,6 +20,7 @@ Balagarn's Iron Horn
 **Bigby**  
 Bigby's Besieging Bolt  
 Bigby's Hand  
+Bigby's Striking Fist  
 
 **Carbury**  
 Carbury's Magic Mouth  
