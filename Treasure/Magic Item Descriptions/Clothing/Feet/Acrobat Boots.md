@@ -1,10 +1,11 @@
-### Acrobat Boots
+# Acrobat Boots
+
+*Magic Item Compendium, p.67*
 
 **Price:** 900 GP  
 **Body Slot:** Feet  
 **Aura:** Faint Transmutation  
-**Synergy Prerequisite:** -  
-**Activation:** -  
+**Associated Spell:** -  
 **Weight:** 1 lb.
 
 *Multiple brass buckles run from the ankle to the top of the calf on these finely crafted, black leather boots.*

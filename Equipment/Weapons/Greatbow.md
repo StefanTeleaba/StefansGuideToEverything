@@ -1,4 +1,4 @@
-### Greatbow (100 GP)
+### Greatbow (150 GP)
 *Martial Ranged Weapon*  
 
 **Damage:** 1d10 Piercing  

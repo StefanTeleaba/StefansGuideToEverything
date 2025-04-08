@@ -1,4 +1,4 @@
-### Title
+# Title
 
 **Activation:** Action, Bonus Action or Reaction (Command or Mental)  
 **Associated Spell:** Spell Name  

@@ -6,7 +6,7 @@ You gain a +5 bonus to your Dexterity score while attuned to this weapon.
 While the sword is on your person, you gain a +10 bonus to Dexterity (Stealth) checks.  
 ***Bane.*** You gain a +2 bonus to attack rolls against Elves with this weapon. This weapon deals an additional 2d6 damage on a Hit against Elves.  
 ***Unholy.*** This weapon deals an additional 1d8 Necrotic damage on a Hit.  
-***Vorpal.*** This weapon ignores Resistance to Slashing damage and deals an additional 30 Slashing damage on a Critical Hit.
+***Vorpal.*** This weapon ignores Resistance to Slashing damage and deals an additional 30 Slashing damage on a Critical Hit.  
 ***Spells.*** While the sword is on your person, you can cast the following spells (save DC 18) from it:  
 - Phantom Steed
 - Spider Climb
