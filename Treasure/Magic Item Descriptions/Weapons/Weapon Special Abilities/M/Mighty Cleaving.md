@@ -5,4 +5,4 @@
 **Aura:** Moderate Evocation  
 **Associated Spell:** -
 
-***Mighty Cleaving.*** You can make the extra attack of the Cleave weapon mastery one additional time per turn.
+***Mighty Cleaving.*** You can add your ability modifier to the damage of the extra attack of the Cleave weapon mastery.
