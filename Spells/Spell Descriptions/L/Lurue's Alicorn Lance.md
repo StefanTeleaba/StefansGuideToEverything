@@ -1,4 +1,4 @@
-## Lurue's Alicorn Lance
+# Lurue's Alicorn Lance
 *Level 2 Evocation (Cleric, Druid)*
 
 **Casting Time:** Action  

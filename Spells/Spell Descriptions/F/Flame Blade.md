@@ -1,5 +1,4 @@
 ## Flame Blade
-*Homebrew*  
 *Level 2 Evocation (Druid, Sorcerer)*
 
 **Casting Time:** Bonus Action  
@@ -11,3 +10,5 @@ You evoke a fiery blade in your free hand. The blade is similar in size and shap
 The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 2.
+
+*Treantmonk*

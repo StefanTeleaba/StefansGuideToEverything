@@ -1,5 +1,10 @@
 # Adamantine
 
+*3.5e*
+---
+
+*Dungeon Master's Guide, p.283*  
+
 Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or
 suit of armor.
 
@@ -22,6 +27,9 @@ Weapons, armor and shields normally made of steel that are made of adamantine ha
 | Medium armor            | +10,000 GP         |
 | Heavy armor             | +15,000 GP         |
 | Weapon                  | +3,000 GP          |
+
+*Magic of Faerun, p.177*
+
 
 
 5.5e

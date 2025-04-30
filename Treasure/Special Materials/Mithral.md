@@ -1,7 +1,10 @@
 # Mithral
 
-3.5e
+*3.5e*
 ---
+
+*Dungeon Master's Guide, p.284*
+
 *Mithral is a very rare silvery, glistening metal that is lighter than iron but just as hard.*
 
 When worked like steel, it becomes a wonderful material from which to create armor and is occasionally used for other items as well. Most mithral armors are one category lighter than normal for purposes of movement and other limitations (for example, whether a barbarian can use her fast movement ability while wearing the armor or not). Heavy armors are treated as medium, and medium armors are treated as light, but light armors are still treated as light. Spell failure chances for armors and shields made from mithral are decreased by 10%, maximum Dexterity bonus is increased by 2, and armor check penalties are lessened by 3 (to a minimum of 0).
@@ -19,7 +22,11 @@ In the case of weapons, this lighter weight does not change a weapon’s size ca
 | Other items          | +500 GP/lb.        |
 
 
-5.5e
+*Magic of Faerun, p.180*
+
+
+
+*5.5e*
 ---
 *100 GP for 1 lb.*  
 *Mithral is a very rare silvery, glistening metal that is lighter than iron but just as hard.*

@@ -1,4 +1,9 @@
-# Gold
+# Gold, Alchemical
+
+*3.5e*
+---
+
+*Magic of Faerun, p.179*
 
 While most use gold as a currency, spellcasters know of gold's magical properties. When magically refined and treated, gold can be made as hard as steel. The following information refers to magically treated gold.
 

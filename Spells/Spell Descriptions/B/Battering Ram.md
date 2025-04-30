@@ -1,4 +1,4 @@
-## Battering Ram
+# Battering Ram
 *Level 1 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  

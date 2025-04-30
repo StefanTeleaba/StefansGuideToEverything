@@ -1,4 +1,9 @@
-# Alchemical Silver
+# Silver, Alchemical
+
+*3.5e*
+---
+
+*Dungeon Master's Guide, p.284*
 
 A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes.
 
@@ -14,8 +19,9 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | One-Handed Weapon, or one head of a double Weapon   | +90 GP             |
 | Two-Handed Weapon, or both heads of a double Weapon | +180 GP            |
 
+*Magic of Faerun, p.180*
 
-5.5e
+*5.5e*
 ---
 
 Weapon

@@ -1,5 +1,7 @@
 # Copper
 
+*Magic of Faerun, p.178*  
+
 Quite familiar to poor folk across the world, copper is known by spellcasters to be a magical purifier, aiding in magic that negates sickness and poison. While its brilliant color makes it popular for ornamental items, its relative softness makes it unsuitable for armor or weapons unless magically treated (which also activates its resistance). However, it is often used in items that provide protection from cold.
 
 Armor made from magically treated copper grants cold resistance 2. Items not primarily of metal are not meaningfully affected. (A suit of chainmail is affected, while a suit of studded leather is not.)

@@ -1,4 +1,4 @@
-## Find Traps
+# Find Traps
 *Homebrew*  
 *Level 2 Divination (Cleric, Druid, Ranger)*
 

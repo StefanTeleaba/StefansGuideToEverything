@@ -1,4 +1,4 @@
-## Splinterbolt
+# Splinterbolt
 *Level 2 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action  

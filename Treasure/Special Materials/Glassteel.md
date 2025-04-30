@@ -1,5 +1,7 @@
 # Glassteel
 
+*Champions of Valor, p.65*
+
 Made by the avariels and sun elves in an alchemical process requiring extensive knowledge of both metallurgy and glassblowing, glassteel combines strength beyond iron with the transparency of glass. It mostly finds use as a building material in fantastic castles, but it can also be fashioned into weapons and armor (although glassteel armor is much more costly to craft than even the most ornate blade). Glassteel is stronger and lighter than iron and completely transparent, lacking the greenish tint of common glass.
 
 Items made of glassteel weigh only half what they otherwise would. Items not primarily made of metal are not meaningfully affected by being partially made of glassteel. (A breastplate can be made of glassteel, but hide armor cannot.)
@@ -18,3 +20,5 @@ Glassteel has hardness 20 and 40 hit points per inch of thickness. Weapons and a
 | Other Items             | +100 gp/lb.        |
 
 This description updates and supersedes previous descriptions of glassteel.
+
+*Races of Faerun, p.158*

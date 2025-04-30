@@ -1,5 +1,7 @@
 # Duskwood
 
+*Magic of Faerun, p.178*  
+
 This species of tree grows widely all over Faerûn, and is named for the eerie appearance of its tightly growing groves. Smooth, with small branches at the top of 60-foot trunks, duskwood trees have black bark and smoky gray wood that is as tough as iron.
 
 Any steel or mostly steel weapon (such as a sword or a mace) made from duskwood is considered a masterwork item and weighs only half as much as a normal steel item of that type. Weapons not normally made of steel or only partially of steel (such as a club or a battleaxe) either cannot be made from duskwood or do not gain any special benefit or penalty from being made of duskwood.
