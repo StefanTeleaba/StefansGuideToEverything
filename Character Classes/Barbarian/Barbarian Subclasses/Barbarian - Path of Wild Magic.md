@@ -1,4 +1,4 @@
-# Path of the Ancestral Guardian
+# Path of Wild Magic
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
