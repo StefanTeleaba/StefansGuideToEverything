@@ -10,5 +10,6 @@
 
 Your next attack roll with a weapon before the end of your next turn is a Critical Hit.
 
-
-*Spell Compendium, p.177*
+**Source:** *Homebrew*  
+*Magic of Faerun, p.101*  
+*Spell Compendium, p.117*  

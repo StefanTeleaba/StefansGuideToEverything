@@ -1,5 +1,4 @@
 # Path of the Giant
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

@@ -1,5 +1,4 @@
 # College of Eloquence
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

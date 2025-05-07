@@ -46,14 +46,14 @@ Your bond to your drake reaches the pinnacle of its power. While your Drake is s
 **HP** 5 plus five times your Ranger level (the drake has a number of Hit Dice [d10s] equal to your Ranger level)  
 **Speed** 40 ft.
 
-|       |   |MOD|SAVE   |
-|  ---  |---|---|---    |
-|**STR**|16 |+3 |+3     |
-|**DEX**|12 |+1 |+1+PB  |
-|**CON**|15 |+2 |+2     |
-|**INT**|8  |-1 |-1     |
-|**WIS**|14 |+2 |+2+PB  |
-|**CHA**|8  |-1 |-1     |
+|         |    | MOD | SAVE  |
+|---------|----|-----|-------|
+| **STR** | 16 | +3  | +3    |
+| **DEX** | 12 | +1  | +1+PB |
+| **CON** | 15 | +2  | +2    |
+| **INT** | 8  | -1  | -1    |
+| **WIS** | 14 | +2  | +2+PB |
+| **CHA** | 8  | -1  | -1    |
 
 **Damage Immunities** determined by the Drake's Draconic Essence trait  
 **Senses** Darkvision 60 ft., Passive Perception 12  

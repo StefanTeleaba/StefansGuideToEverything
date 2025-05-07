@@ -1,5 +1,4 @@
 # Path of the Battlerager
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

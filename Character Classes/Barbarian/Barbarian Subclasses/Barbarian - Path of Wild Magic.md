@@ -1,5 +1,4 @@
 # Path of the Ancestral Guardian
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

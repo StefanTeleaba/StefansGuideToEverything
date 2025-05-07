@@ -1,5 +1,4 @@
 # Path of the Storm Herald
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

@@ -12,5 +12,4 @@ Until the spell ends, Climbing, Crawling, Swimming and Difficult Terrain don't c
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 minute for each spell slot level above 1.
 
-
-*Spell Compendium, p.7*
+**Source:** *Spell Compendium, p.7*

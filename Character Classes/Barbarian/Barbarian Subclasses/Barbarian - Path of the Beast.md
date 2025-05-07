@@ -1,5 +1,4 @@
 # Path of the Beast
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

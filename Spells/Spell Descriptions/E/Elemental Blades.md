@@ -1,5 +1,5 @@
 # Elemental Blades
-*Level 1 Transmutation (Ranger, Sorcerer, Wizard)*
+*Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  
@@ -10,7 +10,7 @@ Choose Acid, Cold, Fire, Lightning, Poison or Thunder. Until the spell ends, you
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for every two spell slot levels above 1.
 
-
+**Source:** *Homebrew*  
 *Based on Blades of Fire*  
 *Complete Arcane, p.99*  
 *Spell Compendium, p.31*  
