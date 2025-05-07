@@ -1,5 +1,4 @@
 # Arcane Archer
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

@@ -1,5 +1,4 @@
 # Graviturgist
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

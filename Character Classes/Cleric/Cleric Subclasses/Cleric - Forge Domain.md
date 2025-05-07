@@ -1,5 +1,4 @@
 # Forge Domain
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

@@ -1,5 +1,4 @@
 # Banneret
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

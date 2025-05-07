@@ -1,5 +1,4 @@
 # Samurai
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

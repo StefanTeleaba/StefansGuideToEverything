@@ -1,5 +1,4 @@
 # Chronurgist
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

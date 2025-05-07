@@ -1,5 +1,4 @@
 # Nature Domain
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

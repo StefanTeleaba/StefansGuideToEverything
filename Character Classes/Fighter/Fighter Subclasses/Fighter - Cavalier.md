@@ -1,5 +1,4 @@
 # Cavalier
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

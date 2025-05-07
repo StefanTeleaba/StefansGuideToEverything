@@ -1,5 +1,4 @@
 # Swarmkeeper
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

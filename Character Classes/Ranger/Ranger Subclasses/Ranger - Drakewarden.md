@@ -1,5 +1,4 @@
 # Drakewarden
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

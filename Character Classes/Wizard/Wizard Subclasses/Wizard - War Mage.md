@@ -1,5 +1,4 @@
 # War Mage
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

@@ -1,5 +1,4 @@
 # Storm Sorcery
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

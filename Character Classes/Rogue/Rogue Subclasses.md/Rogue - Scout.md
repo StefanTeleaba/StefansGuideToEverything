@@ -1,5 +1,4 @@
 # Scout
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

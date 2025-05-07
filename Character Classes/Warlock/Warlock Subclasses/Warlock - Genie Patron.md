@@ -1,5 +1,4 @@
 # Genie Patron 
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

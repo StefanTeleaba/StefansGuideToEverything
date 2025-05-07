@@ -1,5 +1,4 @@
 # Conjurer
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

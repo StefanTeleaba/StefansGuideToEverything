@@ -1,5 +1,4 @@
 # Inquisitive
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

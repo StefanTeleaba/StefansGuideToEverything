@@ -1,5 +1,4 @@
 # Tempest Domain
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

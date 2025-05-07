@@ -1,5 +1,4 @@
 # Necromancer
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

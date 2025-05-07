@@ -1,5 +1,4 @@
 # Monster Slayer
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

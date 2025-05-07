@@ -1,5 +1,4 @@
-# Scribe 
-
+# Scribe
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

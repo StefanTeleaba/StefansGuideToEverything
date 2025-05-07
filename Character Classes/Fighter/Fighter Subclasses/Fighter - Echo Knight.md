@@ -1,5 +1,4 @@
 # Echo Knight
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

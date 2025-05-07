@@ -1,5 +1,4 @@
 # Peace Domain
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

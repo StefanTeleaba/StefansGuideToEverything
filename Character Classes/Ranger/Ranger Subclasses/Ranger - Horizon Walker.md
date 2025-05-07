@@ -1,5 +1,4 @@
 # Horizon Walker
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  

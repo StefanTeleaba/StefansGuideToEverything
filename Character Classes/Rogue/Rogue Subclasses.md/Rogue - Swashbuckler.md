@@ -1,5 +1,4 @@
 # Swashbuckler
-
 *by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
