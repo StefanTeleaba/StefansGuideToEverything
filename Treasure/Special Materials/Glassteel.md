@@ -1,5 +1,18 @@
 # Glassteel
 
+This item weighs half as much as a regular steel item of this type.  
+Items made from Glassteel must be Masterwork.  
+**Armor**  
+Glassteel armor counts as one category lighter than a regular steel armor of this type.  
+*Heavy Armor -> Medium Armor*  
+*Medium Armor -> Light Armor*  
+*Light Armor -> Light Armor*  
+The Maximum Dexterity Bonus of Glassteel Armor increases by 2.  
+**Weapon**  
+Weapons that do not have the Heavy property gain the Light property.
+Piercing and Slashing weapons that have the Light property gain the Finesse property.
+
+---
 *Champions of Valor, p.65*
 
 Made by the avariels and sun elves in an alchemical process requiring extensive knowledge of both metallurgy and glassblowing, glassteel combines strength beyond iron with the transparency of glass. It mostly finds use as a building material in fantastic castles, but it can also be fashioned into weapons and armor (although glassteel armor is much more costly to craft than even the most ornate blade). Glassteel is stronger and lighter than iron and completely transparent, lacking the greenish tint of common glass.
@@ -21,4 +34,5 @@ Glassteel has hardness 20 and 40 hit points per inch of thickness. Weapons and a
 
 This description updates and supersedes previous descriptions of glassteel.
 
+---
 *Races of Faerun, p.158*

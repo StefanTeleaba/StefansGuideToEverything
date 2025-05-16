@@ -1,5 +1,12 @@
 # Darksteel
 
+**Armor**  
+***Darksteel.*** If you take Acid damage while wearing this armor, the armor reduces the damage you take by 2.
+
+**Weapon**  
+***Darksteel.*** This Weapon deals an additional 1 Lightning damage on a Hit.
+
+---
 *Magic of Faerun, p.178*  
 
 Darksteel is silvery in hue when polished or cut, but its exposed surfaces have a deep, gleaming purple luster. The process for making this type of steel was once lost, but has been recently rediscovered thanks to some ancient dwarven texts. The alloy is made from meteoric iron tempered with a variety of special oils.

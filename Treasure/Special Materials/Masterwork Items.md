@@ -1,5 +1,16 @@
 # Masterwork Items
 
+*+300 GP*
+
+**Armor**  
+***Masterwork.*** If the armor normally imposes Disadvantage on Dexterity (Stealth) checks, the Masterwork version of the armor doesn't.  
+**Weapon**  
+***Masterwork.*** You have a +1 bonus to attack rolls made with this weapon.  
+**Tool**  
+***Masterwork.*** You have a +2 bonus to any ability check you make that uses the tool.  
+
+
+---
 As detailed on pages 122 and 126 of the Player’s Handbook, masterwork items are extraordinarily well-made items. They are more expensive, but they benefit the user with improved quality. They are not magical in any way. However, only masterwork items may be enhanced to become magic armor and weapons. (Items that are not weapons or armor may or may not be masterwork items.)
 
 ## Masterwork Armor

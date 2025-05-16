@@ -4,4 +4,4 @@
 **Damage:** 1d8 Piercing  
 **Properties:** Ammunition (Range 150/600; Arrow), Heavy, Two-Handed  
 **Mastery:** Slow  
-**Weight:** 3 lb.
+**Weight:** 2 lb.

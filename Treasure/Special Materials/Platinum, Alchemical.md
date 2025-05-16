@@ -1,6 +1,16 @@
 # Platinum, Alchemical
+*500 GP for 1 lb.*
 
-*3.5e*
+**Armor**  
+***Platinum.*** Armor made from Platinum weighs twice as much as a normal armor of that type and is considered one catecory heavier (Medium Armor made from Platinum is considered Heavy Armor).  
+When you're hit by an attack while you're wearing armor made out of Platinum, any Cold and Thunder damage dealt to you by that attack is reduced by 2.
+
+**Weapon**  
+***Platinum.*** A weapon made of Platinum weighs twice as much as a normal weapon of that type and has the Heavy property.
+
+
+---
+*Magic of Faerun, p.180*
 
 This silvery-white metal superficially resembles aluminium but is extremely heavy. Because it is so malleable, it must be magically altered to the rigidity of steel so it can maintain its shape even when used in combat. This process also catalyzes its magical properties. The following information refers to magically treated platinum.
 
@@ -9,18 +19,3 @@ Armor made from treated platinum grants cold and sonic resistance 2. Platinum ar
 Platinum weapons are considered heavy weapons (see the Heavy Weapons sidebar).
 
 Magically treated platinum weighs twice as much as steel, has hardness 10, and has 30 hit points per inch of thickness.
-
-
-*Magic of Faerun, p.180*
-
-
-*5.5e*
----
-*500 GP for 1 lb.*
-
-### Platinum Armor
-***Platinum.*** Armor made from Platinum weighs twice as much as a normal armor of that type and is considered one catecory heavier (Medium Armor made from Platinum is considered Heavy Armor).  
-When you're hit by an attack while you're wearing armor made out of Platinum, any Cold and Thunder damage dealt to you by that attack is reduced by 2.
-
-### Platinum Weapon
-***Platinum.*** A weapon made of Platinum weighs twice as much as a normal weapon of that type and has the Heavy property.

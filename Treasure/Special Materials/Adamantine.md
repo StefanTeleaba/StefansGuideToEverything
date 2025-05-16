@@ -1,9 +1,26 @@
 # Adamantine
+*100 GP /lb.*  
 
-*3.5e*
+*Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins.*  
+
+Items made from Adamantine must be Masterwork.  
+**Armor**  
+***Adamantine.*** While you're wearing this suit of armor, any Critical Hit against you becomes a normal hit.
+
+**Weapon**  
+***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.
+
+
+
 ---
+**Variant**  
+**Medium Armor**  
+***Adamantine.*** If you take Bludgeoning, Piercing or Slashing damage while wearing this armor, the armor reduces the damage you take by 2.  
+**Heavy Armor**  
+***Adamantine.*** If you take Bludgeoning, Piercing or Slashing damage while wearing this armor, the armor reduces the damage you take by 3.
 
-*Dungeon Master's Guide, p.283*  
+---
+*Dungeon Master's Guide v3.5, p.283*  
 
 Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or
 suit of armor.
@@ -29,17 +46,3 @@ Weapons, armor and shields normally made of steel that are made of adamantine ha
 | Weapon                  | +3,000 GP          |
 
 *Magic of Faerun, p.177*
-
-
-
-5.5e
----
-*Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins.*  
-
-Armor
-
-***Adamantine.*** While you're wearing this suit of armor, any Critical Hit against you becomes a normal hit.
-
-Weapon
-
-***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.

@@ -12,6 +12,9 @@
 
 *Flavour Text*
 
+***Material.***  
+***Minor Property.***  
 ***Property.*** Property description.
+***Artifact Properties.***
 
 #### Table
