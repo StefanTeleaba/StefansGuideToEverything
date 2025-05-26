@@ -1,7 +1,7 @@
 # Circlet of Persuasion
 *Wondrous Item, Uncommon*
 
-While wearing this circlet, you gain a +3 bonus to Charisma (Deception, Intimidation, Performance, Persuasion) checks.
+While wearing this circlet, you gain a +3 bonus to Charisma (Deception, Intimidation, Performance and Persuasion) checks.
 
 
 

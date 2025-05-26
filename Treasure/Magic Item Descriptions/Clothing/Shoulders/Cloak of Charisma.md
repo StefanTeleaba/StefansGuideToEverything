@@ -7,9 +7,9 @@ You gain a +2 bonus to your Charisma score while you wear this cloak.
 
 
 
-*3.5e*
+
 ---
-*Dungeon Master's Guide, p.253*
+*Dungeon Master's Guide v3.5, p.253*
 
 This lightweight and fashionable cloak has a highly decorative silver trim. When in a character’s possession, it adds a +2, +4, or +6 enhancement bonus to her Charisma score.
 
