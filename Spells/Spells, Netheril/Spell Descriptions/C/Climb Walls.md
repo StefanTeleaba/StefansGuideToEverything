@@ -12,5 +12,9 @@ You touch a willing creature. For the duration, climbing don't cost that creatur
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
+**Source:**  
+*Spell Compendium v3.5, p.47*  
+*Modified by Stefan*  
 
-*Spell Compendium, p.47*
+
+---

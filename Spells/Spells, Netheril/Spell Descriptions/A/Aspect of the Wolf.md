@@ -17,3 +17,10 @@ You assume the form of a Wolf. The spell ends if you have the Incapacitated cond
 ***Objects.*** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 ***Using a Higher-Level Spell Slot.*** The spell lasts 1 additional hour for each spell slot level above 1.
+
+**Source:**  
+*Spell Compendium, p.16*  
+*Modified by Stefan*  
+
+
+---

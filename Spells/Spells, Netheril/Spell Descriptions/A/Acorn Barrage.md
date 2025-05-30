@@ -10,4 +10,9 @@ You hurl three acorns. You can hurl them at one target within range or at severa
 
 ***Using a Higher-Level Spell Slot.*** You can hurl one additional acorn for each spell slot level above 1.
 
-**Source:** *Priest's Spell Compendium Volume One v2, p.12*
+**Source:**  
+*Priest's Spell Compendium Volume One v2, p.12*
+*Modified by Stefan*  
+
+
+---

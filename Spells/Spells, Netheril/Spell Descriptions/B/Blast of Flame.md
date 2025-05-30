@@ -12,3 +12,10 @@ Flammable objects in the Cone that aren't being worn or carried start burning.
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 5.
 
 ***Using a Higher-Level Spell Slot.*** The Cone's length increases by 10 feet for each spell slot level above 5.
+
+**Source:**  
+*Player's Handbook v5.5, p.253*  
+*Modified by Stefan*  
+
+
+---

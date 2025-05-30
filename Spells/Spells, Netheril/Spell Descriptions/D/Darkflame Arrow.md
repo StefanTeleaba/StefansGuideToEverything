@@ -10,5 +10,9 @@ As you hit the target, it takes an extra 2d6 Fire damage from the attack. At the
 
 ***Using a Higher-Level Spell Slot.*** All the damage increases by 1d6 for each spell slot level above 3.
 
-**Source:** *Homebrew*  
-*Champions of Ruin, p.30*
+**Source:**  
+*Champions of Ruin v3.5, p.30*  
+*Modified by Stefan*  
+
+
+---

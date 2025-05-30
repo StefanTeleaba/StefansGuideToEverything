@@ -11,3 +11,10 @@
 For the duration, a willing creature you touch has a Burrow Speed equal to their Speed. If they already have a Burrow Speed, it increases by 30 feet.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
+
+**Source:**  
+*Spell Compendium v3.5, p.41*  
+*Modified by Stefan*  
+
+
+---

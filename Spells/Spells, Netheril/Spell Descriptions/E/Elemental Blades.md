@@ -10,7 +10,11 @@ Choose Acid, Cold, Fire, Lightning, Poison or Thunder. Until the spell ends, you
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for every two spell slot levels above 1.
 
-**Source:** *Homebrew*  
+**Source:**  
 *Based on Blades of Fire*  
-*Complete Arcane, p.99*  
-*Spell Compendium, p.31*  
+*Complete Arcane v3.5, p.99*  
+*Spell Compendium v3.5, p.31*  
+*Modified by Stefan*  
+
+
+---

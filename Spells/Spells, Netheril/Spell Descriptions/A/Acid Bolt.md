@@ -1,4 +1,4 @@
-## Acid Bolt
+# Acid Bolt
 *Level 4 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -10,7 +10,10 @@ You create two teardrop-shaped darts of flesh-corrosive force. Each dart strikes
 
 ***Using a Higher-Level Spell Slot.*** The spell creates one more dart for each spell slot level above 4.
 
+**Source:**  
+*The Drow of the Underdark, v2, p.52*  
+*Wizard's Spell Compendium Volume One v2, p.23*  
+*Modified by Stefan*  
+
 
 ---
-*The Drow of the Underdark, v2, p.52*
-*Wizard's Spell Compendium Volume One v2, p.23*

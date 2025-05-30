@@ -1,4 +1,4 @@
-## Acid Storm
+# Acid Storm
 *Level 6 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -14,4 +14,11 @@ Acid rain falls in a 20-foot-radius, 20-foot-high Cylinder centered on a point w
 
 ***Using a Higher-Level Spell Slot.*** The radius increases by 5 feet for each spell slot level above 6.
 
-**Source:** *Spell Compendium v3.5, p.7*
+**Source:**  
+*Forgotten Realms: Magic of Faerûn v3.5, p.76*  
+*Forgotten Realms: Player’s Guide to Faerûn v3.5, p.99*  
+*Spell Compendium v3.5, p.7*  
+*Modified by Stefan*  
+
+
+---

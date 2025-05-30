@@ -10,5 +10,9 @@
 
 For the duration, you have Advantage on any Wisdom (Perception or Survival) check you make to find a creature.
 
+**Source:**  
+*Spell Compendium v3.5, p.34*  
+*Modified by Stefan*  
 
-*Spell Compendium, p.34*
+
+---

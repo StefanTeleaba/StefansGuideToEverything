@@ -12,5 +12,9 @@ For the duration, you have a Climb Speed equal to your Speed, you have a +10 bon
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 hour for each spell slot level above 1.
 
+**Source:**  
+*Spell Compendium v3.5, p.38*  
+*Modified by Stefan*  
 
-*Spell Compendium, p.38*
+
+---

@@ -1,4 +1,4 @@
-## Arc of Lightning
+# Arc of Lightning
 *Level 5 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -11,3 +11,12 @@ You create an arc of lightning forming a 100-foot-long, 5-foot-wide Line between
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 5.
 
 ***Using a Higher-Level Spell Slot.*** The Line's length increases by 20 feet for each spell slot level above 5.
+
+**Source:**  
+*Miniature’s Handbook v3.5 p.33*  
+*Complete Arcane v3.5 p.97*  
+*Spell Compendium v3.5 p.13*  
+*Modified by Stefan*  
+
+
+---
