@@ -1,4 +1,5 @@
 # Fighter
+*Player's Handbook v5.5* 
 
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a Fighting Style feat of your choice. Defense is recommended.  

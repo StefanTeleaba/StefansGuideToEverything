@@ -1,4 +1,3 @@
-
 # Axe of Grounding
 *Weapon (Battleaxe), Legendary*
 
