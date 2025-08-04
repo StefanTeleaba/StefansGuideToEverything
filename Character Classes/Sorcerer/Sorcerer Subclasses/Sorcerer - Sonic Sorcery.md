@@ -7,7 +7,7 @@ Whatever the case, you are gifted with powers to create great thunderous booms, 
 
 ## Level 3: Sonic Magic
 When you reach a Sorcerer level specified in the Sonic Spells table, you thereafter always have the listed spells prepared.
-#### Sonic Spells
+### Sonic Spells
 | Sorcerer Level | Spells                                                         |
 |----------------|----------------------------------------------------------------|
 | 3              | Dissonant Whispers, Shatter, Silence, Thaumaturgy, Thunderwave |

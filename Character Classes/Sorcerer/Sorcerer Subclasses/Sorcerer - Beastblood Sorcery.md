@@ -6,7 +6,7 @@ Primal magic from the Beastlands has suffused you, granting you physical charact
 
 ## Level 3: Primal Spells
 Your connection to the Beastlands ensures you always have certain spells ready; when you reach a Sorcerer level specified in the Bestial Spells table, you thereafter always have the listed spells prepared.
-#### Bestial Spells
+### Bestial Spells
 | Sorcerer Level | Spells                                         |
 |----------------|------------------------------------------------|
 | 3              | Animal Friendship, Enhance Ability, Mage Armor |

@@ -8,7 +8,7 @@ Inspired by the Animal Lord Prestige Class
 
 ## Level 3: Animal Lord Spells
 When you reach a Ranger level specified in the Animal Lord Spells table, you thereafter always have the listed spells prepared.  
-#### Animal Lord Spells
+### Animal Lord Spells
 | Ranger Level | Spells               |
 |--------------|----------------------|
 | 3            | Speak With Animals   |
