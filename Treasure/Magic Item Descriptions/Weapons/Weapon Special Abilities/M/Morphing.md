@@ -7,4 +7,4 @@
 
 *This weapon’s shape constantly flows and reforms in slightly different compositions.*
 
-***Morphing.*** While holding this weapon, you can take a Bonus Action to transform it into any Melee Weapon of your choice.
+***Morphing.*** While holding this weapon, you can transform it into any Melee Weapon of your choice (no action required).  

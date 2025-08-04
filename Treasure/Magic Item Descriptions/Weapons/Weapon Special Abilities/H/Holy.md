@@ -5,4 +5,4 @@
 **Aura:** Moderate Evocation  
 **Associated Spell:** -  
 
-***Holy.*** This weapon deals an additional 1d8 Radiant damage on a Hit.
+***Holy.*** This weapon deals an additional 1d8 Radiant damage on a Hit.  

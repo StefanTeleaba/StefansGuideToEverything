@@ -7,4 +7,4 @@
 
 *When drawn, a Shock weapon is sheathed in crackling electricity.*
 
-***Shock.*** This weapon deals an additional 1d6 Lightning damage on a Hit.
+***Shock.*** This weapon deals an additional 1d6 Lightning damage on a Hit.  
