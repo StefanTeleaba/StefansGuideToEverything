@@ -1,5 +1,6 @@
 # Life Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Summon a Lifelong Companion*  
 The power to create life is typically one reserved by the gods, and even then, only of certain stations. But occasionally, following unintended divine intervention or perhaps a cosmic accident, a mortal individual is instilled with life-creating magic. These sorcerers carry a spark of Life, and are able to harness this magic to heal wounds, restore life to the lifeless, and to create new life, whole cloth from nothingness. When such a sorcerer casts a summoning spell, they have great latitude to form their creation into strange and unique forms, limited only by their magical prowess and their creativity.

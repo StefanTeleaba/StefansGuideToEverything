@@ -10,5 +10,9 @@
 
 You make a ranged attack against any number of creatures within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
-**Source:** *Homebrew*  
-*Spell Compendium, p.16*
+**Source:**  
+*Spell Compendium, p.16*  
+*Modified by Stefan*  
+
+
+---

@@ -1,5 +1,6 @@
 # Circle of Bark
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.2*  
 
 *Defend Forests with Martial Prowess*  
 Druids of the Circle of Bark typically hail from dense forests, nearly untouched by the outside world. Fiercely protective of their homes, these druids train to blend their primal magic with martial prowess, favoring close quarters combat to draw enemies into their spell effects. Legends tell of these warriors wading into battle with skin as thick as bark. In truth, they draw power from ancient trees to transmute matter into bark, both to protect themselves, and to encase any foe foolish enough to intrude on their lands.

@@ -10,6 +10,9 @@
 
 When you hit with your Unarmed Strike and deal damage, you can deal Slashing damage equal to 1d8 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
- 
-*Spell Compendium, p.47*
+**Source:**  
+*Spell Compendium v3.5, p.47*  
+*Modified by Stefan*  
 
+
+---

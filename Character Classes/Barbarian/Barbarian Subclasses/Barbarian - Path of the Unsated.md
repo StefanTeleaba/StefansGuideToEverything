@@ -1,5 +1,6 @@
 # Path of the Unsated
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Stalk and Cause Terror to Your Victims*  
 You are the cause of that shiver that runs down a person’s spine when nothing appears to be there - that feeling of being watched, or more accurately, hunted. Barbarians of this path embrace dark powers over fear, gained from unnerving otherwordly sources that few dare name, and even fewer seek willingly.

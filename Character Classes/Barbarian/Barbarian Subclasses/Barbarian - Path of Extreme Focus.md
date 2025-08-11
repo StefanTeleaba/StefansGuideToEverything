@@ -1,5 +1,6 @@
 # Path of Extreme Focus
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Be Focussed, Precise and Intentional*  
 Barbarians of the Path of Extreme Focus are often raised in environments under threat of psionic monsters, such as mind flayers or aboleths. They train in mental disciplines which allow them to fortify their minds against these threats. When they rage, instead of channeling emotion, these barbarians channel determination and focus, sharpening their senses and permitting greater control of their movements.

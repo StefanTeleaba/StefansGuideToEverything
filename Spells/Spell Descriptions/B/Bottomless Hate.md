@@ -13,4 +13,9 @@ You gain a +1 bonus to attack and damage rolls against creatures marked by your 
 ***Using a Higher-Level Spell Slot.*** The bonus increases by 1 for each spell slot level above 1.
 
 
-*Ghostwalk, p.49*
+**Source:**  
+*Ghostwalk v3.5, p.49*  
+*Modified by Stefan*  
+
+
+---

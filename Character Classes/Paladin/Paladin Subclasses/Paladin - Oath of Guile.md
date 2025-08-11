@@ -1,5 +1,6 @@
 # Oath of Guile
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Beguile your foes with Fey tricks*  
 A Paladin’s sacred oath is incredibly personal and spiritually significant to the paladin - it is a deeply important and defining aspect of who they are. Nobody said they needed to be particularly serious though. Paladins who swear the Oath of Guile are committed to solving problems through quick wit and trickery, drawing power from the same source as many fey

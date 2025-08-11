@@ -1,5 +1,6 @@
 # Bounty Hunter
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Hunt Down Villains, Collect their Bounties*  
 Bounty Hunting is a dangerous profession of apprehending fugitives. Rangers who adopt this archetype have trained extensively in the skills of tracking their quarry and capturing them.  

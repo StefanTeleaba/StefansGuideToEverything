@@ -10,4 +10,9 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 
-**Source:** *Xanathar's Guide to Everything, p.150*  
+**Source:**  
+*Xanathar's Guide to Everything v5, p.150*  
+*Modified by Stefan*  
+
+
+---

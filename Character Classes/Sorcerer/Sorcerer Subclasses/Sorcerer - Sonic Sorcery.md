@@ -1,5 +1,6 @@
 # Sonic Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Control Vibrations and Manipulate Sound*  
 Your innate magic stems from the power of sound and vibrations. You or someone from your lineage may have drawn this power from the chaotic noise of Limbo, or perhaps your ancestor was the chosen of a god of Thunder.  

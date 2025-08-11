@@ -1,5 +1,6 @@
 # Oath of Truth
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Solve Mysteries. Uncover Truth.*  
 Paladins that take the Oath of Truth charge themselves with the responsibility of uncovering deceptions, seeking truth and bringing wrongdoers to justice. Often employed as detectives and bounty hunters, these paladins relish the challenge of unfurling a great mystery. There is no greater reward to them than the satisfaction of the solve.  

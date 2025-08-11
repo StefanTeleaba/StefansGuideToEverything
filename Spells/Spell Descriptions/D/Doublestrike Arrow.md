@@ -10,5 +10,9 @@ Immediately after hitting or missing the first target, the arrow then swerves an
 
 ***Using a Higher-Level Spell Slot.*** The arrow can leap to one additional target for each spell slot level above 4.
 
+**Source:**  
+*Champions of Ruin v3.5, p.30*  
+*Modified by Stefan*  
 
-*Champions of Ruin, p.30*
+
+---

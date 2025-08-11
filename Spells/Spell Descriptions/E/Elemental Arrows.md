@@ -10,5 +10,9 @@ You touch a quiver and choose one of the following damage types: Acid, Cold, Fir
 
 ***At Higher Levels.*** The damage increases by 1d6 for every two spell slot levels above 3.
 
-**Source:** *Homebrew*  
-*Based on Flame Arrows*
+**Source:**  
+*Xanathar's Guide to Everything v5, p.156*  
+*Modified by Stefan*  
+
+
+---

@@ -1,5 +1,6 @@
 # Beastblood Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Unleash the Primal Savagery of the Beastlands*  
 Primal magic from the Beastlands has suffused you, granting you physical characteristics similar to the mighty beasts that populate the plane. Beastblood Sorcerers are known for mixing their spellcasting with savage attacks made with natural weapons that grow out of their bodies. Most Beastblood Sorcerers trace a direct lineage from the Beastlands, and are typically some kind of beastfolk, such as Aarakocra or Tabaxi, but members of other races have been known to take on this origin after some sort of magical encounter.

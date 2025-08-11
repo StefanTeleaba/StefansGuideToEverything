@@ -1,5 +1,6 @@
 # Oath of Heroism
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v2.0*  
 
 *With Great Power...*  
 Paladins that take the Oath of Heroism bind themselves specifically and emphatically to the protection of the innocent and those in need. They are known for their ideals of leadership and bravery, and have a reputation of being self-sacrificing to a fault when an innocent’s life is in the balance. Stories of heroic paladins line the annals of history, told by those whose lives they saved.  

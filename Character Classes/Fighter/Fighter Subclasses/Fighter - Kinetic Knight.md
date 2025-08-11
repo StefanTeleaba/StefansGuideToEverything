@@ -1,5 +1,6 @@
 # Kinetic Knight
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 Kinetic Knights channel evocation magic into their weapons to manipulate the potential energy within, and release that energy to cause their weaponry to erupt in highly destructive explosions. Whether you studied the arcane to attain this power or were simply born with it, your explosive powers are a force to be reckoned with.
 

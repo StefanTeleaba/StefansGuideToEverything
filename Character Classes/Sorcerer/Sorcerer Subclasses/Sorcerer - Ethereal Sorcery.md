@@ -1,5 +1,6 @@
 # Ethereal Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Master the Material and the Ethereal Planes*  
 Ethereal Sorcerers are beings split between two words: the corporeal world of the living and the Border Ethereal superimposed over it. The souls of these Sorcerers have been drawn across the two planes, perhaps by drawing lineage from some sort of ethereal being, or maybe resulting from some sort of arcane mishap. In any case, you are constantly flitting between these two worlds, perhaps not entirely willingly.

@@ -1,3 +1,7 @@
+
+---
+*Xanathar's Guide to Everything, p.150*
+
 ## Aganazzar's Scorcher
 *Level 2 Evocation (Sorcerer, Wizard)*
 

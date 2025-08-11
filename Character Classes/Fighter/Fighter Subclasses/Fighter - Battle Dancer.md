@@ -1,5 +1,6 @@
 # Battle Dancer
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Incorporate Grace and Style into Combat*  
 Battle Dancers bring style and grace to combat by incorporating intricate dances into their fighting. These dances have been passed down for many generations, promoting swift and elegant movements for enhanced mobility and self-defense. The skills and techniques gained from learning these traditions have led Battle Dancers to become the premiere combatants of the two-weapon fighting style. They maneuver their ornate pairs of weapons with precision and deadly purpose.

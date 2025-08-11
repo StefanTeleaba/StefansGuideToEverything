@@ -1,5 +1,6 @@
 # Circle of the Aurora
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Channel Arctic Power to Inspire and Beguile*  
 In the cold, harsh climates of the arctic and antarctic tundras, druids can be found communing with brilliant and colorful lights which streak the skies - known as auroras. These druids channel the dazzling power of these aurorae to protect their ancestral homes, beguiling would-be invaders with enchanting lights of their own.

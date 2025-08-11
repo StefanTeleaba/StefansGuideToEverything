@@ -12,5 +12,9 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ***Using a Higher-Level Spell Slot.*** The radius of the spell increases by 10 feet for each spell slot level above 2.
 
+**Source:**  
+*Spell Compendium v3.5, p.39*  
+*Modified by Stefan*  
 
-*Spell Compendium, p.39*
+
+---

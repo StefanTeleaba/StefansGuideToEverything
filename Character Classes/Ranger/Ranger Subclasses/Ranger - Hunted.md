@@ -1,5 +1,6 @@
 # Hunted
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Run for Your Life*  
 For one reason or another, you are actively being pursued by a powerful Hunter, whom you are not yet equipped to face. You have stayed alive up to now through your wit, your survival instincts, and by developing keen evasive techniques.

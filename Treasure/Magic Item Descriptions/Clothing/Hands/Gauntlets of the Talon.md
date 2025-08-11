@@ -8,7 +8,7 @@ You gain the following benefits while you are wearing these gauntlets and you ar
 
 *If Attuned by a Monk follower of Bahamut:*  
 ***Martial Arts Die.*** Your Martial Arts Die changes as if you were a monk of five levels higher. If Your Martial Arts Die is 1d12, it changes to 2d8, which can deal your choice of Force damage or its normal damage type.  
-***Unarmored Defense.*** While wearing this belt, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
+***Unarmored Defense.*** While wearing these gauntlets, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Grapple.*** The save DC of the Grapple option of your Unarmed Strike increases by 4.
 
 

@@ -1,5 +1,6 @@
 # Path of the Horde
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 Barbarians of the Path of the Horde develop their power by forming strong bonds with their comrades, and by exclusively attacking in groups. Their connection to their horde results in a mystical link, allowing the group to freely share tactics, resiliences and skills.
 

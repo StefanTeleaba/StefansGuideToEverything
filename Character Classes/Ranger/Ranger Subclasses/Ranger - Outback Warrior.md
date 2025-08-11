@@ -1,5 +1,6 @@
 # Outback Warrior
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 You’re a true blue kinda bloke or sheila, a battler of the outback: a dry land of desert and brush which is filled with some of the most dangerous critters known to man. Where most would turn away from such a harsh inhospitable place, you’ve embraced it and called it your home, and doing so has hardened your resolve.
 

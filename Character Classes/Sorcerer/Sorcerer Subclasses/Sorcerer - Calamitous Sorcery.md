@@ -1,5 +1,6 @@
 # Calamitous Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Channel Calamity and Cause Devastation*  
 When cataclysms occur, whether magical, artificial or natural, a huge amount of energy is drawn and expended, usually in a devastating and spectacular show of destructive power. On occasion, some of this destructive energy runs awry and gets stored, or trapped, within an individual.  

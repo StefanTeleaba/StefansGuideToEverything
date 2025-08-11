@@ -1,5 +1,6 @@
 # Scoundrel
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Stack the Odds and Escape the Consequences*  
 Swindling, sweet talking and sneaky, you convice your marks that you are, in fact, extraordinarily lucky. Of course, the less they know about your loaded dice and the ace up your sleeve, the better.  

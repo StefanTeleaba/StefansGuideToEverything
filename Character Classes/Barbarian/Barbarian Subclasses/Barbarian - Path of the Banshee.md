@@ -1,5 +1,6 @@
 # Path of the Banshee
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.2*  
 
 *Scream with Undead Fury*  
 Banshees are woeful undead, terrorizing all that dare come venture near with its deadly wail. You have somehow taken on the terrible traits of a Banshee, whether through training, an encounter with a banshee you survived or some other origin. Barbarians of this path embody physical characteristics of the Banshee: pale skin, gaunt features and moments of translucency.

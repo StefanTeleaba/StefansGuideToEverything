@@ -1,5 +1,8 @@
-## Aksa's Disintegrate
-*Homebrew*  
+
+---
+*Homebrew* 
+
+## Aksa's Disintegrate 
 *Level 6 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  

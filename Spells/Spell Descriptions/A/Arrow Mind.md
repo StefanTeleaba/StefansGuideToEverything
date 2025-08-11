@@ -12,8 +12,11 @@ When you cast the spell, you can make one ranged attack against the provoking cr
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 minute for each spell slot level above 1.
 
+**Source:**  
+*Complete Adventurer v3.5, p.143*  
+*Anauroch: The Empire of Shade v3.5, p.142*  
+*Spell Compendium v3.5, p.16*  
+*Modified by Stefan*  
 
-*Anauroch: The Empire of Shade, p.142*
 
-*Spell Compendium, p.16*
-
+---

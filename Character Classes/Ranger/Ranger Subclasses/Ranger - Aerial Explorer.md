@@ -1,5 +1,6 @@
 # Aerial Explorer
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Take to the Air and Explore the Skies*  
 A common fantasy of ground dwelling creatures is to take to the skies - an act of absolute freedom. You are one such dreamer, and have practiced in aeromancy, the magic of manipulating air and wind to achieve this goal. With the aid of a piece of specialised gliding equipment, the skies are now gleefully yours to explore.

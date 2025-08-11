@@ -13,5 +13,9 @@ For the duration of the spell, the creature gains a +2 bonus to damage rolls for
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional Beast for each spell slot level above 1.
 
+**Source:**  
+*Spell Compendium v3.5, p.79*  
+*Modified by Stefan*  
 
-*Spell Compendium, p.79*
+
+---

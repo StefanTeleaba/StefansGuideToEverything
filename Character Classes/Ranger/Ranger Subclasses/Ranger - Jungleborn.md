@@ -1,5 +1,6 @@
 # Jungleborn
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.0*  
 
 *Swing through the Jungle and Wrestle Mighty Beasts*  
 Jungleborn Rangers typically don’t adopt their lifestyle by choice, rather by circumstance. These Rangers are raised in the jungle, often brought up and cared for by local animals, forcing them to adapt to the ways of the wild to survive. They attune themselves with the plants and animals of their home, taking on animalistic characteristics and learning to traverse the environment with ease.  

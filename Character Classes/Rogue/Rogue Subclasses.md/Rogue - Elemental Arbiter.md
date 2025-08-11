@@ -1,5 +1,6 @@
 # Elemental Arbiter
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
+*v1.1*  
 
 *Infuse Weapon Strikes with Elemental Power*  
 Elemental Arbiters harness the power of water, earth, fire and air using magical devices to aid in their unsavory behaviors. Especially skilled as combatants, scuffles with these rogues are a sight to behold, with a myriad of mixed elemental effects assailing their foes.
