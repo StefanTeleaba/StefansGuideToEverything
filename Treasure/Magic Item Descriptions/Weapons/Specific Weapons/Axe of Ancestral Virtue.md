@@ -14,27 +14,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 
 
-# Axe of Ancestral Virtue
-*Weapon (Battleaxe), Legendary (Requires Attunement)*
-
-*A holy symbol of Moradin decorates the joint between the head and the haft of this sturdy adamantine waraxe.*
-
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.  
-***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
-
-*Attuned to:*  
-***Sentience.*** The Axe is a sentient Lawful Neutral weapon with an Intelligence of 10, a Wisdom of 17, and a Charisma of 17. It has hearing and Darkvision out to 120 feet.  
-The weapon speaks Common and Dwarvish and can communicate with its wielder telepathically. Its voice is deep and echoing. While you are attuned to it, the Axe also understands every language you know.  
-
-***Spells.*** The Axe can cast a number of spells three times per day each, after which it can't cast that spell again until the next dawn. The spells last for the entire duration (no Concentration required).  
-- 3/day: Bless (Range: Self)
-- 3/day: Cure Wounds (Range: Self, Level 3)
-- 3/day: Faerie Fire
-- 3/day: Haste (Range: Self)  
-
-
-
+---
 # Axe of Ancestral Virtue
 *Weapon (Battleaxe), Legendary (Requires Attunement)*
 

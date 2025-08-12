@@ -11,7 +11,7 @@ These paladins share the following tenets:
 
 ## Level 3: Oath Spells
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Heroism Spells table, you thereafter always have the listed spells prepared.
-### Oath of Heroism Spells
+**Oath of Heroism Spells**  
 | Paladin Level | Spells                                |
 |---------------|---------------------------------------|
 | 3rd           | Healing Word, Heroism                 |
