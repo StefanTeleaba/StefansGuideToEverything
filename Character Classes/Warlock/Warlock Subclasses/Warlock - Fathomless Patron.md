@@ -12,12 +12,12 @@ Entities of the deep that might empower a Warlock include krakens, ancient water
 The magic of your otherworldly patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fathomless Spells table, you thereafter always have the listed spells prepared. 
 
 ### Fathomless Spells
-| Ranger Level |                            Spells                           |
-| :----------: | ----------------------------------------------------------- |
-|       3      | Create or Destroy Water, Gust of Wind, Thunderwave, Silence |
-|       5      | Lightning Bolt, Sleet Storm                                 |
-|       7      | Control Water, Evard’s Black Tentacles                      |
-|       9      | Bigby’s Hand (appears as a tentacle), Conjure Elemental     |
+| Warlock Level |                            Spells                           |
+| :-----------: | ----------------------------------------------------------- |
+|       3       | Create or Destroy Water, Gust of Wind, Thunderwave, Silence |
+|       5       | Lightning Bolt, Sleet Storm                                 |
+|       7       | Control Water, Evard’s Black Tentacles                      |
+|       9       | Bigby’s Hand (appears as a tentacle), Conjure Elemental     |
 
 ## Level 3: Tentacle of the Deeps
 You can magically summon a spectral tentacle that strikes at your foes. As a Bonus Action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.  

@@ -2,6 +2,6 @@
 *Martial Melee Weapon*  
 
 **Damage:** 2d4 Slashing  
-**Properties:** Finesse, Heavy, Two-Handed  
-**Mastery:** Vex  
-**Weight:** 5 lb.
+**Properties:** Finesse, Two-Handed  
+**Mastery:** Graze  
+**Weight:** 4 lb.

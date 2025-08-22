@@ -5,4 +5,4 @@
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 You have immunity to the Paralyzed condition while this sword is on your person.  
-***Spell.*** 1/day: Haste (Range: Self, no Concentration)  
+***Spell.*** 1/Day: Haste (Casting Time: Bonus Action, Range: Self, Duration: 1 minute)  
