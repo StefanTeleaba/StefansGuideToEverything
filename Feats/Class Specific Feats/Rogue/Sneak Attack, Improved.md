@@ -3,7 +3,7 @@
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Dexterity score by 1, to a maximum of 20.  
-***Extra Sneak Attack.*** Your Sneak Attack dice increase by one size (d6, d8, d10, to a maximum of d12).  
+***Improved Sneak Attack.*** Your Sneak Attack dice increase by one size (d6, d8, d10, to a maximum of d12).  
 ***Repeatable.*** You can take this feat more than once.
 
 

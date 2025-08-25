@@ -1,5 +1,5 @@
 # Infernal Constitution
-*General Feat (Prerequisite: Tiefling, Level 4+, Constitution 13+)*  
+*Racial Feat (Prerequisite: Tiefling, Level 4+, Constitution 13+)*  
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Constitution score by 1, to a maximum of 20.  

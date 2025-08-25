@@ -1,5 +1,5 @@
 # Dragon Fear
-*General Feat (Prerequisite: Dragonborn, Level 4+, Strength or Charisma 13+)*  
+*Racial Feat (Prerequisite: Dragonborn, Level 4+, Strength or Charisma 13+)*  
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength or Charisma by 1, to a maximum of 20.  

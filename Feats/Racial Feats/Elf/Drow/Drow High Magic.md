@@ -1,5 +1,5 @@
 # Drow High Magic
-*General Feat (Prerequisite: Level 4+)*  
+*Racial Feat (Prerequisite: Elf: Drow, Level 4+)*  
 
 Your exposure to the Underdark's magic grants you the following benefits.  
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.  
