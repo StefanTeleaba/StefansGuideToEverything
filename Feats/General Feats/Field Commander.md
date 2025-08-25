@@ -7,4 +7,5 @@ You gain the following benefits.
 ***Tight Formation.*** While you are within 5 feet of two or more allies that don't have the Incapacitated condition, enemies can't have Advantage on attack rolls against you.
 
 
-*Valda's Spire of Secrets: Player Pack v5.5*
+
+**Source:** *Valda's Spire of Secrets: Player Pack v5.5*

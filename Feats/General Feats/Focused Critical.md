@@ -6,4 +6,5 @@ You gain the following benefits.
 ***Improved Critical.*** Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
 
 
-*Valda's Spire of Secrets: Player Pack v5.5*
+
+**Source:** *Valda's Spire of Secrets: Player Pack v5.5*
