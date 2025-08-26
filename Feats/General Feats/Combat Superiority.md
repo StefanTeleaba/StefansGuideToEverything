@@ -8,5 +8,6 @@ You gain the following benefits.
 ***Saving Throws.*** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.  
 ***Repeatable.*** You can take this feat more than once.
 
-**Source:**
-*Homebrew*
+
+
+**Source:** *Created by Stefan*

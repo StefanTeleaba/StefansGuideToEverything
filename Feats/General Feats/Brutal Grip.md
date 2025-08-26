@@ -7,4 +7,5 @@ You gain the following benefits.
 ***Versatile Dual Wielder.*** While wielding a Melee weapon with Versatile in one hand, the weapon has the Light property for you.
 
 
-*Valda's Spire of Secrets: Player Pack v5.5*
+
+**Source:** *Valda's Spire of Secrets: Player Pack v5.5*

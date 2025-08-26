@@ -1,5 +1,5 @@
 # Arterial Strike
-*General Feat (Prerequisite: Level 4+, Cunning Strike Feature)*
+*Class Feat (Prerequisite: Level 4+, Cunning Strike Feature)*
 
 ***Ability Score Increase.*** Increase your Dexterity by 1, to a maximum of 20.  
 You gain the following *Cunning Strike* option.  

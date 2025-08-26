@@ -1,5 +1,5 @@
 # Extra Channel Divinity
-*General Feat (Prerequisite: Level 4+, Channel Divinity Feature)*
+*Class Feat (Prerequisite: Level 4+, Channel Divinity Feature)*
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.  

@@ -1,5 +1,5 @@
 # Improved Frenzy
-*General Feat (Prerequisite: Level 4+, Frenzy Feature)*
+*Class Feat (Prerequisite: Level 4+, Frenzy Feature)*
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength score by 1, to a maximum of 20.  
