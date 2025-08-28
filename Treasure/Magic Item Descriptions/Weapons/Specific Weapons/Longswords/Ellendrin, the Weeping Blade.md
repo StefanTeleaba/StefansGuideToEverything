@@ -1,4 +1,19 @@
 # Ellendrin, the Weeping Blade
+*Weapon (Longsword), Legendary*
+
+*Ellendrin is a longsword forged of star metal and hilted with mithral in a slightly upward curving cross-piece. The hilt is wrapped with silver wire, and a large, cabochon-cut diamond is embedded in the pommel. The Weeping Blade is so named because it constantly drips holy water along the length of its blade when unsheathed.*
+
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
+***Bless.*** This weapon has 3 charges and regains all charges daily at dawn. While wielding this weapon, you can expend 1 charge to cast Bless with it.  
+***Holy Water.*** This weapon deals an additional 2d8 Radiant damage on a Hit against Fiends and Undead.  
+
+
+**Source:** *Dragon Magazine 277, p.87*
+
+
+
+---
+# Ellendrin, the Weeping Blade
 *Dragon Magazine 277, p.87*
 
 **Associated Spell:** Bless, Ceremony: Bless Water  

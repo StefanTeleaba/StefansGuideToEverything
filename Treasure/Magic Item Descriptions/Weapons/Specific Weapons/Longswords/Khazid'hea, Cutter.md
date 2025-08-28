@@ -1,4 +1,17 @@
 # Khazid'hea, Cutter
+*Weapon (Longsword), Very Rare (Requires Attunement)*
+
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
+***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.  
+***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
+***Cleave.*** If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.  
+***Great Cleave.*** When you make an extra attack as a result of using a weapon that has the Cleave property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.  
+***Improved Sunder.***  When you score a Critical Hit with this weapon against an object, the weapon deals one additional die of damage.
+
+
+
+---
+# Khazid'hea, Cutter
 
 **Associated Spell:** Keen Edge 
 **Attunement:** 1 Hour  
@@ -13,6 +26,7 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 ***Cleave.*** If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.  
 ***Great Cleave.*** When you make an extra attack as a result of using a weapon that has the Cleave property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.  
 ***Improved Sunder.***  When you score a Critical Hit with this weapon against an object, the weapon deals one additional die of damage.
+
 
 ---
 Khazid'hea, a.k.a. Cutter: +2 keen adamantine longsword; AL CN; Int 17, Wis 10, Cha 17; Telepathy (Khazid'hea appears to lack the ability to speak or read); 120 ft. darkvision and hearing; Ego score 17.

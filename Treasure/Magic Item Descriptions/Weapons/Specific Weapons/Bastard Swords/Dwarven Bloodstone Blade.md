@@ -1,5 +1,5 @@
 # Dwarven Bloodstone Blade
-*Weapon (Warhammer), Very Rare (Requires Attunement)*
+*Weapon (Bastard Sword), Very Rare (Requires Attunement)*
 
 *Thie weapon is decorated with bloodstones.*
 

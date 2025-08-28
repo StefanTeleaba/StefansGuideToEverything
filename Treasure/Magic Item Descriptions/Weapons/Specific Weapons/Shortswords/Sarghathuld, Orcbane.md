@@ -1,4 +1,17 @@
 # Sarghathuld, Orcbane
+*Weapon (Shortsword), Legendary (Requires Attunement)*
+
+*Sarghathuld is a short sword of dull gray metal, known to sages as "orcslayer" metal. On one side of the blade, the word "Sarghathuld" is etched in dethek runes, and "Orcbane" can be found on the other face. Embedded in the pommel is a glowing stone.*
+
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+***Bane.*** You gain a +2 bonus to attack rolls against Orcs. This weapon deals an additional 2d6 damage on a Hit against Orcs.  
+***Daylight.*** A permanent Daylight spell originates from the stone embedded in the pommel.  
+***Sunbeam.*** While wielding this weapon, you can cast Sunbeam with it (save DC 18). The weapon can't cast this spell again until the next dawn.  
+
+
+
+---
+# Sarghathuld, Orcbane
 *Dragon Magazine 277, p.90*
 
 **Associated Spell:** Daylight  
