@@ -9,7 +9,7 @@
 If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 ### Mithral Weapon
-***Mithral.*** A weapon made of Mithral weighs half as much as a normal weapon of that type and has the Finesse property.
+***Mithral.*** A weapon made of Mithral weighs half as much as a normal weapon of that type and has the Light property.
 
 
 ---

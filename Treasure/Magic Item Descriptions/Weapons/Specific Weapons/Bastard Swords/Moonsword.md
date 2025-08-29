@@ -7,4 +7,5 @@ While the weapon hovers, you can take a Bonus Action to cause it to fly up to 30
 After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.  
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
 
-*Faiths and Pantheons, p.25*
+
+**Source:** *Faiths and Pantheons, p.25*
