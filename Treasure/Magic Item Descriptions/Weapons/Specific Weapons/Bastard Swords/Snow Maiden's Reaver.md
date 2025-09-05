@@ -1,5 +1,5 @@
 # Snow Maiden's Reaver
-*Weapon (Bastard Sword), Rare (Requires Attunement)*
+*Weapon (Bastard Sword), Rare*
 
 *The enchanted bastard sword was created out of magic ice with only its grip and pommel being made out of silver and steel.*
 

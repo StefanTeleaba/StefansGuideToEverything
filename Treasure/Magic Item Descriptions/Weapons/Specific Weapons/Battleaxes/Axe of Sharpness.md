@@ -1,5 +1,5 @@
 # Axe of Sharpness
-*Weapon (Battleaxe), Very Rare (Requires Attunement)*
+*Weapon (Battleaxe), Very Rare*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Sharpness.*** This weapon deals an additional 4d6 Slashing damage on a Critical Hit.  

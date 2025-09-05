@@ -1,5 +1,5 @@
 # Hand of the Creator
-*Weapon (Dagger, Punching), Very Rare (Requires Attunement by an Elf worshipper of Corellon Larethian)*
+*Weapon (Dagger, Punching), Very Rare*
 
 *This intricately designed punching dagger is fashioned from mithral. Its handle is covered with strands of dark blue leather strips, and its silvery blade is marked with tiny elven runes.*
 

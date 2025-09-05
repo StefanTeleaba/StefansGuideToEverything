@@ -1,5 +1,5 @@
 # Battle Prowess
-*Weapon (Battleaxe), Legendary (Requires Attunement)*
+*Weapon (Battleaxe), Legendary*
 
 *Battle Prowess is the personal weapon of the war god Tempus.*
 

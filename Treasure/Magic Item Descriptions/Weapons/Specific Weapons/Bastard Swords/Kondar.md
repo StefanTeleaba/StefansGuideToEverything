@@ -1,5 +1,5 @@
 # Kondar
-*Weapon (Bastard Sword), Rare (Requires Attunement)*
+*Weapon (Bastard Sword), Rare*
 
 *Icicle got its name from the sword's blade, which had turned transparent during forging.*
 

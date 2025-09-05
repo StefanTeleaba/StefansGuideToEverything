@@ -1,5 +1,5 @@
 # The Jade Fang
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 *This dagger was sharp enough to split hairs. It was carved out of a single piece of jade and intricately decorated with carvings on both sides of the blade.*
 

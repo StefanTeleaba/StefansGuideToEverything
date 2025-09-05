@@ -1,5 +1,5 @@
 # Moonsword
-*Weapon (Bastard Sword), Legendary (Requires Attunement)*
+*Weapon (Bastard Sword), Legendary*
 
 You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Dancing.*** You can take a Bonus Action to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.  

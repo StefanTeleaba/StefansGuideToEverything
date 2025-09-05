@@ -1,5 +1,5 @@
 # Axe of the Phoenix
-*Weapon (Battleaxe), Rare (Requires Attunement)*
+*Weapon (Battleaxe), Rare*
 
 *This double-bladed battleaxe was engraved with a beautiful image of a phoenix.*
 

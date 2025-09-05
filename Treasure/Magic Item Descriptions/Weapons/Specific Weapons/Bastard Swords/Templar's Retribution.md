@@ -1,5 +1,5 @@
 # Templar's Retribution
-*Weapon (Bastard Sword), Rare (Requires Attunement)*
+*Weapon (Bastard Sword), Rare*
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Cold Iron.*** When you score a Critical Hit with this weapon against a Fey creature, the weapon deals one additional die of damage.  
