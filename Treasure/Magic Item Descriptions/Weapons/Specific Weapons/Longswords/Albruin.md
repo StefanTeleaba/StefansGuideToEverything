@@ -6,6 +6,8 @@
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Beacon.*** You can cause the item to shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, or extinguish the light (no action required).  
 ***Silvered.*** When you score a Critical Hit with this weapon against a creature that is shape-shifted, the weapon deals one additional die of damage.  
+
+*Attuned to:*  
 ***Spells.*** While the sword is on your person, you can cast the following spells (save DC 18) from it:  
 - 3/Day: Cure Wounds (Level 2)
 - At Will: Detect Magic

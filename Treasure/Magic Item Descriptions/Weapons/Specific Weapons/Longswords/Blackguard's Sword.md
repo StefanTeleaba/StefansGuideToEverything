@@ -1,5 +1,5 @@
 # Blackguard's Sword
-*Weapon (Longsword), Very Rare (Requires Attunement)*
+*Weapon (Longsword), Very Rare*
 
 *Formerly wielded by one who forsook all ties of friendship and kindness, this sword is rife with deranged energies. It seems to transmit feelings of contentment when carving through bones.*
 

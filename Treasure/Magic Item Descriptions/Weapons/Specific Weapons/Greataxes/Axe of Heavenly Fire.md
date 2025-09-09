@@ -1,5 +1,5 @@
 # Axe of Heavenly Fire
-*Weapon (Greataxe), Very Rare (Requires Attunement)*
+*Weapon (Greataxe), Very Rare*
 
 *The axe of heavenly fire was an impressive, magical greataxe that was considered sacred to the church of Tyr.*
 

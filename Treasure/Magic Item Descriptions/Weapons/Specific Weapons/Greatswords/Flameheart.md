@@ -1,5 +1,5 @@
 # Flameheart
-*Weapon (Greatsword), Rare (Requires Attunement)*
+*Weapon (Greatsword), Rare*
 
 *The blade of the Stream of Anguish lights with flames whenever it is drawn.*
 

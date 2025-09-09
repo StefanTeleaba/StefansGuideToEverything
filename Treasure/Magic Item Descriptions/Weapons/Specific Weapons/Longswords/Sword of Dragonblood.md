@@ -4,10 +4,10 @@
 *This sword is made from fine steel. It bears a number of small tally marks at the bottom of the blade near the hilt.*
 
 You gain a +3 bonus to attack rolls and damage rolls made with these magic weapons.  
-***Dragon Bane.*** You gain a +2 bonus to attack rolls against Dragons. These weapons deals an additional 2d6 damage on a Hit against Dragons.
-
-*Attuned to:*  
+***Dragon Bane.*** You gain a +2 bonus to attack rolls against Dragons. These weapons deals an additional 2d6 damage on a Hit against Dragons.  
 ***Dragon Slayer.*** This weapon gains an additional +1 bonus to damage rolls against Dragons for every Dragon it has slain. 
+
+
 
 **Source:** *Dragons of Faerun v3.5, p.124*
 

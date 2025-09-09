@@ -1,5 +1,5 @@
 # Garavor
-*Weapon (Longsword), Very Rare (Requires Attunement)*
+*Weapon (Longsword), Very Rare*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Frost Brand.*** While you hold the weapon, you have Resistance to Fire damage.  

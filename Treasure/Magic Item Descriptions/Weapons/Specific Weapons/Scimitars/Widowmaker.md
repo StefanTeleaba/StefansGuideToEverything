@@ -1,5 +1,5 @@
 # Widowmaker
-*Weapon (Great Scimitar), Rare (Requires Attunement)*
+*Weapon (Great Scimitar), Rare*
 
 *Widowmaker is a massive great scimitar.*
 

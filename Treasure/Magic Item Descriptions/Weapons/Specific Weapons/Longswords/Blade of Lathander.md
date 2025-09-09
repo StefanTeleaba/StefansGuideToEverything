@@ -3,7 +3,7 @@
 
 *This sword is an unbreakable broadsword with a blade of smoked ruby quartz, forged in the fires of the morning sun itself. On its golden pommel is the symbol of Lathander.*
 
-*Attuned to by a Regular User:*  
+*Wielded by a Regular User:*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 
 *Attuned to by a Worshipper of Lathander:*  

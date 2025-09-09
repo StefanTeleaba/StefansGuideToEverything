@@ -1,5 +1,5 @@
 # Khazid'hea, Cutter
-*Weapon (Longsword), Very Rare (Requires Attunement)*
+*Weapon (Longsword), Very Rare*
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.  

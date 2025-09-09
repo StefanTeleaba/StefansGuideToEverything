@@ -1,5 +1,5 @@
 # Bow of the Silver Flame
-*Weapon (Longbow), Very Rare (Requires Attunement)*
+*Weapon (Longbow), Very Rare*
 
 *The bow was made of a dark, near-black wood.*
 

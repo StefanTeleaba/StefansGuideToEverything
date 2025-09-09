@@ -5,6 +5,8 @@
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Chime.*** This item makes a ringing sound like a struck chime when it comes into direct contact with a magical item or effect.  
+
+*Attuned to:*  
 ***Leaping.*** Once on each of your turns, you can jump up to 30 feet by spending only 10 feet of movement.  
 ***Spells.*** While the sword is on your person, you can cast the following spells (save DC 18) from it:
 - Blink

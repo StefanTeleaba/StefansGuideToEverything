@@ -1,5 +1,5 @@
 # Vidrinath, Lullaby
-*Weapon (Longsword), Rare (Requires Attunement)*
+*Weapon (Longsword), Rare*
 
 *The sword was made of translucent glassteel imbued with diamonds. The hilt was a black metal formed like a spider web. Its pommel looked like a spider's head, with two dull emeralds for its eyes.*
 

@@ -5,4 +5,6 @@
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Fiend Bane.*** You gain a +2 bonus to attack rolls against Fiends. This weapon deals two additional dice of damage on a Hit against Fiends.  
-***Spells Resistance.*** You have Advantage on saving throws against spells while you wear this cloak.
+
+*Attuned to:*  
+***Spells Resistance.*** You have Advantage on saving throws against spells while this sword is on your person.

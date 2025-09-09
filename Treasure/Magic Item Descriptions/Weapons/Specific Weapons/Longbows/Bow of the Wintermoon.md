@@ -1,11 +1,11 @@
 # Bow of the Wintermoon
-*Weapon (Longbow), Legendary (Requires Attunement)*
+*Weapon (Longbow), Legendary*
 
 *This elegant composite longbow is carved of rowan and inlaid with silver tracery in an elven design. Its tips are shod with silver, and its grip is wound with blue metal wire.*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Bane.*** You gain a +2 bonus to attack rolls against this weapon's designated foe. This weapon deals an additional 2d6 damage on a Hit against Drow.  
-***Frost.*** This weapon deals an additional 1d6 Cold damage on a Hit.  
+***Bane.*** You gain a +2 bonus to attack rolls against Drow. This weapon deals an additional 2d6 damage on a Hit against Drow.  
+***Frost.*** This weapon deals an additional die of Cold damage on a Hit.  
 
 
 

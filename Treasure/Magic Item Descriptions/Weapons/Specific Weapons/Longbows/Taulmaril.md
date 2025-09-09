@@ -1,5 +1,5 @@
 # Taulmaril, the Heartseeker
-*Weapon (Longbow), Legendary (Requires Attunement)*
+*Weapon (Longbow), Legendary*
 
 *Heartseeker was a beautifully crafted elven longbow made of polished wood. The elven craftsmen made the bow so strong even stone cannot scratch the marvelous wood, and the deep finish of its polish can be returned by a single brush of the hand.*
 

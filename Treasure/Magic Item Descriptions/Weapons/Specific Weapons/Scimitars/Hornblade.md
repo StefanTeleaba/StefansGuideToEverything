@@ -1,5 +1,5 @@
 # Hornblade
-*Weapon (Scimitar), Legendary (Requires Attunement)*
+*Weapon (Scimitar), Legendary*
 
 You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Cleave.*** If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.  
@@ -8,4 +8,6 @@ You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
 ***Mighty Cleaving.*** You can add your ability modifier to the damage of the extra attack of the Cleave weapon mastery.
 
-*Faiths and Pantheons, p.49*
+
+
+**Source:** *Faiths and Pantheons, p.49*

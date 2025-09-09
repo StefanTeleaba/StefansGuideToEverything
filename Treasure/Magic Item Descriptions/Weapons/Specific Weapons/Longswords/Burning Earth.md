@@ -1,5 +1,5 @@
 # Burning Earth
-*Weapon (Longsword), Rare (Requires Attunement)*
+*Weapon (Longsword), Rare*
 
 *The blade of Burning Earth burns with flames when drawn.*
 

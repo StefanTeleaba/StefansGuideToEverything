@@ -1,5 +1,5 @@
 # Blade of Destruction
-*Weapon (Greatsword), Very Rare (Requires Attunement)*
+*Weapon (Greatsword), Very Rare*
 
 *Blade of Destruction was a blue tinted heavy two-handed sword that shimmered with magic.*
 

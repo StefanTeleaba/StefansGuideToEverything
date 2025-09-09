@@ -1,5 +1,5 @@
 # Evithyan's Blade
-*Weapon (Longsword), Very Rare (Requires Attunement)*
+*Weapon (Longsword), Very Rare*
 
 *This elven sword was fashioned from well-balanced steel, with a hilt of mithril beset with a small emerald.*
 

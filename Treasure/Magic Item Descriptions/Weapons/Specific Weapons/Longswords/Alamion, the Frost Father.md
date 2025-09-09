@@ -1,5 +1,5 @@
 # Alamion, the Frost Father
-*Weapon (Longsword), Rare (Requires Attunement)*
+*Weapon (Longsword), Rare*
 
 *Alamion's blade is slightly thinner than a typical longsword blade and has a fuller down the center. Acid-etched snowflake patterns are scattered along the length of the blade, most of them concentrated near the hilt. The hilt of the sword is made of bronze sandwiched between two pieces of ivory carved to show clouds unleashing winds and snow. The grip is covered with mother-of-pearl lashed securely into place with bronze wire. The pommel of the weapon is a solid bronze globe with the snowflake lozenge of Auril etched into the bottom.*
 

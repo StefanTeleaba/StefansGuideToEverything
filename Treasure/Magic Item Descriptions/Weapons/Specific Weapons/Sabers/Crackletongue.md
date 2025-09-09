@@ -1,5 +1,5 @@
 # Crackletongue
-*Weapon (Saber), Very Rare (Requires Attunement)*
+*Weapon (Saber), Very Rare*
 
 *When Crackletongue is drawn, blue flames run along the blade.*
 

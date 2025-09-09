@@ -1,5 +1,5 @@
 # Greatsword of Impiltur
-*Weapon (Greatsword), Legendary (Requires Attunement)*
+*Weapon (Greatsword), Legendary*
 
 *Forged from cold iron, the blade of the sword was engraved with images of dead and screaming demons and crackled with lightning-like dark energies. Its pommel and guard appeared as if the blade had impaled a balor.*
 

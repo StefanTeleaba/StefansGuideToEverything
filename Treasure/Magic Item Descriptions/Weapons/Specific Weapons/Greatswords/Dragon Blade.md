@@ -1,5 +1,5 @@
 # Dragon Blade
-*Weapon (Greatsword), Very Rare (Requires Attunement)*
+*Weapon (Greatsword), Very Rare*
 
 *The hilt of the sword resembled the head of a silver dragon, inset with two sapphires in place of its eyes.*
 

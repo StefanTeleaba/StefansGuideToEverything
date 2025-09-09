@@ -1,5 +1,5 @@
 # Divine Fury
-*Weapon (Katana), Very Rare (Requires Attunement)*
+*Weapon (Katana), Very Rare*
 
 *This katana bore a wide guard and was forged from fallen stars.*
 

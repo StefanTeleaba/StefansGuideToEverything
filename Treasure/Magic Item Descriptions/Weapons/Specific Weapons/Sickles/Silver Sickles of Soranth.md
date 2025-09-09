@@ -1,5 +1,5 @@
 # Silver Sickles of Soranth
-*Weapon (Sickle), Very Rare*
+*Weapon (Sickle), Very Rare (Requires Attunement)*
 
 *Each silver sickle is forged in the shape of a crescent moon. Four pictographs (one on each side of each blade) depict one of the elements killing a wolflike beast. One shows the canine drowning, one shows the canine burning, one shows the canine being crushed under a rock, and one shows the canine gasping for air. The handles are made of duskwood and wrapped in the blackened leather of a werewolf pelt.*
 

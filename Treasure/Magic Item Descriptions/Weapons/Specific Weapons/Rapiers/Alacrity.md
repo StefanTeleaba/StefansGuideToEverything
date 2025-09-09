@@ -3,5 +3,5 @@
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 
-*While Attuned*  
-You gain a +2 bonus to your Intelligence score while attuned to this weapon.
+*Attuned to:*  
+***Intelligence:*** You gain a +2 bonus to your Intelligence score while attuned to this weapon.

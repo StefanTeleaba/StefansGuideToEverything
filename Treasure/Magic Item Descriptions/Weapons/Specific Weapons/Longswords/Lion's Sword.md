@@ -1,5 +1,5 @@
 # Lion's Sword
-*Weapon (Longsword), Rare (Requires Attunement)*
+*Weapon (Longsword), Rare*
 
 *The state sword of Tethyr had a hilt of gold, carved into the shape of a lion. The body, rear legs and tail made up handle and pommel, with its forelegs and front paws forming the crossguard. The head of the lion had open jaws, with diamond-encrusted mithral teeth set into the groove of the blade, which extended from the gaping maw. Two rubies were inset within the lion's eyes.*
 

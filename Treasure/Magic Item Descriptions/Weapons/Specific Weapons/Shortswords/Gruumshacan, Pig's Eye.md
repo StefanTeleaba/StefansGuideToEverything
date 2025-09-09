@@ -1,5 +1,5 @@
 # Gruumshacan, Pig's Eye
-*Weapon (Shortsword), Very Rare (Requires Attunement)*
+*Weapon (Shortsword), Very Rare*
 
 *Pig's Eye was a beautiful sword with a decorated blade and with an orcish glass eye embedded in its hilt. The sword's name and the glass eye were a reference to the legend of Corellon, the father of elves, and Gruumsh, and their famous battle in which the orcish god lost his eye to the First of the Seldarine.*
 

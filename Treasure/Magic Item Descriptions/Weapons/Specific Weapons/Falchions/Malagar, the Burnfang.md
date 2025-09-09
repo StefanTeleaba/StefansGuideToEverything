@@ -5,7 +5,7 @@
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
-***Warmth.*** If you take Cold damage while this weapon is on your person, the weapon reduces the damage you take by 2d8.  
+***Warmth.*** If you take Cold damage while this weapon is on your person, the weapon reduces the damage you take by 10.  
 In addition, while this weapon is on your person, you and everything you wear and carry are unharmed by temperatures of 0 degrees Fahrenheit or lower.  
 ***Searing Burst.*** When you score a Critical Hit with this weapon, the creature takes an extra 2d6 Fire damage from the attack. At the start of each of its turns for the next 3 rounds, the target takes 2d6 Fire damage and then makes a Constitution saving throw. On a failed save, the effect continues. On a successful save, the effect ends.
 

@@ -6,4 +6,4 @@
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 
 *Attuned to:*  
-***Haste.*** While wielding this weapon, you can cast Haste with it. The weapon can't cast this spell again until the next dawn.  
+***Haste.*** Grimwald's Dagger can cast Haste on you, after which it can't cast this spell again until the next dawn. You decide when to cast the spell (no action required). The spell lasts for 1 minute (no Concentration required).
