@@ -5,4 +5,4 @@
 **Aura:** Strong Transmutation  
 **Associated Spell:** -  
 
-***Sharpness.*** A weapon of Sharpness deals an additional 4d6 Slashing damage on a Critical Hit.
+***Sharpness.*** This weapon deals an additional 4d6 Slashing damage on a Critical Hit.

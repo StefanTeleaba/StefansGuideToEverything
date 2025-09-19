@@ -2,6 +2,6 @@
 *Simple Melee Weapon*  
 
 **Damage:** 1d4 Piercing  
-**Properties:** Light  
+**Properties:** Fist, Light  
 **Mastery:** Sap  
 **Weight:** 1 lb.

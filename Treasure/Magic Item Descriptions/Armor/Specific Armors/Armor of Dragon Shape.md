@@ -8,5 +8,4 @@ You have a +3 bonus to AC while wearing this armor.
 
 
 
-**Source:**  
-*Created by Stefan*
+**Source:** *Created by Stefan*

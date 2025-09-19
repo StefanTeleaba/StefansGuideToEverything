@@ -5,3 +5,6 @@
 **Properties:** Finesse, Versatile (1d10)  
 **Mastery:** Vex  
 **Weight:** 3 lb.
+
+
+**Source:** *Valda's Spire of Secrets*

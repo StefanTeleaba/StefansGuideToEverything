@@ -1,5 +1,5 @@
 # Cutlass of the Golden Gulf
-*Weapon (Cutlass), Uncommone*
+*Weapon (Cutlass), Uncommon*
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 
