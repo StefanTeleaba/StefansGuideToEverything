@@ -25,7 +25,7 @@
 *Attuned to by a Paladin:*  
 ***Holy Aura.*** You emit an aura in a 10-foot Emanation. The aura is inactive while you have the Incapacitated condition. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw (DC 19) or have the Blinded condition until the end of its next turn.  
 ***Missile Attraction.*** Whenever an attacker makes a ranged attack roll against a target within 10 feet of you, you can take a Reaction to become the target of the attack instead.  
-***Regenerate.*** At the start of each of your turns while you're holding this shield, you regain 5 Hit Points if you are Bloodied and have at least 1 Hit Point.
+***Regenerate.*** At the start of each of your turns while you're holding this shield, you regain 5 Hit Points if you are Bloodied and have at least 1 Hit Point.  
 ***Spells.*** You always have the listed spells prepared. You can cast each one once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have.
 - Healing Word (Level 3)
 - Mass Healing Word
@@ -33,7 +33,7 @@
 *Attuned to by a Paladin of Level 18+:*  
 ***Holy Aura.*** You emit an aura in a 30-foot Emanation. The aura is inactive while you have the Incapacitated condition. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw (DC 22) or have the Blinded condition until the end of its next turn.  
 ***Missile Attraction.*** Whenever an attacker makes a ranged attack roll against a target within 30 feet of you, you can take a Reaction to become the target of the attack instead.  
-***Regenerate.*** At the start of each of your turns while you're holding this shield, you regain 10 Hit Points if you are Bloodied and have at least 1 Hit Point.
+***Regenerate.*** At the start of each of your turns while you're holding this shield, you regain 10 Hit Points if you are Bloodied and have at least 1 Hit Point.  
 ***Spells.*** You always have the listed spells prepared. You can cast each one once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spells using any spell slots you have.
 - Healing Word (Level 5)
 - Mass Healing Word (Level 5)
