@@ -1,5 +1,5 @@
 # Breath of Auril
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 *Kontik, servant of Auril, once wielded this blade. It has been enchanted with several beneficial magics.*
 

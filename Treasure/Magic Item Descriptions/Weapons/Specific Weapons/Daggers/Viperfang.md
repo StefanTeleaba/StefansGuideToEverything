@@ -1,5 +1,5 @@
 # Viperfang
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 *This unique black dagger has a curved blade and serrated edge.*
 

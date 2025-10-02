@@ -1,5 +1,5 @@
 # Lover
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 *The dagger was decorated with a small heart-shaped ruby.*
 

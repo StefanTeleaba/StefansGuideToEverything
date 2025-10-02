@@ -6,3 +6,6 @@
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Frost.*** This weapon deals an additional die of Cold damage on a Hit.  
 ***Auril's Touch.*** A creature killed by this sword becomes a frozen statue until it thaws.
+
+
+**Source:** *Icewind Dale*

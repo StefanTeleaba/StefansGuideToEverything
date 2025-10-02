@@ -1,5 +1,5 @@
 # Doorknocker
-*Weapon (Club), Rare (Requires Attunement)*
+*Weapon (Club), Rare*
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Collision.*** You have a +5 bonus to damage rolls made with this weapon.  

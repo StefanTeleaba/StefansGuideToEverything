@@ -1,5 +1,5 @@
 # Corruptor
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Throwing.*** This weapon gains the Thrown (Range 20/60) property. If it already has the Thrown property, its Range is doubled.  

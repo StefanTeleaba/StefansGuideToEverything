@@ -1,5 +1,5 @@
 # Dragontooth of Lareth
-*Weapon (Dagger), Very Rare (Requires Attunement)*
+*Weapon (Dagger), Very Rare*
 
 *This is a curved dagger made from a dragon's tooth and a gold, dragon-shaped hilt and pommel. The mouth of the dragon pommel holds a large ruby.*
 

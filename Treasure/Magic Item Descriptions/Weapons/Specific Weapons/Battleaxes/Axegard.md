@@ -1,5 +1,5 @@
 # Axegard
-*Weapon (Battleaxe), Very Rare (Requires Attunement)*
+*Weapon (Battleaxe), Very Rare*
 
 You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon.  
 

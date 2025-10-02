@@ -1,5 +1,5 @@
 # Keryvian, Foebane
-*Weapon (Bastard Sword), Legendary (Requires Attunement)*
+*Weapon (Bastard Sword), Legendary*
 
 *Keryvian's blade glowed with a blue fire when drawn, which was bright enough to read by, and the hilt bore the likeness of a blue dragon with teeth clutching the blade.*
 

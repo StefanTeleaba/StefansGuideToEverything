@@ -1,5 +1,5 @@
 # Grimwald's Dagger
-*Weapon (Dagger), Rare (Requires Attunement)*
+*Weapon (Dagger), Rare*
 
 *Grimwald's dagger was an enchanted dagger that, when drawn, emitted the continuous noise of an angry, yapping dog and even louder barking noises when it struck an opponent. This effect would often cause the victim to helplessly burst out into laughter.*
 

@@ -1,5 +1,5 @@
 # Mountainfist
-*Weapon (Club), Rare (Requires Attunement)*
+*Weapon (Club), Rare*
 
 *This oversized yet uncannily lightweight club was created using a clutched fist of a petrified ogre.*
 
