@@ -1,5 +1,5 @@
 # Carver Guild
-*Grim Hollow: Player's Guide*
+*Grim Hollow: Player's Guide 2024 v5.5*
 
 *Slay Monsters Fearlessly and Recklessly*  
 Since the beginning of time, the brave glared into danger's ferocious eyes and fought monsters. Those who survived were the ones smart enough to arm themselves properly and know precisely where to strike—or those who knew when to flee and return with a new plan.  

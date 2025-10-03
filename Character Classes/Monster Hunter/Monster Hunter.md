@@ -1,5 +1,5 @@
 # Monster Hunter
-*Grim Hollow: Player's Guide*  
+*Grim Hollow: Player's Guide 2024 v5.5*  
 
 Monster Hunters are skilled professionals, specializing in identifying, tracking, and slaying monsters that threaten the lives and the livelihoods of the people of Etharis.  
 Each Monster Hunter trains in a different method for these tasks. Some hunters don heavy armor and carry shields to protect against crushing jaws and scything claws, others deploy cunning traps to keep a safe distance from the horrors they hunt, some assume the traits and powers of their enemies to better slay them, and others dabble in magic to supplement martial prowess with arcane wrath.

@@ -1,5 +1,5 @@
 # Devourer Guild
-*Grim Hollow: Player's Guide*
+*Grim Hollow: Player's Guide 2024 v5.5*
 
 *Gain Power by Consuming Monster Flesh*  
 Folk in Etharis don't always speak highly of Monster Hunters, and many consider them to be just as depraved and inhuman as the evils they vanquish. Many of the appalling tales about Monster Hunters can be attributed, directly or indirectly, to the Devourer Guild, who are accused of being monstrous cannibals.  
