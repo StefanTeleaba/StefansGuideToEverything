@@ -1,6 +1,47 @@
 # Telepath
 *Master Tactics in the Landscape of the Mind*  
 
+*Unearthed Arcana 2025 - Psion Update*  
+*This subclass was published on October 2nd, 2025.*  
+
+Telepaths are masters of mind magic. They use their psionic powers for all matters of the mind, whether they bolster the mental defenses of allies or probe the thoughts of others undetected. A telepath can be a bastion of psionic aid or a crafty manipulator.
+
+## Level 3: Mind Infiltrator
+When you cast Detect Thoughts, you can expend one Psionic Energy Die to modify the spell so that the spell doesn’t require spell components or Concentration. In addition, when you use the Read Thoughts effect of the spell, the target doesn’t know you’re probing its mind if it fails the Wisdom saving throw.
+
+## Level 3: Telepath Spells
+When you reach a Psion level specified in the Telepath Spells table, you thereafter always have the listed spells prepared.
+
+**Telepath Spells**  
+| Psion Level | Spells                                     |
+|:-----------:|--------------------------------------------|
+| 3           | Bane, Command, Detect Thoughts, Mind Spike |
+| 5           | Counterspell, Slow                         |
+| 7           | Compulsion, Confusion                      |
+| 9           | Modify Memory, Yolande’s Regal Presence    |
+
+## Level 3: Telepathic Distraction
+When a creature you can see within range of your telepathy hits with an attack roll, you can take a Reaction to roll one Psionic Energy Die and subtract the number rolled from attack roll, potentially causing the attack to miss. The die is expended only if the target misses the attack.
+
+## Level 6: Bulwark Mind
+At the start of your turn, you can expend one Psionic Energy Die to strengthen your mind and enter a fortified state. For the next 10 minutes, you have Resistance to Psychic damage; and whenever you make an Intelligence, Wisdom, or Charisma saving throw, you add a roll of your Psionic Energy Die to the save. Rolling the Psionic Energy Die doesn’t expend it. You can’t use this benefit if you have the Incapacitated condition.
+
+## Level 6: Potent Thoughts
+You have telepathy with a range of 60 feet. In addition, you add your Intelligence modifier to the damage you deal with any Psion cantrip.
+
+## Level 10: Telepathic Bolstering
+When you or a creature you can see within range of your telepathy fails an ability check or misses with an attack roll, you can take a Reaction to expend one Psionic Energy Die. Roll the die and add the number rolled to the d20, potentially turning a failed check into a success or a miss into a hit. The Psionic Energy Die is expended only if the check succeeds or the attack hits.
+
+## Level 14: Scramble Minds
+You can cast Confusion without expending a spell slot by instead expending four Psionic Energy Dice. When you cast Confusion without a spell slot using this feature, you can modify the spell so that the radius of the spell’s Sphere becomes 30 feet and you can choose one creature you can see in the spell’s area to automatically succeed on their saving throw against the spell.  
+In addition, when a creature under the effect of the spell starts its turn, you choose their behavior from the table for the turn instead of the creature rolling to determine its behavior.
+
+
+---
+
+# Telepath
+*Master Tactics in the Landscape of the Mind*  
+
 *Unearthed Arcana 2025 - The Psion*  
 *This subclass was published on May 27th, 2025.*  
 
