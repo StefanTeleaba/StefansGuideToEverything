@@ -1,0 +1,6 @@
+# Magical Savvy
+
+Whether through intensive study or the innate touch of magic in your blood, you have the ability to invoke magical spells. You learn one cantrip of your choice from any spell list, which you cast using the associated ability score: Intelligence for Wizard spells, Wisdom for Cleric and Druid spells, and Charisma for Bard, Sorcerer, and Warlock spells. If the spell appears on multiple spell lists, choose one to determine the spellcasting attribute for that spell.  
+***Magical Savant.*** If you take this trait multiple times, you select a different cantrip each time, or you can select a level 1 spell from the same list as a cantrip you have previously chosen. If you select a level 1 spell, you can cast it once without expending a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. If you have levels in the associated spellcasting class, you always have this spell prepared, and it doesn't count against the number of spells you can prepare each day.
+
+**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.40*
