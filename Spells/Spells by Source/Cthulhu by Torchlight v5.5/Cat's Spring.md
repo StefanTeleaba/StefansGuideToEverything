@@ -10,5 +10,4 @@ You jump up to 10 feet to an unoccupied space you can see and deliver a spectral
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (38), and 17 (4d8).
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+**Source:** *Cthulhu by Torchlight v5.5*

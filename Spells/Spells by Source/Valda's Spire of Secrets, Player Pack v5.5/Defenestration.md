@@ -11,5 +11,4 @@ A wave of force erupts from your open hand, hurling a creature you can see withi
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 and the distance the target is pushed on a success or failure increases by 5 feet for each spell slot level above 2.
 
 
-**Source:**  
-*Valda's Spire of Secrets: Player Pack v5.5*
+**Source:** *Valda's Spire of Secrets: Player Pack v5.5*

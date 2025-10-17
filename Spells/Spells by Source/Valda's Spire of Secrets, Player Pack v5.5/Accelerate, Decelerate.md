@@ -13,5 +13,4 @@ This spell accelerates or decelerates an attack (see the chosen effect below) th
 ***Using a Higher-Level Spell Slot.*** The extra damage or reduction in damage increases by 1d6 for each slot level above 1.
 
 
-**Source:**  
-*Valda's Spire of Secrets: Player Pack v5.5*
+**Source:** *Valda's Spire of Secrets: Player Pack v5.5*
