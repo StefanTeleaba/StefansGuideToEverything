@@ -1,4 +1,4 @@
-## Shield of Faith
+# Shield of Faith
 *Level 1 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Bonus Action  

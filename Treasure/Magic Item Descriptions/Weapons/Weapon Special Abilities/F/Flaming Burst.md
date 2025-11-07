@@ -8,4 +8,4 @@
 
 *When drawn, a flaming burst weapon is sheathed in fire.*
 
-***Flaming Burst.*** This weapon deals an additional 1d10 Fire damage on a Critical Hit.
+***Flaming Burst.*** This weapon deals an additional die of Fire damage on a Critical Hit.

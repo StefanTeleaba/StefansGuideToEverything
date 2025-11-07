@@ -7,4 +7,4 @@
 
 *When drawn, a flaming weapon is sheathed in fire.*
 
-***Flaming.*** This weapon deals an additional 1d6 Fire damage on a Hit.
+***Flaming.*** This weapon deals an additional die of Fire damage on a Hit.
