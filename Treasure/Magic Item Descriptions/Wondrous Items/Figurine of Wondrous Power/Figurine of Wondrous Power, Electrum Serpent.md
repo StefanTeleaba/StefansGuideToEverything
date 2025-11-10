@@ -19,4 +19,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 
 
-**Source.** *Dungeon Master's Guide v5.5, p.261*
+**Source.** *Encyclopedia Magica Volume 2 v2, p.476*

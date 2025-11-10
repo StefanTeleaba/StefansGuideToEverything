@@ -12,5 +12,11 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ***Amber Monkeys.*** These amber statuettes of monkeys are always created in sets of three. You can use one figurine or all three simultaneously. Each can become a Small Ape for up to 1 hour. Once a monkey has been used, it can't be used again until 7 days have passed. The monkeys can use a Bonus Action to teleport up to 30 feet to an unoccupied space they can see. The monkeys have Advantage on an attack roll against a creature if at least one of the menkey's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
+**Monkey of Blinding.** You can command the monkey to teleport on the shoulders of a creature it can see within 30 feet. The target must succeed on a Dexterity saving throw or have the Blinded condition. The target can take an Action to make a DC 13 Strength (Athletics) check. On a successful check, the target is no longer Blinded.
 
-**Source.** *Created by Stefan*
+**Monkey of Deafening.** You can command the monkey to teleport on the shoulders of a creature it can see within 30 feet. The target must succeed on a Dexterity saving throw or have the Deafened condition. The target can take an Action to make a DC 13 Strength (Athletics) check. On a successful check, the target is no longer Deafened.
+
+**Monkey of Muting.** You can command the monkey to teleport on the shoulders of a creature it can see within 30 feet. The target must succeed on a Dexterity saving throw or be gagged. While gagged, the creature can't speak or cast spells with a Verbal component. The target can take an Action to make a DC 13 Strength (Athletics) check. On a successful check, the target is no longer gagged.
+
+
+**Source.** *Encyclopedia Magica Volume 2 v2, p.473*
