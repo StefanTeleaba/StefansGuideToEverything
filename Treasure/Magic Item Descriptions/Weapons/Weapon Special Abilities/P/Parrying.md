@@ -7,4 +7,4 @@
 
 *The detailed engravings on this shiny weapon appear to spin and jump about. Even when grasped, it twitches and bucks.*
 
-***Paralytic Burst.*** You have a +1 bonus to AC and saving throws while holding this weapon.
+***Parrying.*** You have a +1 bonus to AC and saving throws while holding this weapon.
