@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Breath Weapon.*** The damage of your Breath Weapon feature increases by 1d10.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

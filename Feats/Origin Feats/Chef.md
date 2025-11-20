@@ -7,6 +7,4 @@ You gain the following benefits.
 ***Replenishing Meal.*** As part of a Long Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Long Rest, any creature who eats the food regains two additional Hit Dice.  
 ***Bolstering Treats.*** With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a Bonus Action to eat one of those treats to regain a number of Hit Points equal to your Proficiency Bonus.
 
-
-
 **Source:** *Created by Stefan*

@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Radiance of the Dawn.*** When you use the Radiance of the Dawn option of your Channel Divinity feature, you roll one additional d10.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

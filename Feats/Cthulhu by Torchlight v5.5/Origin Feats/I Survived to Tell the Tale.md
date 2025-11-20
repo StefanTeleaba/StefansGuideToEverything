@@ -8,5 +8,4 @@ You gain the following benefits.
 ***Superior Speed.*** You gain a +10 bonus to Speed.  
 ***Wriggle Free.*** If you would gain the Grappled condition, roll a d20. On a 10 or higher, you instead do not gain it.
 
-
-*Cthulhu by Torchlight v5.5*
+**Source:** *Cthulhu by Torchlight v5.5*

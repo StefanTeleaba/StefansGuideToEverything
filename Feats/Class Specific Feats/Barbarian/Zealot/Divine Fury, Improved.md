@@ -5,6 +5,4 @@
 ***Improved Divine Fury.*** The extra damage of your Divine Fury Feature increases by 1d6.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

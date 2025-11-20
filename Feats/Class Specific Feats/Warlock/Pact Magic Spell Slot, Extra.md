@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Pact Magic Spell Slot.*** The number of Pact Magic Spell Slots you have increases by 1.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

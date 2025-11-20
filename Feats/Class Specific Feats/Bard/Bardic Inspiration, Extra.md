@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Bardic Inspiration.*** You gain 2 more uses of your Bardic Inspiration feature.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
-**Source:** *Complete Adventurer, pg. 109*
+**Source:** *Complete Adventurer v3.5, p.109*

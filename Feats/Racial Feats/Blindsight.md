@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Damage Immunity.*** You gain Blindsight with a range of 10 feet. If you already have Blindsight when you gain this feature, its range increases by 10 feet.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

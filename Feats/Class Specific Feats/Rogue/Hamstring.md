@@ -5,6 +5,4 @@
 You gain the following *Cunning Strike* option.  
 ***Hamstring (Cost: 1d6).*** The target's Speed is halved until the end of your next turn.
 
-
-
-**Source:** *Complete Warrior, pg. 100*
+**Source:** *Complete Warrior v3.5, p.100*

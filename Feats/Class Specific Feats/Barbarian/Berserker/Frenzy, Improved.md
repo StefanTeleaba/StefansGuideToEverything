@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Frenzy.*** Your Frenzy dice increase by one size (d6, d8, d10, to a maximum of d12).  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Second Wind.*** You gain 2 more uses of your Second Wind feature.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
-**Source:** *Complete Warrior, pg. 98*
+**Source:** *Complete Warrior v3.5, p.98*

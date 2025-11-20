@@ -8,5 +8,4 @@ You gain the following benefits.
 ***Beneath Notice.*** When you attempt to hide from a creature that is larger than you, you can hide if you are lightly obscured or more than 30 feet away from it. You gain the benefits of being hidden against such creatures, but you do not hide from other creatures.  
 ***Merge into Shadows.*** Wisdom (Perception) checks made to detect you while you have the Invisible condition have Disadvantage.
 
-
-*Cthulhu by Torchlight v5.5*
+**Source:** *Cthulhu by Torchlight v5.5*

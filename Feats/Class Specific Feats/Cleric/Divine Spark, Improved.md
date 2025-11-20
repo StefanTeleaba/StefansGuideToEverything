@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Divine Spark.*** When you use the Divine Spark option of your Channel Divinity feature, you roll one additional d8.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

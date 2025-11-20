@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Second Wind.*** When you use your Second Wind feature, the number of Hit Points you regain increases by 1d10.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

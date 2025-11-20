@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Stonecunning.*** The range of your Stonecunning increases by 60 feet.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

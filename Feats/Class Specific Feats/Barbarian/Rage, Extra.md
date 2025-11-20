@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Rage.*** The number of times you can enter your Rage increases by 2.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
-**Source:** *Complete Warrior, pg. 98*
+**Source:** *Complete Warrior v3.5, p.98*

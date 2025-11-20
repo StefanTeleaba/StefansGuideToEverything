@@ -8,5 +8,4 @@ You gain the following benefits.
 ***Ear for Falsehood.*** When an NPC speaks to you, you can use this ability to determine if they are lying. You learn nothing about the truth they conceal or why they are lying, simply that there is a knowing falsehood in their statement. You can use this benefit a number of times equal to your Proficiency Bonus. You regain expended uses when you finish a Long Rest.  
 ***Subtle Interrogation.*** You have Advantage on Insight checks made against creatures that you are speaking with.
 
-
-*Cthulhu by Torchlight v5.5*
+**Source:** *Cthulhu by Torchlight v5.5*

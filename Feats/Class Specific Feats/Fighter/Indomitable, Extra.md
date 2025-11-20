@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Indomitable.*** The number of times you can use your Indomitable feature before a Long Rest increases by 2.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

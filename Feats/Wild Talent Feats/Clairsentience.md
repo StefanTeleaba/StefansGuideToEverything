@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Psionic Talent.*** You know the Guidance cantrip. You also always have the Detect Evil and Good spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have of the appropriate level. When you cast these spells, they require no Verbal or Material components, and Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).  
 When you reach character level 3, you also always have the See Invisibility spell prepared and can cast it the same way.
 
-**Source:** *Unearthed Arcana 2025 - The Psion, v5.5, p.12*
+**Source:** *Unearthed Arcana 2025 - The Psion v5.5, p.12*

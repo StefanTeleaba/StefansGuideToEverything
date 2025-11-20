@@ -5,6 +5,4 @@
 You gain the following *Cunning Strike* option.  
 ***Head Shot (Cost: 2d6).*** The target has Disadvantage on Strength and Dexterity checks and saving throws until the start of your next turn.
 
-
-
-**Source:** *Complete Scoundrel, pg. 78*
+**Source:** *Complete Scoundrel v3.5, p.78*

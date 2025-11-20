@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Improved Sear Undead.*** When you use the Sear Undead feature, you roll one additional d8.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

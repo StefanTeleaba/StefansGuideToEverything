@@ -5,6 +5,4 @@
 ***Improved Rage Damage.*** Your Rage Damage bonus increases by 2.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

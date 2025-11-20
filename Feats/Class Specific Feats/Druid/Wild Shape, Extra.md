@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Wild Shape.*** The number of times you can use your Wild Shape feature increases by 2.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
-**Source:***Complete Divine, pg. 81*
+**Source:***Complete Divine v3.5, p.81*

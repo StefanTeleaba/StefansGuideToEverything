@@ -6,5 +6,4 @@ Choose a kind of weapon for which you have already selected the *Greater Weapon 
 ***Epic Weapon Focus.*** You have an additional +2 bonus to attack rolls made with the selected weapon.  
 ***Repeatable.*** You can take this feat more than once, but you must choose a different kind of weapon each time.
 
-
-**Source:** *Epic Level Handbook v3.5, pg. 55*
+**Source:** *Epic Level Handbook v3.5, p.55*

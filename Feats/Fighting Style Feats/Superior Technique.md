@@ -5,6 +5,4 @@
 ***Superiority Dice.*** You have one Superiority Die, which is a d8. The Superiority Die is expended when you use it. You regain expended Superiority Dice when you finish a Short or Long Rest.  
 ***Saving Throws.*** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
 
-**Source:**
-*Tasha's Cauldron of Everything v5, p.41*  
-*Modified by Stefan*
+**Source:** *Tasha's Cauldron of Everything v5, p.41*

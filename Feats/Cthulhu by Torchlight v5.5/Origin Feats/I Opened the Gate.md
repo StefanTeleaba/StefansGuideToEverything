@@ -7,5 +7,4 @@ You gain the following benefits.
 ***Delver into Forgotten Lore.*** You learn three languages of your choice.  
 ***Foul Arcana.*** You can tap into a brief glimpse of the mythos to empower a spell, at the cost of overwhelming your mind with a horrifying, cosmic insight. When you cast a spell, you can give that spell's save DC a +2 bonus but you have the Paralyzed condition until the start of your next turn. You can use this benefit a number of times equal to your Proficiency Bonus. You regain expended uses when you finish a Long Rest.
 
-
-*Cthulhu by Torchlight v5.5*
+**Source:** *Cthulhu by Torchlight v5.5*

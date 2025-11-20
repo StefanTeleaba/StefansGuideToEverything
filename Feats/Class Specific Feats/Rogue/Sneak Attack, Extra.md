@@ -6,6 +6,4 @@ You gain the following benefits.
 ***Extra Sneak Attack.*** The extra damage of your Sneak Attack feature increases by 1d6.  
 ***Repeatable.*** You can take this feat more than once.
 
-
-
 **Source:** *Created by Stefan*

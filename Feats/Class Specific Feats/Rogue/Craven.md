@@ -5,6 +5,4 @@
 ***Coward.*** You have a -2 penalty on saving throws you make to avoid or end the Frightened condition.  
 ***Craven.*** If your Sneak Attack hits any target, the target takes extra damage of the weapon's type equal to your Rogue level.
 
-
-
-**Source:** *Champions of Ruin v3.5, pg. 17*
+**Source:** *Champions of Ruin v3.5, p.17*

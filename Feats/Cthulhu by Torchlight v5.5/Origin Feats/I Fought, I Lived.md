@@ -7,5 +7,4 @@ You gain the following benefits.
 ***Defiant Strike.*** While you are Bloodied and hit with a spell or weapon attack, you can choose to treat the attack's damage roll as having rolled the maximum damage possible. Once you use this benefit, you can't use it again until you finish a Long Rest.  
 ***Indomitable Heart.*** If you have the Frightened condition at the start of your turn, roll a d20. On a 10 or higher, you no longer have that condition.
 
-
 **Source:** *Cthulhu by Torchlight v5.5*

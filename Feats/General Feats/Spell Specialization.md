@@ -5,6 +5,4 @@ Choose a spell for which you have already selected the *Spell Focus* feat. You g
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom or Charisma by 1, to a maximum of 20.  
 ***Spell Specialization.*** You have an additional +2 bonus to spell damage rolls made with the selected spell.
 
-
-
-**Source:** *Player's Handbook 3.5, pg. 96*
+**Source:** *Player's Handbook v3.5, p.96*
