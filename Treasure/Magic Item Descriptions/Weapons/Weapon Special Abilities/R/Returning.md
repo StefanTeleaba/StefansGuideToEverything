@@ -1,8 +1,6 @@
 # Returning
+*Generic Variant, Uncommon*
 
-**Price:** +1 Bonus  
-**Property:** Weapon with the Thrown property  
-**Aura:** Moderate Transmutation  
-**Associated Spell:** Telekinesis  
+***Returning.*** This weapon returns to your hand immediately after you use it to make a ranged attack roll.
 
-***Returning.*** This weapon returns to the wielder's hand immediately after hitting or missing a target with a ranged attack.
+**Source:** *Ebberon: Forge of the Artificer, p.112*

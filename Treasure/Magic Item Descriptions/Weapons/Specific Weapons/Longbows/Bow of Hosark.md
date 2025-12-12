@@ -10,10 +10,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 *Attuned to:*  
 ***Proof against Detection and Location.*** While this weapon is on your person, you can't be targeted by Divination spells or perceived through magical scrying sensors unless you allow it.
 
-
-
 **Source:** *City of Splendors: Waterdeep v3.5, p.147*
-
 
 ---
 *City of Splendors: Waterdeep v3.5, p.147*

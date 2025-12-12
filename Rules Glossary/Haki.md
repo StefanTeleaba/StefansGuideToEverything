@@ -1,5 +1,6 @@
 # Haki
-*Homebrew*  
+*Homebrew*
+
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Haki Dice.
 
 ## Level 3: Haki

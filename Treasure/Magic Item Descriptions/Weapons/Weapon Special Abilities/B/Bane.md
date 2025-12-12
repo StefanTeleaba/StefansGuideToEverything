@@ -1,5 +1,9 @@
 # Bane
 
+***Bane.*** This weapon deals an additional 2d6 damage on a Hit against its designated foe.
+
+---
+
 **Price:** +1 Bonus  
 **Property:** Weapon  
 **Aura:** Moderate Conjuraiton  
