@@ -161,3 +161,66 @@ If an option requires a saving throw, your Arcane Shot save DC equals 8 plus you
 ***Seeking Shot.*** Using divination magic, you grant your projectile the ability to seek out your target, allowing it to curve and twist its path in search of its prey. When you use this option, you don’t make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon’s range and there is a path large enough for the arrow to travel to the target, the target makes a Dexterity saving throw. On a failed save, the target takes 3d6 Force damage, and you learn the target’s current location. On a successful save, the target takes half as much damage, and you don’t learn its location. The Force damage increases by 2d6 at level 10 (5d6) and at level 18 (7d6).
 
 ***Shadow Shot.*** You weave illusion magic into your projectile, causing it to occlude your foe’s vision with shadows. The target takes an extra 2d6 Psychic damage, and it must succeed on a Wisdom save or have the Blinded condition until the start of your next turn. The Psychic damage increases by 1d6 at level 10 (3d6) and at level 18 (4d6).
+
+---
+
+# Arcane Archer
+[*Created by Indestructoboy*](https://www.youtube.com/@Indestructoboy/featured)
+
+*Blend Magic into Ammunition to Deploy Supernatural Effects*  
+*Rumored to be a secret elven archery technique, the Arcane Archer is able to blend enchantments into ammunition to unleash devastating effects.*
+
+## Level 3: Arcane Archer Lore
+You learn magical theory and secrets of nature, granting you the following benefits.  
+***Cantrips.*** You know two cantrips from either the Druid or Wizard spell lists. Your spellcasting ability for them is either Intelligence or Wisdom (your choice).  
+***Skills.*** You gain proficiency in the Arcana and Nature skills. If you already have one of these proficiencies, you instead gain proficiency in a different skill of your choice (or with two other skills if you have both).
+
+## Level 3: Arcane Shots
+You learn to unleash magical effects with your shots.  
+***Arcane Shot.*** You learn three Arcane Shots of your choice from the “Arcane Shots” section later in this subclass’s description.  
+You learn two additional Arcane Shots of your choice when you reach Fighter levels 7, 10, and 15. When you finish a Long Rest, you can replace one Arcane Shot you know with a different one.  
+***Using Arcane Shot.*** Once per turn when you make a ranged attack using a weapon with the Ammunition property, you can apply one of your Arcane Shots to that attack. You decide to use the Arcane Shot when you hit a creature and deal damage to it unless the Arcane Shot doesn’t involve an attack roll.  
+You can use this feature a number of times equal to your Intelligence or Wisdom modifier (your choice, minimum of once). You regain one expended use when you roll Initiative, and all expended uses when you finish a Short or Long Rest.  
+***Arcane Shot Die.*** Arcane Shots refer to your Arcane Shot Die, which is a d6, which changes when you reach certain Fighter levels, becoming a d8 at level 10, a d10 at level 15, and a d12 at level 18.  
+***Saving Throws.*** If an Arcane Shot option requires a saving throw, the DC equals 8 plus your (Intelligence or Wisdom, your choice) modifier and Proficiency Bonus.
+
+## Level 7: Fail-Not
+If you use an Arcane Shot and deal no damage with it, you regain that use of Arcane Shot. Once you use this feature, you can’t do so again until you finish a Short or Long Rest. You can also restore your use of this feature by expending a use of your Second Wind (no action required).
+
+## Level 10: Twin Shot
+You can use your Arcane Shots up to twice per turn.
+
+## Level 15: Unnatural Agility
+When a creature you can see misses you with an attack roll, you can take a Reaction to move up to half your Speed away from the attacker without provoking Opportunity Attacks. You can then make a ranged attack roll against the attacker as part of this Reaction if the attacker is within the weapon’s range.
+
+## Level 18: All-Seeing Eye
+You have Truesight out to 60 feet. When you roll Initiative, this distance is doubled for 1 minute or until you end your turn without having used an Arcane Shot.
+
+### Arcane Shots
+The Arcane Shots are presented here in alphabetical order.
+
+***Arcane Burst.*** You don’t make an attack roll for the attack. Instead, you can use a Reaction to unleash an eruption of force while firing a shot into the air. Each creature of your choice within 10 feet of you must succeed on a Strength saving throw or take Force damage equal to one roll of your Arcane Shot Die and be pushed 20 feet straight away from you.
+
+***Banishing Shot.*** The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die and must succeed on a Charisma saving throw or be banished. While banished, the creature has the Incapacitated condition and a Speed of 0. At the end of its next turn, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
+
+***Beguiling Shot.*** The creature you hit takes additional Psychic damage equal to two rolls of your Arcane Shot Die and must succeed on a Wisdom saving throw or have the Charmed condition until the start of your next turn, treating either you or one of your allies within 30 feet of the target (your choice) as the charmer. The Charmed condition ends early if the charmer attacks the target, deals damage to it, or forces it to make a saving throw.
+
+***Bursting Shot.*** Immediately after you deal damage to the creature, your target and each creature within a 10-foot Emanation originating from the target take Force damage equal to two rolls of your Arcane Shot Die.
+
+***Curving Shot.*** Immediately after you make an attack roll and miss, you can cause the shot to ricochet toward a new target. The new target must be a creature you can see within the weapon’s range and within 60 feet of the attack’s original target. Make an attack roll against the new target.
+
+***Darkening Shot.*** Magical shadows fill a 15-foot Emanation originating from the ammunition for 1 minute. The area in this Emanation is under the effects of the Darkness spell.
+
+***Enfeebling Shot.*** The creature you hit takes additional Necrotic damage equal to two rolls of your Arcane Shot Die, and must succeed on a Constitution saving throw or have the Poisoned condition until the end of its next turn. Whenever a target Poisoned in this way hits with an attack roll, it subtracts an amount equal to one roll of your Arcane Shot Die from the total damage of that attack.
+
+***Grasping Shot.*** The creature you hit takes additional Slashing damage equal to one roll of your Arcane Shot Die and must succeed on a Strength saving throw or have the Restrained condition for 1 minute or until you use this option again. The target or a creature within reach of it can take an action to make a Strength (Athletics) check against your Arcane Shot DC, removing the brambles and ending the Restrained condition on the target on a successful check.
+
+***Piercing Shot.*** When you use this Shot, you don’t make an attack roll for the attack. Instead, the ammunition shoots forward in a 30-foot Line that is 1 foot wide, originating from you, then vanishes. The Line ignores cover, as the ammunition phases through solid objects. Each creature in the Line must make a Dexterity saving throw. On a failed save, a creature takes damage as if it were hit plus additional Piercing damage equal to two rolls of your Arcane Shot Die. On a successful save, a creature takes half as much damage.
+
+***Seeking Shot.*** You don’t make an attack roll for the attack. Instead, choose one creature you have seen in the last minute. The ammunition flies toward that creature, moving around corners if necessary and ignoring Half Cover and Three-Quarters Cover. If the target is within your weapon’s long range, the target must make a Dexterity saving throw. On a failed save, the target takes damage as if it were hit plus additional Force damage equal to two rolls of your Arcane Shot Die, and you learn the target’s current location. On a successful save, the target takes half as much damage only. If the target is beyond your weapon’s long range, the ammunition disappears after traveling as far as it can.
+
+***Shadow Shot.*** The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die, and it must succeed on a Wisdom saving throw or have the Blinded condition until the end of its next turn.
+
+***Unlocking Shot.*** A burst of magic fills a 15-foot Emanation originating from the ammunition. Objects within are affected by the Knock spell. A loud knock, audible up to 300 feet away, also emits from the ammunition.
+
+***Vine Shot.*** A 60-foot-long vine grows from the ammunition, which can be climbed. It withers away after 10 minutes.
