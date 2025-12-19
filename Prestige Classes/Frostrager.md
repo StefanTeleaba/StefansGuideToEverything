@@ -54,4 +54,4 @@ You have Immunity to Cold damage and you regain Hit Points equal to half the amo
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify.
 
 ## Level 5: Frostrend
-If you use Reckless Attack while your Rage is active, you deal extra Cold damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d10s equal to your Rage Damage bonus, and add them together.
+If you use Reckless Attack while your Rage is active, you deal extra Cold damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together.
