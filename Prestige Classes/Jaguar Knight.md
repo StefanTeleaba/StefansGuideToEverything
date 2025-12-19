@@ -4,7 +4,7 @@
 *Dragon Magazine 315, p.98*
 
 | Level | Features                  | Jaguar Form |
-|:-----:|---------------------------|:--- -------:|
+|:-----:|---------------------------|:-----------:|
 | 1st   | Druid Spells, Jaguar Form | 2           |
 | 2nd   | Poison Use                | 2           |
 | 3rd   | Cat Eyes                  | 3           |
