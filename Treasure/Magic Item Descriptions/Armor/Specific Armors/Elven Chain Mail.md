@@ -1,14 +1,6 @@
-### Elven Chain Mail
-*Homebrew*  
+# Elven Chain Mail
+*Heavy Armor (Chain Mail), Rare*
 
-**Price:** 9,2025 GP  
-**Property:** Armor  
-**Body Slot:** Body  
-**Aura:** - 
-**Activation:** -
-**Weight:** 25 lb.
+You gain a +1 bonus to Armor Class while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
-*This extremely light chain mail is made of very fine mithral links*
-
-You are considered trained with this armor even if you lack training with Heavy Armor.  
-This armor does not impose disadvantage on your Dexterity (Stealth) checks and it does not have a Strength requirement.
+**Source:** *Dungeon Master's Guide v5.5, p.257*
