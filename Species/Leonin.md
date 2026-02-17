@@ -11,7 +11,7 @@ As a Leonin, you have these special traits.
 
 ***Darkvision.*** You have Darkvision with a range of 60 feet.
 
-***Claws.*** Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+***Claws.*** When you use your Unarmed Strike and deal damage, you can choose to slash with your claws. You deal Slashing damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.  
 
 ***Hunter's Instincts.*** You gain proficiency in either Athletics, Intimidation, Perception, or Survival.
 

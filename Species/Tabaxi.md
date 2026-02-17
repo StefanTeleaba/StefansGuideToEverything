@@ -10,7 +10,7 @@ Tabaxi's appearance is as varied as their attitudes. Some tabaxi have features o
 
 As a Tabaxi, you have these special traits.
 
-***Cat's Claws.*** You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+***Cat's Claws.*** When you use your Unarmed Strike and deal damage, you can choose to slash with your claws. You deal Slashing damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.  
 
 ***Cat's Talent.*** You gain proficiency in the Perception and Stealth skills.
 
