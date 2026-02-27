@@ -1,4 +1,36 @@
 # Hunter
+*[Treantmonk's Temple](https://www.youtube.com/watch?v=e5ma8wbvIz0)*
+
+*Protect Nature and People from Destruction*  
+You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
+
+## Level 3: Mark of the Hunter
+You have the Hunter’s Mark spell prepared and it is treated as a Favored Enemy spell for you.
+
+## Level 3: Hunter's Lore
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.  
+After gaining this knowledge, your attacks ignore any applicable resistances to the damage you inflict with your attacks or spells against that creature.
+
+## Level 3: Hunter's Prey
+You gain the following features.  
+***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.  
+***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
+
+## Level 7: Defensive Tactics
+You gain the following features.  
+***Escape the Horde.*** When you take the Attack action, you may also take the Disengage action as part of the same action.  
+***Multiattack Defense.*** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.  
+***Resilience.*** When you fail a Saving Throw, you may use your reaction to reroll.
+
+## Level 11: Superior Hunter's Prey
+The first time you deal damage to a creature with your Hunter’s Mark spell on your turn, the spell deals additional 2d6 damage, in addition, if the creature uses its movement before your next turn to move further away from you, it takes another 2d6 Force damage.
+
+## Level 15: Superior Hunter's Defense
+When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
+
+---
+
+# Hunter
 *Player's Handbook v5.5*  
 
 *Protect Nature and People from Destruction*  

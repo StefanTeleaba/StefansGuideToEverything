@@ -1,0 +1,4 @@
+# Quill of Pyrophilius
+*Wondrous Item, Very Rare*
+
+This quill is thought to have been enchanted by a mighty magician living on Abeir-Toril. The quill is made from a Ki-Rin feather and the spirit of a sprite has been forcibly trapped within. The sprite listens to any intelligible conversation within normal hearing distance and writes it down on the nearest piece of paper, or any other suitable substance. The quill never runs out of ink, and cannot move, other than to write. Any language that is heard by the quill can be transcribed, being written in the alnguage being spoken. If more than one person is speaking at a time, the quill transcribes the loudest voice. The quill is activated by a specific command word, and can be deactivated by restating the command word, or physically destroying the item, which frees the trapped sprite.
