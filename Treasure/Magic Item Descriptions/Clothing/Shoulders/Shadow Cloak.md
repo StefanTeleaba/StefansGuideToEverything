@@ -11,7 +11,7 @@
 *This black cloak writhes as if it were alive.*
 
 ***Shadow Cloak.*** 
-A shadow cloak grants a +1 defl ection
+A shadow cloak grants a +1 deflection
 bonus to AC.
 If you are attacked, you can use the
 cloak three times per day to produce one
