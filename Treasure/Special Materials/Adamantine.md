@@ -11,6 +11,7 @@ Items made from Adamantine must be Masterwork.
 ***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.
 When you score a Critical Hit with this weapon against a Construct creature, the weapon deals one additional die of damage.
 
+When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.
 
 
 ---
