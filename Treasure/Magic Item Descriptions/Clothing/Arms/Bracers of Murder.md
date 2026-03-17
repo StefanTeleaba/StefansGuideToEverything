@@ -1,6 +1,6 @@
 # Bracers of Murder
 
-*Drow of the Underdark, p.98*
+
 
 **Price:** 8,000 GP  
 **Body Slot:** Arms  
@@ -9,6 +9,9 @@
 **Weight:** 3 lb.
 
 *Each of these burnished metal bracers is adorned with a grinning skull set with onyx stones in its eye sockets.*
+
+---
+*Drow of the Underdark, p.98*
 
 ***Bracers of Murder.*** 
 Bracers of murder grant you a +2 profane

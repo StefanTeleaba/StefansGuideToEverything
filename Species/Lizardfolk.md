@@ -10,7 +10,7 @@ Lizardfolk have colorful scales and exhibit a wide array of scale patterns. Thei
 
 As a Lizardfolk, you have these special traits.
 
-***Bite.*** When you use your Unarmed Strike and deal damage, you can choose to bite with your maw. You deal Piercing damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
+***Bite.*** When you use your Unarmed Strike and deal damage, you can choose to bite with your maw. You deal Piercing damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
 ***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.
 

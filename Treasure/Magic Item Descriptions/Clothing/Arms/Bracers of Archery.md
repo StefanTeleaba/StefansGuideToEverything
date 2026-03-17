@@ -1,20 +1,35 @@
-### Bracers of Archery
+# Bracers of Archery
+*Wondrous Item, Uncommon*
 
-**Price:** Varies  
-**Body Slot:** Arms  
-**Aura:** Moderate Transmutation  
-**Associated Spell:** -  
-**Attunement:** 24 Hours  
-**Weight:** 1 lb.
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to damage rolls made with such weapons.
 
-*These wristbands look like normal protective wear.*
+*Dungeon Master's Guide v5.5, p.240*
 
-***Bow Proficiency.*** While wearing these bracers, you have proficiency with all ranged weapons.  
-***Damage.*** While wearing these bracers, you gain a bonus to the damage rolls made with ranged weapons.
+---
 
-#### Bracers of Archery
-| Bonus | Price     |
-|-------|-----------|
-| +1    | 4,000 GP  |
-| +2    | 8,000 GP  |
-| +3    | 18,000 GP |
+# Bracers of Archery
+*Wondrous Item, Rare*
+
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +1 bonus to attack rolls and a +2 bonus to damage rolls made with such weapons.
+
+*Homebrew*
+
+---
+
+# Bracers of Archery
+*Wondrous Item, Very Rare*
+
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to attack rolls and a +4 bonus to damage rolls made with such weapons.
+
+*Homebrew*
+
+---
+
+# Bracers of Archery
+*Wondrous Item, Legendary*
+
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +3 bonus to attack rolls and a +6 bonus to damage rolls made with such weapons.
+
+*Homebrew*
+
+---

@@ -1,19 +1,35 @@
-### Bracers of Defense
+# Bracers of Defense
+*Wondrous Item, Uncommon*
 
-**Price:** Varies  
-**Body Slot:** Arms  
-**Aura:** Moderate Conjuration  
-**Associated Spell:** Mage Armor  
-**Attunement:** 24 Hours  
-**Weight:** 1 lb.
+While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.
 
-*These items appear to be wrist or arm guards. They surround the wearer with an invisible but tangible field of force.*
+*Homebrew*
 
-While wearing these bracers, you gain a bonus to AC if you are not wearing armor or wielding a shield.
+---
 
-#### Bracers of Defense
-| Bonus | Price     |
-|-------|-----------|
-| +1    | 4,000 GP  |
-| +2    | 16,000 GP |
-| +3    | 36,000 GP |
+# Bracers of Defense
+*Wondrous Item, Rare*
+
+While wearing these bracers, you gain a +2 bonus to Armor Class if you are wearing no armor and using no Shield.
+
+*Dungeon Master's Guide v5.5, p.241*
+
+---
+
+# Bracers of Defense
+*Wondrous Item, Very Rare*
+
+While wearing these bracers, you gain a +3 bonus to Armor Class if you are wearing no armor and using no Shield.
+
+*Homebrew*
+
+---
+
+# Bracers of Defense
+*Wondrous Item, Legendary*
+
+While wearing these bracers, you gain a +4 bonus to Armor Class if you are wearing no armor and using no Shield.
+
+*Homebrew*
+
+---
