@@ -1,8 +1,21 @@
 # Dragonsblood Katana
-*Weapon (Katana), Very Rare (Requires Attunement)*
+*Weapon (Katana), Uncommon*
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Flaming.*** This weapon deals an additional die of Fire damage on a Hit.  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+***Flaming.*** This weapon deals an extra 1d8 Fire damage on a Hit.  
+***Fire Resistance.*** You gain Resistance to Fire damage while holding this weapon.
 
-*Attuned to:*  
-***Fire Resistance.*** You gain Resistance to Fire damage while attuned to this weapon.  
+*Homebrew*
+
+---
+
+# Dragonsblood Katana
+*Weapon (Katana), Rare*
+
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
+***Flaming.*** This weapon deals an extra 1d8 Fire damage on a Hit.  
+***Fire Resistance.*** You gain Resistance to Fire damage while holding this weapon.
+
+*Homebrew*
+
+---

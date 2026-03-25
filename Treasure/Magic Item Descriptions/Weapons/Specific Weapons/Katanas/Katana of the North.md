@@ -1,5 +1,5 @@
 # Katana of the North
-*Weapon (Katana), Rare (Requires Attunement)*
+*Weapon (Katana), Rare*
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 

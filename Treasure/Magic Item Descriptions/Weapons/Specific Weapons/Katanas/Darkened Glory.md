@@ -1,5 +1,5 @@
 # Darkened Glory
-*Weapon (Katana), Very Rare*
+*Weapon (Katana), Rare*
 
 *Once a graceful blade, Darkened Glory was tainted by dark magic. It has a light blue pommel and guard, while the blade itself is nearly black in appearance.*
 

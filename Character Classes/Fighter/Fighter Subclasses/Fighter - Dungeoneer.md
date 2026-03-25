@@ -6,7 +6,7 @@
 *Only fools would dive headfirst into an abandoned crypt filled with monsters and deathtraps, but it seems only fools emerge from such crypts laden with as much loot as they can carry. The archetypal dungeon delver is a veteran of such suicidal dungeon delves, and has become intimately familiar with the hazards therein. In the course of their adventures, such a Dungeoneer will have adopted countless best practices, along with a litany of unproven superstitions which they believe keeps them alive. Principles from "always be the first one to hit the monster" to "never be the first one to touch a treasure chest" line a Dungeoneer's journal. However, it's probably better to be paranoid and superstitious than lying at the bottom of a pit trap, incinerated by a Fireball, or digested by a mimic.*
 
 ## Level 3: Kick in the Door
-You have Advantage attack rolls you make during the first round of combat.
+You have Advantage on attack rolls you make during the first round of combat.
 
 ## Level 3: Heroic Superstition
 You gain Heroic Inspiration when you do any of the following.  
