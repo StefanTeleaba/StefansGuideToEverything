@@ -10,11 +10,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 *Attuned to:*  
 ***Guidance of the King of Justice.*** While this weapon is on your person, you gain a +1 bonus to ability checks and saving throws.
 
-**Source:** *Dragons of Faerun v3.5, p.123*
-
-
 
 ---
+*Dragons of Faerun v3.5, p.123*
+
 A dragontooth of Lareth is a dagger made from a
 fang of the fallen King of Justice in the wake of
 Sammaster’s Rage and given to an elite member of

@@ -1,4 +1,13 @@
 # Blue Dragon Bane
+*Weapon (Longsword), Legendary*
+
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. This bonus increases to +5 against Blue Dragons.
+
+When you reduce a Blue Dragon to 0 Hit Points, your physical age is reduced by 1d6 + 6 years, to a minimum of 30 years. You also gain this benefit if someone else reduces a Blue Dragon within 10 feet of you to 0 Hit Points.
+
+
+*Attuned to:*  
+
 
 
 ---

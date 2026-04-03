@@ -2,7 +2,7 @@
 *Weapon (Warhammer), Very Rare*
 
 You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Throwing.*** This weapon gains the Thrown (Range 20/60) property. If it already has the Thrown property, its Range is doubled.
+***Throwing.*** This weapon has the Thrown (Range 20/60) property.
 
 *Attuned to:*  
 ***Strength.*** You gain a +4 bonus to your Strength score while attuned to this weapon.  

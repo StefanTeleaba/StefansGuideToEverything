@@ -2,7 +2,7 @@
 *Weapon (Shortbow), Very Rare (Requires Attunement)*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Shock.*** This weapon deals an additional die of Lightning damage on a Hit.  
+***Shock.*** This weapon deals an extra 1d6 Lightning damage on a Hit.  
 
 *Attuned to:*   
 ***Lightning Immunity.*** You gain Immunity to Lightning damage while attuned to this weapon.  
