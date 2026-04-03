@@ -1,5 +1,5 @@
 # Stream of Anguish
-*Weapon (Greatsword), Legendary (Requires Attunement)*
+*Weapon (Greatsword), Legendary*
 
 *The blade of the Stream of Anguish lights with flames whenever it is drawn.*
 

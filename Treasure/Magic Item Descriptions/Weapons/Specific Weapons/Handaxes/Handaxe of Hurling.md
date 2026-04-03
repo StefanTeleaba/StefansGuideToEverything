@@ -1,11 +1,32 @@
 # Handaxe of Hurling
-*Weapon (Handaxe), Uncommon (Requires Attunement)*  
-*Simple Melee Weapon*  
+*Weapon (Handaxe), Uncommon*
 
-**Damage:** 1d6 Slashing  
-**Properties:** Light, Thrown (Range 40/120)  
-**Mastery:** Vex  
-**Weight:** 2 lb.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-***Throwing.*** This weapon gains the Thrown (Range 20/60) property. If it already has the Thrown property, its Range is doubled.  
-***Returning.*** This weapon returns to your hand immediately after hitting or missing a target with a ranged attack.
+This weapon returns to your hand immediately after you use it to make a ranged attack roll.
+
+---
+
+# Handaxe of Hurling
+*Weapon (Handaxe), Rare*
+
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
+
+This weapon has the Thrown (Range 40/120) property.
+
+This weapon returns to your hand immediately after you use it to make a ranged attack roll.
+
+---
+
+# Handaxe of Hurling
+*Weapon (Handaxe), Very Rare*
+
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
+
+This weapon has the Thrown (Range 40/120) property.
+
+Attacking at long range doesn't impose Disadvantage on your attack rolls with this weapon.
+
+This weapon returns to your hand immediately after you use it to make a ranged attack roll.
+
+---

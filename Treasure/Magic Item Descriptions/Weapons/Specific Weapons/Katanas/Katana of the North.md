@@ -1,7 +1,7 @@
 # Katana of the North
 *Weapon (Katana), Rare*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 
 *Attuned to:*  
 ***Speak with Animals.*** You can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.  
