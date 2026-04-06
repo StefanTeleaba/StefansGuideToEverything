@@ -1,5 +1,5 @@
 # Bracers of the Spider
-*Wondrous Item, Uncommon (Requires Attunement)*
+*Wondrous Item, Uncommon*
 
 You can magically produce sticky, silken spider webs from the bracers as a Bonus Action. This web dissolves after 1 minute. When you create the webs, you can use them to do one of the following.
 

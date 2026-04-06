@@ -1,5 +1,5 @@
 # Slippers of Battledancing
-*Wondrous Item, Rare (Requires Attunement)*
+*Wondrous Item, Rare*
 
 *These soft, open-toed slippers are made of supple leather and look very comfortable.*
 

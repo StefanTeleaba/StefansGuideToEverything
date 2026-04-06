@@ -1,5 +1,5 @@
 # Twinkle
-*Weapon (Scimitar), Legendary (Requires Attunement)*
+*Weapon (Scimitar), Legendary*
 
 *This blade was forged by the elves of old.*
 

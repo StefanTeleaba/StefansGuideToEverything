@@ -11,5 +11,4 @@ As long as this weapon is within your reach and you are attuned to it, you gain 
 ***Guardian.*** You gain a +1 bonus to your Initiative rolls if you don't have the Incapacitated condition.  
 ***Sentinel.*** You have Advantage on Wisdom (Perception) checks.
 
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*

@@ -1,11 +1,17 @@
-### Boots of Striding and Springing
+# Boots of Striding and Springing
+*Wondrous Item, Uncommon*
 
-**Price:** 7,500 GP  
-**Body Slot:** Feet  
-**Aura:** Faint Transmutation  
-**Associated Spell:** Longstrider, Jump  
-**Attunement:** 1 Minute  
-**Weight:** 1 lb.
+Your Speed increases by 10 feet.  
 
-***Striding.*** Your Speed increases by 10 feet.  
-***Springing.*** Once on each of your turns, you can jump up to 30 feet by spending 10 feet of movement.
+Once on each of your turns, you can jump up to 30 feet by spending 10 feet of movement.
+
+---
+
+# Boots of Striding and Springing
+*Wondrous Item, Rare*
+
+Your Speed increases by 20 feet.  
+
+Once on each of your turns, you can jump up to 40 feet by spending 10 feet of movement.
+
+---

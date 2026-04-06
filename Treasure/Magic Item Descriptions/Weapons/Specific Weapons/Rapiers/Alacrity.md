@@ -3,7 +3,7 @@
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-You gain a +2 bonus to your Intelligence score while attuned to this weapon.
+You gain a +1 bonus to your Intelligence score while attuned to this weapon.
 
 ---
 
@@ -23,7 +23,7 @@ If you're holding this weapon and another creature hits you with a melee attack,
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
 
-You gain a +2 bonus to your Intelligence score while attuned to this weapon.
+You gain a +3 bonus to your Intelligence score while attuned to this weapon.
 
 If you're holding this weapon and another creature hits you with a melee attack, you can take a Reaction to add your Intelligence modifier to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 

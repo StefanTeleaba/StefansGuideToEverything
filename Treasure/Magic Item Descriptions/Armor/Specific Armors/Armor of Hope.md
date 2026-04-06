@@ -13,5 +13,4 @@ You have a +3 bonus to AC while wearing this armor.
 *Attuned to by a Paladin of Lathander of Level 18+:*  
 ***Beacon of Hope.*** You emit an aura in a 30-foot Emanation. The aura is inactive while you have the Incapacitated condition. While in the aura, creatures of your choice have Advantage on Wisdom saving throws and Death Saving Throws and regain the maximum number of Hit Points possible from any healing.
 
-**Source:**  
 *Created by Stefan*

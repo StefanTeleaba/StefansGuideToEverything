@@ -1,9 +1,9 @@
 # Catstaff
-*Staff, Weapon (Quarterstaff), Very Rare*
+*Staff, Weapon (Quarterstaff), Rare*
 
 *This ebony staff is topped with a sculpted silver knob resembling a cat's head. Two cat's eye agates are inset within the cat's eyes.*
 
-You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
+You have a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
 A hidden compartment connects to an extradimensional space that allows the staff to hold a set of Thieves' Tools. Retrieving the Thieves' Tools from the staff requires a Utilize action.
 

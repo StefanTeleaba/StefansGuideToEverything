@@ -1,16 +1,21 @@
-### Wand of the War Mage
+# Wand of the War Mage
+*Wand, Uncommon*
 
-**Price:** Varies  
-**Body Slot:** Wielded  
-**Aura:** Moderate Transmutation  
-**Associated Spell:** -  
-**Attunement:** 1 Minute  
+While holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you ignore Half Cover when making a spell attack roll.
 
-You gain a bonus to the attack and damage rolls of your ranged spell attacks while wielding this wand.
+---
 
-#### Wand of the War Mage
-| Bonus | Price     |
-|-------|-----------|
-| +1    | 2,000 GP  |
-| +2    | 8,000 GP  |
-| +3    | 18,000 GP |
+# Wand of the War Mage
+*Wand, Rare*
+
+While holding this wand, you gain a +2 bonus to spell attack rolls. In addition, you ignore Half Cover when making a spell attack roll.
+
+---
+
+# Wand of the War Mage
+*Wand, Very Rare*
+
+While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore Half Cover when making a spell attack roll.
+
+---
+*Dungeon Master's Guide v5.5, p.322*
