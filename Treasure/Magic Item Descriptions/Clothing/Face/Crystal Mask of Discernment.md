@@ -6,5 +6,5 @@
 ***Discernment.*** You gain a +10 bonus to Wisdom (Insight) checks.
 
 
-
-**Source:** *Magic Item Compendium, p.90*
+---
+*Magic Item Compendium, p.90*

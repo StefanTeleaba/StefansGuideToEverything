@@ -8,6 +8,4 @@ You gain a +1 bonus to Armor Class while you wear this armor.
 - 1/Day: Phantom Steed  
 - 1/Day: Sending
 
-
-
-**Source:** *Created by Stefan*  
+*Homebrew*  

@@ -6,5 +6,5 @@
 While you wear this vest, Difficult Terrain doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the Paralyzed or Restrained condition.
 
 
-
-**Source:** *Magic Item Compendium v3.5, p.198*
+---
+*Magic Item Compendium v3.5, p.198*

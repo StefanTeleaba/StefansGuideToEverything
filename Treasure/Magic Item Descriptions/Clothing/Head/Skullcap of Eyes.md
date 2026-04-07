@@ -14,7 +14,7 @@
 As long as you wear a skullcap of eyes, you
 gain a +5 competence bonus on Spot
 checks. In addition, opponents gain no
-bonus on attacks when they fl ank you.
+bonus on attacks when they flank you.
 If you have Improved Uncanny Dodge,
-the level your opponent needs to fl ank
+the level your opponent needs to flank
 you increases by 2.

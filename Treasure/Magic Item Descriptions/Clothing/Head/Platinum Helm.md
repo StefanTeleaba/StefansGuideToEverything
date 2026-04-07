@@ -14,11 +14,9 @@
 
 
 
-**Source:** *Magic Item Compendium v3.5, p.119*  
-
-
-
 ---
+*Magic Item Compendium v3.5, p.119*  
+
 **Price (Item Level):** 5,000 gp (9th)  
 **Body Slot:** Head  
 **Caster Level:** 20th  
@@ -35,3 +33,5 @@ To use the relic power, you must worship Bahamut and either sacrifice a 5th-leve
 
 *Prerequisites:* Craft Wondrous Item, Sanctify Relic, fear or frightful presence, true seeing.  
 *Cost to Create:* 2,500 gp, 200 XP, 5 days.
+
+![Platinum Helm](https://github.com/StefanTeleaba/StefansGuideToEverything/blob/main/Treasure/Magic%20Item%20Art/Head/Platinum%20Helm.jpg?raw=true)

@@ -1,17 +1,19 @@
 # Bracers of Murder
+*Wondrous Item, Uncommon*
 
+*Each of these burnished metal bracers is adorned with a grinning skull set with onyx stones in its eye sockets.*
 
+When you roll for your Sneak Attack damage, you can reroll any 1 on the dice.
+The save DC of your Death Strike feature increases by 1.
+
+---
+*Drow of the Underdark, p.98*
 
 **Price:** 8,000 GP  
 **Body Slot:** Arms  
 **Aura:** Faint Evocation  
 **Associated Spell:** Divine Favor  
 **Weight:** 3 lb.
-
-*Each of these burnished metal bracers is adorned with a grinning skull set with onyx stones in its eye sockets.*
-
----
-*Drow of the Underdark, p.98*
 
 ***Bracers of Murder.*** 
 Bracers of murder grant you a +2 profane

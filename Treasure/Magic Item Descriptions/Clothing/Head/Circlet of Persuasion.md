@@ -1,13 +1,15 @@
 # Circlet of Persuasion
 *Wondrous Item, Uncommon*
 
+*Several sapphires are set along the length of this delicately engraved silver headband.*
+
 While wearing this circlet, you gain a +3 bonus to Charisma (Deception, Intimidation, Performance and Persuasion) checks.
 
 
 
 
 ---
-*Dungeon Master's Guide, p.252*
+*Dungeon Master's Guide v3.5, p.252*
 
 This silver headband grants a +3 competence bonus on the wearer’s Charisma-based checks.
 

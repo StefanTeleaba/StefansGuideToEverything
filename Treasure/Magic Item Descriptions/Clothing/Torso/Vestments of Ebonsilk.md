@@ -14,7 +14,7 @@
 ***Free Action.*** Difficult Terrain doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the Paralyzed or Restrained condition.
 
 
-
-**Source:** *Magic Item Compendium v3.5, p.147*
+---
+*Magic Item Compendium v3.5, p.147*
 
 **Lore:** Said to be woven from silk extruded by Lolth herself, vestments of ebonsilk are occasionally awarded to undeserving followers of Lolth as a test to see how quickly her favored clerics can appropriate them.

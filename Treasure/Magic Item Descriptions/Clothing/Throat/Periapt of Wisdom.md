@@ -1,5 +1,7 @@
-### Periapt of Wisdom
+# Periapt of Wisdom
 
+
+---
 *Magic Item Compendium, p.70*
 
 **Price:** Varies  

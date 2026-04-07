@@ -6,6 +6,5 @@
 ***Blinded.*** You have the Blinded condition.  
 ***Blindsight.*** You gain Blindsight with a range of 30 feet.
 
-
-
-**Source:** *Magic Item Compendium, p.75*
+---
+*Magic Item Compendium, p.75*

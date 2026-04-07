@@ -1,4 +1,4 @@
-### Wraps of Unarmed Prowess
+# Wraps of Unarmed Prowess
 
 **Price:** Varies  
 **Body Slot:** Hands  

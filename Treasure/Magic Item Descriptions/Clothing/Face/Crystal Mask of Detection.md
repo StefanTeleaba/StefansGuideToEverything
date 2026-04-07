@@ -6,5 +6,5 @@
 ***Detection.*** You gain a +10 bonus to Wisdom checks that you make when you take the Search Aciton.
 
 
-
-**Source:** *Magic Item Compendium, p.90*
+---
+*Magic Item Compendium, p.90*

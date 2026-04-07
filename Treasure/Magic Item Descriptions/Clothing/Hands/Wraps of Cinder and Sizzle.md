@@ -6,6 +6,4 @@
 ***Dragonfire Fists.*** Your Unarmed Strikes deal an additional die of Fire damage.  
 ***Spell.*** 1/Day: Scorching Ray (Level 3)
 
-
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*

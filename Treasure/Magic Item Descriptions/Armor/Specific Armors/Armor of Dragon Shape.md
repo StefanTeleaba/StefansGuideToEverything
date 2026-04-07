@@ -1,9 +1,17 @@
 # Armor of Dragon Shape
-*Medium Armor (Hide Armor), Very Rare (Requires Attunement)*
+*Medium Armor (Studded Leather Armor), Rare*
 
-You have a +3 bonus to AC while wearing this armor.
+You have a +1 bonus to AC while wearing this armor.
 
-*Attuned to by a Druid of Level 2+:*  
 ***Dragon Shape.*** When using your Wild Shape feature, you can also choose from among Dragon stat blocks.  
 
-**Source:** *Created by Stefan*
+---
+
+# Armor of Dragon Shape
+*Medium Armor (Studded Leather Armor), Very Rare*
+
+You have a +2 bonus to AC while wearing this armor.
+
+***Dragon Shape.*** When using your Wild Shape feature, you can also choose from among Dragon stat blocks.  
+
+*Homebrew*

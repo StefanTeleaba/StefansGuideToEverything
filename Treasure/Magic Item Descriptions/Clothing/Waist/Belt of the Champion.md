@@ -1,5 +1,5 @@
 # Belt of the Champion
-*Wondrous Item, Rare (Requires Attunement)*
+*Wondrous Item, Rare*
 
 *This belt is forged of thick golden links, each set with a cabochon-cut semiprecious stone. Its large, oval buckle is embossed with the closed fist of Kord.*
 
