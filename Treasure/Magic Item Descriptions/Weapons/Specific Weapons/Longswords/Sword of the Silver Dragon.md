@@ -11,4 +11,4 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Incapacitating Burst.*** When you score a Critical Hit with this weapon, the creature must succeed on a DC 18 Wisdom saving throw or have the Incapacitated condition until the end of your next turn.  
 
 ***Cone of Cold.*** While holding this sword, you can unleash a blast of cold air. Each creature in a 30-foot Cone originating from you makes a Constitution saving throw (DC 18), taking 8d8 Cold damage on a failed save or half as much damage on a successful one. Once you use this property, you can't use it again until the next dawn.  
-***Resistance.*** You have Resistance to Cold damage while this sword is on your person.  
+***Resistance.*** You have Resistance to Cold damage while this sword is on your person.
