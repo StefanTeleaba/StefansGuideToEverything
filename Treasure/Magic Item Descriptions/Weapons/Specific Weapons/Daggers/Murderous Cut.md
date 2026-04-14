@@ -6,6 +6,5 @@
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Prey Upon the Weak.*** This weapon deals an additional die of damage against Bloodied creatures.
 
-
-
-**Source:** *Baldur's Gate 3*
+---
+*Baldur's Gate 3*

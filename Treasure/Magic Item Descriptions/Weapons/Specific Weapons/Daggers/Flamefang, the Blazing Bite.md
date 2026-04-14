@@ -1,10 +1,15 @@
 # Flamefang, the Blazing Bite
 *Weapon (Dagger), Very Rare*
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.  
-***Flaming.*** This weapon deals an additional die of Fire damage on a Hit.  
-***Vorpal.*** This weapon ignores Resistance to Slashing damage and deals an additional 30 Slashing damage on a Critical Hit.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Piercing and Slashing damage.
 
-*Attuned to:*  
-***Returning.*** This weapon returns to the wielder's hand immediately after hitting or missing a target with a ranged attack.  
+Whenever this weapon hits an object, the hit is a Critical Hit.
+
+Whenever you deal damage with this dagger, it can deal your choice of Piercing or Slashing damage. On a Critical Hit, the target takes an additional 30 damage of the weapon's type.
+
+This weapon deals an extra 1d4 Fire damage on a Hit.
+
+This weapon returns to your hand immediately after hitting or missing a target with a ranged attack.
+
+---
+*Magic of Myth Drannor*

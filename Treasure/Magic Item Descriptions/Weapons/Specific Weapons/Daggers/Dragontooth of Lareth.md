@@ -4,7 +4,7 @@
 *This is a curved dagger made from a dragon's tooth and a gold, dragon-shaped hilt and pommel. The mouth of the dragon pommel holds a large ruby.*
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Flaming.*** This weapon deals an additional die of Fire damage on a Hit.  
+***Flaming.*** This weapon deals an additional 1d4 Fire damage on a Hit.  
 ***Flaming Burst.*** This weapon deals an additional 1d10 Fire damage on a Critical Hit.
 
 *Attuned to:*  

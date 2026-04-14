@@ -1,11 +1,15 @@
 # Breath of Auril
 *Weapon (Dagger), Very Rare*
 
-*Kontik, servant of Auril, once wielded this blade. It has been enchanted with several beneficial magics.*
-
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 
-*Attuned to:*  
-You gain a +2 bonus to Intelligence and a -2 penalty to Charisma while attuned to this weapon.  
-You gain Invulnerability to Cold damage and Vulneravility to Fire damage while attuned to this weapon.  
-***Cone of Cold.*** When you take the Attack action on your turn with this weapon, you can replace one of the attacks with a casting of Cone of Cold. The weapon can't be used this way again until the next dawn.
+You have a +2 bonus to your Intelligence score and Immunity to Cold damage while holding this weapon.
+
+The dagger has 10 charges and regains 1d6+4 charges daily at dawn. While holding the dagger, you can expend 1 charge to cast either *Ice Knife* (+9 to hit) or *Frost Fingers* (DC 17), or 5 charges to cast *Cone of Cold* (DC 17) from it. You can increase each of the spell's level for each additional charge you expend.
+
+***Curse.*** You have a -2 penalty to your Charisma score and Vulnerability to Fire damage while holding this weapon.
+
+--
+*Icewind Dale*
+
+*Kontik, servant of Auril, once wielded this blade. It has been enchanted with several beneficial magics.*

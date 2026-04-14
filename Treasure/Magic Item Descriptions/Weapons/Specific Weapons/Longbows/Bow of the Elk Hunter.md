@@ -1,16 +1,21 @@
 # Bow of the Elk Hunter
 *Weapon (longbow), Rare*
 
+*This longbow looks like an elongated pair of elk horns in a tangle of vines, but is still remarkably pliable.*
 
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +3 when you use the weapon to attack a Beast.
 
+The weapon has 6 charges for the following properties. It regains 1d4 + 2 expended charges daily at dawn.
 
+***Beast Mark.*** When you hit a creature with an attack using this bow, you can expend 1 of its charges to force the creature to make a DC 15 Charisma saving throw. On a failed save, the creature is under the effects of *Hunter's Mark* (no concentration required), and for the duration, that creature is considered to be a Beast in addition to its other creature types for the purposes of this bow and other spells. This version of *Hunter's Mark* ends early if you mark a different creature with it.
 
+***Conjure Stomp.*** You can use an action to expend 1 of the weapon's charge and fire an arrow into the air directly above you, where it immediately and harmlessly disappears. Choose a target that you can see within 60 feet of you. A ghostly apparition of a giant elk's hoof then appears above the chosen target and crashes down on it, ignoring half- or three-quarters cover. The target must make a DC 15 Dexterity saving throw, taking 4d8 Radiant damage on a failed save, or half as much damage on a successful one.
 
 ---
 *The Griffon's Saddlebag*
 
 # Bow of the Elk Hunter
-*Weapon (longbow), rare (requires attunement)*
+*Weapon (longbow), Rare (Requires Attunement)*
 
 *This longbow looks like an elongated pair of elk horns in a tangle of vines, but is still remarkably pliable.*
 

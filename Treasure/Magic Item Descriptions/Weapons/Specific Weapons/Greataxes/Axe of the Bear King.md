@@ -1,6 +1,11 @@
 # Axe of the Bear King
 *Weapon (Greataxe), Very Rare*
 
-You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
-***Shock.*** This weapon deals an additional die of Lightning damage on a Hit.  
+You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon.
+
+The Critical Range of this weapon increases by 1.
+
+This weapon deals an extra 1d12 Lightning damage on a Hit.
+
+---
+*Neverwinter Nights 2: Mask of the Betrayer*

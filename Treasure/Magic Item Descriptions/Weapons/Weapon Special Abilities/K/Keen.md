@@ -6,3 +6,5 @@
 **Associated Spell:** -
 
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
+
+The Critical Range of this weapon increases by 1.

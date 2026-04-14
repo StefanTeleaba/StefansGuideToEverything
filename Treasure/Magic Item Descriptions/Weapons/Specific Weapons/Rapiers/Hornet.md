@@ -10,7 +10,7 @@ When you reduce a creature to 0 Hit Points using this weapon, the next target yo
 # Hornet
 *Weapon (Rapier), Rare*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
 Immediately after you score a Critical Hit or reduce a creature to 0 Hit Points with this weapon, you can make one attack with the same weapon as a Bonus Action and the next target you hit with it before the end of your next turn takes an extra 10 Piercing damage.
 
@@ -19,7 +19,7 @@ Immediately after you score a Critical Hit or reduce a creature to 0 Hit Points 
 # Hornet
 *Weapon (Rapier), Very Rare*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
 
 Immediately after you score a Critical Hit or reduce a creature to 0 Hit Points with this weapon, you can make one attack with the same weapon as a Bonus Action and the next target you hit with it before the end of your next turn takes an extra 10 Piercing damage.
 

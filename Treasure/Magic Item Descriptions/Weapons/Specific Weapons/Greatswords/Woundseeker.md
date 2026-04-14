@@ -1,4 +1,4 @@
-# Murderous Cut
+# Woundseeker
 *Weapon (Greatsword), Uncommon*
 
 *Wielded by Svartlebee The Custodian, so named because he had the following reputation: Have you got someone in your life causing a mess? Send Svartlebee a missive. He shall clean them up, and then clean up the crime scene.*
@@ -8,7 +8,7 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ---
 
-# Murderous Cut
+# Woundseeker
 *Weapon (Greatsword), Rare*
 
 *Wielded by Svartlebee The Custodian, so named because he had the following reputation: Have you got someone in your life causing a mess? Send Svartlebee a missive. He shall clean them up, and then clean up the crime scene.*

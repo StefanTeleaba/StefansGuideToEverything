@@ -3,8 +3,9 @@
 
 *Once wielded by a murderer, the weapon's handle retains an eerie, clammy warmth, as if Dolor's pre-slaughter sweat somehow crept into the leather - and lingers there still.*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Dolor Amarus.*** This weapon deals 5 additional damage on a Critical Hit.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
+
+On a Critical Hit, the target takes 5 additional damage.
 
 ---
 
@@ -13,8 +14,9 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 *Once wielded by a murderer, the weapon's handle retains an eerie, clammy warmth, as if Dolor's pre-slaughter sweat somehow crept into the leather - and lingers there still.*
 
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Dolor Amarus.*** This weapon deals 10 additional damage on a Critical Hit.
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
+
+On a Critical Hit, the target takes 10 additional damage.
 
 ---
 
@@ -23,8 +25,9 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 
 *Once wielded by a murderer, the weapon's handle retains an eerie, clammy warmth, as if Dolor's pre-slaughter sweat somehow crept into the leather - and lingers there still.*
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Piercing damage.  
-***Dolor Amarus.*** This weapon deals 20 additional damage on a Critical Hit.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Piercing damage.
+
+On a Critical Hit, the target takes 20 additional damage.
 
 ---
 
@@ -33,8 +36,9 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 *Once wielded by a murderer, the weapon's handle retains an eerie, clammy warmth, as if Dolor's pre-slaughter sweat somehow crept into the leather - and lingers there still.*
 
-You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Piercing damage.  
-***Dolor Amarus.*** This weapon deals 30 additional damage on a Critical Hit.
+You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores Resistance to Piercing damage.
+
+On a Critical Hit, the target takes 30 additional damage.
 
 ---
 *Baldur's Gate 3*

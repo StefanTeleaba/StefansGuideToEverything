@@ -1,15 +1,15 @@
 # Hand of the Creator
-*Weapon (Punching Dagger), Very Rare*
+*Weapon (Punching Dagger), Uncommon*
 
 *This intricately designed punching dagger is fashioned from mithral. Its handle is covered with strands of dark blue leather strips, and its silvery blade is marked with tiny elven runes.*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
+
+The Critical Range of this weapon increases by 1.
 
 *Wielded by an Elf:*
 ***Elven Blood.*** This weapon deals an additional die of damage.  
 ***Curse of the Creator.*** If you hit a creature with this weapon, that creature is outlined in golden moonlight until the end of your next turn. For the duration, that creature sheds Dim Light in a 10-foot radius and can't benefit from the Invisible condition. Attack rolls against that creature have Advantage if the attacker can see it. In addition, the creature has a -2 penalty to D20 tests for the duration.
-
 
 
 ---

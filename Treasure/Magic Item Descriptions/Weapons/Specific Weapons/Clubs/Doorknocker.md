@@ -1,8 +1,9 @@
 # Doorknocker
-*Weapon (Club), Rare*
+*Weapon (Club), Uncommon*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Collision.*** You have a +5 bonus to damage rolls made with this weapon.  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-*Attuned to:*  
-***Knock.*** This weapon has 6 charges and regains 1d6 charges daily at dawn. While wielding this weapon, you can expend 1 charge to cast Knock with it.
+This weapon has 5 charges and regains 1d4+1 charges daily at dawn. While holding this weapon, you can expend 1 charge to cast Knock from it.
+
+---
+*Neverwinter Nights: Darkness over Daggerford*

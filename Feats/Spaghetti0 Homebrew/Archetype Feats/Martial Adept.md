@@ -7,4 +7,4 @@ You have martial training that allows you to perform special combat maneuvers. Y
 ***Superiority Dice.*** You have one Superiority Die, which is a d8. The Superiority Die is expended when you use it. You regain expended Superiority Dice when you finish a Short or Long Rest.  
 ***Saving Throws.*** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
 
-**Source:** *Created by Stefan*
+*Homebrew*
