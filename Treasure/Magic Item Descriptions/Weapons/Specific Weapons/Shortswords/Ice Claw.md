@@ -13,7 +13,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Protection.*** You gain a +2 bonus to saving throws against Dragons while Ice Claw is on your person.  
 ***Resistance from Dragons.*** If you take damage from Dragons while holding Ice Claw, the sword reduces the damage you take by 1 for each die of damage.
 
-***Sentience.*** Ice Claw is a sentient weapon of Lawful- Neutral alignment, with an Intelligence of 17, a Wisdom of 13, and a Charisma of 20. It has hearing and Darkvision out to 120 feet.  
+***Sentience.*** Ice Claw is a sentient weapon of Lawful-Neutral alignment, with an Intelligence of 17, a Wisdom of 13, and a Charisma of 20. It has hearing and Darkvision out to 120 feet.  
 The weapon communicates telepathically with its wielder and speaks Common and Dwarvish.
 
 

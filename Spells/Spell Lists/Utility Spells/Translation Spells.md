@@ -1,0 +1,4 @@
+# Translation Spells
+
+Comprehend Languages
+
