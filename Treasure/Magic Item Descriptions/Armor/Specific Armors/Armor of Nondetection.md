@@ -6,6 +6,4 @@
 You have a +3 bonus to AC while wearing this armor.  
 ***Nondetection.*** You are hidden from Divination spells. You can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
-
-
-**Source:** *Created by Stefan*
+*Homebrew*

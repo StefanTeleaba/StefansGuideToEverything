@@ -12,4 +12,4 @@
 
 ***Adamantine.*** While you're wearing this suit of armor, any Critical Hit against you becomes a normal hit.
 
-In addition, whenever a creature would critically hit you with a melee attack roll, the armor strikes that foe with a bolt of  energy. The attacker must make a Dexterity saving throw (DC 16), taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
+In addition, whenever a creature would critically hit you with a melee attack roll, the armor strikes that foe with a bolt of energy. The attacker must make a Dexterity saving throw (DC 16), taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.

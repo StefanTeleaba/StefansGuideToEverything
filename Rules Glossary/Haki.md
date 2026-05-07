@@ -50,9 +50,9 @@ Your Haki Die becomes a d12.
 **Conqueror's Haki**  
 ***Commanding Presence.*** When you make a Charisma (Intimidation, Performance, or Persuasion) check, you can expend one Haki Die and add that die to the roll.  
 ***Intimidating Presence.*** When you take the Attack action, you can expend one Haki Die to overpower others with your will. Each creature of your choice in an Emanation originating from you must make a Wisdom saving throw. On a failed save, a creature has the *Stunned* condition for 1 minute. At the end of each of the Stunned creature's turns, the creature repeats the save, ending the effect on itself on a success.  
-The size of the Emmanation equals 10 feet times your Proficiency Bonus.
+The size of the Emanation equals 10 feet times your Proficiency Bonus.
 
 **Advanced Conqueror's Haki**  
 ***Observation Killing.*** You can't be targeted by Divination spells or perceived through magical scrying sensors. You are also unaffected by anything that would sense your emotions or alignment, read your thoughts, or magically detect your location, and no spell - not even *Wish* - can gather information about you, observe you remotely, or control your mind.  
 ***Overpowering Presence.*** If a target fails its saving throw against your Intimidating Presence and it has Hit Points equal to twice your level or fewer, it has the *Unconscious* condition instead of the *Stunned* condition.  
-***Unshakeable will.*** Your willpower can keep you fighting despite grievous wounds. If you drop to 0 Hit Points and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your level. Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
+***Unshakeable Will.*** Your willpower can keep you fighting despite grievous wounds. If you drop to 0 Hit Points and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your level. Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
