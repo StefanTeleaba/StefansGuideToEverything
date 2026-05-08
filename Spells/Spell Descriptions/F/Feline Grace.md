@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Feline Grace
 *Level 2 Transmutation (Bard, Druid, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -12,5 +14,4 @@ You can take a Reaction when you fall to reduce any damage you take from the fal
 You gain Advantage on Dexterity checks and saving throws.  
 Your jump distance is doubled.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

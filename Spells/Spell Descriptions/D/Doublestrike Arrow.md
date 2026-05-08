@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Doublestrike Arrow
 *Level 4 Transmutation (Ranger)*
 
@@ -10,10 +12,8 @@ Immediately after hitting or missing the first target, the arrow then swerves an
 
 ***Using a Higher-Level Spell Slot.*** The arrow can leap to one additional target for each spell slot level above 4.
 
-**Source:** *Champions of Ruin, p.30*  
-
-
 ---
+
 *Champions of Ruin, p.30*
 
 # Doublestrike Arrow
@@ -33,6 +33,5 @@ This spell is cast upon a single arrow or crossbow bolt, enabling it to strike t
 A doublestrike missile cannot hit the same target twice, and it is destroyed even if it misses its intended targets.
 
 *Material Component:* Arrow or bolt.
-
 
 ---

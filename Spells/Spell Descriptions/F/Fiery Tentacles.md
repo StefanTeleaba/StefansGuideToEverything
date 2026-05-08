@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Fiery Tentacles
 *Level 5 Conjuration (Wizard)*
 
@@ -12,9 +14,8 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 ***Using a Higher-Level Spell Slot.*** The Fire damage increases by 1d6 for each spell slot level above 5.
 
-**Source:**  
-*Forgotten Realms: Shining South v3.5, p.45*  
-*Modified by Stefan*  
+---
 
+*Forgotten Realms: Shining South v3.5, p.45*
 
 ---

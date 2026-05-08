@@ -1,4 +1,6 @@
-## Find Greater Steed
+*Homebrew*
+
+# Find Greater Steed
 *Level 4 Conjuration (Paladin)*
 
 **Casting Time:** Action  
@@ -12,6 +14,8 @@ You summon an otherworldly being that appears as a loyal steed in an unoccupied 
 
 **Disappearance of the Steed.** The steed disappears if it drops to 0 Hit Points or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one.
 
+---
 
+*Xanathar's Guide to Everything v5, p.156*
 
-**Source:** *Modified by Stefan*
+---

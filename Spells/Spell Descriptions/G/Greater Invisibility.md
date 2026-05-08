@@ -1,4 +1,6 @@
-## Greater Invisibility
+*Player's Handbook v5.5, p.281*
+
+# Greater Invisibility
 *Level 4 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -7,3 +9,5 @@
 **Duration:** Concentration, up to 1 minute
 
 A creature you touch has the Invisible condition until the spell ends.
+
+---

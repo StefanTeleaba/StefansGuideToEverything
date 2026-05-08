@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Hold Animal
 *Level 2 Enchantment (Druid, Ranger)*
 
@@ -10,5 +12,8 @@ Choose a Beast that you can see within range. The target must succeed on a Wisdo
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional Beast for each spell slot level above 2.
 
+---
 
 *Player's Handbook v3.5, p.*
+
+---

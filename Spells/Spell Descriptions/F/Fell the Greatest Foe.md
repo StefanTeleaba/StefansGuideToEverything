@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Fell the Greatest Foe
 *Level 2 Transmutation (Ranger)*
 
@@ -10,5 +12,8 @@ When you hit a creature marked by your Hunter's Mark that is at least one size l
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for every two spell slot levels above 2.
 
+---
 
 *Spell Compendium, p.90*
+
+---

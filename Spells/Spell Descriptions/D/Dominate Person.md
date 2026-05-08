@@ -1,4 +1,6 @@
-## Dominate Person
+*Player's Handbook v5.5, p.266*
+
+# Dominate Person
 *Level 5 Enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -11,3 +13,5 @@ You have a telepathic link with the Charmed target while the two of you are on t
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
+
+---

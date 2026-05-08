@@ -1,3 +1,5 @@
+*[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
+
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
 
@@ -10,9 +12,9 @@ The target takes an extra 1d6 Piercing damage from the attack as grasping vines 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-**Source:** *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 ---
+
+*Player's Handbook v5.5, p.268*
 
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
@@ -28,4 +30,4 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-**Source:** *Player's Handbook v5.5, p.268*
+---

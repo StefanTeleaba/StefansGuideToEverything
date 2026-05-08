@@ -1,4 +1,6 @@
-## Fireball
+*Player's Handbook v5.5, p.274*
+
+# Fireball
 *Level 3 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -10,3 +12,5 @@ A bright streak flashes from you to a point you choose within range and then blo
 Flammable objects in the area that aren't being worn or carried start burning.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
+
+---

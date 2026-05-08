@@ -1,3 +1,5 @@
+*Valda's Spire of Secrets: Player Pack v5.5*
+
 # Hangover
 *Level 2 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -10,6 +12,4 @@ You emit a drunken aura that quickly washes away, leaving an intense hangover. A
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-
-**Source:**  
-*Valda's Spire of Secrets: Player Pack v5.5*
+---

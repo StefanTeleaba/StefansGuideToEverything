@@ -1,4 +1,6 @@
-## Freedom of Movement
+*Player's Handbook v5.5, p.277*
+
+# Freedom of Movement
 *Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*
 
 **Casting Time:** Action  
@@ -11,3 +13,5 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the Grappled condition on it.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
+
+---

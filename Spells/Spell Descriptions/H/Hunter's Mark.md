@@ -1,3 +1,5 @@
+*[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
+
 # Hunter's Mark
 *Level 1 Divination (Ranger)*
 
@@ -11,9 +13,9 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 ***Using a Higher-Level Spell Slot.*** If you cast this spell using a level 3+ spell slot, the spell doesn't require Concentration and the duration becomes 8 hours. If you use a level 5+ spell lost, the spell lasts until you complete a Long Rest.
 
-**Source:** *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 ---
+
+*Player's Handbook v5.5, p.287*
 
 # Hunter's Mark
 *Level 1 Divination (Ranger)*
@@ -28,4 +30,4 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
-**Source:** *Player's Handbook v5.5, p.287*
+---

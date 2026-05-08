@@ -1,4 +1,6 @@
-## Guards and Wards
+*Player's Handbook v5.5, p.282*
+
+# Guards and Wards
 *Level 6 Abjuration (Bard, Wizard)*
 
 **Casting Time:** 1 hour  
@@ -22,3 +24,5 @@ The spell creates the effects below within the warded area. Dispel Magic has no 
 - Stinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)
 - Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts)
 - Suggestion in one 5-foot square; any creature that enters that square receives the suggestion mentally
+
+---

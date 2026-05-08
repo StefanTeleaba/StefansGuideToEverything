@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Hunter's Mercy
 *Level 1 Divination (Ranger)*
 
@@ -10,6 +12,9 @@
 
 Your next attack roll with a weapon before the end of your next turn is a Critical Hit.
 
-**Source:** *Homebrew*  
+---
+
 *Magic of Faerun, p.101*  
 *Spell Compendium, p.117*  
+
+---

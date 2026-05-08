@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+
 # Ectoplasmic Trail
 *Level 2 Necromancy (Psion, Warlock)*
 
@@ -11,4 +13,4 @@ While cloaked, whenever you enter the space of a creature, the creature becomes 
 
 ***Using a Higher-Level Spell Slot.*** While cloaked, your Speed increases by 10 feet for each spell slot level above 2.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+---

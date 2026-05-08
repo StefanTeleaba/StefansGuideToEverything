@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Draconic Might
 *Level 3 Transmutation (Paladin, Sorcerer, Wizard)*
 
@@ -12,6 +14,8 @@ You touch one willing creature. For the duration, the creature's Strength, Const
 
 ***Using a Higher-Level Spell Slot.*** The bonus to your ability scores increases by 2 for each spell slot level above 3.
 
+---
 
+*Spell Compendium v3.5, p.72*
 
-**Source:** *Spell Compendium v3.5, p.72*
+---

@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Feline Chaos
 *Level 5 Conjuration (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -10,5 +12,4 @@ Each target must succeed on a Dexterity saving throw or be affected by this spel
 
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 6th level or higher, the damage at the start of an affected target's turns increases by 2d6 for each slot level above 5th.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

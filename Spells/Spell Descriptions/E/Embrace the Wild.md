@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Embrace the Wild
 *Level 1 Transmutation (Druid, Ranger)*
 
@@ -16,9 +18,8 @@ You also gain a +2 bonus to Wisdom (Perception) checks for the duraiton.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 1.
 
-**Source:**  
-*Spell Compendium v3.5, p.79*  
-*Modified by Stefan*  
+---
 
+*Spell Compendium v3.5, p.79*
 
 ---

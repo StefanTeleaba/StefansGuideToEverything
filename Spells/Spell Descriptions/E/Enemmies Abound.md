@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+
 # Enemies Abound
 *Level 3 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
@@ -13,4 +15,4 @@ Choose a creature you can see within range. The target must succeed on an Intell
 
 Each time the target takes damage, it makes another Intelligence saving throw. On a successful save, the spell ends.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+---

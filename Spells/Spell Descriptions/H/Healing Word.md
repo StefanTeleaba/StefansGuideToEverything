@@ -1,4 +1,6 @@
-## Healing Word
+*Player's Handbook v5.5, p.284*
+
+# Healing Word
 *Level 1 Abjuration (Bard, Cleric, Druid)*  
 
 **Casting Time:** Bonus Action  
@@ -9,3 +11,5 @@
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
 ***Using a Higher-Level Spell Slot.*** The healing increases by 2d4 for each spell slot level above 1.
+
+---

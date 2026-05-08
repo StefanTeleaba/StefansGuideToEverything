@@ -1,4 +1,6 @@
-## Fly
+*Player's Handbook v5.5, p.276*
+
+# Fly
 *Level 3 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -9,3 +11,5 @@
 You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
+
+---

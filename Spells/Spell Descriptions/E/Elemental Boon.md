@@ -1,4 +1,6 @@
-## Elemental Boon
+*Homebrew*, *Divine Favor*
+
+# Elemental Boon
 *Level 1 Transmutation (Ranger)*
 
 ***Casting Time:*** Bonus Action  
@@ -10,5 +12,4 @@ Choose Acid, Cold, Fire, Lightning, Poison or Thunder. Until the spell ends, you
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d4 for every two spell slot levels above 1.
 
-*Homebrew*  
-*Based on Divine Favor*
+---

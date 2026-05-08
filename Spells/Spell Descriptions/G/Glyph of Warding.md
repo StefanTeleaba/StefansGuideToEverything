@@ -1,4 +1,6 @@
-## Gliph of Warding
+*Player's Handbook v5.5, p.279*
+
+# Gliph of Warding
 *Level 3 Abjuration (Bard, Cleric, Wizard)*
 
 **Casting Time:** 1 hour  
@@ -19,3 +21,5 @@ You can refine the trigger so that only creatures of certain types activate it (
 When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
 
 ***Using a Higher-Level Spell Slot.*** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
+
+---

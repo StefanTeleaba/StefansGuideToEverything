@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Guided Shot
 *Level 1 Divination (Ranger, Sorcerer, Wizard)*
 
@@ -10,5 +12,8 @@
 
 Until the end of your next turn, your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover and attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
+---
 
 *Spell Compendium, p.108*
+
+---

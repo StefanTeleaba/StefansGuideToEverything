@@ -1,4 +1,6 @@
-## Grasping Vine
+*Player's Handbook v5.5, p.280*
+
+# Grasping Vine
 *Level 4 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Bonus Action  
@@ -11,3 +13,5 @@ Make a melee spell attack against a creature within 30 feet of the vine. On a hi
 As a Bonus Action on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 ***Using a Higher-Level Spell Slot.*** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
+
+---

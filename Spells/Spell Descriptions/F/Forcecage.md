@@ -1,4 +1,6 @@
-## Forcecage
+*Player's Handbook v5.5, p.276*
+
+# Forcecage
 *Level 7 Evocation (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
@@ -11,3 +13,5 @@ A prison in the shape of a cage can be up to 20 feet on a side and is made from 
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside it, are pushed away from the center of the area until they are completely outside it.  
 A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a Charisma saving throw. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.  
 This spell can't be dispelled by Dispel Magic.
+
+---

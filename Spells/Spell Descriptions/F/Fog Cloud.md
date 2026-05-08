@@ -1,4 +1,6 @@
-## Fog Cloud
+*Player's Handbook v5.5, p.276*
+
+# Fog Cloud
 *Level 1 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action  
@@ -9,3 +11,5 @@
 You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind) disperses it.
 
 ***Using a Higher-Level Spell Slot.*** The fog's radius increases by 20 feet for each spell slot level above 1.
+
+---

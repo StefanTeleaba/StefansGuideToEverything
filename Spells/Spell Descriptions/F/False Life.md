@@ -1,4 +1,6 @@
-## False Life
+*Player's Handbook v5.5, p.271*
+
+# False Life
 *Level 1 Necromancy (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -9,3 +11,5 @@
 You gain 2d4 + 4 Temporary Hit Points.
 
 ***Using a Higher-Level Spell Slot.*** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
+
+---

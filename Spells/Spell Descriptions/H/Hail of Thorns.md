@@ -1,3 +1,5 @@
+*[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
+
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
 
@@ -10,9 +12,9 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-**Source:** *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 ---
+
+*Player's Handbook v5.5, p.283*
 
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
@@ -26,4 +28,4 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 1.
 
-**Source:** *Player's Handbook v5.5, p.283*
+---

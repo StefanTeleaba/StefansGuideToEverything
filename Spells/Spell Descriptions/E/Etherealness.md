@@ -1,4 +1,6 @@
-## Etherealness
+*Player's Handbook v5.5, p.269*
+
+# Etherealness
 *Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -12,3 +14,5 @@ When the spell ends, you return to the plane you left in the spot that correspon
 This spell ends instantly if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 
 ***Using a Higher-Level Spell Slot.*** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
+
+---

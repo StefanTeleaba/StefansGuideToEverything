@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Haste, Improved
 *Level 6 Transmutation (Sorcerer, Wizard)*
 
@@ -10,3 +12,5 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for every 2 spell slot levels above 6.
+
+---

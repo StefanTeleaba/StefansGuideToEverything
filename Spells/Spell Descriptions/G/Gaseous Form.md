@@ -1,4 +1,6 @@
-## Gaseous Form
+*Player's Handbook v5.5, p.277*
+
+# Gaseous Form
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -11,3 +13,5 @@ While in this form, the target's only method of movement is a Fly Speed of 10 fe
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 3.
+
+---

@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+
 # Ego Whip
 *Level 2 Enchantment (Psion)*
 
@@ -8,4 +10,4 @@
 
 The creature makes a Charisma saving throw. On a failed save, the target must subtract 1d8 from the ability check or saving throw.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+---

@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Evil Eye
 *Enchantment Cantrip (Druid, Sorcerer, Warlock, Wizard)*
 
@@ -10,5 +12,4 @@ You glare at a creature that you can see within range, imposing a baleful hex on
 
 ***Cantrip Upgrade.*** The damage increases by 1d4 + 2 when you reach levels 5 (2d4 + 4), 11 (3d4 + 6), and 17 (4d4 + 8).
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

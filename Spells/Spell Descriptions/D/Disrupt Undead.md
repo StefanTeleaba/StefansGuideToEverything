@@ -1,3 +1,5 @@
+[*Created by Nardo*](https://www.youtube.com/@nardodd)
+
 # Disrupt Undead
 *Necromancy Cantrip (Cleric, Sorcerer, Wizard)*
 
@@ -10,6 +12,8 @@ You direct a ray of positive energy at a creature within range. Make a ranged sp
 
 ***Cantrip Upgrade.*** The damage increases by one die when you reach levels 5 (2d6 or 2d12), 11 (3d6 or 3d12), and 17 (4d6 or 4d12).
 
-**Source:**  
-[*Created by Nardo*](https://www.youtube.com/@nardodd)  
+---
+
 *Player's Handbook v3.5, p.223*
+
+---

@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Endure Elements
 *Level 1 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
@@ -10,9 +12,8 @@ For the duration, a willing creature you touch is unharmed by temperatures of 0 
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
-**Source:**  
-*Player's Handbook v3.5, p.226*  
-*Modified by Stefan*  
+---
 
+*Player's Handbook v3.5, p.226*
 
 ---

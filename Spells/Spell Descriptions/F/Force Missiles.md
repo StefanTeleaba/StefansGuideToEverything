@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Force Missiles
 *Level 4 Evocation (Sorcerer, Wizard)*
 
@@ -10,9 +12,8 @@ You create two powerful missiles of magical force. Each missile strikes a creatu
 
 ***Using a Higher-Level Spell Slot.*** You create one additional missile for every two spell slot levels above 4.
 
-**Source:**  
-*Wizard's Spell Compendium Volume Three v2, p.959*  
-*Modified by Stefan*  
+---
 
+*Wizard's Spell Compendium Volume Three v2, p.959*
 
 ---

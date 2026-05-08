@@ -1,3 +1,5 @@
+[*Created by Nardo*](https://www.youtube.com/@nardodd)
+
 # Electric Jolt
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -12,4 +14,4 @@ Make a ranged spell attack against a creature you can see within range. On a hit
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach 5th level(2d8), 11th level(3d8), and 17th level(4d8).
 
-**Source:** [*Created by Nardo*](https://www.youtube.com/@nardodd)
+---
