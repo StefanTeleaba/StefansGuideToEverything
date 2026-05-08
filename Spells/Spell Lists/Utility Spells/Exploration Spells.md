@@ -1,3 +1,0 @@
-# Exploration Spells
-
-Alarm

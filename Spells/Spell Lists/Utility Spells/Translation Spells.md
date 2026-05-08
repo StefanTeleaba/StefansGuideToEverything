@@ -1,4 +1,0 @@
-# Translation Spells
-
-Comprehend Languages
-
