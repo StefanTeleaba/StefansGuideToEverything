@@ -8,7 +8,7 @@ Warriors of Venom pollute their internal reservoirs of power to become poison in
 ## Level 3: Envenom Weapon
 At the start of your turn, you can expend 1 Focus Point to apply a toxin produced from your blood to one Monk weapon that you’re holding. A creature that takes damage from the weapon is subjected to one of the following toxin effects (choose when you apply the toxin):  
 ***Slowing Toxin.*** Until the start of your next turn, the target’s Speed is halved; it can’t take Reactions; and it can take either an action or a Bonus Action on its turn, not both.  
-**Venom.** The target takes Poison damage equal to two rolls of your Martial Arts die.  
+***Venom.*** The target takes Poison damage equal to two rolls of your Martial Arts die.  
 The toxin retains potency for 1 minute or until a creature takes damage from the weapon.
 
 ## Level 3: Potent Arsenal

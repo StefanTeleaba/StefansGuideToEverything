@@ -1,4 +1,4 @@
-### Katana (35 GP)
+# Katana (35 GP)
 *Martial Melee Weapon*  
 
 **Damage:** 1d8 Slashing  
