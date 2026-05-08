@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.39*
+*Homebrew*
 
 # Briar Web
 *Level 2 Transmutation (Druid, Ranger)*
@@ -13,5 +13,9 @@ The ground in a 40-foot-radius Sphere centered on a point within range sprouts h
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
 ***Using a Higher-Level Spell Slot.*** The radius of the spell increases by 10 feet for each spell slot level above 2.
+
+---
+
+*Spell Compendium v3.5, p.39*
 
 ---

@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.38*
+*Homebrew*
 
 # Branch to Branch
 *Level 1 Transmutation (Druid, Ranger)*
@@ -13,5 +13,9 @@
 For the duration, you have a Climb Speed equal to your Speed, you have a +10 bonus to Sthrength (Athletics) checks made to climb trees and your speed increases by 10 feet while you move from branch to branch.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 hour for each spell slot level above 1.
+
+---
+
+*Spell Compendium v3.5, p.38*
 
 ---

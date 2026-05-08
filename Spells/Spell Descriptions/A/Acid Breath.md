@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.7*
+*Homebrew*
 
 # Acid Breath
 *Level 3 Evocation (Sorcerer, Wizard)*
@@ -15,5 +15,25 @@ You breathe forth a spray of acidic droplets. Each creature in a 30-foot Cone or
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
 ***Using a Higher-Level Spell Slot.*** The Cone's length increases by 10 feet for each spell slot level above 3.
+
+---
+
+*Spell Compendium v3.5, p.7*
+
+# Acid Breath
+Conjuration (Creation) [Acid]
+
+**Level:** Sorcerer/wizard 3
+**Components:** V, S, M
+**Casting Time:** 1 standard action
+**Range:** 15 ft.
+**Area:** Cone-shaped burst
+**Duration:** Instantaneous
+**Saving Throw:** Reflex half
+**Spell Resistance:** Yes
+
+*You pop the fire ants into your mouth and exhale quickly. The ants distill into drops of pure acid in midair, spattering against your foes and leaving smoking holes.*
+
+You breathe forth a cone of acidic droplets. The cone deals 1d6 points of acid damage per caster level (maximum 10d6). Material Component: A handful of fire ants (alive or dead).
 
 ---

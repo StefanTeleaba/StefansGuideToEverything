@@ -1,4 +1,4 @@
-*Champions of Ruin, p.29* 
+*Homebrew*
 
 # Bloodfreeze Arrow
 *Level 4 Transmutation (Ranger)*

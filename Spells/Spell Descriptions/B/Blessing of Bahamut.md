@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.31*
+*Homebrew*
 
 # Blessing of Bahamut
 *Level 1 Abjuration (Paladin)*
@@ -13,5 +13,9 @@
 An opalescent glow surrounds one willing creature you touch. For the duration, any damage the creature takes is reduced by 5.
 
 ***Using a Higher-Level Spell Slot.*** The amount of damage reduced by the spell increases by 5 for each spell slot level above 1.
+
+---
+
+*Spell Compendium v3.5, p.31*
 
 ---

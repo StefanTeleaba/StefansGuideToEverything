@@ -1,4 +1,4 @@
-*Forgotten Realms: City of Splendors: Waterdeep v2, p.153*
+*Homebrew*
 
 # Blacksphere
 *Level 8 Evocation (Wizard)*
@@ -12,5 +12,9 @@ A burst of black force erupts at a point you choose within range. Each creature 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by Dispel Magic. A Disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 4d6 for each spell slot level above 8.
+
+---
+
+*Forgotten Realms: City of Splendors: Waterdeep v2, p.153*
 
 ---

@@ -1,4 +1,4 @@
-*Ghostwalk v3.5, p.49*
+*Homebrew*
 
 # Bottomless Hate
 *Level 1 Enchantment (Ranger)*
@@ -13,5 +13,9 @@
 You gain a +1 bonus to attack and damage rolls against creatures marked by your Hunter's Mark.
 
 ***Using a Higher-Level Spell Slot.*** The bonus increases by 1 for each spell slot level above 1.
+
+---
+
+*Ghostwalk v3.5, p.49*
 
 ---

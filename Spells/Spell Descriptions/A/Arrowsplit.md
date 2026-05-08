@@ -1,4 +1,4 @@
-*Champions of Ruin, p.28* 
+*Homebrew*
 
 # Arrowsplit
 *Level 3 Conjuration (Ranger)*

@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.31*
+*Homebrew*
 
 # Blast of Force
 *Level 2 Evocation (Sorcerer, Wizard)*
@@ -13,5 +13,9 @@
 Make a ranged spell attack against one creature or object in range. On a hit, the target takes 5d6 Force damage, and it must succeed on a Strength saving throw or have the Prone condition.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
+
+---
+
+*Spell Compendium v3.5, p.31*
 
 ---
