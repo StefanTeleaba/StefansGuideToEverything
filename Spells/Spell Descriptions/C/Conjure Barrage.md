@@ -1,3 +1,5 @@
+*Player’s Handbook v5.5, p.254*
+
 # Conjure Barrage
 *Level 3 Conjuration (Ranger)*
 
@@ -10,4 +12,4 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 3.
 
-**Source:** *Player's Handbook v5.5, p.254*
+---

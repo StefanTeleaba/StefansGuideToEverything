@@ -1,3 +1,5 @@
+*Exploring Eberron v5.5, p.22*
+
 # Concussive Burst
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -10,4 +12,4 @@ A pulse of energy tears ripples through the air, dealing minor damage over a wid
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
 
-**Source:** *Exploring Eberron v5.5, p.22*
+---

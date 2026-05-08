@@ -1,3 +1,5 @@
+*Wizard's Spell Compendium Volume One v2, p.80*
+
 # Besieging Bolt
 *Level 6 Evocation (Wizard)*
 
@@ -10,10 +12,5 @@ You launch a large bolt of force. Make a ranged spell attack against one creatur
 Until the spell ends, you can take a Magic action to launch a new bolt of force.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 6.
-
-**Source:**  
-*Wizard's Spell Compendium Volume One v2, p.80*  
-*Modified by Stefan*  
-
 
 ---

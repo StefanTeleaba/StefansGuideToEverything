@@ -1,3 +1,5 @@
+*[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
+
 # Cordon of Arrows
 *Level 2 Transmutation (Ranger)*
 
@@ -12,9 +14,9 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
-**Source:** *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 ---
+
+*Player's Handbook v5.5, p.258*
 
 # Cordon of Arrows
 *Level 2 Transmutation (Ranger)*
@@ -29,4 +31,4 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 ***Using a Higher-Level Spell Slot.*** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Source:** *Player's Handbook v5.5, p.258*
+---

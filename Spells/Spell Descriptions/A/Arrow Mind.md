@@ -1,3 +1,6 @@
+*Anauroch: The Empire of Shade, p.142*  
+*Spell Compendium v3.5, p.16*
+
 # Arrow Mind
 Level 1 Divination (Ranger, Sorcerer, Wizard)
 
@@ -11,12 +14,5 @@ Level 1 Divination (Ranger, Sorcerer, Wizard)
 When you cast the spell, you can make one ranged attack against the provoking creature. For the duration, when a creature would provoke an Opportunity Attack, you can take a Reaction to make one ranged attack against that creature. In addition, you do not have Disadvantage on ranged attack rolls if you are within 5 feet of an enemy.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 minute for each spell slot level above 1.
-
-**Source:**  
-*Complete Adventurer v3.5, p.143*  
-*Anauroch: The Empire of Shade v3.5, p.142*  
-*Spell Compendium v3.5, p.16*  
-*Modified by Stefan*  
-
 
 ---

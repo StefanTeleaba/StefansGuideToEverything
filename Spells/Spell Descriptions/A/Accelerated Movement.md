@@ -1,3 +1,5 @@
+*Spell Compendium v3.5, p.7*
+
 # Accelerated Movement
 *Level 1 Transmutation (Bard, Ranger, Sorcerer, Wizard)*
 
@@ -11,11 +13,5 @@
 Until the spell ends, Climbing, Crawling, Swimming and Difficult Terrain don't cost you extra movement.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 1 minute for each spell slot level above 1.
-
-**Source:**  
-*Complete Adventurer v3.5, p.142*
-*Spell Compendium v3.5, p.7*  
-*Modified by Stefan*  
-
 
 ---

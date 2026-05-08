@@ -1,3 +1,5 @@
+*Spell Compendium v3.5, p.7*
+
 # Acid Breath
 *Level 3 Evocation (Sorcerer, Wizard)*
 
@@ -13,10 +15,5 @@ You breathe forth a spray of acidic droplets. Each creature in a 30-foot Cone or
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
 ***Using a Higher-Level Spell Slot.*** The Cone's length increases by 10 feet for each spell slot level above 3.
-
-**Source:**  
-*Spell Compendium v3.5, p.7*  
-*Modified by Stefan*  
-
 
 ---

@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+
 # Bleeding Darkness
 *Level 3 Evocation (Psion, Warlock, Wizard)*
 
@@ -12,4 +14,4 @@ Until the spell ends, you can take a Magic action to move the Sphere up to 20 fe
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 3.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+---

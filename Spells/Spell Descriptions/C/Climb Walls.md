@@ -1,3 +1,5 @@
+*Spell Compendium v3.5, p.47*
+
 # Climb Walls
 *Level 1 Transmutation (Druid, Ranger)*
 
@@ -11,10 +13,5 @@
 You touch a willing creature. For the duration, climbing don't cost that creature extra movement, and it gains a +10 bonus to Strength (Athletics) checks made to climb.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
-
-**Source:**  
-*Spell Compendium v3.5, p.47*  
-*Modified by Stefan*  
-
 
 ---

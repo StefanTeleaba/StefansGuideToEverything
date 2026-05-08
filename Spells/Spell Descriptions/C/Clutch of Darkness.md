@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Clutch of Darkness
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -11,5 +13,4 @@ If the total is greater than the target's Strength, it has Disadvantage on Stren
 If the total is greater than the target's Dexterity, its Speed is halved and attack rolls against it have Advantage.  
 If the total is greater than its current Hit Points, the target immediately implodes and dies.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

@@ -1,4 +1,6 @@
-## Compelled Duel
+*Player's Handbook v5.5, p.252*
+
+# Compelled Duel
 *Level 1 Enchantment (Paladin)*
 
 **Casting Time:** Bonus Action  
@@ -10,3 +12,5 @@ You try to compel a creature into a duel. One creature that you can see within r
 The spell ends if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
 ***Using a Higher-Level Spell Slot.*** You can affect one additional creature for each spell slot level above 1.
+
+---

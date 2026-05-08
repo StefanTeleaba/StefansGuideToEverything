@@ -1,3 +1,5 @@
+*Spell Compendium v3.5, p.43*
+
 # Camouflage
 *Level 1 Transmutation (Druid, Ranger)*
 
@@ -11,10 +13,5 @@
 You have a +10 bonus to Dexterity (Stealth) checks for the duration.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 1.
-
-**Source:**  
-*Spell Compendium v3.5, p.43*  
-*Modified by Stefan*  
-
 
 ---
