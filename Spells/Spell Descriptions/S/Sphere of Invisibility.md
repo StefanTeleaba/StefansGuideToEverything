@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Sphere of Invisibility
 *Level 3 Illusion (Sorcerer, Wizard)*
 
@@ -10,9 +12,8 @@ You radiate a concealing aura in a 10-foot Emanation for the duration. While in 
 
 ***Using a Higher-Level Spell Slot.*** The Emanation increases by 5 feet for each spell slot level above 3.
 
-**Source:**  
-*Player's Handbook v3.5, p.245*  
-*Modified by Stefan*  
+---
 
+*Player's Handbook v3.5, p.245*
 
 ---

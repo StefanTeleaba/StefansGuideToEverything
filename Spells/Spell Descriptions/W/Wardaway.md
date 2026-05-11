@@ -1,3 +1,5 @@
+*Forgotten Realms: Heroes of Faerun v5.5, p.147*
+
 # Wardaway
 *Level 1 Abjuration (Bard, Cleric, Paladin, Wizard)*
 
@@ -11,4 +13,4 @@ On a failed save, the target takes 2d4 Force damage, its Speed is halved until t
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d4 for every spell slot level above 1.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.147*
+---

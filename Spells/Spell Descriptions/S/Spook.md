@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Spook
 *Level 1 Illusion (Sorcerer, Wizard)*
 
@@ -11,9 +13,8 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
-**Source:**  
-*Wizard's Spell Compendium Volume Three v2, p.861*  
-*Modified by Stefan*  
+---
 
+*Wizard's Spell Compendium Volume Three v2, p.861*  
 
 ---

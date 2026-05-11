@@ -1,3 +1,5 @@
+*Grim Hollow: Player's Guide 2024 v5.5, p.198*
+
 # Preserve
 *Transmutation Cantrip (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
@@ -8,6 +10,4 @@
 
 Food and other perishable items weighing 5 pounds or less that you place in a sack don't age or decay for the duration.
 
-
-
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.198*
+---

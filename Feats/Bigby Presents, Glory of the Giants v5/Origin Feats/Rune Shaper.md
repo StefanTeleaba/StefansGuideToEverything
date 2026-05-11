@@ -1,3 +1,5 @@
+*Bigby Presents: Glory of the Giants v5, p.18*
+
 # Rune Shaper
 *Origin Feat*
 
@@ -22,4 +24,4 @@ You can also invoke a rune inscribed on an object you are wearing or carrying an
 | Stone    | Sanctuary          |
 | Storm    | Thunderwave        |
 
-**Source:** *Bigby Presents: Glory of the Giants v5, p.18*
+---

@@ -1,4 +1,6 @@
-## Teleportation Circle
+*Player's Handbook v5.5, p.332*
+
+# Teleportation Circle
 *Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
@@ -10,3 +12,5 @@ As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed w
 Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence—a string of runes arranged in a particular pattern.  
 When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.  
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
+
+---

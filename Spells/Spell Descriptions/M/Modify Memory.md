@@ -1,4 +1,6 @@
-## Modify Memory
+*Player's Handbook v5.5, p.299*
+
+# Modify Memory
 *Level 5 Enchantment (Bard, Wizard)*
 
 **Casting Time:** Action  
@@ -13,3 +15,5 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 A Remove Curse or Greater Restoration spell cast on the target restores the creature's true memory.
 
 ***Using a Higher-Level Spell Slot.*** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
+
+---

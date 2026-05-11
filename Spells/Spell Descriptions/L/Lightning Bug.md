@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Lightning Bug
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -12,10 +14,9 @@ You create a dart of electrical energy that strikes a creature of your choice th
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-**Source:**  
+---
+
 *City of Splendors v2, p.85*  
 *Wizard's Spell Compendium Volume Two v2, p.516*  
-*Modified by Stefan*  
-
 
 ---

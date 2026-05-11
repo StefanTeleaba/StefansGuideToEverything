@@ -1,4 +1,6 @@
-## Pass Without Trace
+*Player's Handbook v5.5, p.303*
+
+# Pass Without Trace
 *Level 2 Abjuration (Druid, Ranger)*
 
 **Casting Time:** Action  
@@ -7,3 +9,5 @@
 **Duration:** Concentration, up to 1 hour
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
+
+---

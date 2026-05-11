@@ -1,3 +1,5 @@
+*Forgotten Realms: Heroes of Faerun v5.5, p.147*
+
 # Sylune's Viper
 *Level 3 Conjuration (Druid, Wizard)*
 
@@ -13,4 +15,4 @@ While the spell is active, you gain the following benefits:
 
 ***Using a Higher-Level Spell Slot.*** For each spell slot level above 3, the number of Temporary Hit Points you gain from this spell increases by 5, and the damage of Venomous Bite increases by 1d6.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.147*
+---

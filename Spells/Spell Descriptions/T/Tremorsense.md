@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Tremorsense
 *Level 2 Transmutation (Ranger, Sorcerer, Wizard)*
 
@@ -11,3 +13,5 @@
 For the duration, a willing creature you touch has Tremorsense with a range of 30 feet.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
+
+---

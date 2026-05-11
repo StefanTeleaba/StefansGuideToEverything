@@ -1,3 +1,5 @@
+*Grim Hollow: Player's Guide 2024 v5.5, p.204*
+
 # Thorn Armor
 *Level 1 Abjuration (Druid, Ranger)*
 
@@ -10,6 +12,4 @@ When you cast this spell, a flexible exoskeleton covered in thorns appears aroun
 
 ***Using a Higher-Level Spell Slot.*** The target gains an additional 2d6 Temporary Hit Points for each spell slot level above 1.
 
-
-
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.204*
+---

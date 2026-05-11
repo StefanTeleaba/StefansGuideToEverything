@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Shadowy Eruption
 *Level 3 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -11,5 +13,4 @@ A 20-foot radius Sphere of gloom erupts from a point you choose within range as 
 **Tomb of Shadows.** Creatures of your choice in the area must make Constitution saving throws. A target takes 4d8 Necrotic damage on a failed save and its Speed is reduced by 20 feet. On a successful save, the target takes half as much damage only.  
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 3.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

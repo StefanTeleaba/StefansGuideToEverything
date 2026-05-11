@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Lightning Lance
 *Level 4 Evocation (Sorcerer, Wizard)*
 
@@ -12,9 +14,8 @@ You create a crackling lance of lightning. Make a ranged spell attack. On a hit 
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 4.
 
-**Source:**  
-*Dragonlance Campaign Setting v3.5, p.105*  
-*Modified by Stefan*  
+---
 
+*Dragonlance Campaign Setting v3.5, p.105*  
 
 ---

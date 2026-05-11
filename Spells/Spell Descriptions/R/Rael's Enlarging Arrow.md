@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Rael's Enlarging Arrow
 *Transmutation Cantrip (Wizard)*
 
@@ -10,4 +12,8 @@ Description: This spell enchants one arrow per 3 levels of caster (2 at 4th leve
 
 The feeling of being shot on by one of these arrows is sort of like being fired up on with sharpened telephone poles, really scary! The material component is the arrow to be affected and a bit of powdered iron. 
 
-**Source:** *Dragon Magazine 200*
+---
+
+*Dragon Magazine 200*
+
+---

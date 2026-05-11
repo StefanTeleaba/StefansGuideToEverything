@@ -1,4 +1,6 @@
-## Thunderwave
+*Player's Handbook v5.5, p.334*
+
+# Thunderwave
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -10,3 +12,5 @@ You unleash a wave of thunderous energy. Each creature in a 15-foot Cube origina
 In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
+
+---

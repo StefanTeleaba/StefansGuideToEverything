@@ -1,4 +1,6 @@
-## Move Earth
+*Player's Handbook v5.5, p.302*
+
+# Move Earth
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -10,3 +12,5 @@ Choose an area of terrain no larger than 40 feet on a side within range. You can
 At the end of every 10 minutes you spend Concentrating on the spell, you can choose a new area of terrain to affect within range.  
 This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.  
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
+
+---

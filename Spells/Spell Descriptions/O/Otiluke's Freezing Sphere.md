@@ -1,4 +1,6 @@
-## Otiluke's Freezing Sphere
+*Player's Handbook v5.5, p.302*
+
+# Otiluke's Freezing Sphere
 *Level 6 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -11,3 +13,5 @@ If the globe strikes a body of water, it freezes the water to a depth of 6 inche
 You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 6.
+
+---

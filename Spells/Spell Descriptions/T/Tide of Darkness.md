@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Tide of Darkness
 *Level 1 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -10,5 +12,4 @@ You unleash a wave of swirling shadows that fills an area next to you. Each crea
 
 ***Using a Higher-Level Spell Slot.*** The size of the Cube increases by 5 feet for each spell slot level above 1.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

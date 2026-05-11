@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+
 # Life-Inversion Field
 *Level 4 Abjuration (Cleric, Psion, Sorcerer)*
 
@@ -10,4 +12,4 @@ An aura radiates from you in a 30-foot Emanation for the duration. When you crea
 
 ***Using a Higher-Level Spell Slot.*** The healing increase by 1d8 for each spell slot level above 4.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+---

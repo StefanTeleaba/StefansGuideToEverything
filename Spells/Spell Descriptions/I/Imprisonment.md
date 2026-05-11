@@ -1,4 +1,6 @@
-## Imprisonment
+*Player's Handbook v5.5, p.288*
+
+# Imprisonment
 *Level 9 Abjuration (Warlock, Wizard)*  
 
 **Casting Time:** 1 minute  
@@ -16,3 +18,5 @@ Until the spell ends, the target is also affected by one of the following effect
 **Slumber.** The target has the Unconscious condition and can't be awoken.
 
 **Ending the Spell.** When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.A Dispel Magic spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
+
+---

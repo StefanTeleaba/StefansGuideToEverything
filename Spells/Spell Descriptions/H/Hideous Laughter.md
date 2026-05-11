@@ -1,4 +1,6 @@
-## Tasha's Hideous Laughter
+*Player's Handbook v5.5, p.331*
+
+# Tasha's Hideous Laughter
 *Level 1 Enchantment (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
@@ -10,3 +12,5 @@ One creature of your choice that you can see within range makes a Wisdom saving 
 At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level about 1.
+
+---

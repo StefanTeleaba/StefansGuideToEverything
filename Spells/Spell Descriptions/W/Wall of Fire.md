@@ -1,4 +1,6 @@
-## Wall of Fire
+*Player's Handbook v5.5, p.338*
+
+# Wall of Fire
 *Level 4 Evocation (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** Action  
@@ -11,3 +13,5 @@ When the wall appears, each creature in its area makes a Dexterity saving throw,
 One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
+
+---

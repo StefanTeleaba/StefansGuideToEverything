@@ -1,4 +1,6 @@
-## Ice Storm
+*Player's Handbook v5.5, p.287*
+
+# Ice Storm
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -10,3 +12,5 @@ Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within
 Hailstones turn ground in the Cylinder into Difficult Terrain until the end of your next turn.
 
 ***Using a Higher-Level Spell Slot.*** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
+
+---

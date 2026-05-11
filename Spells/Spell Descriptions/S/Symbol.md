@@ -1,4 +1,6 @@
-## Symbol
+*Player's Handbook v5.5, p.329*
+
+# Symbol
 *Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
 
 **Casting Time:** 1 minute  
@@ -25,3 +27,5 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 **Sleep.** Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
 **Stunning.** Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
+
+---

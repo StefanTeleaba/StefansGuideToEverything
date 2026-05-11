@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Versatile Vibration  
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -13,10 +15,9 @@ Until the spell ends, you can take a Magic action to maintain and reposition the
 
 ***Using a Higher-Level Spell Slot.*** The Cone's length increases by 10 feet for each spell slot level above 5.
 
-**Source:**  
+---
+
 *Magic of Faerun v3.5, p.101*  
 *Spell Compendium v3.5, p.195*  
-*Modified by Stefan*  
-
 
 ---

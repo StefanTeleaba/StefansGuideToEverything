@@ -1,3 +1,5 @@
+*Unearthed Arcana 2025 - Psion Update, v5.5, p.13*
+
 # Psionic Blast
 *Level 6 Evocation (Psion, Wizard)*
 
@@ -10,4 +12,4 @@ You unleash a concussive burst of psionic energy. Each creature in a 60-foot Con
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 6.
 
-**Source:** *Unearthed Arcana 2025 - Psion Update, v5.5, p.13*
+---

@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Lay of the Land
 *Level 1 Divination (Druid, Ranger)*
 
@@ -12,4 +14,8 @@ You gain an overview of the area around you. Lay of the land gives basic informa
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 1.
 
+---
+
 *Spell Compendium, p.131*
+
+---

@@ -1,0 +1,18 @@
+*D&D Beyond Dungeon Drop - May 2026*
+
+# Infernal Bulwark
+*General Feat (Prerequisite: Level 4+, Infernal Pact Feat)*
+
+You gain the following benefits.
+
+***Ability Score Increase.*** Increase your Constitution or Charisma score by 1, to a maximum of 20.
+
+***Devil’s Flesh.*** Your skin thickens and assumes a scaled, leathery texture. While you aren’t wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity modifier plus the modifier of the ability increased by this feat.
+
+***Infernal Protection.*** You always have the Armor of Agathys spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. When you cast it without a spell slot using this feature, you cast this spell as its level 2 version, and it deals Fire damage instead of Cold damage. You can also cast the spell using any spell slots you have of the appropriate level. Charisma is your spellcasting ability for this spell.
+
+***Vengeful Surge.*** Whenever a creature you can see within 60 feet of yourself forces you to make a saving throw and you succeed, you can take a Reaction to deal 1d10 Fire damage to that creature.
+
+You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+---

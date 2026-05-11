@@ -1,4 +1,6 @@
-# Scorcher, Aganazzar's
+*Homebrew*
+
+# Aganazzar's Scorcher
 *Level 2 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -12,9 +14,8 @@ A jet of roaring flame forming a 30-foot-long, 5-foot-wide Line bursts from your
 
 ***Using a Higher-Level Spell Slot.*** The Line's length increases by 10 feet for each spell slot level above 2.
 
-**Source:**  
-*Xanathar's Guide to Everything, p.150*  
-*Modified by Stefan*  
+---
 
+*Xanathar's Guide to Everything, p.150*  
 
 ---

@@ -1,3 +1,5 @@
+*[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
+
 # Lightning Arrow
 *Level 3 Transmutation (Ranger)*
 
@@ -11,9 +13,9 @@ The weapon or ammunition then returns to its normal form.
 
 ***Using a Higher-Level Spell Slot.*** The damage for both effects of the spell increases by 1d8 for each spell slot level above 3.
 
-**Source:** *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 ---
+
+*Player's Handbook v5.5, p.292*
 
 # Lightning Arrow
 *Level 3 Transmutation (Ranger)*
@@ -28,4 +30,4 @@ The weapon or ammunition then returns to its normal form.
 
 ***Using a Higher-Level Spell Slot.*** The damage for both effects of the spell increases by 1d8 for each spell slot level above 3.
 
-**Source:** *Player's Handbook v5.5, p.292*
+---

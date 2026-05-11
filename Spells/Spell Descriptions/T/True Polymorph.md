@@ -1,4 +1,6 @@
-## True Polymorph
+*Player’s Handbook v5.5, p.335*
+
+# True Polymorph
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  

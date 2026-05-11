@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Iron Horn
 *Level 1 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -10,10 +12,9 @@ You create a deep resonant vibration that can shake creatures off their feet. Ea
 
 ***Using a Higher-Level Spell Slot.*** The Cone's length increases by 5 feet for each spell slot level above 1.
 
-**Source:**  
-*Forgotten Realms: Magic of Faerûn v3.5, p.79*  
-*Spell Compendium v3.5, p.126*  
-*Modified by Stefan*  
+---
 
+*Forgotten Realms: Magic of Faerûn v3.5, p.79*  
+*Spell Compendium v3.5, p.126*
 
 ---

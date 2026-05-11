@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Striking Fist
 *Level 2 Evocation (Sorcerer, Wizard)*
 
@@ -11,9 +13,8 @@ As a Bonus Action on your later turns, you can move the hand up to 30 feet and r
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for every slot level above 2.
 
-**Source:**  
-*Player’s Handbook II v3.5, p.103*  
-*Modified by Stefan*  
+---
 
+*Player’s Handbook II v3.5, p.103*  
 
 ---

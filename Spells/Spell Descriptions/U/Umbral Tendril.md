@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Umbral Tendril
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*
 
@@ -11,5 +13,4 @@ Make a ranged spell attack against the target. On a hit the target takes 2d8 Nec
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

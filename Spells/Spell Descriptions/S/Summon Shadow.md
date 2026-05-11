@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Summon Shadow
 *Level 5 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -11,5 +13,4 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 ***Using a Higher-Level Spell Slot.*** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

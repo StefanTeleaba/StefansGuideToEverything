@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Ventriloquism
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -12,9 +14,8 @@ A creature that takes the Study action to examine the sound can determine that i
 
 ***Using a Higher-Level Spell Slot.*** The range of the spell increases by 10 feet for every slot level above 1.
 
-**Source:**  
-*Player’s Handbook v3.5, p.298*  
-*Modified by Stefan*  
+---
 
+*Player’s Handbook v3.5, p.298*
 
 ---

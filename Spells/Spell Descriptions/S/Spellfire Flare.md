@@ -1,3 +1,5 @@
+*Forgotten Realms: Heroes of Faerun v5.5, p.146*
+
 # Spellfire Flare
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -10,4 +12,4 @@ You unleash a blast of brilliant fire. Make a ranged spell attack against a targ
 
 ***Using a Higher-Level Spell Slot.*** You create an additional blast for each spell slot level above 1. You can direct the blasts at the same target or at different ones. Make a separate attack roll for each blast.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.146*
+---

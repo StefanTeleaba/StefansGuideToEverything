@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Mount
 *Level 1 Conjuration (Wizard)*
 
@@ -11,9 +13,8 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 
 ***Using a Higher-Level Spell Slot.*** The spell lasts 1 additional hour for each spell slot level above 1.
 
-**Source:**  
-*Player's Handbook v3.5, p.256*  
-*Modified by Stefan*  
+---
 
+*Player's Handbook v3.5, p.256*  
 
 ---

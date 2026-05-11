@@ -1,4 +1,6 @@
-## Withering Tendrils
+*Homebrew*
+
+# Withering Tendrils
 *Level 1 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -9,3 +11,5 @@
 You create three glowing darts of necrotic energy. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Necrotic damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
 ***Using a Higher-Level Spell Slot.*** The spell creates one more dart for each spell slot level above 1.
+
+---

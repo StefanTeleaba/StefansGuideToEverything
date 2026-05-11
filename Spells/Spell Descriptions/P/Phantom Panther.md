@@ -1,3 +1,5 @@
+*Cthulhu by Torchlight v5.5*
+
 # Phantom Panther
 *Level 3 Conjuration (Bard, Druid, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -11,5 +13,4 @@ The target makes a Strength saving throw. On a failed save, the target takes 8d6
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
-**Source:**  
-*Cthulhu by Torchlight v5.5*
+---

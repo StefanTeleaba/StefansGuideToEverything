@@ -1,4 +1,6 @@
-## Viper's Quarry
+*Homebrew*
+
+# Viper's Quarry
 *Level 2 Divination (Ranger)*  
 
 **Casting Time:** Bonus Action  
@@ -11,3 +13,5 @@ If the creature drops to 0 Hit Points before the spell ends, you can transfer th
 The target has the Poisoned condition for the duration. At the end of each of its turns, the target makes a Constitution saving throw. On a successful save, the Poisond condition ends.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
+
+---

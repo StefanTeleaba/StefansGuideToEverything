@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Lightfoot
 *Level 1 Transmutation (Ranger)*
 
@@ -12,4 +14,8 @@ Your movement doesn't provoke Opportunity Attacks until the end of your next tur
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 1.
 
+---
+
 *Spell Compendium, p.132*
+
+---

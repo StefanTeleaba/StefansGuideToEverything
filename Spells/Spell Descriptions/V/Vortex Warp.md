@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Vortex Warp
 *Level 2 Conjuration (Sorcerer, Wizard)*
 
@@ -10,9 +12,8 @@ You magically twist space around another creature you can see within range. The 
 
 ***Using a Higher-Level Spell Slot.*** The range of the spell increases by 30 feet for each spell slot level above 2.
 
-**Source:**  
-*Strixhaven: A Curriculum of Chaos v5, p.38*  
-*Modified by Stefan*  
+---
 
+*Strixhaven: A Curriculum of Chaos v5, p.38*  
 
 ---

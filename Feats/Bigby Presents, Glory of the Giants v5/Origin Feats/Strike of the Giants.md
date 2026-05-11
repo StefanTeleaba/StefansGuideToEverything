@@ -1,3 +1,5 @@
+*Bigby Presents: Glory of the Giants v5, p.19*
+
 # Strike of the Giants
 *Origin Feat*
 
@@ -18,4 +20,4 @@ You have absorbed primeval magic that gives you an echo of the might of giants. 
 The saving throw DC for these effects equals 8 + your proficiency bonus + your Strength or Constitution modifier.  
 You can use this feat a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
-**Source:** *Bigby Presents: Glory of the Giants v5, p.19*
+---

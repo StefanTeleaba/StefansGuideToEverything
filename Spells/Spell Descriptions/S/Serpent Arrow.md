@@ -1,3 +1,5 @@
+*Homebrew*
+
 # Serpent Arrow
 *Level 3 Transmutation (Ranger)*
 
@@ -12,6 +14,7 @@
 **Source:** *Champions of Ruin, p.34*  
 
 ---
+
 *Champions of Ruin, p.34*
 
 # Serpent Arrow
@@ -29,6 +32,5 @@
 You transform wooden arrows, darts, or twigs into Tiny vipers (see Monster Manual page 200). These missiles remain rigid and harmless until fired or hurled. They automatically bite any creature they hit, each dealing 1 point of damage plus poison (injury, Fortitude DC 11, initial and secondary damage 1d6 Con). The missiles remain in snake form for the duration of the spell, fighting the creatures they initially struck using their normal attack bonus. If a missile misses its target, or the target originally struck moves out of reach, the snake moves to attack the nearest creature other than you. If a target falls dead and no others are in range, the spell ends even if its duration has not run out. When the spell expires, the vipers melt away, leaving nothing behind.
 
 *Material Components:* Up to eight wooden arrows, darts, or straight twigs, plus a scale from any sort of snake.
-
 
 ---

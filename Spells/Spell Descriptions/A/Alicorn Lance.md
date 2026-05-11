@@ -14,6 +14,10 @@ You hurl a silver, etereal alicorn toward a creature within range. Make a ranged
 
 ---
 
-*Silver Marches*
+*Silver Marches v3*
+
+---
+
+*Priest's Spell Compendium Volume One v2, p.20*
 
 ---

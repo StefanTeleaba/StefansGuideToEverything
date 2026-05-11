@@ -1,3 +1,5 @@
+*Valda's Spire of Secrets: Player Pack v5.5*
+
 # Mandy's Feral Follower
 *Level 4 Transmutation (Wizard)*
 
@@ -13,6 +15,4 @@ The target gains 10 Temporary Hit Points. The spell ends early on the target if 
 
 ***Using a Higher-Level Spell Slot.*** You can shape-shift one additional Beast for each spell slot level above 4.
 
-
-**Source:**  
-*Valda's Spire of Secrets: Player Pack v5.5*
+---

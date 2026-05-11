@@ -1,4 +1,6 @@
-## Magic Circle
+*Player's Handbook v5.5, p.293*
+
+# Magic Circle
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** 1 minute  
@@ -15,3 +17,5 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
 
 ***Using a Higher-Level Spell Slot.*** The duration increases by 1 hour for each spell slot level above 3.
+
+---

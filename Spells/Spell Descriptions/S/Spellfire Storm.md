@@ -1,3 +1,5 @@
+*Forgotten Realms: Heroes of Faerun v5.5, p.146*
+
 # Spellfire Storm
 *Level 4 Evocation (Sorcerer, Wizard)*
 
@@ -22,4 +24,4 @@ The number of secondary casters determines the spell's area of effect and durati
 | 4-6               | 60-foot-radius, 60-foot-high Cylinder   | 8 Hours  |
 | 7+                | 100-foot-radius, 100-foot-high Cylinder | 24 Hours |
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.146*
+---

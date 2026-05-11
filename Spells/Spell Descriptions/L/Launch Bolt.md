@@ -1,3 +1,5 @@
+[*Created by Nardo*](https://www.youtube.com/@nardodd)  
+
 # Launch Bolt
 *Conjuration Cantrip (Sorcerer, Wizard)*
 
@@ -12,6 +14,8 @@ You fling a bolt as if fired from a crossbow at a target that you can see within
 
 ***Cantrip Upgrade.*** The spell launches two bolts at level 5, three bolts at level 11, and four bolts at level 17. You can direct the bolts at the same target or at different ones. Make a separate attack roll for each bolt.
 
-**Source:**  
-[*Created by Nardo*](https://www.youtube.com/@nardodd)  
+---
+
 *Spell Compendium v3.5, p.130*
+
+---

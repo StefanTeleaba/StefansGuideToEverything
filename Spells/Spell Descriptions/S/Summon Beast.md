@@ -1,5 +1,6 @@
-## Summon Beast
-*Homebrew*  
+*Homebrew*
+
+# Summon Beast
 *Level 2 Conjuration (Druid, Ranger)*
 
 ***Casting Time:*** Action  
@@ -12,7 +13,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
-### Bestial Spirit
+## Bestial Spirit
 *Small Beast, Neutral*  
 
 **AC** 11 + the spell's level  
@@ -32,11 +33,17 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 **Languages** understands the languages you know  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
+**Traits**  
 ***Flyby (Air Only).*** The spirit doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.  
 ***Pack Tactics (Land and Water Only).*** The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.  
 ***Water Breathing (Water Only).*** The spirit can breathe only underwater.
 
-#### Actions
+**Actions**  
 ***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell's level (round down).  
 ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell's level Piercing damage.
+
+---
+
+*Player's Handbook v5.5, p.322*
+
+---

@@ -1,4 +1,6 @@
-## Power Word Stun
+*Player’s Handbook v5.5, p.306*
+
+# Power Word Stun
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
@@ -8,3 +10,5 @@
 
 You overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it has the Stunned condition. Otherwise, its Speed is 0 until the start of your next turn.  
 The Stunned target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
+
+---

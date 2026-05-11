@@ -1,3 +1,5 @@
+*Forgotten Realms: Heroes of Faerun v5.5, p.145*
+
 # Songal's Elemental Suffusion
 *Level 5 Transmutation (Druid, Sorcerer, Wizard)*
 
@@ -14,4 +16,4 @@ You imbue yourself with the elemental power of genies. You gain the following be
 ***Casting as a Circle Spell.*** If the spell is cast as a Circle spell, its casting time increases to 1 minute, and its duration increases to Concentration, up to 10 minutes. For each secondary caster who participates in the casting, you can choose one additional creature, to a maximum of nine additional creatures. The chosen creatures also gain the benefits of the spell for its duration.  
 When the spell is cast, each secondary caster must expend a level 2+ spell slot; otherwise, the spell fails.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.145*
+---

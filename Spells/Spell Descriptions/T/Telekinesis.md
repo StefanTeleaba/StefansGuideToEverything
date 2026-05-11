@@ -1,4 +1,6 @@
-## Telekinesis
+*Player's Handbook v5.5, p.331*
+
+# Telekinesis
 *Level 5 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
@@ -13,3 +15,5 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 ***Object.*** You can try to move a Huge or smaller object. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction within the spell's range.  
 If the object is worn or carried by a creature, that creature must succeed on a Strength saving throw, or you pull the object away and move it up to 30 feet in any direction within the spell's range.  
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
+
+---

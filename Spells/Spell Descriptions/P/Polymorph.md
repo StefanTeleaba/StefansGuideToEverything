@@ -1,4 +1,6 @@
-## Polymorph
+*Player’s Handbook v5.5, p.306*
+
+# Polymorph
 *Level 4 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -10,3 +12,5 @@ You attempt to transform a creature that you can see within range into a Beast. 
 The target gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. The spell ends early on the target if it has no Temporary Hit Points left.  
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.  
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
+
+---
