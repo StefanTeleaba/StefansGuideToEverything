@@ -11,3 +11,7 @@ The target can move only by pushing or pulling against a fixed object or surface
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 2.
+
+***Using a Higher-Level Spell Slot.*** If you use a level 3+ spell slot, the duration is 1 hour.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature or object for each spell slot level above 2.

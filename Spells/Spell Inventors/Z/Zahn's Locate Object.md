@@ -11,3 +11,5 @@ The spell can locate a specific object known to you if you have seen it up close
 This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
 ***Using a Higher-Level Spell Slot.*** The duration of the spell increases by 10 minutes for each spell slot level above 2.
+
+***Using a Higher-Level Spell Slot.*** If you use a level 3+ spell slot, the duration is 1 hour.

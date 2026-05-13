@@ -11,8 +11,8 @@ You gain the following benefits.
 
 ***Fey Shift.*** When you take the Dash action, you can forgo the extra movement to teleport to an unoccupied space you can see within a distance equal to half your Speed instead.
 
-***Nature’s Roots.*** You always have the Entangle spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have. The spell’s spellcasting ability is the ability increased by this feat.
+***Nature’s Roots.*** You always have the *Entangle* spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast it using any spell slots you have. The spell’s spellcasting ability is the ability increased by this feat.
 
-When you reach character level 5, you also always have the Plant Growth spell prepared and can cast it the same way.
+When you reach character level 5, you also always have the *Plant Growth* spell prepared and can cast it the same way.
 
 ---

@@ -1,8 +1,10 @@
+*Homebrew*
+
 # Infernal Constitution
 *Racial Feat (Prerequisite: Tiefling, Level 4+, Constitution 13+)*  
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Constitution score by 1, to a maximum of 20.  
-***Energy Resistance.*** Choose two of the following damage types: Acid, Cold, Fire, Necrotic or Poison. You have Resistance to these damage types.
+***Energy Resistance.*** Choose two of the following damage types: Acid, Cold, Fire, Necrotic or Poison. You have Resistance to these damage types. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
 
-**Source:** *Created by Stefan*
+---
