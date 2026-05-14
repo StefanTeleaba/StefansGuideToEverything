@@ -1,6 +1,8 @@
-# Gloom Mask
+
+---
 
 *Drow of the Underdark, p.99*
+# Gloom Mask
 
 **Price:** 3,000 GP  
 **Body Slot:** Face  
@@ -21,3 +23,5 @@ spell or spell-like ability up to 3rd level
 with the darkness descriptor that you
 cast functions as if you had cast it with
 the Widen Spell metamagic feat.
+
+---
