@@ -3,7 +3,7 @@
 
 *Dyerwaen is a fine steel broad sword with a rose etched along the length of the blade; its hilt is tightly wound with green velvet. The weapon sheds light when its wielder desires, glowing at no other time.*
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Beacon.*** You can cause the item to shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, or extinguish the light (no action required).  
 ***Compass.*** You can take a Magic action to learn which way is magnetic north.  
 ***Survival.*** As long as Dyerwaen is within your reach and you are attuned to it, you gain a +2 bonus to Wisdom (Survival) checks.
