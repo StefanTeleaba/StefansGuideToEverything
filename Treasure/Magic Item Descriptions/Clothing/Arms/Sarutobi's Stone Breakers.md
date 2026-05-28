@@ -8,6 +8,5 @@ While wearing these bracers, you have a +2 bonus to attack rolls and damage roll
 *Attuned to:*  
 ***Strength.*** You gain a +2 bonus to your Strength score.  
 
-
-
-**Source:** *Icewind Dale: Heart of Winter*
+---
+*Icewind Dale: Heart of Winter*
