@@ -48,7 +48,7 @@ Your Haki Die becomes a d12.
 ---
 
 **Conqueror's Haki**  
-***Commanding Presence.*** When you make a Charisma (Intimidation, Performance, or Persuasion) check, you can expend one Haki Die and add that die to the roll.  
+***Commanding Presence.*** You gain Proficiency in the Intimidation, Performance, and Persuasion skills. When you make a Charisma (Intimidation, Performance, or Persuasion) check, you can expend one Haki Die and add that die to the roll.  
 ***Intimidating Presence.*** When you take the Attack action, you can expend one Haki Die to overpower others with your will. Each creature of your choice in an Emanation originating from you must make a Wisdom saving throw. On a failed save, a creature has the *Stunned* condition for 1 minute. At the end of each of the Stunned creature's turns, the creature repeats the save, ending the effect on itself on a success.  
 The size of the Emanation equals 10 feet times your Proficiency Bonus.
 
