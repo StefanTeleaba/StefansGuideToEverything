@@ -12,9 +12,9 @@ When you make an attack — with either a weapon or an Unarmed Strike — and de
 | Fighter Level | Die Size |
 |---------------|----------|
 | 3             | 1d6      |
-| 3             | 1d8      |
-| 3             | 1d10     |
-| 3             | 1d12     |
+| 7             | 1d8      |
+| 10            | 1d10     |
+| 15            | 1d12     |
 
 ## Level 7: Brutish Durability
 Your toughness allows you to shrug off assaults that would devastate others. When you make a saving throw, you can use this feature to add a Brute Die to your roll. Moreover, when this would bring your total on a Death Saving Throw to 20 or above, you gain the benefit of rolling a 20 on it.

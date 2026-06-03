@@ -7,8 +7,9 @@
 *Trail Wardens are known for their harsh attitude toward others. Some Trail Wardens believe that they must bring the realities of the wilderness into civilization to prevent the careless from joining their expeditions and endangering the group. But once in the wilds, they become nurturing, protective, and insightful as they guide their charges safely through dangerous territory.*
 
 ## Level 3: Trail Warden Spells
-When you reach a Ranger level specified in the Trailwarden Spells table, you thereafter always have the listed spells prepared.  
-### Trail Warden Spells
+When you reach a Ranger level specified in the Trailwarden Spells table, you thereafter always have the listed spells prepared.
+
+**Trail Warden Spells**
 | Ranger Level | Spells             |
 |:------------:|--------------------|
 | 3            | Goodberry          |

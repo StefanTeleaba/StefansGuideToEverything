@@ -9,7 +9,7 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 ## Level 3: Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Forge Domain Spells table, you thereafter always have the listed spells prepared.
 
-### Forge Domain Spells
+**Forge Domain Spells**
 | Cleric Level | Spells                                            |
 |:------------:|---------------------------------------------------|
 | 3            | Heat Metal, Identify, Magic Weapon, Burning Hands |

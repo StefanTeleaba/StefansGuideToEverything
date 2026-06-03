@@ -1,0 +1,11 @@
+*Ravenloft: The Horrors Within v5.5, p.*
+
+# Survivor
+*Origin Feat*
+
+You gain the following benefits.  
+***Hypervigilance.*** Whenever you roll Initiative, you can reroll the d20 if the number rolled is 9 or lower. You must use the new roll.  
+***Steel Yourself.*** When you fail a saving throw to avoid or end the Charmed or Frightened condition, you can take a Reaction to add a bonus to the roll potentially causing it to succeed. The bonus is equal to your Proficiency Bonus.  
+Once you take this Reaction, you can't do so again until you finish a Long Rest.
+
+---

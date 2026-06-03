@@ -8,7 +8,8 @@ The power to create life is typically one reserved by the gods, and even then, o
 ## Level 3: Life Spells
 When you reach a Sorcerer level specified in the Life Spells table, you thereafter always have the listed spells prepared.  
 In addition, whenever you gain a level in this class, you can replace the Summon Beast or Summon Fey spells in the table with a different spell that is of a level you can prepare from the following list: Summon Aberration, Summon Celestial, Summon Dragon, Summmon Elemental, Summon Fiend, or Summon Shadowspawn.
-### Life Spells
+
+**Life Spells**
 | Sorcerer Level | Spells                                    |
 |----------------|-------------------------------------------|
 | 3              | Aid, Cure Wounds, Goodberry, Summon Beast |

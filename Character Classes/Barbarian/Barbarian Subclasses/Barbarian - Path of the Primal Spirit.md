@@ -27,3 +27,70 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 ## Level 14: Shape of the Wild
 As a Bonus Action, you can choose a new form for your primal companion, causing it to transform instantaneously. When you cause your primal companion to transform in this way, its current Hit Points change to its new Hit Point maximum.  
 Once you use this feature, you can't use it again until you finish a Short or Long Rest. You can also restore your use of it by expending one use of your Rage (no action required).
+
+---
+
+**Primal Guardian**  
+*Medium or Large Beast, Neutral*  
+
+**AC** 12 plus your Constitution modifier  
+**HP** 6 plus six times your Barbarian level (the beast has a number of Hit Dice [d10s] equal to your Barbarian level)  
+**Speed** 30 ft., Fly 40 ft. (Sky only), Swim 40 ft. (Sea only)
+
+|         |    | MOD | SAVE |
+|---------|----|-----|------|
+| **STR** | 15 | +2  | +2   |
+| **DEX** | 12 | +1  | +1   |
+| **CON** | 16 | +3  | +3   |
+| **INT** | 4  | -3  | -3   |
+| **WIS** | 12 | +1  | +1   |
+| **CHA** | 6  | -2  | -2   |
+
+**Senses** Darkvision 60 ft., Passive Perception 11  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Protective Instinct.*** When the guardian becomes Bloodied, it gains Temporary Hit Points equal to half of its maximum Hit Points and is enraged for 10 minutes. While enraged, Hostile creatures within 5 feet have Disadvantage on attack rolls against creatures other than the guardian.  
+***Vigilant.*** The guardian can't be surprised.  
+***Wild Bond.*** Add your Proficiency Bonus to any ability check, attack roll, or saving throw the beast makes.
+
+**Actions**  
+***Natural Weapon.*** *Melee Attack Roll:* Bonus equals your attack modifier using Strength, reach 5 ft. *Hit:* 1d4 + 2 plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast).
+
+**Reactions**  
+***Body Block.*** *Trigger:* When a creature the beast can see attacks a target other than itself that is within 5 feet of it. *Response:* The guardian takes the damage instead of the target.
+
+---
+
+**Primal Striker**  
+*Medium Beast, Neutral*  
+
+**AC** 12 plus your Constitution modifier  
+**HP** 5 plus four times your Barbarian level (the beast has a number of Hit Dice [d6s] equal to your Barbarian level)  
+**Speed** 40 ft., Fly 60 ft. (Sky only), Swim 60 ft. (Sea only)
+
+|         |    | MOD | SAVE |
+|---------|----|-----|------|
+| **STR** | 15 | +2  | +2   |
+| **DEX** | 15 | +2  | +2   |
+| **CON** | 15 | +2  | +2   |
+| **INT** | 4  | -3  | -3   |
+| **WIS** | 12 | +1  | +1   |
+| **CHA** | 7  | -2  | -2   |
+
+**Senses** Darkvision 60 ft., Passive Perception 11  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Enraged Strikes.*** While your Rage is active, the beast's attack rolls have Advantage.  
+***Wild Bond.*** Add your Proficiency Bonus to any ability check, attack roll, or saving throw the beast makes.  
+***Aquatic Assault (Sea Only).*** While the beast is submerged in water, it has Advantage on attack rolls against creatures without a Swim Speed submerged in water.  
+***Flyby (Sky Only).*** The beast doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.
+
+**Actions**  
+***Natural Weapon.*** *Melee Attack Roll:* Bonus equals your attack modifier using Strength, reach 5 ft. *Hit:* 1d8 + 2 plus your Rage Damage bonus Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast).
+
+**Reactions**  
+***Harry (Land Only).*** *Trigger:* When a creature the beast can see within 5 feet of it makes an attack roll. *Response:* The triggering attack roll has Advantage.

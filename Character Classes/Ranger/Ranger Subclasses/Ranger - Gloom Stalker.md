@@ -12,7 +12,8 @@ You have mastered the art of creating fearsome ambushes, granting you the follow
 
 ## Level 3: Gloom Stalker Spells
 When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.
-#### Gloom Stalker Spells
+
+**Gloom Stalker Spells**
 | Ranger Level | Spells               |
 |--------------|----------------------|
 | 3            | Disguise Self        |
