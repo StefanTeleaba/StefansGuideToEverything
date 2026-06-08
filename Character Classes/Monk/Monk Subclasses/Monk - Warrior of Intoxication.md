@@ -35,12 +35,11 @@ You make an overwhelming number of attacks against a group of enemies. When you 
 
 ---
 
-# Drunken Warrior
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew* 
+*Spaghetti0 Homebrew*
 
+# Drunken Warrior
 *Weave and Sway out of the Way of Attacks*  
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.  
 A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
