@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.320*
+*Player's Handbook 5.5e, p.320*
 
 # Steel Wind Strike
 *Level 5 Conjuration (Ranger, Wizard)*

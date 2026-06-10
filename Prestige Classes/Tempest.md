@@ -1,6 +1,6 @@
 # Tempest
 *Prestige Class*  
-*Complete Adventurer v3.5, p.81*
+*Complete Adventurer 3.5e, p.81*
 
 *A tempest is the point of calm within a whirling barrier of deadly blades. Poets use colorful terms such as “dancing” to describe the movement of a tempest and her two blades, but mastery of this fighting style is not about dancing, nor is it about impressing anyone—least of all poets. A tempest focuses on learning the secrets of two-weapon fighting for a single purpose: the destruction of her enemies.*  
 *Typically hardy individualists, tempests rarely learn their skills through formal training. Instead, they master their art through constant application of its disciplines and experimentation on their foes. Similarly, no matter how famous a tempest becomes, it’s rare for one to take on students. Their art, they say, is one that can be learned but never taught.*  

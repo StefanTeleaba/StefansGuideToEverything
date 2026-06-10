@@ -4,4 +4,4 @@
 
 This garb appeals to Fey from one Domain of Delight, such as the Gloaming Court or the Summer Court. While wearing the garb, you have Advantage on ability checks to influence Fey associated with that Domain of Delight.
 
-**Source:** *Forgotten Realms, Heroes of Faerun v5.5, p.132*
+**Source:** *Forgotten Realms, Heroes of Faerun 5.5e, p.132*

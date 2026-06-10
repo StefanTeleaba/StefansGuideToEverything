@@ -1,5 +1,5 @@
 # College of Fools
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Laugh at Your Foes' Terror*  
 It's commonly believed the College of Fools is merely a front for a cult of Beleth. Bards in the College would say their relationship with the Arch Daemon of Fear is much more complicated. These Bards choose to laugh at Etharis's many horrors rather than be dismayed by them—a whimsical, if ghoulish, philosophy. Their delight in other creatures' terror encourages their obscene antics and cruel jests. One person's trick is another person's terror, after all.

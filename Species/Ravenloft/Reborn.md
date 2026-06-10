@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within v5.5*
+*Ravenloft: The Horrors Within 5.5e*
 
 # Reborn
 Reborn are individuals who have died yet inexplicably still live. Some reborn exhibit the scars of fatal ends, their ashen flesh or bloodless veins making it clear that they’ve escaped death. Other reborn are marvels of magic or science, being stitched together from disparate beings or bearing mysterious minds in manufactured bodies. Whatever their origins, reborn know a new life and seek experiences and answers all their own.

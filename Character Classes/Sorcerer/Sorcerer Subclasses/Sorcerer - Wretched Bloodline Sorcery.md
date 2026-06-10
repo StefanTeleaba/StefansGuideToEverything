@@ -1,5 +1,5 @@
 # Wretched Bloodline Sorcery
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Wield Your Curse Like a Weapon*  
 With every promise whispered to a fairy, every contract signed with a devil, and every pact made with the dead, there's a chance someone doesn't keep their end of the bargain. The vengeance of immortal beings lasts much longer than one lifetime, and the lingering magic of these curses can affect the mortal's descendants.  

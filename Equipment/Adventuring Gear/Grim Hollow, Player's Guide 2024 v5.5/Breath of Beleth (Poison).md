@@ -10,4 +10,4 @@ Breath of Beleth (Inhaled). A creature who breathes and is in the same space as 
 
 While Poisoned in this way, a creature has the Frightened condition, and it is Hostile to all creatures it can see. If a creature moves within 5 feet of a creature Poisoned in this way, the Poisoned creature must use the Dash action on its turn to move away. If it cannot move away, it must instead use the Attack action against the adjacent creature.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.126*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.126*

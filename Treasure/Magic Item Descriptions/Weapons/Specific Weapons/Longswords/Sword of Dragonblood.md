@@ -9,7 +9,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with these magic weapo
 
 
 
-**Source:** *Dragons of Faerun v3.5, p.124*
+**Source:** *Dragons of Faerun 3.5e, p.124*
 
 
 ---

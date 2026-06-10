@@ -14,7 +14,7 @@ The target also has Resistance to all damage except Psychic damage, and it has I
 
 ---
 
-*Player's Handbook v5.5, p.271*
+*Player's Handbook 5.5e, p.271*
 
 # Feign Death
 *Level 3 Necromancy (Bard, Cleric, Druid, Wizard)*

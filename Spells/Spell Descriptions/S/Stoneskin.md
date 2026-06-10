@@ -12,7 +12,7 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 
 ---
 
-*Player's Handbook v5.5, p.321*
+*Player's Handbook 5.5e, p.321*
 
 # Stoneskin
 *Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*

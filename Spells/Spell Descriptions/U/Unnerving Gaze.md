@@ -14,6 +14,6 @@ You gaze at one creature you can see within range. The target must succeed on a 
 
 ---
 
-*Book of Vile Darkness v3.5*
+*Book of Vile Darkness 3.5e*
 
 ---

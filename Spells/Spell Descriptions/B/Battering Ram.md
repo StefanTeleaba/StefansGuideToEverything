@@ -14,7 +14,7 @@ You launch a ramlike wedge of force. Make a ranged spell attack against one crea
 
 ---
 
-*Spell Compendium v3.5, p.24*
+*Spell Compendium 3.5e, p.24*
 
 # Battering Ram
 *Evocation [Force]*

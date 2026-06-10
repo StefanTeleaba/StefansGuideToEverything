@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.275*
+*Player's Handbook 5.5e, p.275*
 
 # Flesh to Stone
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*

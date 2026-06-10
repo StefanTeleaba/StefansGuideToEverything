@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.257*
+*Player's Handbook 5.5e, p.257*
 
 # Control Weather
 *Level 8 Transmutation (Cleric, Druid, Wizard)*

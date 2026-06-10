@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.290*
+*Player's Handbook 5.5e, p.290*
 
 # Jump
 *Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*

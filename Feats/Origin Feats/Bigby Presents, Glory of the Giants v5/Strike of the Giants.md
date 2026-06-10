@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants v5, p.19*
+*Bigby Presents: Glory of the Giants 5e, p.19*
 
 # Strike of the Giants
 *Origin Feat*

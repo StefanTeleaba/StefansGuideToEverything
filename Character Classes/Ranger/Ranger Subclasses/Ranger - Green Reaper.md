@@ -1,5 +1,5 @@
 # Green Reaper
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Slay with Nature's Venom*  
 Green Reapers are assassins who specialize in harnessing the toxic elements of flora and fauna. These Rangers often work as killers for hire utilizing their extensive knowledge to end lives discreetly or with gory panache, depending on the poison used and the client's wishes. Green Reapers exhibit a morbid curiosity when encountering a toxin they're unfamiliar with, typically followed by an enthusiastic application of the substance on their next foe.

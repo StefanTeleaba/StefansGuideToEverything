@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Accelerated Movement
 *Level 1 Transmutation (Bard, Ranger, Sorcerer, Wizard)*
 
@@ -16,8 +15,7 @@ Until the spell ends, Climbing, Crawling, Swimming and Difficult Terrain don't c
 
 ---
 
-*Spell Compendium v3.5, p.7*
-
+*Spell Compendium 3.5e, p.7*
 # Accelerated Movement
 Transmutation
 

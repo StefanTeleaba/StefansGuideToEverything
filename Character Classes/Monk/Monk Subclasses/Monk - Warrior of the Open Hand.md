@@ -1,5 +1,5 @@
 # Warrior of the Open Hand
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Master Unarmed Combat Techniques*  
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.

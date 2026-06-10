@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.145*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.145*
 
 # Laeral's Silver Lance
 *Level 3 Evocation (Cleric, Sorcerer, Wizard)*
@@ -30,6 +30,6 @@ You bring into being a shimmering lance of force. Make a ranged spell attack. On
 
 ---
 
-*Forgotten Realms: City of Splendors: Waterdeep v3.5, p.156*
+*Forgotten Realms: City of Splendors: Waterdeep 3.5e, p.156*
 
 ---

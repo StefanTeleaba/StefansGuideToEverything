@@ -9,4 +9,4 @@
 ***Spells.*** 1/Day: Blade Barrier (Range: Self, Duration: 10 minutes, ringed wall only, you can pass through the wall without harm)
 
 
-*Magic Item Compendium v3.5, p.112*
+*Magic Item Compendium 3.5e, p.112*

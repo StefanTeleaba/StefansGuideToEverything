@@ -1,5 +1,4 @@
-*Laserllama's Spell Compendium v5*
-
+*Laserllama's Spell Compendium 5e*
 # Arcane Lance
 *Level 1 Evocation (Sorcerer, Wizard)*
 

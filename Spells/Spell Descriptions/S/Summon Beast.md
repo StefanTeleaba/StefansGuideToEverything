@@ -44,6 +44,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ---
 
-*Player's Handbook v5.5, p.322*
+*Player's Handbook 5.5e, p.322*
 
 ---

@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Chapter Knight
 Knights of the Charneault Kingdom are more than soldiers. You're an exemplar of the virtues that maintain peace and prosperity in the realm. Through training and study, you've dedicated your life to upholding noble ideals such as strength, bravery, charity, temperance, and tradition.  

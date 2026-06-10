@@ -1,5 +1,5 @@
 # Path of the Muscle Wizard
-*Valda's Spire of Secrets: Player Pack v5.5*
+*Valda's Spire of Secrets: Player Pack 5.5e*
 
 *Be a Buff, Angry "Wizard"*
 

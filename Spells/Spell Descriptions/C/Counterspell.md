@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.258*
+*Player's Handbook 5.5e, p.258*
 
 # Counterspell
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
@@ -12,7 +12,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 ---
 
-*Player's Handbook v5, p.228*
+*Player's Handbook 5e, p.228*
 
 # Counterspell
 *Level 3 Abjuration (Bard, Sorcerer, Warlock, Wizard)*

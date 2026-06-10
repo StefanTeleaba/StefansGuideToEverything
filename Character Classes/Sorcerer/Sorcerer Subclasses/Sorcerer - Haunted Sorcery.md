@@ -1,5 +1,5 @@
 # Haunted Sorcery
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Commune with the Dead*  
 Unlike other Sorcerers, the circumstances of your birth were mundane and you have no arcane inheritance passed down from strange ancestors. Instead, you gained your sorcerous powers after you survived an experience that left you near death. Since that experience, you've had a preternatural sense for danger and a ghostly companion that either can't, or won't, leave you alone. Some Haunted, as Sorcerers who share your origin are called, develop cordial relationships with their phantom, while others find their spectral companion to be a relentless nuisance.

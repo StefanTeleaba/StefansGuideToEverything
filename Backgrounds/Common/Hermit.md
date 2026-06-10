@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.178*
+*Player's Handbook 5.5e, p.178*
 
 # Hermit
 You spent your early years secluded in a hut or monastery located well beyond the outskirts of the nearest settlement. In those days, your only companions were the creatures of the forest and those who would occasionally visit to bring news of the outside world and supplies. The solitude allowed you to spend many hours pondering the mysteries of creation.

@@ -1,4 +1,4 @@
-*Valda's Spire of Secrets: Player Pack v5.5*
+*Valda's Spire of Secrets: Player Pack 5.5e*
 
 # Rumor
 *Level 1 Enchantment (Bard, Wizard)*

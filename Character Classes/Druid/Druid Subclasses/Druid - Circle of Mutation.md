@@ -1,5 +1,5 @@
 # Circle of Mutation
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Mutate Into an Apex Predator*  
 Druids of the Circle of Mutation believe that nature should be improved in order to compete with the unnatural world. Their order hides in the darkest corners of swamps and forests, conducting experiments to warp the structure of their domain. They go unheard from for months, emerging from the wilds with twisted vines and mutated creatures at their side. These Druids have earned the scorn of other circles, discredited as those who have lost their way. In the eyes of these Druids, those who wish to preserve nature as it is simply fear what change brings.

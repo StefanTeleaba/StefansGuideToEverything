@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.253*
+*Player’s Handbook 5.5e, p.253*
 
 # Cone of Cold
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*

@@ -15,7 +15,7 @@ The weapon or ammunition then returns to its normal form.
 
 ---
 
-*Player's Handbook v5.5, p.292*
+*Player's Handbook 5.5e, p.292*
 
 # Lightning Arrow
 *Level 3 Transmutation (Ranger)*

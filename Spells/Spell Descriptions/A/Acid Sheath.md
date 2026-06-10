@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Acid Sheath
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -14,8 +13,7 @@ You enclose yourself in a fluid sheath of acid. Whenever a creature within 5 fee
 
 ---
 
-*Spell Compendium v3.5, p.7*
-
+*Spell Compendium 3.5e, p.7*
 # Acid Sheath
 Conjuration (Creation) [Acid]
 

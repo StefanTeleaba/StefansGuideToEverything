@@ -16,7 +16,7 @@ You create a dart of green magical energy that strikes a creature of your choice
 
 ---
 
-*City of Splendors v2, p.86*  
-*Wizard's Spell Compendium Volume Two v2, p.399*  
+*City of Splendors 2e, p.86*  
+*Wizard's Spell Compendium Volume Two 2e, p.399*  
 
 ---

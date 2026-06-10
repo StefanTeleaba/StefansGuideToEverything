@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Free Swords Mercenary
 Mud, blood, and coin have been your entire life since joining the Company of Free Swords. You may have been recruited from a fighting pit in Unterland, joined as a fugitive to escape justice, or been found as a babe in the mud and raised as a Free Sword. Your history before joining the Company doesn't matter now. Your comrades are your family. Violence is your trade.  

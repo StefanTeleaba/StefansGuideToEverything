@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Released Thrall
 Valikan raiders search for many things: food, goods, weapons, and thralls. You were one of those taken by the clans because you had skills that the clan lacked in their cold northern home. Once you arrived, you were given a choice: join the clan or find your own way home. You chose the latter. You then had to find your way through the cold and dangerous lands of Valika—and whatever other lands separated you from your home.  

@@ -5,4 +5,4 @@
 Speed: 30 ft., Burrow 10 ft.  
 Carrying Capacity: 195 lb.
 
-**Source:** *Monster Manual v5.5, p.354*
+**Source:** *Monster Manual 5.5e, p.354*

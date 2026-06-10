@@ -1,5 +1,5 @@
 # Highway Rider
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *A Steed Makes the Best Partner in Crime*  
 Stalking the backroads, the Highway Rider strikes fear into the heart of every traveler and penny-pinching merchant. They run down their prize astride a swift and loyal steed—and then make a quick getaway.

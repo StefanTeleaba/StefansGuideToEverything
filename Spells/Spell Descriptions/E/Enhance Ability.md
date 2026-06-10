@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.268*
+*Player's Handbook 5.5e, p.268*
 
 # Enhance Ability
 *Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*

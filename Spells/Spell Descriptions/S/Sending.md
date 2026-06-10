@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.314*
+*Player's Handbook 5.5e, p.314*
 
 # Sending
 *Level 3 Divination (Bard, Cleric, Wizard)*

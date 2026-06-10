@@ -7,4 +7,4 @@
 ***Lightning Rebuke.*** If a creature hits you with a melee attack roll, the creature takes 5 Lightning damage.
 
 ---
-*Magic Item Compendium v3.5, p.114*
+*Magic Item Compendium 3.5e, p.114*

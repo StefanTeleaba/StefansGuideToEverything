@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.239*
-
+*Player's Handbook 5.5e, p.239*
 # Animal Messenger
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 

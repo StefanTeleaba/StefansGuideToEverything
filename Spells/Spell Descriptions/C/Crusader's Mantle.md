@@ -14,7 +14,7 @@ You radiate a magical aura in a 30-foot Emanation. While in the aura, you and yo
 
 ---
 
-*Player's Handbook v5.5, p.259*
+*Player's Handbook 5.5e, p.259*
 
 # Crusader's Mantle
 *Level 3 Evocation (Paladin)*

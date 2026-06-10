@@ -1,7 +1,7 @@
 # Darkwood Stalker
 *Variant*  
 *Prestige Class*  
-*Complete Warrior v3.5, p.23*
+*Complete Warrior 3.5e, p.23*
 
 *Elves and orcs are ancient foes, their enmity dating back to times before humans walked the land. Some elves train as elite hunters of the hated orcs. These hunters, called darkwood stalkers among the elves, pursue their age-old enemies with grim determination.*  
 *Darkwood stalkers usually come from the ranks of elf (or half-elf) rangers or rogues, although the rare elf barbarian can follow this path as well. Fighters and paladins make poor darkwood stalkers without gaining at least one level in ranger or rogue. Spellcasters rarely take up the mantle of the darkwood stalker, although druids willing to forego spellcasting can fi t well into the order.*  

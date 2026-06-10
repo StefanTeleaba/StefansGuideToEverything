@@ -8,4 +8,4 @@
 ***Craven.*** If your Sneak Attack hits any target, the target takes extra damage of the weapon's type equal to your Rogue level.
 
 ---
-*Champions of Ruin v3.5, p.17*
+*Champions of Ruin 3.5e, p.17*

@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Courtier
 You were either born into a role within the courts or power structures of your area, or you worked your way into the company of the powerful or elite through perseverance, skill, trickery, or some combination of those. You draw upon the power of your institutions to gain what you need—but you're always at the mercy of those institutions as well.  

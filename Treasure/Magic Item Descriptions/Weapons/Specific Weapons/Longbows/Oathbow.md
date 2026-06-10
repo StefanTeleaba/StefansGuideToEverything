@@ -8,4 +8,4 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 While your sworn enemy lives, you have Disadvantage on attack rolls with all other weapons.
 
 ---
-*Dungeon Master's Guide v5.5, p.282*
+*Dungeon Master's Guide 5.5e, p.282*

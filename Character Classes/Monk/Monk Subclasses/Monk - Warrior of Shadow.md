@@ -1,5 +1,5 @@
 # Warrior of Shadow
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Harness Shadow Power for Stealth and Subterfuge*  
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.

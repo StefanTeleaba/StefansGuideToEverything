@@ -6,4 +6,4 @@ Hunter's Armor is a favorite of monster hunters across the length and breadth of
 
 If a blow would cause a Grievous Wound, roll a d20. On an 11 or higher, the blow does not deliver a Grievous Wound.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.126*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.126*

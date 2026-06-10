@@ -1,5 +1,5 @@
 # Battle Master
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Master Sophisticated Battle Maneuvers*
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.

@@ -1,5 +1,5 @@
 # Path of the Spell Scorned
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“My magic? It's the magic of stabbing things in the face. Works well in my experience.” — Oreg the Slayer*
 

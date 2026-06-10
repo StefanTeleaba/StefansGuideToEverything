@@ -3,7 +3,7 @@
 
 
 ---
-*Player's Handbook v3.5, p.165*
+*Player's Handbook 3.5e, p.165*
 
 **Armor Class:** Objects are easier to hit than creatures because they usually don’t move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.  
 **Hardness:** Each object has hardness—a number that represents how well it resists damage. Whenever an object takes damage, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see Table 9–8: Common Armor, Weapon, and Shield Hardness and Hit Points; Table 9–9: Substance Hardness and Hit Points; and Table 9–11: Object Hardness and Hit Points).  

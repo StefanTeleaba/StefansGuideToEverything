@@ -7,4 +7,4 @@ Rising in the ranks of the Ebon Syndicate has taught you the clandestine skills 
 ***Master Calligrapher.*** You have proficiency with a Forgery Kit. You aren't limited to 10 or fewer words when mimicking someone else's handwriting.  
 ***Blending In.*** When using the Hide action to conceal yourself from creatures that aren't Hostile to you, you need only be Lightly Obscured and you may use Charisma instead of Dexterity for the check.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.118*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.118*

@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.274*
+*Player's Handbook 5.5e, p.274*
 
 # Fire Shield
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*

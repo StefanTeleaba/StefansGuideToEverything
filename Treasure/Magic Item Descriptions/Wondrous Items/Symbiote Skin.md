@@ -38,7 +38,7 @@ Salamander Fire Snake
 Troll
 
 ---
-*Magic Item Compendium v3.5, p.169*
+*Magic Item Compendium 3.5e, p.169*
 
 # Psychoactive Skin
 *This fist-sized blob of murky ectoplasm shimmers faintly in the light.*  

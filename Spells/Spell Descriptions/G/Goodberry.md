@@ -15,7 +15,7 @@ Uneaten berries disappear when the spell ends.
 
 ---
 
-*Player's Handbook v5.5, p.280*
+*Player's Handbook 5.5e, p.280*
 
 # Goodberry
 *Level 1 Conjuration (Druid, Ranger)*

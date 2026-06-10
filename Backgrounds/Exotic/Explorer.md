@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Explorer
 You pursue a life traversing the wilds, driven by wanderlust or the orders of a distant patron. For you, there is no greater pursuit than to discover the lost, forgotten, and unseen reaches of the world.  

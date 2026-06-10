@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.321*
+*Player's Handbook 5.5e, p.321*
 
 # Stone Shape
 *Level 4 Transmutation (Cleric, Druid, Wizard)*

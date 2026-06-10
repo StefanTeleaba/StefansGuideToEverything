@@ -5,4 +5,4 @@
 ***Dirty Rat.*** When you have Advantage on a melee attack roll, you gain a bonus to that roll equal to half your Proficiency Bonus.
 
 ---
-*Champions of Ruin v3.5, p.20*
+*Champions of Ruin 3.5e, p.20*

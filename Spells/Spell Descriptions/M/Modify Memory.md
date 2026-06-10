@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.299*
+*Player's Handbook 5.5e, p.299*
 
 # Modify Memory
 *Level 5 Enchantment (Bard, Wizard)*

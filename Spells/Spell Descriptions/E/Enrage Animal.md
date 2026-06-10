@@ -17,6 +17,6 @@ For the duration of the spell, the creature gains a +2 bonus to damage rolls for
 
 ---
 
-*Spell Compendium v3.5, p.79*
+*Spell Compendium 3.5e, p.79*
 
 ---

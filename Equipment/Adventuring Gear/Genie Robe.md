@@ -4,4 +4,4 @@
 
 This robe appeals to Elementals associated with a particular Elemental Plane (Air, Earth, Fire, Water). While wearing a Genie Robe, you have Advantage on ability checks made to influence Elementals associated with that plane.
 
-**Source:** *Forgotten Realms, Heroes of Faerun v5.5, p.132*
+**Source:** *Forgotten Realms, Heroes of Faerun 5.5e, p.132*

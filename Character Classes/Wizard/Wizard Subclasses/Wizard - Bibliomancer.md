@@ -1,5 +1,5 @@
 # Bibliomancer
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“Books are a uniquely portable magic.” — Stephen King*
 

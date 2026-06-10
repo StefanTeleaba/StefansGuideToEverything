@@ -16,6 +16,6 @@ For the duration, a willing creature you touch has a Burrow Speed equal to their
 
 ---
 
-*Spell Compendium v3.5, p.41*
+*Spell Compendium 3.5e, p.41*
 
 ---

@@ -1,7 +1,6 @@
-*Player's Handbook v5.5, p.249*
-
+*Player's Handbook 5.5e, p.249*
 # Chill Touch
-*Necromancy Cantrip (Druid, Ranger)*
+*Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

@@ -6,4 +6,4 @@ You are a master of the medical sciences because of your association with a medi
 ***Battle Surgeon.*** When you use the Blood and Bone benefit of the Triage Expert feat, the creature can spend three Hit Point Dice to end one of the following conditions on itself instead of regaining Hit Points: Blinded, Deafened, Paralyzed, Poisoned, or Stunned.  
 Alternatively, you can cure one Grievous Wound affecting the creature (see Grim Hollow Campaign Guide).
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.116*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.116*

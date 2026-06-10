@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.295*
+*Player's Handbook 5.5e, p.295*
 
 # Major Image
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*

@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Lingering Wounds.*** When you deal Sneak Attack damage, the target makes a Constitution saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). On a failed save, it takes additional damage equal to half the number of Sneak Attack dice for your level (round up) at the start of its next turn.
 
 ---
-*Epic Level Handbook v3.5, p.62*
+*Epic Level Handbook 3.5e, p.62*

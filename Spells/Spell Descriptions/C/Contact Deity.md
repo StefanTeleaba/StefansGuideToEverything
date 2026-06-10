@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Contact Deity
 *Level 5 Divination (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*

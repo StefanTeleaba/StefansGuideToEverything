@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Disgraced Raider
 You were a raider associated with one of the greatly feared Vaikan clans. The terror you and your allies struck within sailing distance of your homeland was massive and palpable. The risks were great, but the respect was undeniable.  

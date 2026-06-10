@@ -1,5 +1,5 @@
 # Dragon Disciple
-*Dungeon Master's Guide v3.5, p.183*
+*Dungeon Master's Guide 3.5e, p.183*
 
 *It is known that certain dragons can take humanoid form and even have humanoid lovers. Sometimes a child is born of this union, and every child of that child unto the thousandth generation claims a bit of dragon blood, be it ever so small. Usually, little comes of it, though mighty sorcerers occasionally credit their powers to draconic heritage. For some, however, dragon blood beckons irresistibly. These characters become dragon disciples, who use their magical power as a catalyst to ignite their dragon blood, realizing its fullest potential.*  
 *Dragon disciples prefer a life of exploration to a cloistered existence. Most are barbarians, fighters, or rangers who have dabbled as sorcerers or bards. Occasionally, a serious spellcaster explores the path to further a goal of finding out more about his draconic heritage, though at the expense of most of his arcane studies. Clerics and druids rarely choose to become dragon disciples. Already adept at magic, many pursue adventure, especially if it furthers their goal of finding out more about their draconic heritage. All dragon disciples are drawn to areas known to harbor dragons.*

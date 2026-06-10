@@ -1,5 +1,5 @@
 # College of Drama
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“All the world's a stage,*  
 *And all the men and women merely players.*  

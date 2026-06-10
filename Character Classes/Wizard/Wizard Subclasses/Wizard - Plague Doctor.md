@@ -1,5 +1,5 @@
 # Plague Doctor
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Plague Your Enemies with Magical Concoctions*  
 Blending spellcasting with science, you distill your magic into concoctions that harm or heal. Plague Doctors often wear grotesque masks protecting them from their toxic ingredients. Many fearfully regard the mask as a sign of pestilence, making Plague Doctors a source of both hope and trepidation.

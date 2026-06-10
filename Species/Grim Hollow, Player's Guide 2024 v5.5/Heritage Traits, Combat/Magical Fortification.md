@@ -4,4 +4,4 @@ The more that magic threatens you, the more your resilience to it increases. Cho
 ***Extended Fortification.*** If you take this trait multiple times, you have Advantage on saving throws using a new ability score each time.  
 Additionally, if you fail a saving throw against a spell or other magical effect and you do not have proficiency with that saving throw, you can use your Reaction to reroll the save. You regain the use of this feature when you finish a Long Rest.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.39*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.39*

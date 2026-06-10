@@ -5,4 +5,4 @@ While you have the Restrained condition, you experience the following effects.
 ***Attacks Affected.*** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.  
 ***Saving Throws Affected.*** You have Disadvantage on Dexterity saving throws.
 
-**Source:** *Player's Handbook v5.5, p.373*
+**Source:** *Player's Handbook 5.5e, p.373*

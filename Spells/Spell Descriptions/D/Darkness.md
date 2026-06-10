@@ -16,7 +16,7 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 
 ---
 
-*Player's Handbook v5.5, p.260*
+*Player's Handbook 5.5e, p.260*
 
 # Darkness
 *Level 2 Evocation (Sorcerer, Warlock, Wizard)*

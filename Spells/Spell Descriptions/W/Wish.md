@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.341*
+*Player's Handbook 5.5e, p.341*
 
 # Wish
 *Level 9 Conjuration (Sorcerer, Wizard)*

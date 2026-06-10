@@ -4,7 +4,7 @@
 ***Alchemical Silver.*** When you score a Critical Hit with this weapon against a creature that is shape-shifted, the weapon deals one additional die of damage.
 
 ---
-*Dungeon Master's Guide v3.5, p.284*
+*Dungeon Master's Guide 3.5e, p.284*
 
 A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes.
 

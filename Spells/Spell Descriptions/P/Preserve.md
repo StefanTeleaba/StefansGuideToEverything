@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5, p.198*
+*Grim Hollow: Player's Guide 2024 5.5e, p.198*
 
 # Preserve
 *Transmutation Cantrip (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*

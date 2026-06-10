@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.330*
+*Player's Handbook 5.5e, p.330*
 
 # Tasha's Bubbling Cauldron
 *Level 6 Conjuration (Warlock, Wizard)*

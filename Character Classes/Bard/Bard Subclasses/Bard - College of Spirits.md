@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within v5.5, p.*
+*Ravenloft: The Horrors Within 5.5e, p.*
 
 # College of Spirits
 *Call Forth Spirits from Beyond the Grave*

@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Withering Wordplay.*** When you take the Help action to assist an ally's attack roll against an enemy, that enemy also has Disadvantage on the first saving throw it makes before the start of your next turn.  
 ***Inspiring Willpower.*** If you succeed on a saving throw to end the Frightened or Paralyzed condition on yourself, you can choose one ally you can see within 30 feet of yourself that has the same condition. That condition immediately ends for that ally.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.39*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.39*

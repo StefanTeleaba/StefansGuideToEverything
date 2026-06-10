@@ -7,4 +7,4 @@ You gain the following benefits.
 When you cast the spell, it requires no spell components, and taking damage doesn't break your Concentration on it.  
 ***Sing Out.*** While a creature that failed its saving throw against your Otto's Irresistible Dance has the Charmed condition from that spell, it can't cast spells with Verbal components, and it sings delightful nonsense if it can sing.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.43*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.43*

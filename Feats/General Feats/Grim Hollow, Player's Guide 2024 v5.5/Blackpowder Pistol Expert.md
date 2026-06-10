@@ -7,4 +7,4 @@ You have become practiced with the use of Blackpowder Pistols. You gain the foll
 ***Quick Load.*** You ignore Loading of the Blackpowder Pistol.  
 ***Trick Shot.*** Immediately after a creature within 5 feet of you moves, you can take a Reaction to make a ranged attack with a Blackpowder Pistol against that creature.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.116*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.116*

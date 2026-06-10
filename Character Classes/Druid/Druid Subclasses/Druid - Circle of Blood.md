@@ -1,5 +1,5 @@
 # Circle of Blood
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Wreak Bloody Havoc*  
 The Circle of Blood is a keeper of the old ways. They remember how ancient Druids performed sacrificial rituals under a blood-red moon to appease the uncaring forces of nature. These Druids trade blood for life in a delicate balance to bolster their allies and destroy their enemies.

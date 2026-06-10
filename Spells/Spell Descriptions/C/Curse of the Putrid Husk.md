@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Curse of the Putrid Husk
 *Level 3 Illusion (Sorcerer, Warlock, Wizard)*

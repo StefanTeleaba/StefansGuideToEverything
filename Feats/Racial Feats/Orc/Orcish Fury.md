@@ -1,7 +1,7 @@
 *Homebrew*
 
 # Orcish Fury
-*Racial Feat (Prerequisite: Human, Level 4+)*  
+*Racial Feat (Prerequisite: Orc, Level 4+)*  
 
 Your fury burns tirelessly. You gain the following benefits.
 

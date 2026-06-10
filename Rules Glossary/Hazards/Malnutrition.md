@@ -13,4 +13,4 @@ Exhaustion caused by malnutrition can't be removed until the creature eats the f
 | Huge       | 16 pounds |
 | Gargantuan | 64 pounds |
 
-**Source:** *Player's Handbook v5.5, p.371*
+**Source:** *Player's Handbook 5.5e, p.371*

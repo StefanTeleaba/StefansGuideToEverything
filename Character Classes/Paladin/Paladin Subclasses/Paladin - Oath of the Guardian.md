@@ -1,5 +1,5 @@
 # Oath of the Guardian
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“The first step to killing an eldritch horror: don't die.” — Miranda of the Unbroken Shield*
 

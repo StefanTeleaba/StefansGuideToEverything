@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Absolution.*** You are no longer affected by the Seraph Corruption Transformation Flaw.  
 ***Divergent Growth.*** Choose any Seraph Transformation Boon that you don't already have but meet the prerequisites for. You gain that Boon.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.120*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.120*

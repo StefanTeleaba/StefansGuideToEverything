@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.287*
+*Player's Handbook 5.5e, p.287*
 
 # Ice Storm
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*

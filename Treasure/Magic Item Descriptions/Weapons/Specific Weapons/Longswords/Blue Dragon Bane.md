@@ -11,7 +11,7 @@ When you reduce a Blue Dragon to 0 Hit Points, your physical age is reduced by 1
 
 
 ---
-*Encyclopedia Magica Volume 4 v2, p.1348*
+*Encyclopedia Magica Volume 4 2e, p.1348*
 
 Blue Dragon Bane
 XP Value: 4,100

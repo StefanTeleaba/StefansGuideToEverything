@@ -1,5 +1,5 @@
 # Shadow Stalker
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“Some folk keep to the shadows. I bring them with me wherever I go.” — Kulden*
 

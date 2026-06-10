@@ -7,4 +7,4 @@ You can eat like a hill giant and drink like a fish. Years of punishing your sto
 ***Everything Looks Delicious.*** You have Advantage on Wisdom (Survival) checks to forage for food.  
 ***Quick to Recover.*** As a Bonus Action, you can expend one of your Hit Point Dice, roll the die and add your Constitution modifier, and regain a number of Hit Points equal to the roll's total. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.116*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.116*

@@ -8,7 +8,7 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 
 ---
-*Encyclopedia Magica Volume IV v2, p.1389*
+*Encyclopedia Magica Volume IV 2e, p.1389*
 
 **Scale Cleaver**  
 **XP Value:** 600  

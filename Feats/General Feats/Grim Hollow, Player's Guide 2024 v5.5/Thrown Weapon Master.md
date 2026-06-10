@@ -7,4 +7,4 @@ You excel at thrown weapons. You gain the following benefits.
 ***Quick Hands.*** As a Bonus Action, you can retrieve and stow or wield all Simple weapons with Thrown that are within 5 feet of you. You need a free hand to perform this maneuver.  
 ***Returning.*** Simple weapons with Thrown that you are proficient with also have the Returning property (see Chapter 8: Advanced Weapons & Equipment).
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.118*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.118*

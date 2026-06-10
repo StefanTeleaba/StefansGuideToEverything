@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.178*
+*Player's Handbook 5.5e, p.178*
 
 # Criminal
 You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and more fearsome lawbreakers.

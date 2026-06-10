@@ -1,4 +1,4 @@
-*Astarion's Book of Hungers v5.5, p.6*
+*Astarion's Book of Hungers 5.5e, p.6*
 
 # Carouser
 You grew to adulthood in the beating heart of a large city, such as Baldur's Gate. You spent countless evenings in taverns, playhouses, parlors, and gambling dens, savoring all the city had to offer. You're a natural at interacting with people to learn their secrets, whether over a high-stakes game or at a high-class soiree. You might have been thrown out of an establishment or ten, but only by people who don't know how to party.

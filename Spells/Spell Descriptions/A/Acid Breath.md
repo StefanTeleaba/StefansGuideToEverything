@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Acid Breath
 *Level 3 Evocation (Sorcerer, Wizard)*
 
@@ -18,8 +17,7 @@ You breathe forth a spray of acidic droplets. Each creature in a 30-foot Cone or
 
 ---
 
-*Spell Compendium v3.5, p.7*
-
+*Spell Compendium 3.5e, p.7*
 # Acid Breath
 Conjuration (Creation) [Acid]
 

@@ -1,4 +1,4 @@
-*Dungeon Master's Guide v5.5, p.240*
+*Dungeon Master's Guide 5.5e, p.240*
 # Bracers of Archery
 *Wondrous Item, Uncommon*
 

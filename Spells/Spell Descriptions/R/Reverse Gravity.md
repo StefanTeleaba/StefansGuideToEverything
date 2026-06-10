@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.312*
+*Player's Handbook 5.5e, p.312*
 
 # Reverse Gravity
 *Level 7 Transmutation (Druid, Sorcerer, Wizard)*

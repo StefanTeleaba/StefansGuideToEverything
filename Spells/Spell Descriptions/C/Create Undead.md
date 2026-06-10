@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.258*
+*Player's Handbook 5.5e, p.258*
 
 # Create Undead
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*

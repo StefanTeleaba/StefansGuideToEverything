@@ -13,7 +13,7 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 ---
 
-*Xanathar's Guide to Everything v5, p.171*
+*Xanathar's Guide to Everything 5e, p.171*
 
 # Zephyr Strike
 *Level 1 Transmutation (Ranger)*

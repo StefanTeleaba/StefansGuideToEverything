@@ -7,4 +7,4 @@
 ***Dazing Strike.*** When you deal Sneak Attack damage and Divine Smite damage on the same attack, the target can only move or take an Action or a Bonus Action on its next turn.
 
 ---
-*Complete Adventurer v3.5, p.107*
+*Complete Adventurer 3.5e, p.107*

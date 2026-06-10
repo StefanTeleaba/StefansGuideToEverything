@@ -5,4 +5,4 @@
 Speed: 30 ft., Climb 30 ft., Swim 30 ft.  
 Carrying Capacity: 225 lb.
 
-**Source:** *Monster Manual v5.5, p.349*
+**Source:** *Monster Manual 5.5e, p.349*

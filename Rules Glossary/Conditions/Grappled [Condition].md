@@ -5,4 +5,4 @@ While you have the Grappled condition, you experience the following effects.
 ***Attacks Affected.*** You have Disadvantage on attack rolls against any target other than the grappler.  
 ***Movable.*** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
-**Source:** *Player's Handbook v5.5, p.367*
+**Source:** *Player's Handbook 5.5e, p.367*

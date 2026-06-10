@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.12*
 
 # Intellect Fortress
 *Level 3 Abjuration (Artificer, Bard, Psion, Sorcerer, Warlock, Wizard)*
@@ -14,7 +14,7 @@ For the duration, one willing creature you can see within range has Resistance t
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, v5.5, p.10*
+*Unearthed Arcana 2025 - The Psion, 5.5e, p.10*
 
 # Intellect Fortress
 *Level 3 Abjuration (Artificer, Bard, Psion, Sorcerer, Warlock, Wizard)*
@@ -30,7 +30,7 @@ For the duration, one willing creature you can see within range has Resistance t
 
 ---
 
-*Tasha's Cauldron of Everything v5, p.107*
+*Tasha's Cauldron of Everything 5e, p.107*
 
 # Intellect Fortress
 *Level 3 Abjuration (Artificer, Bard, Psion, Sorcerer, Warlock, Wizard)*

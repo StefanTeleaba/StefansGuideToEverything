@@ -5,4 +5,4 @@ While wearing this cloak, you have Advantage on Dexterity (Stealth) checks. In a
 
 While wearing the cloak in an area of Dim Light or Darkness, you can cast Polymorph on yourself, shape-shifting into a Bat. While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
-*Dungeon Master's Guide v5.5, p.245*
+*Dungeon Master's Guide 5.5e, p.245*

@@ -7,4 +7,4 @@ You have learned to tap into the dangerous but powerful art of Shadowsteel casti
 ***Shadowsteel's Bite.*** While holding your Shadowsteel Focus, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your spells.  
 ***Shadowsteel Weapon.*** If your Shadowsteel Focus is also a weapon, that weapon has a +1 bonus to weapon attack rolls and damage rolls.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.117*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.117*

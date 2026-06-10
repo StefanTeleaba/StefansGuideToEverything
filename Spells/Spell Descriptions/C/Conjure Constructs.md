@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.143*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.143*
 
 # Conjure Constructs
 *Level 3 Conjuration (Wizard)*

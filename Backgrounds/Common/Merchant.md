@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.178*
+*Player's Handbook 5.5e, p.178*
 
 # Merchant
 You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their craft or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.

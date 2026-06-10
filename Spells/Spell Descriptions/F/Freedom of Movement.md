@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.277*
+*Player's Handbook 5.5e, p.277*
 
 # Freedom of Movement
 *Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*

@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Chant of Thoth
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*

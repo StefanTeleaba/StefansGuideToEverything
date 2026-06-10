@@ -7,4 +7,4 @@ You gain the following benefits.
 ***Gifted Interpreter.*** You understand the literal meaning of any language you hear or see signed, and you can understand the literal meaning of any written language you see.  
 ***Mental Communication.*** You gain telepathy with a range of 120 feet.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.42*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.42*

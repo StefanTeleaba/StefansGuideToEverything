@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Feline Chaos
 *Level 5 Conjuration (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*

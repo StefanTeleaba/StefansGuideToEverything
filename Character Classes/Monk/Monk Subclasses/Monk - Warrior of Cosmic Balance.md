@@ -1,5 +1,5 @@
 # Warrior of Cosmic Balance
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“When the cosmos spins out of alignment, my job is to kick it back into place. Literally.” — Sheresa, Acolyte of the Vast*
 

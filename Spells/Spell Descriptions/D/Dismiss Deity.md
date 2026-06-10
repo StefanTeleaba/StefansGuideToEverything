@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Dismiss Deity
 *Level 5 Abjuration (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*

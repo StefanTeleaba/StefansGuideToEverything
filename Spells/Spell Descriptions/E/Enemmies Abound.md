@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.12*
 
 # Enemies Abound
 *Level 3 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
@@ -17,7 +17,7 @@ Each time the target takes damage, it makes another Intelligence saving throw. O
 
 ---
 
-*Xanathar's Guide to Everything v5, p.155*
+*Xanathar's Guide to Everything 5e, p.155*
 
 # Enemies Abound
 *Level 3 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*

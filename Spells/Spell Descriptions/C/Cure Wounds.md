@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.259*
+*Player's Handbook 5.5e, p.259*
 
 # Cure Wounds
 *Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*

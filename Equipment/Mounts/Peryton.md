@@ -5,4 +5,4 @@
 Speed: 20 ft., Fly 60 ft.  
 Carrying Capacity: 240 lb.
 
-**Source:** *Monster Manual v5.5, p.238*
+**Source:** *Monster Manual 5.5e, p.238*

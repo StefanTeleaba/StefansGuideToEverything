@@ -1,7 +1,7 @@
 # Invisible Blade
 *Variant*  
 *Prestige Class*  
-*Complete Warrior v3.5, p.44*
+*Complete Warrior 3.5e, p.44*
 
 *Who is this fool who dares to challenge you in the arena? You brandish a greatsword, and he whips out a dagger. You unsheathe your longsword, and he throws off his armor. You advance menacingly, and he only smiles at you—a big, maniacal grin. Is he mad? Does he have a death wish? No, he is an invisible blade, and you have made the classic mistake of underestimating his prowess. As you fight, he seems almost relaxed, stepping lightly to the side, dodging your blows easily. His eyes note your every move, as though taking mental notes about your style. Then, in the split second when you lower your guard, he exploits your error, plunging his weapon into your heart.*  
 *Invisible blades are deadly fighters who prefer to use daggers and related weapons in combat. Their training and techniques with these weapons make them just as lethal as any well-armed fighter. Invisible blades enjoy cultivating misconceptions about the level of danger they present, and they relish any chance to demonstrate that the most unimposing weapons can be the most lethal. Thus, invisible blades are rarely impressed by how mighty their opponents appear.*  

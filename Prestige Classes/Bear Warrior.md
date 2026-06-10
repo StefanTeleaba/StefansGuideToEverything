@@ -1,6 +1,6 @@
 # Bear Warrior
 *Variant*  
-*Complete Warrior v3.5, p.16*  
+*Complete Warrior 3.5e, p.16*  
 
 *Many people, particularly those in “uncivilized” regions of the world, revere bears as symbols of the warrior’s strength and battle prowess. By adopting the bear as a totem animal, warriors of these people hope to tap into some of the bear’s strength. Bear warriors, through a special relationship with bear spirits, literally adopt a bear’s strength in the rage of battle, actually transforming into bears while they fight.*  
 *Only characters who can already tap into a spiritual power of rage can heighten that power to become bear warriors. Most bear warriors are barbarians, but other multiclass characters sometimes become bear warriors. Characters with another prestige class that grants a rage or frenzy ability occasionally adopt this class.*  

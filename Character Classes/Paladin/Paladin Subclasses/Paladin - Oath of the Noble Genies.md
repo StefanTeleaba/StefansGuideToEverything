@@ -1,5 +1,5 @@
 # Oath of the Noble Genies
-*Forgotten Realms: Heroes of Faerun v5.5*
+*Forgotten Realms: Heroes of Faerun 5.5e*
 
 *Brandish the Elemental Splendor of Genies*  
 Paladins sworn to the Oath of the Noble Genies revere the forces of the Elemental Planes. Through taking this oath, Paladins draw power from the four different types of genies—dao, masters of earth; djinn, masters of air; efreet, masters of fire; and marids, masters of water. In Faerûn, many Paladins who swear this oath hail from Calimshan, a land teeming with genies.  

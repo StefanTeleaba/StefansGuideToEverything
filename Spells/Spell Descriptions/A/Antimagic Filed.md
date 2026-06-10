@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.241*
-
+*Player's Handbook 5.5e, p.241*
 # Antimagic Field
 *Level 8 Abjuration (Cleric, Wizard)*
 

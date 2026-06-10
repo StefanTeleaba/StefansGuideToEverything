@@ -1,5 +1,5 @@
 # Warrior of the Leaden Crown
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Harness the Will to Resist*  
 In contrast to the esoteric ideals of other orders, Warriors of the Leaden Crown have practical aims: the self-governance of all people. These Monks see history as a series of clashes between groups of powerful beings where Humanoids are at best collateral damage and at worst disposable pawns. To break this cycle of dependence and destruction, Warriors of the Leaden Crown master mental abilities to fight against the otherworldly powers of the multiverse and protect Humanoid sovereignty.  

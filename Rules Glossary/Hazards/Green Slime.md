@@ -6,4 +6,4 @@ One patch of green slime covers a 5-foot square. Green slime has Blindsight with
 A creature that comes in contact with green slime takes 5 (1d10) Acid damage. The creature takes the damage again at the start of each of its turns until the slime is scraped off (requiring an action) or destroyed. Against wood or metal, green slime deals 11 (2d10) Acid damage each round, and any nonmagical wood or metal item used to scrape off the green slime is destroyed.  
 Direct sunlight or any amount of Cold, Fire, or Radiant damage destroys a patch of green slime.
 
-**Source:** *Dungeon Master's Guide v5.5, p.76*
+**Source:** *Dungeon Master's Guide 5.5e, p.76*

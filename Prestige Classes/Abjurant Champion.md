@@ -1,7 +1,7 @@
 # Abjurant Champion
 *Variant*  
 *Prestige Class*  
-*Complete Mage v3.5, p.50*
+*Complete Mage 3.5e, p.50*
 
 *“The true warrior disdains no weapon, no tool, that might win him the day on the field of battle. And what is magic but another weapon hanging at your side, ready to be drawn and wielded when the need arises?” - Caspian LaMont, Guard-Captain of the Knights Ascendant*  
 *While the eldritch knight strives to balance his mystical and martial prowess, and the spellsword uses weapons to channel his spells, the abjurant champion focuses his arcane abilities both to augment his personal defense and to hinder enemy spellcasters. Perfectly suited for martial stalwarts who dabble in magic, this class offers characters the ability to improve their combat skills in ways neither soldiers nor spellcasters can.*  

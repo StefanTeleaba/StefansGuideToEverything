@@ -1,5 +1,5 @@
 # Daemonologist
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Steal Scraps of Divine and Infernal Power*  
 Through theological study, or perhaps an induction into a secretive cabal, Daemonologists have learned to cast divine magic without the need for faith or bargains. Their spellbooks are scribed with prayer fragments and blasphemous hymns, enabling them to siphon scraps of power from both Arch Seraphs and Arch Daemons. From their heretical research, they've come to believe such otherworldly beings are two sides of the same divine kin.  

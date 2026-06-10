@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.248*
+*Player's Handbook 5.5e, p.248*
 
 # Blur
 *Level 2 Illusion (Wizard)*

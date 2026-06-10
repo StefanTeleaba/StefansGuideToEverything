@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants v5, p.17*
+*Bigby Presents: Glory of the Giants 5e, p.17*
 
 # Fury of the Frost Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Frost Strike) Feat)*

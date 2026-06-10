@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.15*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.15*
 
 # Telekinetic Fling
 *Evocation Cantrip (Psion)*
@@ -14,7 +14,7 @@ Choose one nonmagical object weighing 1 to 5 pounds within 10 feet of you that i
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, v5.5, p.11*
+*Unearthed Arcana 2025 - The Psion, 5.5e, p.11*
 
 # Telekinetic Fling
 *Evocation Cantrip (Psion)*

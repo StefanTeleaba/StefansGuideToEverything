@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Lapsed Inquisitor
 You spent years traveling the countryside as a member of the Arcanist Inquisition, seeking out heretics and blasphemers, daemons and arcanists. Your work uncovered hidden evil that likely saved the lives of countless innocents. However, on more than one occasion, your or others' zeal brought low innocents.  

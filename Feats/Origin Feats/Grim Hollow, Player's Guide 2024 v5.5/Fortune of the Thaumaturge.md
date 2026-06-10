@@ -6,4 +6,4 @@ Your connection to the Thaumaturge puts you in touch with forces outside mortal 
 You can use this benefit a number of times equal to your Proficiency Bonus, and you regain all uses of this ability when you finish a Long Rest.  
 ***Fortune of the Unknown.*** When using the Fortune's Fortitude benefit, if you roll the highest or lowest number on the Hit Point Die, you regain that Hit Point Die. It still counts as a use of Fortune's Fortitude.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.115*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.115*

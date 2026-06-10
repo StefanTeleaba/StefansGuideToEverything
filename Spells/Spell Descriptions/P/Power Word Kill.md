@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.306*
+*Player’s Handbook 5.5e, p.306*
 
 # Power Word Kill
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*

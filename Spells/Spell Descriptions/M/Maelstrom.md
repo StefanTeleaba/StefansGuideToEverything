@@ -18,7 +18,7 @@ Churning waters turn the maelstrom’s area of effect into Difficult Terrain unt
 
 ---
 
-*Xanathar's Guide to Everything v5, p.160*
+*Xanathar's Guide to Everything 5e, p.160*
 
 # Maelstrom
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*

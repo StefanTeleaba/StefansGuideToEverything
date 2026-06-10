@@ -5,4 +5,4 @@
 Speed: 40 ft.  
 Carrying Capacity: 420 lb.
 
-**Source:** *Monster Manual v5.5, p.365*
+**Source:** *Monster Manual 5.5e, p.365*

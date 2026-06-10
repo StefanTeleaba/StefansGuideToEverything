@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Dungeoneer.*** You gain a bonus to your Intelligence (Investigation) checks equal to your Wisdom modifier.
 ***Intuition.*** When you roll Initiative, you can add your Wisdom modifier to the roll.
 
-**Source:** *City of Splendors: Waterdeep v3.5, p.144*
+**Source:** *City of Splendors: Waterdeep 3.5e, p.144*

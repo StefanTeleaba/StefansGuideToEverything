@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.287*
+*Player's Handbook 5.5e, p.287*
 
 # Identify
 *Level 1 Divination (Bard, Wizard)*

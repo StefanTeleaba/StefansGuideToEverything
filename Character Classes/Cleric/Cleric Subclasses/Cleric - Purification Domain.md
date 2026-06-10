@@ -1,5 +1,5 @@
 # Purification Domain
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Purge Sickness with Suffering*  
 The Purification Domain believes sickness, mutation, and other forms of bodily corruption are signs of a corresponding spiritual malady. Virtue can't exist alongside impurity. The wickedness of humanity and other mortal, sentient creatures is a contagion that manifests plagues such as the Weeping Pox. When there's a risk of such corruption spreading, there's only one surefire way to contain the rot and atone for the sins that led to this point: Burn it out.

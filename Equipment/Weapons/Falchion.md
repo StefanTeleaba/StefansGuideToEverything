@@ -6,6 +6,6 @@
 **Mastery:** Vex  
 **Weight:** 4 lb.
 
-***Special.*** The Critical Range of this weapon increases by 1.
+***Critical Range.*** Attack rolls with this weapon score a Critical Hit on a roll of 19 or 20 on the d20.
 
 *Am stabilit impreuna cu Andrei si Bobo. Astea raman staturile stabilite.*

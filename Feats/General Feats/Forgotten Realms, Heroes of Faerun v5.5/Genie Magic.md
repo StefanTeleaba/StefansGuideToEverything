@@ -7,4 +7,4 @@ You gain the following benefits.
 When you reach level 11, the spell you cast with this feat is cast as though using a level 2 spell slot.  
 When you reach level 17, the spell is cast as though using a level 3 spell slot.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.39*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.39*

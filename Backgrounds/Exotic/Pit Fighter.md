@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Pit Fighter
 Pit fighting was once a major institution in the Bürach Empire. Since then, the practice has been driven underground, but, like poison spreading silently throughout a healthy body, it has infiltrated nearly every major city.  

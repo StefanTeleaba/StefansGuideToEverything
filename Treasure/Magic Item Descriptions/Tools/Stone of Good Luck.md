@@ -18,4 +18,4 @@ While this polished agate is on your person, you gain a +2 bonus to ability chec
 While this polished agate is on your person, you gain a +3 bonus to ability checks and saving throws.
 
 ---
-*Dungeon Master's Guide v5.5, p.312*
+*Dungeon Master's Guide 5.5e, p.312*

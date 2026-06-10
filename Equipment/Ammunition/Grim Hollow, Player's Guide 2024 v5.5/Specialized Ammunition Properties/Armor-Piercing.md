@@ -1,4 +1,4 @@
 # Armor-Piercing
 This ammunition works like an Armor-Piercing Melee weapon, but you fire the ammunition as a projectile from a Ranged weapon.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.124*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.124*

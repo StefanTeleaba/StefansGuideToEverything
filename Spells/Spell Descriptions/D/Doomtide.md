@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.144*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.144*
 
 # Doomtide
 *Level 4 Conjuration (Bard, Cleric, Warlock)*

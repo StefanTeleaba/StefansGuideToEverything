@@ -7,4 +7,4 @@
 You gain a +5 bonus to Constitution saving throws that you make to maintain Concentration.
 
 ---
-*Magic Item Compendium v3.5, p.144*
+*Magic Item Compendium 3.5e, p.144*

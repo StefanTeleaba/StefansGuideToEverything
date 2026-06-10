@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Acid Storm
 *Level 6 Evocation (Sorcerer, Wizard)*
 
@@ -18,8 +17,7 @@ Acid rain falls in a 20-foot-radius, 20-foot-high Cylinder centered on a point w
 
 ---
 
-*Spell Compendium v3.5, p.7*
-
+*Spell Compendium 3.5e, p.7*
 # Acid Storm
 Conjuration (Creation) [Acid]
 

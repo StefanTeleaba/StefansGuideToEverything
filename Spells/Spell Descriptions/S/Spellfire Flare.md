@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.146*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.146*
 
 # Spellfire Flare
 *Level 1 Evocation (Sorcerer, Wizard)*

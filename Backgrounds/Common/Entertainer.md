@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.178*
+*Player's Handbook 5.5e, p.178*
 
 # Entertainer
 You spent much of your youth following roving fairs and carnivals, performing odd jobs for musicians and acrobats in exchange for lessons. You may have learned how to walk a tightrope, how to play a lute in a distinct style, or how to recite poetry with impeccable diction. To this day, you thrive on applause and long for the stage.

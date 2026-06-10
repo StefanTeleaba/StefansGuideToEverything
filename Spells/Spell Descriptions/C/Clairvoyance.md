@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.250*
+*Player's Handbook 5.5e, p.250*
 
 # Clairvoyance
 *Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*

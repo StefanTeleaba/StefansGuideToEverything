@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants v5, p.19*
+*Bigby Presents: Glory of the Giants 5e, p.19*
 
 # Soul of the Storm Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Storm Strike) Feat)*

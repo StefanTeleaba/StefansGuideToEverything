@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.311*
+*Player's Handbook 5.5e, p.311*
 
 # Ray of Sickness
 *Level 1 Necromancy (Sorcerer, Wizard)*

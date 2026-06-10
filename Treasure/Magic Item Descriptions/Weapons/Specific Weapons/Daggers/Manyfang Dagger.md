@@ -7,7 +7,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Spectral Blades.*** This weapon deals an additional 3d4 Force damage on a Hit.
 
 ---
-*Serpent Kingdoms v3.5, p.152*
+*Serpent Kingdoms 3.5e, p.152*
 
 
 ---

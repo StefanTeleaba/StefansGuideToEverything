@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within v5.5*
+*Ravenloft: The Horrors Within 5.5e*
 
 # Hexblood
 Hexbloods are individuals infused with fey magic as a result of eldritch energy or mysterious witchcraft. Many hexbloods are transformed into such beings after making a deal with a powerful hag, but other strange forces can result in the birth of a hexblood. A hexblood’s strange fey power manifests as eerie clairvoyance and beguiling magic.

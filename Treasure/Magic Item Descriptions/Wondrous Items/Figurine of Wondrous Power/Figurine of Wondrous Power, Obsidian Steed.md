@@ -13,4 +13,4 @@ The figurine has a 10 percent chance each time you use it to ignore your orders,
 
 
 
-**Source.** *Dungeon Master's Guide v5.5, p.261*
+**Source.** *Dungeon Master's Guide 5.5e, p.261*

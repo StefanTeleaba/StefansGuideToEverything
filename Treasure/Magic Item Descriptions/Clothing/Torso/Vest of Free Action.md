@@ -7,4 +7,4 @@ While you wear this vest, Difficult Terrain doesn't cost you extra movement. In 
 
 
 ---
-*Magic Item Compendium v3.5, p.198*
+*Magic Item Compendium 3.5e, p.198*

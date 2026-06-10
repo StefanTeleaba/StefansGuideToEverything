@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.272*
+*Player's Handbook 5.5e, p.272*
 
 # Find Steed
 *Level 2 Conjuration (Paladin)*

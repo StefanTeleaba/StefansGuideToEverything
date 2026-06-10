@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.299*
+*Player's Handbook 5.5e, p.299*
 
 # Misty Step
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*

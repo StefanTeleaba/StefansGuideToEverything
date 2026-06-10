@@ -13,4 +13,4 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Guidance of the Platinum Dragon.*** While this weapon is on your person, you gain a +1 bonus to ability checks and saving throws.
 
 ---
-*Dragons of Faerun v3.5, p.123*
+*Dragons of Faerun 3.5e, p.123*

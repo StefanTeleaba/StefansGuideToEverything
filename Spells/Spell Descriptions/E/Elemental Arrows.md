@@ -14,7 +14,7 @@ You touch a quiver and choose one of the following damage types: Acid, Cold, Fir
 
 ---
 
-*Xanathar's Guide to Everything v5, p.156*
+*Xanathar's Guide to Everything 5e, p.156*
 
 # Flame Arrows
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*

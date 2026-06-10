@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.147*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.147*
 
 # Wardaway
 *Level 1 Abjuration (Bard, Cleric, Paladin, Wizard)*

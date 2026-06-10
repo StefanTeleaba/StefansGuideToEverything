@@ -1,5 +1,5 @@
 # Archfey Patron
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Bargain with Whimsical Fey*  
 Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.

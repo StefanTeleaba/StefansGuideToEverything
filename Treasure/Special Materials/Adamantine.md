@@ -22,7 +22,7 @@ When you attack an object with this magic weapon and hit, maximize your weapon d
 ***Adamantine.*** If you take Bludgeoning, Piercing or Slashing damage while wearing this armor, the armor reduces the damage you take by 3.
 
 ---
-*Dungeon Master's Guide v3.5, p.283*  
+*Dungeon Master's Guide 3.5e, p.283*  
 
 Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or
 suit of armor.

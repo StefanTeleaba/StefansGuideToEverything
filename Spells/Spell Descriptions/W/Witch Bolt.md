@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.341*
+*Player's Handbook 5.5e, p.341*
 
 # Witch Bolt
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*

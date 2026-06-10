@@ -6,4 +6,4 @@ A creature that comes into contact with glittermoss makes a DC 12 Constitution s
 Glittermoss spores can leap to nearby creatures. While an affected creature is Blinded due to glittermoss, any creature that starts its turn within the Bright Light the affected creature sheds makes a DC 12 Constitution saving throw, taking 11 (2d10) Radiant damage on a failed save or half as much damage on a successful one.  
 Any amount of Fire or Necrotic damage destroys a patch of glittermoss instantly.
 
-**Source:** *Netheril's Fall v5.5*
+**Source:** *Netheril's Fall 5.5e*

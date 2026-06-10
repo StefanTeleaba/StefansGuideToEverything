@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Envoy
 You are the official representative of a government or other powerful group, traveling to further the objectives of the group you represent. You must be ready at a moment's notice to travel to the next town, or to other parts of the world. Such travel requires not just social skills but also a strong drive and a hardy disposition.  

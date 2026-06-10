@@ -9,7 +9,7 @@
 
 
 ---
-*Dungeon Master's Guide II v3.5, p.272*  
+*Dungeon Master's Guide II 3.5e, p.272*  
 These slippers imbue the wearer with a shocking grace
 and a deadly fl uidity in battle.
 Description: These soft, open-toed slippers are made

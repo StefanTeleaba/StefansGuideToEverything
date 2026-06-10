@@ -16,7 +16,7 @@ On a failed save, the target has Disadvantage on Strength checks, Strength savin
 
 ---
 
-*Player's Handbook v5.5, p.311*
+*Player's Handbook 5.5e, p.311*
 
 # Ray of Enfeeblement
 *Level 2 Necromancy (Warlock, Wizard)*

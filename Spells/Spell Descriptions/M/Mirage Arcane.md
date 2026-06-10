@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.299*
+*Player's Handbook 5.5e, p.299*
 
 # Mirage Arcane
 *Level 7 Illusion (Bard, Druid, Wizard)*

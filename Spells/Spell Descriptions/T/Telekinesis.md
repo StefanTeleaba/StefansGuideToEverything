@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.331*
+*Player's Handbook 5.5e, p.331*
 
 # Telekinesis
 *Level 5 Transmutation (Sorcerer, Wizard)*

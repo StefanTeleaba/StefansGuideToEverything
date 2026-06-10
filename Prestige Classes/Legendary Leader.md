@@ -29,7 +29,7 @@ When you make a Charisma check, you can treat a d20 roll of 9 or lower as a 10.
 ---
 
 # Legendary Leader
-*Heroes of Battle v3.5, p.107*
+*Heroes of Battle 3.5e, p.107*
 
 "Hold your lance up, keep your shield steady, and follow me to victory!"  
 -Henrik Yensen, of Henrik's Horseriders

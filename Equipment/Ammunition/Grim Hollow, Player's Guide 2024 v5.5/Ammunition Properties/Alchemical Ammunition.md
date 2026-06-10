@@ -13,4 +13,4 @@ Additionally, if a creature or area coated with War Oil is exposed to an open fl
 
 After burning for two rounds, being doused, or remaining unlit for 1 minute, War Oil dries up and ceases to be slippery or flammable.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.124*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.124*

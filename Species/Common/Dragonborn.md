@@ -1,4 +1,4 @@
-*Player's Handbook v5.5*
+*Player's Handbook 5.5e*
 
 # Dragonborn
 The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.  

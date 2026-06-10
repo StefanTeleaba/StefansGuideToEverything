@@ -1,5 +1,5 @@
 # Knowledge Domain
-*Forgotten Realms: Heroes of Faerun v5.5*
+*Forgotten Realms: Heroes of Faerun 5.5e*
 
 *Unearth Secrets and Master the Mind*  
 The Knowledge Domain values learning and understanding above all. Clerics who tap into this domain study esoteric lore, collect old tomes, delve into secret places, and examine the processes of the mind. To them, knowledge is more valuable than material wealth, and learning is an act of worship. Libraries, universities, and other educational institutions also draw on the power of the Knowledge Domain.  

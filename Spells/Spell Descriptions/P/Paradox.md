@@ -1,4 +1,4 @@
-*Valda's Spire of Secrets: Player Pack v5.5*
+*Valda's Spire of Secrets: Player Pack 5.5e*
 
 # Paradox
 *Level 9 Transmutation (Sorcerer, Warlock, Wizard)*

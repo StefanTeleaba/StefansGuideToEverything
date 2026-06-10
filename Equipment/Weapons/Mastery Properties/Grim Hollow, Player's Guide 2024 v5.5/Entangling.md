@@ -3,4 +3,4 @@ When you take the Attack action on your turn and hit with an Entangling weapon, 
 
 To escape, the target must use an action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the same DC. On a success, the target no longer has the Grappled condition. While a creature is Grappled by this weapon, you can't use it to attack a different creature.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.123*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.123*

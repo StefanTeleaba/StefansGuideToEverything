@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.283*
+*Player's Handbook 5.5e, p.283*
 
 # Hallucinatory Terrain
 *Level 4 Illusion (Bard, Druid, Warlock, Wizard)*  

@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Extra Eldritch Invocation.*** The number of Eldritch Invocations you have increases by 1.  
 ***Repeatable.*** You can take this feat more than once.
 
-**Source:** *Complete Arcane v3.5, p.79*
+**Source:** *Complete Arcane 3.5e, p.79*

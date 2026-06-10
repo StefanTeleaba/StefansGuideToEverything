@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.266*
+*Player's Handbook 5.5e, p.266*
 
 # Drawmij's Instant Summons
 *Level 6 Conjuration (Wizard)*

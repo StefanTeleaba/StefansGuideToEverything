@@ -1,5 +1,4 @@
 *[Nerdimmersion](https://youtu.be/Db5FXZ_ONhk?si=ZKe_YRE-xofUEfMJ)*
-
 # Arcane Bolt
 *Evocation Cantrip (Wizard)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.337*
+*Player's Handbook 5.5e, p.337*
 
 # Vitriolic Sphere
 *Level 4 Evocation (Sorcerer, Wizard)*

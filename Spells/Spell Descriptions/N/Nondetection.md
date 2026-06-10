@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.302*
+*Player's Handbook 5.5e, p.302*
 
 # Nondetection
 *Level 3 Abjuration (Bard, Ranger, Wizard)*

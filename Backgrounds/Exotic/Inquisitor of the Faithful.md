@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Inquisitor of the Faithful
 You are a servant of the Watchers of the Faithful, hunting down heretics and blasphemers within your own faith, cultists of sinister powers, or other threats to your divine order.  

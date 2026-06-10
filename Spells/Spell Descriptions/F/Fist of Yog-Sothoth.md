@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Fist of Yog-Sothoth
 *Level 4 Conjuration (Sorcerer, Warlock, Wizard)*

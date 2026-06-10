@@ -5,4 +5,4 @@ When you use a Magic action to expel your Breath Weapon, each creature in the ar
 You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest.  
 ***Potent Breath.*** If you take this trait multiple times, you gain an additional breath weapon each time, with its own number of uses, damage type, and area of effect. Additionally, when you use any of your Breath Weapons, one target of your choice has Disadvantage on the saving throw. You regain the use of this feature when you finish a Long Rest.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.33*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.33*

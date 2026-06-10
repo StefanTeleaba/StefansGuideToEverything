@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.291*
+*Player's Handbook 5.5e, p.291*
 
 # Lesser Restoration
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*

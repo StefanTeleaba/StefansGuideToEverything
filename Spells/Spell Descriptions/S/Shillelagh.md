@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Shillelagh
 *Transmutation Cantrip (Druid)*
 
@@ -16,10 +15,9 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ---
 
-*Player's Handbook v5.5, p.316*
-
+*Player's Handbook 5.5e, p.316*
 # Shillelagh
-*Transmutation Cantrip (Sorcerer, Wizard)*
+*Transmutation Cantrip (Druid)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  

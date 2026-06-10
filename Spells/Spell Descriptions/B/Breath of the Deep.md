@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Breath of the Deep
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*

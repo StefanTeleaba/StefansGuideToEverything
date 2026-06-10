@@ -15,7 +15,7 @@
 
 
 ---
-*Magic Item Compendium v3.5, p.119*  
+*Magic Item Compendium 3.5e, p.119*  
 
 **Price (Item Level):** 5,000 gp (9th)  
 **Body Slot:** Head  

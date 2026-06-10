@@ -1,5 +1,5 @@
 # Sanguine Thief
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Eliminate Your Prey with Blood Magic*  
 In dark alleyways across Etharis, deals are made in coin and blood, but a few enterprising Rogues have posed the question: "Why not both?" Sanguine Thieves are assassins who harness the power of Sangromancy to fuel their abilities, finding new and innovative ways to utilize the blood they see all too frequently in their line of work.  

@@ -5,4 +5,4 @@ You gain the following benefits.
 ***Magic Absorption.*** Once per turn, when you take damage from a spell or magical effect, you reduce the total damage taken by 1d4. You can't use this benefit if you have the Incapacitated condition.  
 ***Spellfire Flame.*** You learn the Sacred Flame cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat). You can also cast this cantrip as a Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.38*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.38*

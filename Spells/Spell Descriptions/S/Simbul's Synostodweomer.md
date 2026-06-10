@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.145*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.145*
 
 # Simbul's Synostodweomer
 *Level 7 Transmutation (Sorcerer, Wizard)*

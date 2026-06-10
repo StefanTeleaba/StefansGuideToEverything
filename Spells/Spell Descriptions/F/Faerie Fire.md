@@ -15,7 +15,7 @@ Attack rolls against an affected creature or object have Advantage if the attack
 
 ---
 
-*Player's Handbook v5.5, p.271*
+*Player's Handbook 5.5e, p.271*
 
 # Faerie Fire
 *Level 1 Evocation (Bard, Druid)*

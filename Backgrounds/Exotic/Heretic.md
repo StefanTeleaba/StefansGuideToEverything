@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Heretic
 You have learned that the dominant religious beliefs of your region are lies. The corrupting forces may be in charge, but you will not rest until you have shown their lies as corrupt and untrue. Your beliefs, and your willingness to speak that truth, have put you in danger from the authorities.  

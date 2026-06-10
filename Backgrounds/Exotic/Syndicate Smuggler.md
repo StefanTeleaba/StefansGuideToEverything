@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Syndicate Smuggler
 Goods from one side of Etharis often fetch a fair price on the other side. Transporting such goods are a hassle—dealing with the bureaucracy of customs and taxes is an even larger one. Thankfully, as a representative of the Ebon Syndicate, you are there to eliminate at least part of the hassle.  

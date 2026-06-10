@@ -6,4 +6,4 @@ While you have the Incapacitated condition, you experience the following effects
 ***Speechless.*** You can't speak.  
 ***Surprised.*** If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.
 
-**Source:** *Player's Handbook v5.5, p.369*
+**Source:** *Player's Handbook 5.5e, p.369*

@@ -10,7 +10,7 @@ When you hit a creature with an attack using this weapon, you can compel that cr
 
 ---
 
-*Book of Artifacts v2, p.44*
+*Book of Artifacts 2e, p.44*
 # Hammer of Gesen
 
 The Hammer of Gesen is a remarkably ordinary looking device—a large round-headed hammer much like a common carpenter's mallet. Its only noteworthy feature is that it is made entirely from coal-black iron. Even the handle is cast in iron, patterned to imitate the grain of wood that would normally be used. The Hammer is quite heavy and seems over-balanced, but once held it is quickly apparent that it can be handled with ease and grace.

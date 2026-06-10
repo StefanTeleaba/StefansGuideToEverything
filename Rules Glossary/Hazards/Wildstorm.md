@@ -14,4 +14,4 @@ A creature that enters a wildstorm for the first time on a turn or starts its tu
 | 18-19 | The creature's skin hardens. The creature gains a +2 bonus to AC for 1 minute. |
 | 20    | The creature has the Invisible condition for 1 minute. |
 
-**Source:** *Netheril's Fall v5.5*
+**Source:** *Netheril's Fall 5.5e*

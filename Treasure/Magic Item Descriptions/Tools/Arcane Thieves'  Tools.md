@@ -10,7 +10,7 @@
 
 
 ---
-*Magic Item Compendium v3.5*
+*Magic Item Compendium 3.5e*
 
 # Arcane Thieves' Tools
 

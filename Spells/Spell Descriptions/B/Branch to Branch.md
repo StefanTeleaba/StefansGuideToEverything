@@ -16,6 +16,6 @@ For the duration, you have a Climb Speed equal to your Speed, you have a +10 bon
 
 ---
 
-*Spell Compendium v3.5, p.38*
+*Spell Compendium 3.5e, p.38*
 
 ---

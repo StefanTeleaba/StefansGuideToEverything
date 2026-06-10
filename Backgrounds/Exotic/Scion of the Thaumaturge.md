@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Scion of the Thaumaturge
 You served a mysterious organization simply called the Thaumaturge. You received orders to perform tasks that ranged from the mundane to the inscrutable. Your contact assured you that even if the tasks made no sense, you were serving the greater good of your home, and of all Etharis.  

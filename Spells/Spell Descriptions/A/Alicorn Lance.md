@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Alicorn Lance
 *Level 2 Evocation (Cleric, Druid)*
 
@@ -14,10 +13,10 @@ You hurl a silver, etereal alicorn toward a creature within range. Make a ranged
 
 ---
 
-*Silver Marches v3*
+*Silver Marches 3e*
 
 ---
 
-*Priest's Spell Compendium Volume One v2, p.20*
+*Priest's Spell Compendium Volume One 2e, p.20*
 
 ---

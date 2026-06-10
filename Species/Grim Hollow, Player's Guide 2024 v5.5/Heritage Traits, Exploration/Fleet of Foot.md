@@ -4,4 +4,4 @@ As you've learned more than once, moving fast is often the best way to avoid tro
 ***Shared Fleetness.*** If you take this trait twice, your Speed increases by another 5 feet, for a total increase of 10 feet.  
 Additionally, as a Bonus Action, choose any number of creatures within 30 feet. Those creatures gain a 10 foot bonus to their Speed for 1 minute. You regain the use of this feature when you finish a Long Rest.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.37*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.37*

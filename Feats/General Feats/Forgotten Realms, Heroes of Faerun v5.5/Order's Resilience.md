@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Resurge.*** When you have the Prone condition, you can right yourself with only 5 feet of movement.  
 ***Stronger Together.*** If you are within 5 feet of an ally that doesn't have the Incapacitated condition, you and that ally have Advantage on Strength saving throws. You can't use this benefit while you have the Incapacitated condition.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.40*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.40*

@@ -12,7 +12,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with these magic weapo
 ***Two-Weapon Fighting.*** You gain the benefits of the *Two-Weapon Fighting* feat while wielding both these sickles.
 ***Dual Wielding.*** You gain the benefits of the *Dual Wielder* feat while wielding both these sickles.
 
-**Source:** *Dragons of Faerun v3.5, p.123*
+**Source:** *Dragons of Faerun 3.5e, p.123*
 
 
 

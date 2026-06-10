@@ -16,6 +16,6 @@ You summon an otherworldly being that appears as a loyal steed in an unoccupied 
 
 ---
 
-*Xanathar's Guide to Everything v5, p.156*
+*Xanathar's Guide to Everything 5e, p.156*
 
 ---

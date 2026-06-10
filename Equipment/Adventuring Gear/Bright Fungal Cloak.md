@@ -6,4 +6,4 @@ While wearing a Bright Fungal Cloak, you can take a Bonus Action to furl or unfu
 
 One pound of fungus is sewn into a Bright Fungal Cloak. This fungus can be eaten as food. Once all the fungus is consumed, the cloak becomes a mundane set of Traveler's Clothes.
 
-**Source:** *Forgotten Realms, Heroes of Faerun v5.5, p.132*
+**Source:** *Forgotten Realms, Heroes of Faerun 5.5e, p.132*

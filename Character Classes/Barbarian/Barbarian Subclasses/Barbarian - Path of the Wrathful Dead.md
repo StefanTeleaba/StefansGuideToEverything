@@ -1,5 +1,5 @@
 # Path of the Wrathful Dead
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Channel the Rage of the Unquiet Dead*  
 Barbarians who walk the Path of the Wrathful Dead commune with the spirits of the deceased and channel their spectral powers. These Barbarians are often preoccupied with the dead whispering in their ears, which urge them to act upon the whims and emotions of the haunting spirits. Some who walk this path learn to master the powers gifted to them; others find they've become servants to the unending chorus clamoring for their attention.

@@ -1,5 +1,5 @@
 # Trickery Domain
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Make Mischief and Challenge Authority*  
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.  

@@ -4,4 +4,4 @@
 
 This 100-page leather-bound tome can be used as a Spellbook. It is closed with a lock that comes with a key. As a Utilize action, a creature can try to pick the lock using Thieves' Tools, doing so with a successful DC 15 Dexterity (Sleight of Hand) check.
 
-**Source:** *Forgotten Realms, Heroes of Faerun v5.5, p.132*
+**Source:** *Forgotten Realms, Heroes of Faerun 5.5e, p.132*

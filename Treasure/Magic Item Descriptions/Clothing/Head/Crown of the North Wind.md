@@ -19,7 +19,7 @@
 | Lightning Breath | Repulsion Breath                 |
 
 
-**Source:** *Dragons of Faerun v3.5, p.126*
+**Source:** *Dragons of Faerun 3.5e, p.126*
 
 
 

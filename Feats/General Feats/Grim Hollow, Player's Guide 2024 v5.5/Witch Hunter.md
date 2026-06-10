@@ -7,4 +7,4 @@ You have honed and perfected your skills fighting against spellcasters, possibly
 ***Keep Your Enemies Close.*** When you hit a target that can cast spells with an attack roll using a Melee weapon or an Unarmed Strike, you can reduce its Speed by 15 feet until the start of your next turn.  
 ***Resist Curses.*** You have Advantage on saving throws against all Shadowsteel curses, and also against spells with a duration of more than 10 minutes.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.118*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.118*

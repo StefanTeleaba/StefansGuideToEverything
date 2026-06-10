@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within v5.5*
+*Ravenloft: The Horrors Within 5.5e*
 
 # Lupin
 With their bristling fur and snarling muzzles, lupins cast imposing shadows in the Mists. Lupins often arise from encounters with werewolves in which the curse of lycanthropy didn’t fully take hold. Unlike true werewolves, lupins can’t shift between wolf and humanoid form but are instead stuck as a hybrid transformation. This cursed wolflike physiology affords lupins bestial might, enhanced instincts, and a dread-inducing howl.

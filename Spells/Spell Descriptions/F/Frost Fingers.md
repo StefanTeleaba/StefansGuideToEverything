@@ -15,7 +15,7 @@ The cold freezes nonmagical liquids in the area that aren't being worn or carrie
 
 ---
 
-*Icewind Dale: Rime of the Frostmaiden v5, p.318*
+*Icewind Dale: Rime of the Frostmaiden 5e, p.318*
 
 # Frost Fingers
 *Level 1 Evocation (Sorcerer, Wizard)*

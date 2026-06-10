@@ -8,4 +8,4 @@ Your game statistics are replaced by the stat block of the chosen form, but you 
 Once you use this benefit, you can't do so again until you finish a Long Rest.  
 ***Hardy Transformation.*** When you gain Temporary Hit Points when you shape-shift, increase that number of Temporary Hit Points by 20.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.42*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.42*

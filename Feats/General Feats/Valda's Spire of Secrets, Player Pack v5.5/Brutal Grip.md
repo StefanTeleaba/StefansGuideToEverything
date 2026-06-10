@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Heavy Duelist.*** You can wield a Melee weapon with Two-Handed in one hand.  
 ***Versatile Dual Wielder.*** While wielding a Melee weapon with Versatile in one hand, the weapon has the Light property for you.
 
-**Source:** *Valda's Spire of Secrets: Player Pack v5.5*
+**Source:** *Valda's Spire of Secrets: Player Pack 5.5e*

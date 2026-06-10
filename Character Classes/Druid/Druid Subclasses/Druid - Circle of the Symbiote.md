@@ -1,5 +1,5 @@
 # Circle of the Symbiote
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“Steel and magic come and go. Nature abides.” — Lerex the Justifier*
 

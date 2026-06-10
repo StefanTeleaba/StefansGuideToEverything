@@ -1,4 +1,4 @@
-*Homebrew*, *Cone of Cold*, *Player's Handbook v5.5, p.253*
+*Homebrew*, *Cone of Cold*, *Player's Handbook 5.5e, p.253*
 
 # Blast of Flame
 *Level 5 Evocation (Sorcerer, Wizard)*

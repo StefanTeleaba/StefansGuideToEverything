@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants v5, p.18*
+*Bigby Presents: Glory of the Giants 5e, p.18*
 
 # Rune Shaper
 *Origin Feat*

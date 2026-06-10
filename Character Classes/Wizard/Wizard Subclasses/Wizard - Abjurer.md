@@ -1,5 +1,5 @@
 # Abjurer
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Shield Companions and Banish Foes*  
 Your study of magic is focused on spells that block, banish, or protect-ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.

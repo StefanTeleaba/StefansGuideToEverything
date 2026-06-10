@@ -45,7 +45,7 @@ When you are Invisible as a result of the Hide action and are hit by an attack, 
 ---
 
 # Gloom Stalker
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Draw on Shadow Magic to Fight Your Foes*  
 Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to com- bat enemies that lurk in darkness.

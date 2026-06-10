@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Umbral Tendril
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*

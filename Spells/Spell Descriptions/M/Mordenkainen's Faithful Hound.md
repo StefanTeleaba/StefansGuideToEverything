@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.300*
+*Player's Handbook 5.5e, p.300*
 
 # Mordenkainen's Faithful Hound
 *Level 4 Conjuration (Wizard)*

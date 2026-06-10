@@ -1,5 +1,5 @@
 # The First Vampire Patron
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Wield the Power of Undeath*  
 You have made a pact with a powerful vampire cursed by the gods or born as a creature of the night. Hundreds of haunted beings serve this vampire, so why enter a pact with you? Because you can act in the light of day unhindered? To cull weaker vampires?

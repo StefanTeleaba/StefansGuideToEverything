@@ -1,5 +1,5 @@
 # Apocalypse Domain
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“Some say the world ends in fire. Others, ice. I'm ready for both.” — Endara, Doom's Daughter*
 

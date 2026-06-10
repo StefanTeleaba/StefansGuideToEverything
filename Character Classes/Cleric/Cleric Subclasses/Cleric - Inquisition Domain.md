@@ -1,5 +1,5 @@
 # Inquisition Domain
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Cleanse the Heretics*  
 The Inquisition Domain reflects the order of the multiverse and the rejection of tainted magic—so far as certain celestial powers see it. Only the divine casters are pure and fit for use.  

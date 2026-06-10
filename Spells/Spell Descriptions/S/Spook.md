@@ -16,7 +16,7 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 
 ---
 
-*Wizard's Spell Compendium Volume Three v2, p.861*  
+*Wizard's Spell Compendium Volume Three 2e, p.861*  
 
 # Spook
 *(Illusion/Phantasm)*  

@@ -1,5 +1,5 @@
 # Light Domain
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Bring Light to Banish Darkness*  
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.  

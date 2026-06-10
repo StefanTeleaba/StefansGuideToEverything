@@ -1,5 +1,5 @@
 # Path of the Zealot
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 Rage in Ecstatic Union with a God  
 Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.

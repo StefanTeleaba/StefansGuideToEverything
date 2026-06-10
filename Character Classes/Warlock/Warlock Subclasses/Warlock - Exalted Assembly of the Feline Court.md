@@ -1,5 +1,5 @@
 # Exalted Assembly of the Feline Court
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“If man could be crossed with a cat, it would improve man but deteriorate the cat.” — Mark Twain*
 

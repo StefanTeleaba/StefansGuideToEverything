@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.15*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.15*
 
 # Tasha's Mind Whip
 *Level 2 Enchantment (Psion, Sorcerer, Wizard)*
@@ -14,7 +14,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, v5.5, p.11*
+*Unearthed Arcana 2025 - The Psion, 5.5e, p.11*
 
 # Tasha's Mind Whip
 *Level 2 Enchantment (Psion, Sorcerer, Wizard)*
@@ -30,7 +30,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 ---
 
-*Tasha's Cauldron of Everything v5, p.115*
+*Tasha's Cauldron of Everything 5e, p.115*
 
 # Tasha's Mind Whip
 *Level 2 Enchantment (Psion, Sorcerer, Wizard)*

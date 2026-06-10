@@ -1,7 +1,7 @@
 # Avenging Executioner
 *Variant*  
 *Prestige Class*  
-*Complete Scoundrel v3.5, p.24*
+*Complete Scoundrel 3.5e, p.24*
 
 *“Scream. Scream like you made me scream.” - Peck, the Swan Street Slicer*  
 *In the broken hearts and shattered dreams of the tragically wronged, seeds of vengeance take root. Avenging executioners are victims pushed past the limits of endurance who hunt sentient creatures out of a need for justice. Relentless and inventive, these stalkers wield psychology as deftly as their weapons. The fear they inspire can be even more deadly then their rusted blades.*  

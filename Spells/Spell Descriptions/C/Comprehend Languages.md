@@ -14,7 +14,7 @@ For the duration, you understand the literal meaning of any language that you he
 
 ---
 
-*Player’s Handbook v5.5, p.252*
+*Player’s Handbook 5.5e, p.252*
 
 # Comprehend Languages
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*

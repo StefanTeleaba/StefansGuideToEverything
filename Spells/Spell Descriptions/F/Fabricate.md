@@ -14,7 +14,7 @@ Creatures and magic items can't be created by this spell. You also can't use it 
 
 ---
 
-*Player's Handbook v5.5, p.271*
+*Player's Handbook 5.5e, p.271*
 
 # Fabricate
 *Level 4 Transmutation (Wizard)*

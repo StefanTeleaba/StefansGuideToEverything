@@ -1,5 +1,5 @@
 # College of Adventurers
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Be a Master of Classes*  
 Bards from the College of Adventurers learn from heroes of old and stories of legend. Bards are jacks of all trades, and, for the College of Adventurers, this statement rings even truer. They combine all the skills of their companions into one, allowing them to be versatile and supportive. While not having a direct goal, many adventurer-studying Bards live to tell tales of other heroes or seek to create their own. Stories of great deeds, of desperate cunning, of magical anomalies, or of godly might fuel these Bards.

@@ -1,5 +1,5 @@
 # Warrior of Pride
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Prove Your Superiority*  
 Monks who become Warriors of Pride value themselves above all. These monks focus on mastering their form, ego, and their destructive power. They display monastic aesthetics publicly with the intention of gaining the respect and admiration of "lesser beings."  

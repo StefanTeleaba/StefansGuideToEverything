@@ -1,4 +1,4 @@
-*Astarion's Book of Hungers v5.5*
+*Astarion's Book of Hungers 5.5e*
 
 # Bloodlust
 *General Feat (Prerequisite: Level 4+)*

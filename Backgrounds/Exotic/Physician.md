@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Physician
 Your skills treating the sick and injured have given you a vast knowledge of illnesses and remedies based on the latest science—or the most recent theories from those who like to push the limits of what science might allow.  

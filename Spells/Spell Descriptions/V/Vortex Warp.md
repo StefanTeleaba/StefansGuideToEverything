@@ -14,6 +14,6 @@ You magically twist space around another creature you can see within range. The 
 
 ---
 
-*Strixhaven: A Curriculum of Chaos v5, p.38*  
+*Strixhaven: A Curriculum of Chaos 5e, p.38*  
 
 ---

@@ -11,4 +11,4 @@ You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon
 
 
 
-**Source:** *The Savage Frontier v2, p.60*
+**Source:** *The Savage Frontier 2e, p.60*

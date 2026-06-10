@@ -1,5 +1,5 @@
 # Oath of Pestilence
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Gain Strength Through Suffering*  
 Clad in grime-soaked armor and wielding rusting weapons, Oath of Pestilence Paladins spread corruption, disease, and filth. Bound by an oath that infests their bodies with all manner of plagues, these heralds of decay lumber forward with unholy toughness and grim resolve.  

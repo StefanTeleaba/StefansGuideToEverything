@@ -1,5 +1,5 @@
 # Spellfire Sorcery
-*Forgotten Realms: Heroes of Faerun v5.5*
+*Forgotten Realms: Heroes of Faerun 5.5e*
 
 *Wield Raw Magic*  
 Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.  

@@ -11,4 +11,4 @@ Any amount of Radiant damage destroys shadowbark instantly.
 | 11–16  | 22 (4d10)       | 16      |
 | 17–20  | 55 (10d10)      | 18      |
 
-**Source:** *Netheril's Fall v5.5*
+**Source:** *Netheril's Fall 5.5e*

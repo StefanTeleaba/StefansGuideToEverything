@@ -18,4 +18,4 @@ While holding this wand, you gain a +2 bonus to spell attack rolls. In addition,
 While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore Half Cover when making a spell attack roll.
 
 ---
-*Dungeon Master's Guide v5.5, p.322*
+*Dungeon Master's Guide 5.5e, p.322*

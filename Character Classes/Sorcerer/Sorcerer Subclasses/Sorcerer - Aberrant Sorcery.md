@@ -1,5 +1,5 @@
 # Aberrant Sorcery
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Wield Unnatural Psionic Power*  
 An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?  

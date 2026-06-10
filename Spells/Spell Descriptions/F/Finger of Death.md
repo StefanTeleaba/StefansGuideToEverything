@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.273*
+*Player's Handbook 5.5e, p.273*
 
 # Finger of Death
 *Level 7 Necromancy (Sorcerer, Warlock, Wizard)*

@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.321*
+*Player's Handbook 5.5e, p.321*
 
 # Suggestion
 *Level 2 Enchantment (Druid, Ranger, Sorcerer, Wizard)*

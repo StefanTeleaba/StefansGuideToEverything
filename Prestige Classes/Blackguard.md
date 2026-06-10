@@ -1,7 +1,7 @@
 # Blackguard
 *Variant*  
 *Prestige Class*  
-*Dungeon Master's Guide v3.5, p.181*
+*Dungeon Master's Guide 3.5e, p.181*
 
 *The blackguard epitomizes evil. He is nothing short of a mortal fiend. The quintessential black knight, this villain carries a reputation of the foulest sort that is very well deserved. Consorting with demons and devils and serving dark deities, the blackguard is hated and feared by all. Some people call these villains antipaladins due to their completely evil nature.*  
 *The blackguard has many options available to him—sending forth dark minions and servants to do his bidding, attacking with stealth and honorless guile, or straightforward smiting of the forces of good that stand in his way. Fighters, ex-paladins, rangers, monks, druids, and barbarians make for indomitable combat-oriented blackguards, while rogues and bards who become blackguards are likely to stress the subtle aspects of their abilities and spells. Sorcerers, wizards, and clerics who become blackguards are sometimes called diabolists and favor dealing with fiends even more than other blackguards do.*  

@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.242*
-
+*Player's Handbook 5.5e, p.242*
 # Arcane Eye
 *Level 4 Divination (Wizard)*
 

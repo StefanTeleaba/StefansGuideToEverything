@@ -11,4 +11,4 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Returning.*** This weapon returns to your hand immediately after hitting or missing a target with a ranged attack.
 
 
-**Source.** *Encyclopedia Magica Volume 2 v2, p.551*
+**Source.** *Encyclopedia Magica Volume 2 2e, p.551*

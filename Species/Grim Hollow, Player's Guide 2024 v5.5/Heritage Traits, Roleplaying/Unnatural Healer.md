@@ -4,4 +4,4 @@ Your innate healing abilities let you recover from some of the grimmest wounds. 
 The ability to make use of unusual body parts (for example, giving yourself the taloned paw of a lion if you lose a hand) are left to the GM's discretion. In any event, swapping a severed body part for an unusual body part grants you no mechanical Advantages not covered by other traits (see "Features and Traits" on page 11).  
 ***Regenerative Healer.*** If you take this trait twice, you automatically reverse Permanent Wounds during a Long Rest. Additionally, you can restore any severed body part during a Long Rest, as if subject to the Regenerate spell. You can use this trait to create unusual regenerated body parts at the GM's determination.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.47*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.47*

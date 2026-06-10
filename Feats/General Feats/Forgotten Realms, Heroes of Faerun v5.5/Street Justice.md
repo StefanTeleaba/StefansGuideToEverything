@@ -7,4 +7,4 @@ You gain the following benefits.
 ***Sturdy Knot.*** When you use Chain, Manacles, or Rope to bind a creature, add your Proficiency Bonus to the DC to escape or burst the Chain, Manacles, or Rope.  
 ***Tough Talk.*** A creature's Hostile attitude doesn't impose Disadvantage on your Charisma (Intimidation) checks to influence that creature.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.41*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.41*

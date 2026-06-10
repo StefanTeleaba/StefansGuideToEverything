@@ -8,4 +8,4 @@ While you have the Unconscious condition, you experience the following effects.
 ***Automatic Critical Hits.*** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.  
 ***Unaware.*** You're unaware of your surroundings.
 
-**Source:** *Player's Handbook v5.5, p.376*
+**Source:** *Player's Handbook 5.5e, p.376*

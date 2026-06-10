@@ -14,6 +14,6 @@ You unleash a blast of high pitched sound. One creature that you can see within 
 
 ---
 
-*Magic of Faerun v3.5, p.101*
+*Magic of Faerun 3.5e, p.101*
 
 ---

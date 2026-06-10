@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # One of the Taken
 On the fringes of the civilized world, parents warn their children not to wander away from their homes, especially at night. The many creatures that haunt the forests, from the faerie-folk to the minions of the Great Beast, spell doom for the innocent who stray too far into the darkness. You failed to heed your parents' warnings, and you were taken. In fact, those who know of your experience use that word to describe you: Taken.  

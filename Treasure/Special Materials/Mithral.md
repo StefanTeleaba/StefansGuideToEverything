@@ -13,7 +13,7 @@ If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has 
 
 
 ---
-*Dungeon Master's Guide v3.5, p.284*
+*Dungeon Master's Guide 3.5e, p.284*
 
 *Mithral is a very rare silvery, glistening metal that is lighter than iron but just as hard.*
 

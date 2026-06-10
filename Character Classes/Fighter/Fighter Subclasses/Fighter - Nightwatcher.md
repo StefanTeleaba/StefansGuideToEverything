@@ -1,5 +1,5 @@
 # Nightwatcher
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Take Back the Night*  
 Nightwatchers come from humble origins, often toiling as guards or investigators. Undaunted by dangers in the darkness, they stand firm against the growing night. Ever vigilant, they use the darkness to surprise and overwhelm foes much greater than themselves.

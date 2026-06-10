@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.340*
+*Player's Handbook 5.5e, p.340*
 
 # Web
 *Level 2 Conjuration (Sorcerer, Wizard)*

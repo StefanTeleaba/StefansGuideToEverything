@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Create Mist of R'lyeh
 *Level 1 Conjuration (Sorcerer, Warlock, Wizard)*

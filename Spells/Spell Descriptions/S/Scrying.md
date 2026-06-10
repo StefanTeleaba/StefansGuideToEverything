@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.313*
+*Player's Handbook 5.5e, p.313*
 
 # Scrying
 *Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*

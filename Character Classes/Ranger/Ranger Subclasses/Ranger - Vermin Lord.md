@@ -1,5 +1,5 @@
 # Vermin Lord
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Grow Powerful from Strength in Numbers*  
 Vermin Lords cultivate loyal hordes of disease-bearing rodents to help them battle greater evils. For many of these Rangers, that greater evil is some kind of societal ill, but a rare few see their fellow Humanoids as an infestation that threatens the natural world. Regardless of their goal, they make their homes in sewers, slums, and other forgotten places where they are free to plot against their enemies and tend to their verminkin.

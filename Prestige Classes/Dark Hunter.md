@@ -1,7 +1,7 @@
 # Dark Hunter
 *Variant*  
 *Prestige Class*  
-*Complete Warrior v3.5, p.20*
+*Complete Warrior 3.5e, p.20*
 
 *Dark hunters specialize in hunting down and eliminating creatures in the dark, twisting caves of the Underdark, often protecting underground communities or those people who make their living under the earth (such as miners or hunters). They use stealth, ambush, and deception to single out foes and remove them one by one. A typical strategy is to locate the enemy, then hide against a nearby wall of earth or stone. The dark hunter then waits for her enemy to pass by, leaping out to attack when the target least expects it. A dark hunter uses her knowledge of underground terrain to find the best areas to create pits, cave-ins, and rockslides, often enabling her to eliminate the enemy without drawing her axe. If a dark hunter is outnumbered, she retreats into the darkness, hiding until she can pick off individual targets.*  
 *Because they spend so much time in the stark wilderness of caves and caverns, dark hunters are slightly ostracized by other members of society. Most individuals live among others of their own kind, so the rootless existence of the dark hunter seems like a social aberration. Still, great honor is to be found in protecting the clan from attack, so dark hunters are given respect. None of this concerns the individual, who cares little for what others think; she finds purpose in what she does every time she brings down another one of her enemies. She prefers to work alone, but also knows that cooperation with others has its advantages.*  

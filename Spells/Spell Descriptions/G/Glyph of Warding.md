@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.279*
+*Player's Handbook 5.5e, p.279*
 
 # Gliph of Warding
 *Level 3 Abjuration (Bard, Cleric, Wizard)*

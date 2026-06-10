@@ -19,4 +19,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 **Monkey of Muting.** You can command the monkey to teleport on the shoulders of a creature it can see within 30 feet. The target must succeed on a Dexterity saving throw or be gagged. While gagged, the creature can't speak or cast spells with a Verbal component. The target can take an Action to make a DC 13 Strength (Athletics) check. On a successful check, the target is no longer gagged.
 
 
-**Source.** *Encyclopedia Magica Volume 2 v2, p.473*
+**Source.** *Encyclopedia Magica Volume 2 2e, p.473*

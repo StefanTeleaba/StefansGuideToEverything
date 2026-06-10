@@ -6,4 +6,4 @@ You are small and thin for your species. You have a mysterious and consistent ab
 ***Dodgy.*** While you aren't wearing armor or wielding a Shield, you can take the Dodge action as a Bonus Action.  
 ***Slippery.*** While you are Grappled or Restrained, your attacks don't have Disadvantage and attacks against you don't have Advantage.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.116*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.116*

@@ -14,6 +14,6 @@ When you hit with your Unarmed Strike and deal damage, you can deal Slashing dam
 
 ---
 
-*Spell Compendium v3.5, p.47*
+*Spell Compendium 3.5e, p.47*
 
 ---

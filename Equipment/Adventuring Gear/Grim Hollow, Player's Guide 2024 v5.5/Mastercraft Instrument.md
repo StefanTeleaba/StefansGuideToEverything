@@ -6,4 +6,4 @@ These musical instruments are not just the work of the finest luthiers and artis
 
 If you are proficient in the instrument and have a Proficiency Bonus of at least +4, all Charisma (Performance) checks made using a Mastercraft Instrument have Advantage.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.127*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.127*

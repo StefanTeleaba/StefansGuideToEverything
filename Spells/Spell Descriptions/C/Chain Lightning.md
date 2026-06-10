@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.249*
+*Player's Handbook 5.5e, p.249*
 
 # Chain Lightning
 *Level 6 Evocation (Sorcerer, Wizard)*

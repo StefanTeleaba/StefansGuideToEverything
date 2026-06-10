@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Exterminator
 Etharis is overrun with vermin, but for you those pests of the four-legged variety. In the cities these are generally rats and other rodents. In the country, the pests might come in the form of raccoons or other critters that steal food and destroy structures piece by piece.  

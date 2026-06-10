@@ -12,7 +12,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 
 ---
-*Dragons of Faerun v3.5, p.123*
+*Dragons of Faerun 3.5e, p.123*
 
 A dragontooth of Lareth is a dagger made from a
 fang of the fallen King of Justice in the wake of

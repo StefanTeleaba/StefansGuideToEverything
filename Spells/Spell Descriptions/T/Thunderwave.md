@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.334*
+*Player's Handbook 5.5e, p.334*
 
 # Thunderwave
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*

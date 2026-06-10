@@ -7,4 +7,4 @@ While you have the Paralyzed condition, you experience the following effects.
 ***Attacks Affected.*** Attack rolls against you have Advantage.  
 ***Automatic Critical Hits.*** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
-**Source:** *Player's Handbook v5.5, p.371*
+**Source:** *Player's Handbook 5.5e, p.371*

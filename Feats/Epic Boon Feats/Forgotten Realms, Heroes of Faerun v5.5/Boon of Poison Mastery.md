@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Antitoxic.*** You have Immunity to Poison damage and the Poisoned condition.  
 ***Perfect Poisoner.*** Once per turn, when you roll dice to determine Poison damage a creature takes from your attack, spell, or feature, you can instead use the highest number possible for each die.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.43*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.43*

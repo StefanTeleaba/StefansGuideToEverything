@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.15*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.15*
 
 # Thought Form
 *Level 6 Transmutation (Psion)*

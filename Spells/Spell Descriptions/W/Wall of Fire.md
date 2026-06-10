@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.338*
+*Player's Handbook 5.5e, p.338*
 
 # Wall of Fire
 *Level 4 Evocation (Cleric, Paladin, Warlock, Wizard)*

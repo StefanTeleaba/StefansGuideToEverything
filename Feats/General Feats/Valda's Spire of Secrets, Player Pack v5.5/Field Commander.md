@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Command.*** As an action, you can issue a command to an ally within 60 feet that can hear you. It can immediately take an action as a Reaction. That action can be used to take only the Attack (one attack only), Dash, Dodge, Hide, Influence, Search, Study, or Utilize action.  
 ***Tight Formation.*** While you are within 5 feet of two or more allies that don't have the Incapacitated condition, enemies can't have Advantage on attack rolls against you.
 
-**Source:** *Valda's Spire of Secrets: Player Pack v5.5*
+**Source:** *Valda's Spire of Secrets: Player Pack 5.5e*

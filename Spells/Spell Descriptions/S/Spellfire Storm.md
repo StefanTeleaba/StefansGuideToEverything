@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.146*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.146*
 
 # Spellfire Storm
 *Level 4 Evocation (Sorcerer, Wizard)*

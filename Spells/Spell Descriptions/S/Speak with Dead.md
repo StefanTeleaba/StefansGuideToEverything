@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.318*
+*Player's Handbook 5.5e, p.318*
 
 # Speak with Dead
 *Level 3 Necromancy (Bard, Cleric, Wizard)*

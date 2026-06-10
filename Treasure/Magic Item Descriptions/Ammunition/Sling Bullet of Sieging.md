@@ -7,7 +7,7 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 Alternatively, this bullet can be used with a Sling. You make a ranged attack with the Sling. On a hit, the target takes Bludgeoning damage equal to 3d10 plus your Dexterity modifier.
 
-*Magic Item Compendium v3.5, p.150*
+*Magic Item Compendium 3.5e, p.150*
 
 ---
 
@@ -20,4 +20,4 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 Alternatively, this bullet can be used with a Sling. You make a ranged attack with the Sling. On a hit, the target takes Bludgeoning damage equal to 8d10 plus your Dexterity modifier.
 
-*Magic Item Compendium v3.5, p.150*
+*Magic Item Compendium 3.5e, p.150*

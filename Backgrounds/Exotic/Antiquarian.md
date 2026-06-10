@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Antiquarian
 You are fascinated with studying history and identifying ancient artifacts, relics, and texts. You seek to gather rare and lost items to add to your collection or the collections of others.  

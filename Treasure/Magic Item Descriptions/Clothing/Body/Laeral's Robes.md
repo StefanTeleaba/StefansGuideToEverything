@@ -18,4 +18,4 @@ Retrieving an item from the robes requires a Utilize action or a Bonus Action (y
 
 
 
-**Source:** *City of Splendors: Waterdeep v3.5, p.150*
+**Source:** *City of Splendors: Waterdeep 3.5e, p.150*

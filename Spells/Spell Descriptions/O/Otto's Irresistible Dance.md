@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.303*
+*Player's Handbook 5.5e, p.303*
 
 # Otto's Irresistible Dance
 *Level 6 Enchantment (Bard, Wizard)*

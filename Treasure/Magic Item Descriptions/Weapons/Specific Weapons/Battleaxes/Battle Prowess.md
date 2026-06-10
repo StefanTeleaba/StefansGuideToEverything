@@ -10,6 +10,6 @@ When you take the Attack action on your turn and attack with this weapon, you ca
 While holding this weapon, a Lawful creature takes 3d6 Radiant damage at the start of each of its turns.
 
 ---
-*Faiths and Pantheons v3.5, p.73*
+*Faiths and Pantheons 3.5e, p.73*
 
 Battle Prowess, the personal weapon of the Faerûnian war god Tempus, was a +3 anarchic keen speed battleaxe.

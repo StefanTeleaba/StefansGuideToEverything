@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.308*
+*Player’s Handbook 5.5e, p.308*
 
 # Prismatic Wall
 *Level 9 Abjuration (Bard, Wizard)*

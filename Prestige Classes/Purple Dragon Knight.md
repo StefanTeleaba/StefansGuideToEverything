@@ -1,6 +1,6 @@
 # Purple Dragon Knight
 *Prestige Class*  
-*Player's Guide to Faerun v3.5, p.68*
+*Player's Guide to Faerun 3.5e, p.68*
 
 *The famed Purple Dragons make up the bulk of Cormyr’s standing army. These highly trained soldiers, coupled with the fearsome War Wizards of Cormyr, have defended the Forest Kingdom from all manner of threats, from savage humanoids to the mysterious shades. The Purple Dragon knight, one of the army’s high-ranking officers, can command from ten to a hundred or more soldiers on the battlefield. Being awarded the rank of Purple Dragon knight is a great honor for any Cormyrian.*  
 *Fighters, rangers, and paladins make up the majority of the Purple Dragon knights, but a few are bards, clerics, or rogues. Sorcerers and wizards, while not outright forbidden from joining the Purple Dragons, almost always join the War Wizards, Cormyr’s elite brigade of combat-trained spellcasters, instead. Barbarians, druids, and monks seldom join the ranks of the Purple Dragon knights, being either too undisciplined or too uncivilized.*  

@@ -3,7 +3,7 @@
 
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.
 
-**Source:** *Dungeon Master's Guide v5.5, p.254*
+**Source:** *Dungeon Master's Guide 5.5e, p.254*
 
 ---
 

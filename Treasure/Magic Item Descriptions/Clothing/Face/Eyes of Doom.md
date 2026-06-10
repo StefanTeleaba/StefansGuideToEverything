@@ -12,7 +12,7 @@ Alternatively, you can take a *Magic* action to expend 1 charge and fill a creat
 
 ---
 
-*Dungeon Master's Guide v3.5, p.256*
+*Dungeon Master's Guide 3.5e, p.256*
 # Eyes of Doom
 These crystal lenses fit over the user’s eyes, enabling him to cast doom upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are affected as by the doom spell. If the wearer has only one lens, the DC of the saving throw is reduced to 10. However, if the wearer has both lenses, he gains the additional power of a continual deathwatch effect and can use fear (Will DC 16 partial) as a normal gaze attack once per week.  
 Moderate necromancy; CL 11th; Craft Wondrous Item, doom, deathwatch, fear; Price 25,000 gp.

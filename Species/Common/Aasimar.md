@@ -1,4 +1,4 @@
-*Player's Handbook v5.5*
+*Player's Handbook 5.5e*
 
 # Aasimar
 Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.  

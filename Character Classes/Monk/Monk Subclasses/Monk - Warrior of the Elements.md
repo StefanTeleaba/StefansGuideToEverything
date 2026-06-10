@@ -1,5 +1,5 @@
 # Warrior of the Elements
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Wield Strikes and Bursts of Elemental Power*  
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.

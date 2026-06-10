@@ -12,4 +12,4 @@ A creature requires an amount of water per day based on its size, as shown in th
 | Huge       | 16 gallons |
 | Gargantuan | 64 gallons |
 
-**Source:** *Player's Handbook v5.5, p.365*
+**Source:** *Player's Handbook 5.5e, p.365*

@@ -8,4 +8,4 @@ As an Attack action, a wielder can make a melee attack using Strength. Against m
 
 If the Vampire is CR 10 or lower, the Vampire instantly crumbles to dust. If the Vampire is more powerful, its form remains whole for one year before crumbling to dust. If the Blessed Stake is removed before then, the Vampire rises with 1 Hit Point.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.126*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.126*

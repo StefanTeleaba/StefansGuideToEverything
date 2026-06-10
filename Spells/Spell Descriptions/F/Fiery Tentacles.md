@@ -16,6 +16,6 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 ---
 
-*Forgotten Realms: Shining South v3.5, p.45*
+*Forgotten Realms: Shining South 3.5e, p.45*
 
 ---

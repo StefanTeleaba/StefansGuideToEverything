@@ -1,5 +1,4 @@
 *D&D Beyond Dungeon Drop - May 2026*
-
 # Astral Flood
 *Level 3 Evocation (Bard, Cleric, Sorcerer, Wizard)*
 

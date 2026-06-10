@@ -14,4 +14,4 @@ Oil is exposed to an open flame or some other source of Fire damage, the oil ign
 
 After burning for two rounds, being doused, or remaining unlit for 1 minute, War Oil dries up and ceases to be slippery or flammable.
 
-*Grim Hollow: Player's Guide v5.5, p.129*
+*Grim Hollow: Player's Guide 5.5e, p.129*

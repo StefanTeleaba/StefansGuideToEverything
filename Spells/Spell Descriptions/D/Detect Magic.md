@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.262*
+*Player's Handbook 5.5e, p.262*
 
 # Detect Magic
 *Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*

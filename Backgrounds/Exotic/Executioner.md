@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Executioner
 You were employed as an executioner by some group or organization in a position of power. Your legally sanctioned murders have given you a strong arm and a knowledge of death and fatal blows.  

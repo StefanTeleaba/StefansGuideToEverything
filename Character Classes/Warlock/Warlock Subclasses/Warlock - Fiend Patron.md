@@ -1,5 +1,5 @@
 # Fiend Patron
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Make a Deal with the Lower Planes*  
 Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.

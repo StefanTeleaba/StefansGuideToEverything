@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.278*
+*Player's Handbook 5.5e, p.278*
 
 # Gentle Repose
 *Level 2 Necromancy (Cleric, Paladin, Wizard)*

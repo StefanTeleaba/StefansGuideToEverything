@@ -1,5 +1,5 @@
-*Ravenloft: The Horrors Within v5.5*
-*Astarion's Book of Hungers v5.5, p.7*
+*Ravenloft: The Horrors Within 5.5e*
+*Astarion's Book of Hungers 5.5e, p.7*
 
 # Dhampir
 Dhampirs are living people who possess vampiric prowess but are cursed with macabre hunger. Most dhampirs thirst for blood, but some gain sustenance from dreams, life energy, or other vital sources. Dhampirs must choose whether to fight to control their hunger or give in to predatory urges.  

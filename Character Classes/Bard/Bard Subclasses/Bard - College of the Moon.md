@@ -1,5 +1,5 @@
 # College of the Moon
-*Forgotten Realms: Heroes of Faerun v5.5*
+*Forgotten Realms: Heroes of Faerun 5.5e*
 
 *Inspire Allies with Primal Tales*  
 The College of the Moon traces its origins to the ancient druidic circles of the Moonshae Isles, who entrusted the first Bards of this tradition with chronicling the stories of the islands and their people. Bards of this college draw from the isles' fey magic and the primal power of the moonwells to bolster their allies, protect the natural world, and inspire their bardic works.

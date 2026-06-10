@@ -6,7 +6,7 @@ These crystal lenses fit over the eyes. They have 3 charges and regain 1d3 expen
 
 ---
 
-*Dungeon Master's Guide v3.5, p.256*  
+*Dungeon Master's Guide 3.5e, p.256*  
 These items are made of special crystal and fit over the eyes of the wearer. They allow her to use a petrification gaze attack (Fortitude DC 19 negates) for 10 rounds per day. Both lenses must be worn for the magic to be effective.  
 Moderate transmutation; CL 11th; Craft Wondrous Item, flesh to stone; Price 98,000 gp.
 

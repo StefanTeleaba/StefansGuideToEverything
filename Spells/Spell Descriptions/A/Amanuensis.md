@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)  
-
 # Amanuensis
 *Transmutation Cantrip (Wizard)*
 
@@ -12,6 +11,6 @@ This spell allows the caster to copy non-magical text from one source onto blank
 
 ---
 
-*Spell Compendium v3.5, p.9*
+*Spell Compendium 3.5e, p.9*
 
 ---

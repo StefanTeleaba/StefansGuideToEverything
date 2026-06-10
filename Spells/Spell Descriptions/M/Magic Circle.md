@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.293*
+*Player's Handbook 5.5e, p.293*
 
 # Magic Circle
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*

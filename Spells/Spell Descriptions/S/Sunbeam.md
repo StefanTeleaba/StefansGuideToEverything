@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.329*
+*Player's Handbook 5.5e, p.329*
 
 # Sunbeam
 *Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*

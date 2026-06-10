@@ -14,6 +14,6 @@ For the duration, you have Advantage on any Wisdom (Perception or Survival) chec
 
 ---
 
-*Spell Compendium v3.5, p.34*
+*Spell Compendium 3.5e, p.34*
 
 ---

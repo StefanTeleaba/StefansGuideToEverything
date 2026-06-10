@@ -1,5 +1,5 @@
 # Primordial Archer
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Channel the Wrath of the Wilds*  
 In the areas of Etharis where nature still holds sway, many cling to the ancient customs of woodland hunters and witches. Marking themselves with wild plants and bone needles, theirs is a tradition of cunning, cruelty, and reprisal against all trespassers. Unlike the Druids, these wood witches twist natural magic into hexes, imbuing their weapons with nature's fury.

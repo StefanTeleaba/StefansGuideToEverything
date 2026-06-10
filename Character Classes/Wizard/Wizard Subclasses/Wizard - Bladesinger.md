@@ -1,5 +1,5 @@
 # Bladesinger
-*Forgotten Realms: Heroes of Faerun v5.5*
+*Forgotten Realms: Heroes of Faerun 5.5e*
 
 *Wield Weapon and Wizardry in Elegant Tandem*  
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life—a glorious dance accompanied by a singing blade.  

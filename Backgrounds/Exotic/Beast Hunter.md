@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Beast Hunter
 You make your living by trapping, hunting, and killing vicious beasts. Your efforts might provide meat and furs for settlements or for trade. When a nearby beast is particularly vicious, you become a community's best defense against the destruction wildlife can cause.  

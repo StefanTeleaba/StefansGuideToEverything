@@ -5,4 +5,4 @@ A fireball fungus is a Small, inanimate mushroom that can grow anywhere fungi ar
 A fireball fungus has AC 10, HP 6, and Immunity to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a Fireball spell (save DC 15) had been centered on it.  
 ***At Higher Levels.*** The explosion of a fireball fungus causes other fireball fungi in the area of effect to explode as well. You can scale the hazard for higher levels by adding one additional fungus at levels 11–16 or three additional fungi at levels 17–20.
 
-**Source:** *Dungeon Master's Guide v5.5, p.76*
+**Source:** *Dungeon Master's Guide 5.5e, p.76*

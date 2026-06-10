@@ -18,7 +18,7 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 ---
 
-*Player's Handbook v5.5, p.262*
+*Player's Handbook 5.5e, p.262*
 
 # Disguise Self
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*

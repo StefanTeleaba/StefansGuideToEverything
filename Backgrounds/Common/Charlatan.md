@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.178*
+*Player's Handbook 5.5e, p.178*
 
 # Charlatan
 Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born. As you traveled the circuit from public house to watering hole, you learned to prey on unfortunates who were in the market for a comforting lie or two-perhaps a sham potion or forged ancestry records.

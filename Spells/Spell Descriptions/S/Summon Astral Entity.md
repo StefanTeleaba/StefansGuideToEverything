@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.14*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.14*
 
 # Summon Astral Entity
 *Level 3 Conjuration (Psion, Sorcerer, Warlock, Wizard)*
@@ -49,6 +49,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, v5.5, p.10*
+*Unearthed Arcana 2025 - The Psion, 5.5e, p.10*
 
 ---

@@ -1,5 +1,5 @@
 # The Parasite Patron
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Become One with a Cosmic Being*  
 Your patron is a cosmic parasite, draining the vitality of entire peoples and worlds. Upon forging a pact with such a patron, you become host to one of its nascent offspring. As you grow in power, the boundary between your identity and the parasitic larva within blurs.

@@ -1,5 +1,4 @@
 *Treantmonk*
-
 # Crown of Madness
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -13,8 +12,7 @@ A spectral crown appears on the Charmed target's head, and it must use its actio
 
 ---
 
-*Player's Handbook v5.5, p.259*
-
+*Player's Handbook 5.5e, p.259*
 # Crown of Madness
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 

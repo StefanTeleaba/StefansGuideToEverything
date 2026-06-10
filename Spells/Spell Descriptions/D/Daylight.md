@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.260*
+*Player's Handbook 5.5e, p.260*
 
 # Daylight
 *Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*

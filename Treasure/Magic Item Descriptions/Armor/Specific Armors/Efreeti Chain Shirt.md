@@ -5,4 +5,4 @@ While wearing this armor, you gain a +3 bonus to Armor Class, you have Immunity 
 
 
 
-**Source:** *Dungeon Master's Guide v5.5, p.257*
+**Source:** *Dungeon Master's Guide 5.5e, p.257*

@@ -8,4 +8,4 @@ Alchemical Ammunition is heavier than normal; the weapon's normal and long range
 
 ***Alchemist's Frost.*** When one of these pieces of Alchemical Ammunition hits, it deals the ammunition's normal damage, then applies the effect of the listed item to the target. No saving throw is allowed against this effect.
 
-*Grim Hollow: Player's Guide v5.5, p.129*
+*Grim Hollow: Player's Guide 5.5e, p.129*

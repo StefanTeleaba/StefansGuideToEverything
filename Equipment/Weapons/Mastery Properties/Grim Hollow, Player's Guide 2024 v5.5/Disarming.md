@@ -3,4 +3,4 @@ A Disarming weapon can catch a foe's weapon, allowing you to remove it from thei
 
 If your winning result on the opposed attack roll was a Critical Hit, you can choose for the weapon either to land in a space of your choice up to 15 feet from the target, or to land in your hand if you have a free hand.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.123*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.123*

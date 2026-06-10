@@ -11,4 +11,4 @@ A creature that walks onto a sinkhole must succeed on a DC 10 Dexterity check or
 | 11–16  | 60 feet        |
 | 17–20  | 120 feet       |
 
-**Source:** *Forgotten Realms: Adventures in Faerun v5.5*
+**Source:** *Forgotten Realms: Adventures in Faerun 5.5e*

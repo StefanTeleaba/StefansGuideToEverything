@@ -1,5 +1,5 @@
 # College of the Dirge Singer
-*Exploring Eberron v5.5, p.216*
+*Exploring Eberron 5.5e, p.216*
 
 Bards of the College of the Dirge Singer are trained to inspire their people and direct soldiers on the battlefield. Students of both history and war, dirge singers use tales of past glory and their knowledge of great victories to inspire their allies and provide keen strategic insight, directing allies to strike when enemies are weak.  
 This ancient tradition was developed in the Empire of Dhakaan, and is largely unknown beyond the goblinoids of the Kech Dhakaan. The duur'kala--Goblin for dirge singer--are the historians, diplomats, and spiritual leaders of the empire. Duur'kala are discussed in more detail in chapter 4 of this book. If you're not one of the dar, consider how you came to learn this tradition. Did you train with a ghaal'dar mentor? Or did you find your own path to these techniques?

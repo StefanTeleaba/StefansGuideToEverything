@@ -1,4 +1,4 @@
-*Valda's Spire of Secrets: Player Pack v5.5*
+*Valda's Spire of Secrets: Player Pack 5.5e*
 
 # Polybrachia
 *Level 3 Conjuration (Druid, Paladin, Ranger, Warlock)*

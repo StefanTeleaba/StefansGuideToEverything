@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.319*
+*Player's Handbook 5.5e, p.319*
 
 # Spike Growth
 *Level 2 Transmutation (Druid, Ranger)*

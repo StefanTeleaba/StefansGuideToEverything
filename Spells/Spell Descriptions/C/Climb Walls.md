@@ -1,4 +1,4 @@
-*Spell Compendium v3.5, p.47*
+*Spell Compendium 3.5e, p.47*
 
 # Climb Walls
 *Level 1 Transmutation (Druid, Ranger)*

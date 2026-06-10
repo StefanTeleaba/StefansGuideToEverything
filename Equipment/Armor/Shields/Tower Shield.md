@@ -6,4 +6,4 @@ This large shield provides more protection than a typical shield. While wielding
 
 To wield a Tower Shield, you must have a Strength of at least 15 and your Speed is reduced by 10 feet while wielding the shield.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.127*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.127*

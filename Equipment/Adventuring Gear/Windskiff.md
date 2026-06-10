@@ -7,4 +7,4 @@ This small piece of jewelry has 3 charges and regains all expended charges daily
 
 In vehicle form, a Windskiff is a Medium object with the following statistics: AC 12, HP 30, and Speed 40 ft. The Windskiff hovers a few inches above whatever surface it's on and can glide; it moves 5 feet horizontally for every 1 foot it descends in the air. A Windskiff and its riders take no damage from falling.
 
-**Source:** *Forgotten Realms, Adventures in Faerun v5.5, p.247*
+**Source:** *Forgotten Realms, Adventures in Faerun 5.5e, p.247*

@@ -1,5 +1,5 @@
 # Warrior of the Street
-*Valda's Spire of Secrets: Player Pack v5.5*
+*Valda's Spire of Secrets: Player Pack 5.5e*
 
 *Strike with Combos and Special Moves*
 

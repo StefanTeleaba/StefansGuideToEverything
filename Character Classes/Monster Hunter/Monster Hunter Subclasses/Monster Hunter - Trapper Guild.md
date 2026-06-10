@@ -1,5 +1,5 @@
 # Trapper Guild
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Dispatch Monsters with Cunning Traps*  
 Legends say that the founding members of the Trapper Guild were game hunters who had grown bored of stalking common elk and dreamed of taking down bigger game. Trappers take pride in their kills and the ingenuity exhibited when a trap works perfectly.  

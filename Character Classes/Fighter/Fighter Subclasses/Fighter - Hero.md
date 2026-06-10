@@ -1,5 +1,5 @@
 # Hero
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“In times as dark as these, all it takes is one spark to bring back the light.” — Hector Arghast, Champion of Ten Banners*
 

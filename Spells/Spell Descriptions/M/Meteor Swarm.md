@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.298*
+*Player's Handbook 5.5e, p.298*
 
 # Meteor Swarm
 *Level 9 Evocation (Sorcerer, Wizard)*

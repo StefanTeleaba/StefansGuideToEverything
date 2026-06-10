@@ -1,5 +1,5 @@
 # The Coven
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Curse and Befuddle with Hag Magic*  
 Hags dwell in the deep places of Etharis, from the primordial forests of Valika to the putrid streets of Liesecht. These creatures, though rarely benevolent, are willing to bargain with mortals in exchange for furthering their own capricious goals.  

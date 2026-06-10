@@ -1,5 +1,5 @@
 # Circle of Entropy
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Become an Instrument of Decay and Ruin*  
 Druids of the Circle of Entropy see doom as a constant of the natural world. Lives end, works erode, and the civilizations of Etharis ultimately come to ruin. The inevitable end of the old brings opportunity for the new. These fatalistic Druids see themselves as agents of ruin, ending those whose time has passed to make space for those whose time has yet to come.

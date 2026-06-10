@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Fey-Blessed
 The powerful and fickle faerie-folk of your area have taken note of you, and your existence pleases them. Whether you were born under a lucky star, had a favorable run-in with a nature spirit, or simply were in the right place at the right time, the fey favor you with small gifts and boons. You find small trinkets in your shoes when you wake up in the morning. Beasts of the forest and field are more receptive to your presence and your training. Will this blessing somehow turn into a curse later in your life?  

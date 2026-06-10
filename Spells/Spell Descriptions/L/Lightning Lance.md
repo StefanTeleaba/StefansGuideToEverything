@@ -16,6 +16,6 @@ You create a crackling lance of lightning. Make a ranged spell attack. On a hit 
 
 ---
 
-*Dragonlance Campaign Setting v3.5, p.105*  
+*Dragonlance Campaign Setting 3.5e, p.105*  
 
 ---

@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.245*
-
+*Player's Handbook 5.5e, p.245*
 # Banishment
 *Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 

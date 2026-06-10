@@ -1,5 +1,5 @@
 # Living Crucible
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Enhance Your Martial Prowess with Alchemy*  
 Fighters who become Living Crucibles have discovered an external means of power. While most Fighters train in martial traditions or study the art of war, Living Crucibles hone their craft of alchemy to endure compounds poisonous to others. In exchange for this rigorous physical and mental preparation, these Fighters are able to temporarily push their bodies past their natural limits. Under the influence of their alchemical compounds, these warriors can see in darkness, enhance their speed, inure themselves to magical attacks, and more.

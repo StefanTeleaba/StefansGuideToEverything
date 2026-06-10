@@ -4,10 +4,10 @@
 
 Designed to open wide wounds, such as with a broad-bladed arrowhead, Brutal ammunition works like a Brutal Melee weapon.
 
-*Grim Hollow: Player's Guide v5.5, p.129*
+*Grim Hollow: Player's Guide 5.5e, p.129*
 
 ---
-*Grim Hollow: Player's Guide v5.5, p.123*
+*Grim Hollow: Player's Guide 5.5e, p.123*
 
 **Brutal**  
 A Brutal weapon is designed for maximum damage. Brutal weapons score Critical Hits on a natural roll of 19 or 20. If your Critical Range is already increased, instead increase it by 1 point (such as from 19-20 to 18-20).  

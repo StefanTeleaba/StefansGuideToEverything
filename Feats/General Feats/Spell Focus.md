@@ -6,4 +6,4 @@ Choose a spell that requires a spell attack roll. You gain the following benefit
 ***Spell Focus.*** You have an additional +1 bonus to spell attack rolls made with the selected spell.  
 ***Repeatable.*** You can take this feat more than once, but you must choose a different spell each time.
 
-**Source:** *Player's Handbook v3.5, p.96*
+**Source:** *Player's Handbook 3.5e, p.96*

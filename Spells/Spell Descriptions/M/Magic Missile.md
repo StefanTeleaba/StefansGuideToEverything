@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.295*
+*Player's Handbook 5.5e, p.295*
 
 # Magic Missile
 *Level 1 Evocation (Sorcerer, Wizard)*

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Acid Bolt
 *Level 4 Evocation (Sorcerer, Wizard)*
 
@@ -14,7 +13,7 @@ You create two teardrop-shaped darts of flesh-corrosive force. Each dart strikes
 
 ---
 
-*The Drow of the Underdark, v2, p.52*
-*Wizard's Spell Compendium Volume One v2, p.23*
+*The Drow of the Underdark, 2e, p.52*
+*Wizard's Spell Compendium Volume One 2e, p.23*
 
 ---

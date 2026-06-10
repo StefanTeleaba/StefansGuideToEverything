@@ -3,7 +3,7 @@
 
 While wearing this cloak, you can take a Bonus Action to make it billow dramatically for 1 minute.
 
-**Source:** *Dungeon Master's Guide v5.5, p.244*
+**Source:** *Dungeon Master's Guide 5.5e, p.244*
 
 ---
 

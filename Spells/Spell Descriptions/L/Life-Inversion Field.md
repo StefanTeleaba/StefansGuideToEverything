@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.12*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.12*
 
 # Life-Inversion Field
 *Level 4 Abjuration (Cleric, Psion, Sorcerer)*

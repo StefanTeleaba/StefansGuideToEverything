@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.305*
+*Player’s Handbook 5.5e, p.305*
 
 # Plane Shift
 *Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*

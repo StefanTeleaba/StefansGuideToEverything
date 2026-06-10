@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Retaliate.*** Immediately after a creature within 5 feet of you hits you with a melee attack, you can make an Opportunity Attack against that creature.  
 ***Versatile Merc.*** When you finish a Long Rest, choose a skill in which you have proficiency. You have Expertise in that skill until you finish your next Long Rest.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.41*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.41*

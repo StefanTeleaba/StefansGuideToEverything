@@ -1,5 +1,5 @@
 # Warrior of Regret
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Atone for Past Mistakes*  
 No one is born intent on bringing evil into this world, yet many lives are transformed by the suffering inflicted upon them. Warriors of Regret are haunted by the shadows of evil deeds done.  

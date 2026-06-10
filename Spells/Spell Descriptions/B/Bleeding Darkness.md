@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.11*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.11*
 
 # Bleeding Darkness
 *Level 3 Evocation (Psion, Warlock, Wizard)*

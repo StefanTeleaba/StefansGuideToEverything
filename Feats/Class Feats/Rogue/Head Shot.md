@@ -6,4 +6,4 @@ You gain the following *Cunning Strike* option.
 ***Head Shot (Cost: 2d6).*** The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.
 
 ---
-*Complete Scoundrel v3.5, p.77*
+*Complete Scoundrel 3.5e, p.77*

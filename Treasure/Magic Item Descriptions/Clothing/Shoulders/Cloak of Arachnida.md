@@ -11,4 +11,4 @@ This fine garment is made of black silk interwoven with faint, silvery threads. 
 
 ***Web.*** You can cast Web (save DC 13). The web created by the spell fills twice its normal area. Once used, this property can't be used again until the next dawn.
 
-*Dungeon Master's Guide v5.5, p.244*
+*Dungeon Master's Guide 5.5e, p.244*

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Arrow Storm
 *Level 3 Transmutation (Ranger)*
 
@@ -14,6 +13,6 @@ You make a ranged attack against any number of creatures within your weapon's ra
 
 ---
 
-*Spell Compendium, p.16*
+*Spell Compendium 3.5e, p.16*
 
 ---

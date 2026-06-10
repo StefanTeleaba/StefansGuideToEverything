@@ -1,5 +1,5 @@
 # Sangromancer
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Spill Blood for Power*  
 You study an uncommon school of magic known as Sangromancy or blood magic. Despite its dark reputation, there's nothing inherently evil about the practice of Sangromancy, though its demands on its practitioners are gruesome. As a Sangromancer, your chosen magic demands more than knowledge: it demands sacrifice. Other Wizards may view you with skepticism or even outright hostility, but none can deny the potency of your art.

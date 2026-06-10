@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Prisoner
 Something from your past landed you in prison. Your transgressions might be real or imagined, against a just society or a corrupt one. Regardless of how you became a prisoner, you have learned to survive within your environment.  

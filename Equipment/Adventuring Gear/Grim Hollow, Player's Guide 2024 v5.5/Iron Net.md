@@ -7,4 +7,4 @@ This net is comprised of tiny interlocking iron rings. It acts as a normal Net, 
 - The DC of the Strength (Athletics) check to escape is 15.
 - The Iron Net has AC 13 and 15 HP.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.126*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.126*

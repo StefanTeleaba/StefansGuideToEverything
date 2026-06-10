@@ -7,4 +7,4 @@ You gain the following benefits.
 ***Repeatable.*** You can take this feat more than once.
 
 ---
-*Complete Warrior v3.5, p.98*
+*Complete Warrior 3.5e, p.98*

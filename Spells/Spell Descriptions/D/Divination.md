@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.264*
+*Player's Handbook 5.5e, p.264*
 
 # Divination
 *Level 4 Divination (Cleric, Druid, Wizard)*

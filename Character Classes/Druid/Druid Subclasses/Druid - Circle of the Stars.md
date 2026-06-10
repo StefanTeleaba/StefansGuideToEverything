@@ -1,5 +1,5 @@
 # Circle of the Stars
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Harness Secrets Hidden in Constellations*  
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.

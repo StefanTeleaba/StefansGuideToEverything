@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Agent of Augustine
 You've used your education and knowledge from working on behalf of the Augustine Trading Company. You've been generally held in high regard by those who can use the knowledge you've gained, while others look upon your work for the organization as unsavory. Your training, however, makes you a versatile problem-solver.  

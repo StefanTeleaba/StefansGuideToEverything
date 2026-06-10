@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.309*
+*Player’s Handbook 5.5e, p.309*
 
 # Project Image
 *Level 7 Illusion (Bard, Wizard)*

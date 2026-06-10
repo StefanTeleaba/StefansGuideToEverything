@@ -9,7 +9,7 @@ While wearing this circlet, you gain a +3 bonus to Charisma (Deception, Intimida
 
 
 ---
-*Dungeon Master's Guide v3.5, p.252*
+*Dungeon Master's Guide 3.5e, p.252*
 
 This silver headband grants a +3 competence bonus on the wearer’s Charisma-based checks.
 

@@ -10,4 +10,4 @@ Focusing all your resolve, you stand fast and watch your enemies flail against y
 You can't take actions, and you can't use your Bonus Action except to end the effect of this trait.  
 ***Mobile Bastion.*** If you take this trait twice, when you use Personal Bastion, your Speed is reduced to half your normal Speed (rounded down), you do not have Disadvantage on Dexterity saving throws, and you can use Bonus Actions.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.43*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.43*

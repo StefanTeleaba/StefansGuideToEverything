@@ -16,6 +16,6 @@ Make a ranged spell attack against one creature or object in range. On a hit, th
 
 ---
 
-*Spell Compendium v3.5, p.31*
+*Spell Compendium 3.5e, p.31*
 
 ---

@@ -1,5 +1,5 @@
 # Oath of Zeal
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Eliminate Threats to Ideological Purity* 
 The Oath of Zeal is taken by paladins consumed by hatred for a specific group or ideology. Zealots, as these Paladins are sometimes called, pursue an inquisition against their enemies at all costs. They abandon compassion and honor as impediments to the more important work of ridding the world of those they deem dangerous or heretical.  

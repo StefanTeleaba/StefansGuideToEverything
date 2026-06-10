@@ -1,4 +1,4 @@
-*Exploring Eberron v5.5, p.22*
+*Exploring Eberron 5.5e, p.22*
 
 # Concussive Burst
 *Level 1 Evocation (Sorcerer, Wizard)*

@@ -16,6 +16,6 @@ You have a +10 bonus to Dexterity (Stealth) checks for the duration.
 
 ---
 
-*Spell Compendium v3.5, p.43*
+*Spell Compendium 3.5e, p.43*
 
 ---

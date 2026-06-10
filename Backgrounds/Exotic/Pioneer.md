@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Pioneer
 There is still land in Etharis where no one has lived before, and pioneers are the hardy folk who set out to tame that land for the first time. You've learned to find a suitable area to live, set up the beginnings of a village, build the dwellings needed for settlers, then move on.  

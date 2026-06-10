@@ -14,7 +14,7 @@ You create a deep resonant vibration that can shake creatures off their feet. Ea
 
 ---
 
-*Forgotten Realms: Magic of Faerûn v3.5, p.79*  
-*Spell Compendium v3.5, p.126*
+*Forgotten Realms: Magic of Faerûn 3.5e, p.79*  
+*Spell Compendium 3.5e, p.126*
 
 ---

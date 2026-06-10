@@ -15,6 +15,6 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 ---
 
-*Forgotten Realms: City of Splendors: Waterdeep v2, p.153*
+*Forgotten Realms: City of Splendors: Waterdeep 2e, p.153*
 
 ---

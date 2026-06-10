@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within v5.5, p.*
+*Ravenloft: The Horrors Within 5.5e, p.*
 
 # Undead Patron
 *Defy Death for Profane Power*  

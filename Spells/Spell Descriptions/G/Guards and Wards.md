@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.282*
+*Player's Handbook 5.5e, p.282*
 
 # Guards and Wards
 *Level 6 Abjuration (Bard, Wizard)*

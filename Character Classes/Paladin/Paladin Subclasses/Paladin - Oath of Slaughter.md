@@ -1,5 +1,5 @@
 # Oath of Slaughter
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Revel in Unbridled Violence*  
 The only truth of war is death. The only virtue is to kill. The only victory is to survive. Heroism, honor, and glory are illusions. This is the creed of Tormach, Arch Daemon of Wrath, but this philosophy rings true for all warriors who devote themselves, body and soul, to the thrill of combat and the delight of bloodshed. Such champions find themselves at the forefront of armies, using the most violent methods at their disposal to bring battles to a swift close... or drawing out the war to sate their own appetites.  

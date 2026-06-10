@@ -8,4 +8,4 @@ You gain the following benefits.
 ***Sacred Strike.*** When you deal Sneak Attack damage to a creature, you can choose for the Sneak Attack to deal d8s of Radiant damage instead of d6s of the same type dealt by the weapon. The damage increases by 1d8 if the target is a Fiend or an Undead.
 
 ---
-*Book of Exhalted Deeds v3.5, p.45*
+*Book of Exhalted Deeds 3.5e, p.45*

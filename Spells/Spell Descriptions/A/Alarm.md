@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Alarm
 *Level 1 Abjuration (Ranger, Wizard)*
 
@@ -16,8 +15,7 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 ---
 
-*Player's Handbook v5.5, p.239*
-
+*Player's Handbook 5.5e, p.239*
 # Alarm
 *Level 1 Abjuration (Ranger, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.293*
+*Player's Handbook 5.5e, p.293*
 
 # Locate Object
 *Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*

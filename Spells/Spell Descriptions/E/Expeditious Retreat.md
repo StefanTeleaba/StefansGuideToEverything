@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.270*
+*Player's Handbook 5.5e, p.270*
 
 # Expeditious Retreat
 *Level 1 Transmutation (Sorcerer, Warlock, Wizard)*

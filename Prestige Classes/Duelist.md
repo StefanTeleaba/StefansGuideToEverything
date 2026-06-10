@@ -1,7 +1,7 @@
 # Duelist
 *Variant*  
 *Prestige Class*  
-*Dungeon Master's Guide v3.5, p.185*
+*Dungeon Master's Guide 3.5e, p.185*
 
 *The duelist (sometimes known as the swashbuckler) is a nimble, intelligent fighter trained in making precise attacks with light weapons, such as the rapier. She always takes full advantage of her quick reflexes and wits in a fight. Rather than wearing bulky armor, a duelist feels the best way to protect herself is not to get hit at all.*  
 *Duelists are most often fighters or rangers, but almost as often are rogues or bards. Wizards, sorcerers, and monks make surprisingly good duelists due to those classes’ lack of reliance on armor. They benefit greatly from the weapon skill the duelist offers. Some paladins and barbarians who deviate a good deal from their archetypes become duelists.*  
@@ -54,7 +54,7 @@ When you take the Dodge action, you gain a bonus to AC and Dexterity saving thro
 
 # Duelist
 *Prestige Class*  
-*Dungeon Master's Guide v3.5, p.185*
+*Dungeon Master's Guide 3.5e, p.185*
 
 *The duelist (sometimes known as the swashbuckler) is a nimble, intelligent fighter trained in making precise attacks with light weapons, such as the rapier. She always takes full advantage of her quick reflexes and wits in a fight. Rather than wearing bulky armor, a duelist feels the best way to protect herself is not to get hit at all.*  
 *Duelists are most often fighters or rangers, but almost as often are rogues or bards. Wizards, sorcerers, and monks make surprisingly good duelists due to those classes’ lack of reliance on armor. They benefit greatly from the weapon skill the duelist offers. Some paladins and barbarians who deviate a good deal from their archetypes become duelists.*  

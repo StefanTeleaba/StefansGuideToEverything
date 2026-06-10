@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.289*
+*Player's Handbook 5.5e, p.289*
 
 # Invisibility
 *Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*

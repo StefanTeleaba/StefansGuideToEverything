@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Acorn Barrage
 *Level 1 Evocation (Druid, Ranger)*
 
@@ -14,8 +13,7 @@ You hurl three acorns. You can hurl them at one target within range or at severa
 
 ---
 
-*Priest's Spell Compendium Volume One v2, p.12*
-
+*Priest's Spell Compendium Volume One 2e, p.12*
 **Acorn Barrage - Elf**  
 **(Enchantment)**  
 **Sphere: Plant**

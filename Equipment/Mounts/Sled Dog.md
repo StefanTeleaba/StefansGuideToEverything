@@ -6,4 +6,4 @@
 Speed: 40 ft.  
 Carrying Capacity: 210 lb.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.132*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.132*

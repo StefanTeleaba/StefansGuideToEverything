@@ -6,4 +6,4 @@ You know how to spot a liar, and you can get people to see your way, whether thr
 ***Multiple Paths.*** You can use any ability modifier when you take the Influence action to make an Intimidation or Persuasion check.  
 ***Zealous Insight.*** When you succeed on a Search action's Wisdom (Insight) check to detect lies or evasive answers, you have Advantage on Initiative rolls involving combat against that creature for 1 hour.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.114*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.114*

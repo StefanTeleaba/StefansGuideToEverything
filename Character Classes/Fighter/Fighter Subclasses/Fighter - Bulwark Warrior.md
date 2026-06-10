@@ -1,5 +1,5 @@
 # Bulwark Warrior
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Provoke Your Enemies, Protect Your Allies*  
 Those who learn the fighting prowess of the Bulwark Warrior Warriors protect their allies from certain death. With endurance and strength as their primary skills, these warriors are prepared to take lethal strikes for their companions.

@@ -6,4 +6,4 @@ Choose a kind of weapon for which you have already selected the *Weapon Focus* f
 ***Weapon Specialization.*** You have an additional +2 bonus to damage rolls made with the selected weapon.  
 ***Repeatable.*** You can take this feat more than once, but you must choose a different kind of weapon each time.
 
-**Source:** *Player's Handbook v3.5, p.102*
+**Source:** *Player's Handbook 3.5e, p.102*

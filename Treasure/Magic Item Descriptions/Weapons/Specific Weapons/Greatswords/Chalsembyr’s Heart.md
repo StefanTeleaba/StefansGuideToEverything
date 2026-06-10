@@ -19,4 +19,4 @@ You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon
 ***Holy Avenger.*** While you hold the drawn weapon, it creates a 10-foot Emanation originating from you. You and all creatures Friendly to you in the Emanation have Advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the Emanation increases to 30 feet.  
 
 ---
-*Champions of Valor v3.5, p.61*
+*Champions of Valor 3.5e, p.61*

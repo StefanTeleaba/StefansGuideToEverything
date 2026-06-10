@@ -1,4 +1,4 @@
-*Player's Handbook v5.5*
+*Player's Handbook 5.5e*
 
 # Goliath
 

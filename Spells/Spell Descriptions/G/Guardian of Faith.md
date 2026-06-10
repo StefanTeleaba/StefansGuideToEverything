@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.281*
+*Player's Handbook 5.5e, p.281*
 
 # Guardian of Faith
 *Level 4 Conjuration (Cleric)*

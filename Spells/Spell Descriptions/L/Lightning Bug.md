@@ -16,7 +16,7 @@ You create a dart of electrical energy that strikes a creature of your choice th
 
 ---
 
-*City of Splendors v2, p.85*  
-*Wizard's Spell Compendium Volume Two v2, p.516*  
+*City of Splendors 2e, p.85*  
+*Wizard's Spell Compendium Volume Two 2e, p.516*  
 
 ---

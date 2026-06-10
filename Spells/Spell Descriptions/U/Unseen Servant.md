@@ -18,7 +18,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ---
 
-*Player’s Handbook v5.5, p.336*
+*Player’s Handbook 5.5e, p.336*
 
 # Unseen Servant
 *Level 1 Conjuration (Bard, Warlock, Wizard)*

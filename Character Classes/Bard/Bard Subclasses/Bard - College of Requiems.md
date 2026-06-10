@@ -1,5 +1,5 @@
 # College of Requiems
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Sing the Songs of the Dead*  
 Performing macabre melodies filled with grief-stricken chords and mournful refrains, the College of Requiems stirs the very bones of the dead. Requiem Bards weave necromantic magic into their funerary songs to control and empower a host of Undead minions.

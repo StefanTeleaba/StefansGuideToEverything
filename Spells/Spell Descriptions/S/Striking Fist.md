@@ -15,6 +15,6 @@ As a Bonus Action on your later turns, you can move the hand up to 30 feet and r
 
 ---
 
-*Player’s Handbook II v3.5, p.103*  
+*Player’s Handbook II 3.5e, p.103*  
 
 ---

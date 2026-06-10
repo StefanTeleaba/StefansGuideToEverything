@@ -1,5 +1,5 @@
 # War Domain
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Inspire Valor and Smite Foes*  
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.  

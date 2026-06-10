@@ -14,7 +14,7 @@ The target takes an extra 1d6 Piercing damage from the attack as grasping vines 
 
 ---
 
-*Player's Handbook v5.5, p.268*
+*Player's Handbook 5.5e, p.268*
 
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*

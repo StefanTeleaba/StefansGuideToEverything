@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Evil Eye
 *Enchantment Cantrip (Druid, Sorcerer, Warlock, Wizard)*

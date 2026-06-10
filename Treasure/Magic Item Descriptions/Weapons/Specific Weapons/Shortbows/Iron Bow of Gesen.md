@@ -14,7 +14,7 @@ Once per Day, when you take the Attack action on your turn, you can replace one 
 
 ---
 
-*Book of Artifacts v2, p.44*
+*Book of Artifacts 2e, p.44*
 # Iron Bow of Gesen
 
 Upon casual examination, the Iron Bow of Gesen appears to be an ordinary short bow of the type used by horse raiders, lacquered black and strung with a shimmering cord. Closer examination reveals that the bow is of iron, cunningly wrought to seem like wood, while the string is a golden wire. The Bow is light and can be drawn back with ease, bending more than iron should ever allow.

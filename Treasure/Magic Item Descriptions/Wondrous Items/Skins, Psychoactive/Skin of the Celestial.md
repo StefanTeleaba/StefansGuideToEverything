@@ -21,7 +21,7 @@ While wearing the armor, you have resistance to poison damage.
 
 
 
-**Source:** *Magic Item Compendium v3.5, p.169*
+**Source:** *Magic Item Compendium 3.5e, p.169*
 
 ---
 Skin of the Celestial

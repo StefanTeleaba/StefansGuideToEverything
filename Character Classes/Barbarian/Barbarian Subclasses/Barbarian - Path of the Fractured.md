@@ -1,5 +1,5 @@
 # Path of the Fractured
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Two Personalities Are Better than One*  
 Barbarians are defined by their rage, channeling it to unleash brief but potent destruction. Few are brave or unwise enough to study esoteric psychological techniques that split their rage from the rest of their psyche, dividing their identity into two parts: ego and id. When their ego is in control, the Fractured—as these Barbarians are known—possess self-control and cunning beyond most other Barbarians. When they allow their id to take control, their countenance turns monstrous and their bodies swell with the power of rage made physically manifest.

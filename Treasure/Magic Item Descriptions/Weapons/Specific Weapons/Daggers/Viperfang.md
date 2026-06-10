@@ -11,7 +11,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 *Attuned to:*  
 ***Assassination.*** The DC of your Cunning Strike and Death Strike features increase by 1.
 
-**Source:** *City of Splendors: Waterdeep v3.5, p.147*
+**Source:** *City of Splendors: Waterdeep 3.5e, p.147*
 
 
 

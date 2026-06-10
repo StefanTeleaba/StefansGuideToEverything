@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.254*
+*Player’s Handbook 5.5e, p.254*
 
 # Conjure Animals
 *Level 3 Conjuration (Druid, Ranger)*

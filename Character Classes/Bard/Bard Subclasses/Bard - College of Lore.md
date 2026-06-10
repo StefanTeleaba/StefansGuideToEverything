@@ -1,5 +1,5 @@
 # College of Lore
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Plumb the Depths of Magical Knowledge*  
 Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.

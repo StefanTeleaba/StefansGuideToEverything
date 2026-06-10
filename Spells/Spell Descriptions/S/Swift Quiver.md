@@ -12,7 +12,7 @@ When you cast the spell and as a Bonus Action until it ends, you can make two at
 
 ---
 
-*Player's Handbook v5.5, p.329*
+*Player's Handbook 5.5e, p.329*
 
 # Swift Quiver
 *Level 5 Transmutation (Ranger)*

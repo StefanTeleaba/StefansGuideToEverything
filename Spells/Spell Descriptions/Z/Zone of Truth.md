@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.343*
+*Player's Handbook 5.5e, p.343*
 
 # Zone of Truth
 *Level 2 Enchantment (Bard, Cleric, Paladin)*

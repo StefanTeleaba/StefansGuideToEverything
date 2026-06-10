@@ -1,5 +1,5 @@
 # Life Domain
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Soothe the Hurts of the World*  
 The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.  

@@ -5,4 +5,4 @@ You gain the following benefits.
 ***Ability Score Increase.*** Increase your Strength, Dexterity or Wisdom by 1, to a maximum of 20.  
 ***Improved Favored Enemy.*** When you hit a creature that is marked by your Hunter's Mark, you can deal extra damage to the target equal to half your Ranger Level (round up).
 
-**Source:** *Complete Warrior v3.5, p.101*
+**Source:** *Complete Warrior 3.5e, p.101*

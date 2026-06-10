@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.271*
+*Player's Handbook 5.5e, p.271*
 
 # False Life
 *Level 1 Necromancy (Sorcerer, Wizard)*

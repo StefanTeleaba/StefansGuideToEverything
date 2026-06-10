@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, v5.5, p.13*
+*Unearthed Arcana 2025 - Psion Update, 5.5e, p.13*
 
 # Psionic Blast
 *Level 6 Evocation (Psion, Wizard)*

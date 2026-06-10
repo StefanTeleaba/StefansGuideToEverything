@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Alter Self
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
@@ -15,8 +14,7 @@ You alter your physical form. Choose any of the following options. The effects l
 
 ---
 
-*Player's Handbook v5.5, p.239*
-
+*Player's Handbook 5.5e, p.239*
 # Alter Self
 *Level 2 Transmutation (Sorcerer, Wizard)*
 

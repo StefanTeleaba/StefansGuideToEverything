@@ -1,6 +1,6 @@
 ## Damage Threshold
 
-*Player's Handbook v5.5, p.364*
+*Player's Handbook 5.5e, p.364*
 
 *Core Rule*
 

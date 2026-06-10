@@ -6,4 +6,4 @@ When Zlan focuses on a piece of chardalyn, the material becomes charged with neg
 - The creature has the Stunned condition.
 - The creature is Charmed by Zlan and regards anyone who would separate it from the chardalyn as an enemy.
 
-**Source:** *Forgotten Realms: Adventures in Faerun v5.5*
+**Source:** *Forgotten Realms: Adventures in Faerun 5.5e*

@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Flying.*** You have a Fly Speed of 40 feet and can hover.  
 ***Graceful Fall.*** If you fall more than 5 feet, your rate of descent slows to 60 feet per round until you land.
 
-**Source:** *Grim Hollow: Player's Guide 2024 v5.5, p.121*
+**Source:** *Grim Hollow: Player's Guide 2024 5.5e, p.121*

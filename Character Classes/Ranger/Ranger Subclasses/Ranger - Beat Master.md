@@ -28,7 +28,7 @@ When you cast a spell targeting yourself, you can also affect your Primal Compan
 ---
 
 # Beast Master
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Bond with a Primal Beast*  
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.

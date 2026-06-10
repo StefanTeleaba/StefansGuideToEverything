@@ -16,4 +16,4 @@ You can use this benefit a number of times equal to your Proficiency Bonus, and 
 | 18-19 | Any flammable, nonmagical object within 10 feet of the triggering spell's caster that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is burning. |
 | 20    | The triggering spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended. |
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.40*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.40*

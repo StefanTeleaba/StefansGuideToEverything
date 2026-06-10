@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Arc of Lightning
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -16,8 +15,8 @@ You create an arc of lightning forming a 100-foot-long, 5-foot-wide Line between
 
 ---
 
-*Miniature’s Handbook v3.5 p.33*  
-*Complete Arcane v3.5 p.97*  
-*Spell Compendium v3.5 p.13*  
+*Miniature’s Handbook 3.5e p.33*  
+*Complete Arcane 3.5e p.97*  
+*Spell Compendium 3.5e p.13*  
 
 ---

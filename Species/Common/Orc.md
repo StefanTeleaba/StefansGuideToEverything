@@ -1,4 +1,4 @@
-*Player's Handbook v5.5*
+*Player's Handbook 5.5e*
 
 # Orc
 Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh's gifts: endurance, determination, and the ability to see in darkness.  

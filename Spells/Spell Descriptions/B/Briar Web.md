@@ -16,6 +16,6 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ---
 
-*Spell Compendium v3.5, p.39*
+*Spell Compendium 3.5e, p.39*
 
 ---

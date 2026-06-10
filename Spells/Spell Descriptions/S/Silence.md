@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.316*
+*Player's Handbook 5.5e, p.316*
 
 # Silence
 *Level 2 Illusion (Bard, Cleric, Ranger)*

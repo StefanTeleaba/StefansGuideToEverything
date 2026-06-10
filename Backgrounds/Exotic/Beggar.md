@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Beggar
 Many who fall on hard times have no other option than begging for coppers. Considered the lowest rung of society, you are looked down upon by other members of society, when they bother to notice you at all.  

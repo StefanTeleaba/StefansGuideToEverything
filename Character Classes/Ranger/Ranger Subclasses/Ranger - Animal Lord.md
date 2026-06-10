@@ -1,7 +1,7 @@
 # Animal Lord
 *Created by Stefan*  
 Inspired by the Animal Lord Prestige Class  
-*Complete Adventurer v3.5, p.22*  
+*Complete Adventurer 3.5e, p.22*  
 
 *Assume the form of a Beast*  
 

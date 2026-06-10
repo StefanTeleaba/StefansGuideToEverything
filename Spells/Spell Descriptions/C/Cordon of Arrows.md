@@ -16,7 +16,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 ---
 
-*Player's Handbook v5.5, p.258*
+*Player's Handbook 5.5e, p.258*
 
 # Cordon of Arrows
 *Level 2 Transmutation (Ranger)*

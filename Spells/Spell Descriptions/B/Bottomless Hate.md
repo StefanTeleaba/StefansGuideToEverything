@@ -16,6 +16,6 @@ You gain a +1 bonus to attack and damage rolls against creatures marked by your 
 
 ---
 
-*Ghostwalk v3.5, p.49*
+*Ghostwalk 3.5e, p.49*
 
 ---

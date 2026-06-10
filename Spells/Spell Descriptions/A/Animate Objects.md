@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.240*
-
+*Player's Handbook 5.5e, p.240*
 # Animate Objects
 *Level 5 Transmutation (Bard, Sorcerer, Wizard)*
 

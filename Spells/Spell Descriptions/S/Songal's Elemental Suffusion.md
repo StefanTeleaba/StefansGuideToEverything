@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.145*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.145*
 
 # Songal's Elemental Suffusion
 *Level 5 Transmutation (Druid, Sorcerer, Wizard)*

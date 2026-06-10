@@ -1,4 +1,4 @@
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 # Summon Shadow
 *Level 5 Conjuration (Sorcerer, Warlock, Wizard)*

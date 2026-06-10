@@ -7,4 +7,4 @@ You gain the following benefits.
 ***Vengeful Strike.*** You have Advantage on attack rolls against any creature that has reduced one of your allies to 0 Hit Points since the end of your last turn.  
 ***Heroic Intervention.*** When an enemy you can see takes a Legendary Action, you can take a Reaction to intercede, preventing the Legendary Action from happening. You can take this Reaction a number of times equal to your Proficiency Bonus and regain all expended uses when you finish a Long Rest.
 
-**Source:** *Valda's Spire of Secrets: Player Pack v5.5*
+**Source:** *Valda's Spire of Secrets: Player Pack 5.5e*

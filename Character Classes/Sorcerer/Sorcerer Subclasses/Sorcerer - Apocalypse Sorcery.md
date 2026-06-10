@@ -1,5 +1,5 @@
 # Apocalypse Sorcery
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 *Hasten or Stall the End of the World*  
 Apocalypse Sorcerers have seen the shape of things to come. They may have visions of the Great Beast ushering in the end of Etharis or dreams of Gormadraug waking and devouring the land.  

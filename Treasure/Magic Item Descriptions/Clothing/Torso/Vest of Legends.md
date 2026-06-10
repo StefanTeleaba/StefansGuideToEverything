@@ -7,7 +7,7 @@ While wearing this vest, you gain a +5 bonus to Charisma (Performance and Persua
 
 
 ---
-*Dungeon Master's Guide II v3.5, p.272*
+*Dungeon Master's Guide II 3.5e, p.272*
 
 Stories and anecdotes told by the wearer of one of these
 vests seem to carry more weight than normal, and others

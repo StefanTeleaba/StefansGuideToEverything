@@ -1,7 +1,7 @@
 # Bladesinger
 *Variant*  
 *Prestige Class*  
-*Complete Warrior v3.5, p.17*
+*Complete Warrior 3.5e, p.17*
 
 *Bladesingers are elves who have blended art, swordplay, and arcane magic into a harmonious whole. In battle, a bladesinger’s lithe movements and subtle tactics are beautiful, belying their deadly martial efficiency.*  
 *Multiclass fighter/wizards are the most obvious candidates for the prestige class, although any elf who can wield a martial weapon and cast arcane spells can become a bladesinger. Bladesinger ranger/wizards, rogue/wizards, and even bards are not unknown.*  

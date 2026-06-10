@@ -15,6 +15,6 @@ Until the spell ends, you can take a Magic action to launch a new bolt of force.
 
 ---
 
-*Wizard's Spell Compendium Volume One v2, p.80*
+*Wizard's Spell Compendium Volume One 2e, p.80*
 
 ---

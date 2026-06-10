@@ -1,5 +1,5 @@
 # Oath of Devotion
-*Player's Handbook v5.5*  
+*Player's Handbook 5.5e*  
 
 *Uphold the Ideals of Justice and Order*  
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.  

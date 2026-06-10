@@ -1,6 +1,6 @@
 ## Breaking Objects
 
-*Player's Handbook v5.5, p.362*
+*Player's Handbook 5.5e, p.362*
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the Attack or Utilize action.
 

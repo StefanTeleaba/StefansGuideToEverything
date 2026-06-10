@@ -6,4 +6,4 @@ You gain the following benefits.
 ***Augmented Health.*** When you gain Temporary Hit Points, increase the number of Temporary Hit Points you gain by 5.  
 ***Superior Recuperation.*** When you spend one or more Hit Point Dice to regain Hit Points, you can instead use the highest number possible for each die.
 
-**Source:** *Forgotten Realms: Heroes of Faerun v5.5, p.42*
+**Source:** *Forgotten Realms: Heroes of Faerun 5.5e, p.42*

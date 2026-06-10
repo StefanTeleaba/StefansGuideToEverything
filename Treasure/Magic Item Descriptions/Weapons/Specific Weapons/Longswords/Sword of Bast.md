@@ -4,7 +4,7 @@
 
 
 ---
-*Encyclopedia Magica Volume 4 v2, p.1344*
+*Encyclopedia Magica Volume 4 2e, p.1344*
 
 **of Bast**  
 **XP Value:** 700  

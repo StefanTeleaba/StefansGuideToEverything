@@ -1,5 +1,4 @@
-*Player's Handbook v5.5, p.244*
-
+*Player's Handbook 5.5e, p.244*
 # Augury
 *Level 2 Divination (Cleric, Druid, Wizard)*
 

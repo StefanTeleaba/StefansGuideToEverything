@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.264*
+*Player's Handbook 5.5e, p.264*
 
 # Dispel Magic
 *Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Arrow Mind
 Level 1 Divination (Ranger, Sorcerer, Wizard)
 
@@ -17,6 +16,6 @@ When you cast the spell, you can make one ranged attack against the provoking cr
 ---
 
 *Anauroch: The Empire of Shade, p.142*  
-*Spell Compendium v3.5, p.16*
+*Spell Compendium 3.5e, p.16*
 
 ---

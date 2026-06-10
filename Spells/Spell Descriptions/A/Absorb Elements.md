@@ -1,5 +1,4 @@
-*Xanathar's Guide to Everything v5, p.150*
-
+*Xanathar's Guide to Everything 5e, p.150*
 # Absorb Elements
 *Level 1 Abjuration (Druid, Ranger, Sorcerer, Wizard)*
 

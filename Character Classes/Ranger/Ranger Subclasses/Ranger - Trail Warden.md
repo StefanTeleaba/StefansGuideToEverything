@@ -1,5 +1,5 @@
 # Trail Warden
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“Wanting to become a hero is a noble aim, but no one remembers the guy who died of dysentery on his way to the dungeon.” — Hilda Farwander*
 

@@ -16,6 +16,6 @@ A creature that takes the Study action to examine the sound can determine that i
 
 ---
 
-*Player’s Handbook v3.5, p.298*
+*Player’s Handbook 3.5e, p.298*
 
 ---

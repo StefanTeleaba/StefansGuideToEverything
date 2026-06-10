@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.143*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.143*
 
 # Blade of Disaster
 *Level 9 Conjuration (Sorcerer, Warlock, Wizard)*
@@ -16,7 +16,7 @@ The blade can harmlessly pass through any barrier, including ones created by spe
 
 ---
 
-*Tasha's Cauldron of Everything v5, p.106*
+*Tasha's Cauldron of Everything 5e, p.106*
 
 # Blade of Disaster
 *Level 9 Conjuration (Sorcerer, Warlock, Wizard)*

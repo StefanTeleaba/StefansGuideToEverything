@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 v5.5*
+*Grim Hollow: Player's Guide 2024 5.5e*
 
 # Pox-Touched
 When you fell ill with the Weeping Pox, you assumed you would die from it, as had so many before you. Your neighbors shunned you, fearing that you would spread the disease to them and their families. Then a miracle happened. A stranger came to you and offered to help. The stranger brought forth strange medicines, providing you with curative draughts and elixirs. And just as the disease reached its worst stages, the symptoms began to vanish. Before long, you were cured of the disease.  

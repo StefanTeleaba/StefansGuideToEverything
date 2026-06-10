@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.288*
+*Player's Handbook 5.5e, p.288*
 
 # Imprisonment
 *Level 9 Abjuration (Warlock, Wizard)*  

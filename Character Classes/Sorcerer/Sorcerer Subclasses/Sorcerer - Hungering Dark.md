@@ -1,5 +1,5 @@
 # Hungering Dark
-*Cthulhu by Torchlight v5.5*
+*Cthulhu by Torchlight 5.5e*
 
 *“When you tell us to fear the dark, it isn't to protect us, but to keep us under control.” — Veldeth, Scion of Midnight*
 

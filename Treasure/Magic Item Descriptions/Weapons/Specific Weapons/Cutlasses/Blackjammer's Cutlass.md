@@ -11,7 +11,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Darkness.*** As a Bonus Action, you can cause magical Darkness to radiate from the sword in a 15-foot Emmanation that originates from you. You can see within the Emmanation.
 
 ---
-*Book of Artifacts v2, p.24*
+*Book of Artifacts 2e, p.24*
 
 # Blackjammer's Cutlass
 *Weapon (Cutlass), Artifact*

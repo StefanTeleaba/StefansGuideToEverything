@@ -1,4 +1,4 @@
-*Player’s Handbook v5.5, p.255*
+*Player’s Handbook 5.5e, p.255*
 
 # Conjure Minor Elementals
 *Level 4 Conjuration (Druid, Wizard)*

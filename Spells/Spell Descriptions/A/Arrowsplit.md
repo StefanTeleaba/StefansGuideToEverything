@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Arrowsplit
 *Level 3 Conjuration (Ranger)*
 
@@ -13,8 +12,7 @@ When you cast the spell, the ammunition you're using splits into three identical
 ***Using a Higher-Level Spell Slot.*** The ammunition splits into one more piece for each spell slot level above 3.
 
 ---
-*Champions of Ruin, p.28*
-
+*Champions of Ruin 3.5e, p.28*
 # Arrowsplit
 *Conjuration (Creation)*
 

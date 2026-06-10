@@ -1,4 +1,4 @@
-*Player's Handbook v5.5, p.261*
+*Player's Handbook 5.5e, p.261*
 
 # Demiplane
 *Level 8 Conjuration (Sorcerer, Warlock, Wizard)*

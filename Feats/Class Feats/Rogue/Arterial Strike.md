@@ -9,4 +9,4 @@ You gain the following *Cunning Strike* option.
 ***Arterial Strike (Cost: 1d6).*** At the start of each of its turns for 1 minute, the target takes 1d6 damage and then makes a Constitution saving throw. On a failed save, the wound keeps bleeding. On a successful save, the wound stops bleeding.
 
 ---
-*Complete Warrior v3.5, p.96*
+*Complete Warrior 3.5e, p.96*

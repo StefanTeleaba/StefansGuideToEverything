@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun v5.5, p.144*
+*Forgotten Realms: Heroes of Faerun 5.5e, p.144*
 
 # Elminster's Effulgent Spheres
 *Level 6 Evocation (Druid, Sorcerer, Wizard)*
