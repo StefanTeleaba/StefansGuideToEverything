@@ -3,5 +3,6 @@
 
 *This elven sword was fashioned from well-balanced steel, with a hilt of mithril beset with a small emerald.*
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Bane.*** You gain a +2 bonus to attack rolls against Drow. This weapon deals an additional 2d6 damage on a Hit against Drow.
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +5 when you use it to attack a Drow. In addition, when you hit a Drow with this magic weapon, it deals two additional dice of damage of the weapon's type.
+
+---

@@ -1,7 +1,7 @@
 # Scout
 *Unearthed Arcana - Kits of Old*
 *This subclass was published on January 4th, 2016.*
-*Modified by Stefan*
+*Modified*
 
 The archetypal scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
 

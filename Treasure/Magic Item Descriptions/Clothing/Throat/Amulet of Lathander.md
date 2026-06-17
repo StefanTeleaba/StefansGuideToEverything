@@ -10,4 +10,4 @@ If you start your turn with 0 Hit Points while you wear this amulet, you immedia
 If you start your turn with 0 Hit Points while you wear this amulet, you immediately regain 70 Hit Points. The amulet can't heal anyone again until the next dawn.
 
 *Worn by a creature of Evil Alignment:*  
-While you wear this amulet, you take 3d6 Radiant damage at the start of each of your turns.
+A creature of Evil Alignment that touches the amulet takes 8d6 Radiant damage and takes the damage again each time it ends its turn holding or carrying the talisman.

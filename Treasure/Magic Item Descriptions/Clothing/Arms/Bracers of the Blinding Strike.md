@@ -19,7 +19,7 @@
 
 ***Defense.*** While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Initiative.*** You gain +4 bonus to your Initiative rolls if you don't have the Incapacitated condition.  
-***Blinding Strike.*** When you take the Attack action on your turn, you can make an additional attack with the same weapon.  
+***Blinding Strike.*** When you take the Attack action on your turn, you can make one extra attack as part of that action.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ***Defense.*** While wearing these bracers, you gain a +2 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Initiative.*** You gain +6 bonus to your Initiative rolls if you don't have the Incapacitated condition.  
-***Blinding Strike.*** When you take the Attack action on your turn, you can make an additional attack with the same weapon.  
+***Blinding Strike.*** When you take the Attack action on your turn, you can make one extra attack as part of that action.
 
 ---
 *Magic of Faerun, p.155*

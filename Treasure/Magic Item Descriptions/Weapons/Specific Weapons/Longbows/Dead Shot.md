@@ -1,16 +1,15 @@
 # Dead Shot
 *Weapon (Longbow), Very Rare*
 
-*When the archer Frederik Durlusk died, his only request was to be buried with his favorite bow. This is that bow.*
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
-
-The Critical Range of this weapon increases by 1.
-
-***Keen Attack.*** You gain a bonus to attack rolls made with this magic weapon equal to your Proficiency Bonus.
+The Critical Range of this weapon increases by 1 and you can add double your Proficiency Bonus to attack rolls you make with this weapon if you don't have Disadvantage on the attack roll. 
 
 ---
+
 *Baldur's Gate 3*
+
+*When the archer Frederik Durlusk died, his only request was to be buried with his favorite bow. This is that bow.*
 
 ---
 *Baldur's Gate*

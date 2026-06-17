@@ -1,7 +1,7 @@
 # Monster Hunter
 *Unearthed Arcana - Gothic Heroes*
 *This subclass was published on April 4th, 2016.*
-*Modified by Stefan*
+*Modified*
 
 As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror.
 
