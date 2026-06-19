@@ -51,8 +51,90 @@ In addition, the first time each turn it hits a creature under the effect of you
 ## Level 15: Share Spells
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 
-### Beast of the Land
+---
 
-### Beast of the Sky
+**Beast of the Land**  
+*Medium Beast, Neutral*  
 
-### Beast of the Sea
+**AC** 13 plus your Wisdom modifier  
+**HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)  
+**Speed** 40 ft., Climb 40 ft.
+
+|         |    | MOD | SAVE |
+|---------|----|-----|------|
+| **STR** | 14 | +2  | +2   |
+| **DEX** | 14 | +2  | +2   |
+| **CON** | 15 | +2  | +2   |
+| **INT** | 8  | -1  | -1   |
+| **WIS** | 14 | +2  | +2   |
+| **CHA** | 11 | +0  | +0   |
+
+**Senses** Darkvision 60 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature.
+
+---
+
+**Beast of the Sea**  
+*Medium Beast, Neutral*  
+
+**AC** 13 plus your Wisdom modifier  
+**HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)  
+**Speed** 5 ft., Swim 60 ft.
+
+|         |    | MOD | SAVE |
+|---------|----|-----|------|
+| **STR** | 14 | +2  | +2   |
+| **DEX** | 14 | +2  | +2   |
+| **CON** | 15 | +2  | +2   |
+| **INT** | 8  | -1  | -1   |
+| **WIS** | 14 | +2  | +2   |
+| **CHA** | 11 | +0  | +0   |
+
+**Senses** Darkvision 90 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Amphibious.*** The beast can breathe air and water.  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the Grappled condition (escape DC equals your spell save DC).
+
+---
+
+**Beast of the Sky**  
+*Small Beast, Neutral*  
+
+**AC** 13 plus your Wisdom modifier  
+**HP** 4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level)  
+**Speed** 10 ft., Fly 60 ft.
+
+|         |    | MOD | SAVE |
+|---------|----|-----|------|
+| **STR** | 6  | -2  | -2   |
+| **DEX** | 16 | +3  | +3   |
+| **CON** | 13 | +1  | +1   |
+| **INT** | 8  | -1  | -1   |
+| **WIS** | 14 | +2  | +2   |
+| **CHA** | 11 | +0  | +0   |
+
+**Senses** Darkvision 60 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Flyby.*** The beast doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage.
+
+---
