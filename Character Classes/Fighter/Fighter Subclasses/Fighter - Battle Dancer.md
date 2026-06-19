@@ -1,7 +1,6 @@
-# Battle Dancer
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*  
-
+*v1.1*
+# Battle Dancer
 *Incorporate Grace and Style into Combat*  
 Battle Dancers bring style and grace to combat by incorporating intricate dances into their fighting. These dances have been passed down for many generations, promoting swift and elegant movements for enhanced mobility and self-defense. The skills and techniques gained from learning these traditions have led Battle Dancers to become the premiere combatants of the two-weapon fighting style. They maneuver their ornate pairs of weapons with precision and deadly purpose.
 
@@ -31,3 +30,5 @@ In addition, while your Battle Dance is active, you now choose two Choreographie
 
 ## Level 18: Energized Finale
 In moments of great intensity, you can cause your dance to explode into a fervor of energetic, yet precise movements. When you use Action Surge, you gain two additional Bonus Actions you can use on that turn.
+
+---

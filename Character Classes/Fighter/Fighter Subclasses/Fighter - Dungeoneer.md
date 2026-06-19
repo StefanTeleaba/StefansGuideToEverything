@@ -1,8 +1,6 @@
-# Dungeoneer
 *Valda's Spire of Secrets: Player Pack*
-
+# Dungeoneer
 *Survive the Dungeon*  
-
 *Only fools would dive headfirst into an abandoned crypt filled with monsters and deathtraps, but it seems only fools emerge from such crypts laden with as much loot as they can carry. The archetypal dungeon delver is a veteran of such suicidal dungeon delves, and has become intimately familiar with the hazards therein. In the course of their adventures, such a Dungeoneer will have adopted countless best practices, along with a litany of unproven superstitions which they believe keeps them alive. Principles from "always be the first one to hit the monster" to "never be the first one to touch a treasure chest" line a Dungeoneer's journal. However, it's probably better to be paranoid and superstitious than lying at the bottom of a pit trap, incinerated by a Fireball, or digested by a mimic.*
 
 ## Level 3: Kick in the Door

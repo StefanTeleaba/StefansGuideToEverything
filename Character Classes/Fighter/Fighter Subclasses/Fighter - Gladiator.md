@@ -1,9 +1,7 @@
-# Gladiator
 *Unearthed Arcana - Apocalyptic Subclasses*  
-*This subclass was published on August 21st, 2025.*  
-
+*This subclass was published on August 21st, 2025.*
+# Gladiator
 *Master Brutality and Blood Sport*  
-
 Gladiators are just as much performers as they are warriors. Whether brawling in underground fighting rings or fighting for survival in bloodstained arenas, a Gladiator combines martial skill with theatrics to awe and intimidate their audiences.
 
 ## Level 3: Brutality

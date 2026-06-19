@@ -1,7 +1,6 @@
-# Purple Dragon Knight
 *Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
-
+*This subclass was published on January 28th, 2025.* 
+# Purple Dragon Knight
 *Herald the Majesty of Amethyst Dragons*  
 The Purple Dragon Knights are paragons of valor and leadership who partner with amethyst dragons. Such knights aspire to protect the innocent and rally fellow adventurers to the causes of justice and freedom. Although the Purple Dragons were originally founded in Cormyr, new recruits are enlisted from any realms where chivalry is in abundance, including the Silver Marches, Damara, and Chessenta.  
 Characters with this subclass are special among the order. Unlike most Purple Dragons, who partner with amethyst dragons who've already reached adulthood, a Purple Dragon Knight character psionically bonds with an amethyst dragon hatchling. This bond irrevocably transforms both dragon and knight, allowing the dragon to grow in strength alongside its partner knight.
@@ -35,6 +34,7 @@ You and your purple dragon gain the following benefits.
 ## Level 18: Enduring Commander
 You and your purple dragon have Resistance to Force and Psychic damage.
 
+---
 ### Purple Dragon Companion
 *Small Dragon, Neutral*  
 
@@ -55,10 +55,12 @@ You and your purple dragon have Resistance to Force and Psychic damage.
 **Languages** Understands the languages you know; telepathy 30 ft.  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
+**Traits**  
 ***Amphibious.*** The dragon can breathe both air and water.  
 ***Stalwart Bond.*** Add half your Proficiency Bonus (round down) to any ability check or saving throw the dragon makes.
 
-#### Actions
+**Actions**  
 ***Rend.*** *Melee Attack Roll:* +3 plus your Intelligence modifier, reach 5 ft. *Hit:* 1d6 plus your Intelligence modifier Force damage.  
 ***Gravity Breath (2/Day).*** *Constitution Saving Throw:* DC 8 plus your Proficiency Bonus plus your Intelligence modifier, each creature in a 15-foot Cone. *Failure:* The target is either pulled up to 15 feet straight toward the dragon or pushed 15 feet straight away from the dragon (your choice).
+
+---

@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e*
 # Psi Warrior
-*Player's Handbook 5.5e*  
-
 *Augment Physical Might with Psionic Power*  
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
 

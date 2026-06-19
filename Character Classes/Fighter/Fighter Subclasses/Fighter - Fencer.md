@@ -1,6 +1,5 @@
-# Fencer
 [*Created by the_bluez*](https://bio.site/spaghetti0)
-
+# Fencer
 *En garde!*  
 Your combat style is precise and for you a clash is a careful and important performance. As such you depend on your ability to wield your weapon to great effects and to control opponents with your wit.
 

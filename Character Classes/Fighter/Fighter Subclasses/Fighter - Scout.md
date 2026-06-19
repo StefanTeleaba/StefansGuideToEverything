@@ -1,8 +1,7 @@
-# Scout
 *Unearthed Arcana - Kits of Old*
 *This subclass was published on January 4th, 2016.*
 *Modified*
-
+# Scout
 The archetypal scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
 
 ## Level 3: Bonus Proficiencies
@@ -30,7 +29,6 @@ Once per turn, when you use a maneuver, you can roll 1d8 and use the number roll
 
 ## Level 18: Ultimate Combat Superiority
 Your Superiority Die becomes a d12.
-
 
 ### Maneuver Options
 The maneuvers are presented here in alphabetical order.

@@ -1,5 +1,5 @@
-# Daredevil
 *Critical Role, Campaign Four*
+# Daredevil
 
 ## Level 3: 
 

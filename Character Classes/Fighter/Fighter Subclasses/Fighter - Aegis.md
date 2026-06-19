@@ -1,6 +1,5 @@
-# Aegis
 [*Created by Joe Bushi*](https://bio.site/spaghetti0)
-
+# Aegis
 Aegis are shield masters who have elevated defense into an art form, learning to wield their shields as versatile weapons while becoming unshakeable guardians for their allies. Through dedicated training, they transform shields from simple protective equipment into instruments of both devastating offense and selfless intervention.  
 An Aegis excels at reading the battlefield and positioning themselves where they're needed most. They leap to intercept deadly blows, mark enemies for their companions to exploit, and create zones of protection that turn vulnerable allies into formidable combatants. While other warriors chase glory through personal achievement, an Aegis measures success by the allies who survive the battle—and they'll throw themselves into harm's way without hesitation to ensure everyone makes it home.
 

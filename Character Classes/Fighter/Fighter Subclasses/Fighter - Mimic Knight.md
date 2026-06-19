@@ -1,7 +1,6 @@
-# Mimic Knight
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)  
 *v2.1*  
-
+# Mimic Knight
 You have magically bonded with a mimic, a shapeshifting monster with a habit for disguising itself as inanimate objects. Through your training, it serves as your weapon, armor or shield - alive and deadly. Together, you adapt, deceive and strike with cunning.
 
 ## Level 3: Mimic Companion

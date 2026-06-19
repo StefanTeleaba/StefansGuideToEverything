@@ -1,8 +1,7 @@
-# Brute
 *Unearthed Arcana - Three Subclasses*
 *This subclass was published on January 8th, 2018.*
-*Modified by Stefan*
-
+*Modified*
+# Brute
 Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 
 ## Level 3: Brute Force

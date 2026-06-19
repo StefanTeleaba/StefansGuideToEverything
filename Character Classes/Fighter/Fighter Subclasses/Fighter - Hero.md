@@ -1,6 +1,5 @@
-# Hero
 *Cthulhu by Torchlight 5.5e*
-
+# Hero
 *“In times as dark as these, all it takes is one spark to bring back the light.” — Hector Arghast, Champion of Ten Banners*
 
 *Entities of the Cthulhu Mythos are terrifyingly implacable and utterly inhuman. While those traits often make such creatures unbeatable, their inability to understand humanity's capabilities can prove their undoing. Heroes are Fighters who bring out the best in humanity. They are the beacons of hope rallying commoners against a shared threat. While their blades are deadly to their enemies, their words are encouragement to their allies, and their unflappable demeanor allows their companions to find the courage and strength they never knew they had.*

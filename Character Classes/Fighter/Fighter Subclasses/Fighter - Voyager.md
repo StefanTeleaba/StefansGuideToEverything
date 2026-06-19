@@ -1,6 +1,5 @@
-# Voyager
 [*Created by PerfectlyCircularSeal*](https://bio.site/spaghetti0)
-
+# Voyager
 *Teamwork Makes The Dream Work*  
 Your treasure is actually the friends you made along the way. Meeting new people and learning about their ideas, morals and techniques is what drives you to seek out adventure. Harnessing this experience for yourself and others is what you do best, elevating everyone’s capabilities.
 

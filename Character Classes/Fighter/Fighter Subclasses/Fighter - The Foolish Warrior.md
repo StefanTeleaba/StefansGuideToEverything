@@ -1,7 +1,6 @@
-# The Foolish Warrior
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*  
-
+*v1.0*
+# The Foolish Warrior
 *Stumble through Combat With Incredible Luck*  
 Foolish Warriors obliviously breeze through combat with extraordinary luck, barely dodging out of the way of hazards and stumbling into successful maneuvers. This luck may be supernatural in nature, the result of some blessing or curse, or perhaps your foolish warrior just has random chance on their side.
 

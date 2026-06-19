@@ -1,7 +1,6 @@
-# Arcane Archer
 *Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*  
-
+*This subclass was published on September 18th, 2025.*
+# Arcane Archer
 *Deploy Magical Effects Through Enchanted Ammunition*  
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. The first Arcane Archers stood watch over their communities and used magic-infused arrows to defeat monsters and invaders. Over the centuries, other species have learned this method of blending magical aptitude with archery. These archers have broadened this method’s application to ranged weapons of many kinds and to aspects of adventuring life outside of combat.
 
@@ -60,10 +59,9 @@ The Arcane Shot options are presented here in alphabetical order.
 
 ---
 
-# Arcane Archer
 *Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
-
+*This subclass was published on June 26th, 2025.*
+# Arcane Archer
 *Deploy Magical Effects through Enchanted Ammunition*  
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. The first Arcane Archers stood watch over their communities, keeping a keen eye out for dangers and using magic-infused arrows to defeat monsters and invaders. Over the centuries, other species have learned the elves’ mystical methods of blending arcane aptitude with archery and broadened their application to ranged weapons of many kinds while applying those talents to an adventuring life.  
 
@@ -117,12 +115,10 @@ The Arcane Shot options are presented here in alphabetical order.
 
 ---
 
-# Arcane Archer
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*  
-
+# Arcane Archer
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of their most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
 
 ## Level 3: Arcane Archer Lore
@@ -164,9 +160,8 @@ If an option requires a saving throw, your Arcane Shot save DC equals 8 plus you
 
 ---
 
-# Arcane Archer
 [*Created by Indestructoboy*](https://www.youtube.com/@Indestructoboy/featured)
-
+# Arcane Archer
 *Blend Magic into Ammunition to Deploy Supernatural Effects*  
 *Rumored to be a secret elven archery technique, the Arcane Archer is able to blend enchantments into ammunition to unleash devastating effects.*
 
@@ -224,3 +219,5 @@ The Arcane Shots are presented here in alphabetical order.
 ***Unlocking Shot.*** A burst of magic fills a 15-foot Emanation originating from the ammunition. Objects within are affected by the Knock spell. A loud knock, audible up to 300 feet away, also emits from the ammunition.
 
 ***Vine Shot.*** A 60-foot-long vine grows from the ammunition, which can be climbed. It withers away after 10 minutes.
+
+---
