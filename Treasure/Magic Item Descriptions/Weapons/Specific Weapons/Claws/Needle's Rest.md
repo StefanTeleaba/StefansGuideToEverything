@@ -1,3 +1,4 @@
+*Homebrew*
 # Needle's Rest
 *Weapon (Claw), Very Rare*  
 *Simple Melee Weapon*  
@@ -13,4 +14,4 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 ***Dragon Shape.*** The *Green Dragon Wyrmling* and the *Young Green Dragon* are added to the Known Forms of your Wild Shape Feature.
 
-*Homebrew*
+---

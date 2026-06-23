@@ -9,5 +9,6 @@ You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon
 ***Good.*** This weapon deals one additional die of damage on a Hit against a creature that is Evil.  
 ***Holy.*** This weapon deals an additional die of Radiant damage on a Hit.  
 
+---
 
-**Source:** *Faiths and Pantheons, p.35*
+*Faiths and Pantheons, p.35*
