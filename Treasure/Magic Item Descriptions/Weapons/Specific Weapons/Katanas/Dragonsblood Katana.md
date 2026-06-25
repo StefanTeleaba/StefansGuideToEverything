@@ -28,4 +28,5 @@ This weapon deals an extra 1d8 Fire damage on a Hit.
 You have Immunity to Fire damage while holding this weapon.
 
 ---
-*Homebrew*
+
+*Neverwinter Nights 2*

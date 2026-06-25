@@ -1,5 +1,4 @@
 # Antimagic Gi 
-
 *Wondrous Item, Legendary (Requires Attunement)*
 
 *This elegant garment is made from exquisite cloth and adorned with runes.*

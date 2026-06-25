@@ -8,6 +8,6 @@ You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
 ***Mighty Cleaving.*** You can add your ability modifier to the damage of the extra attack of the Cleave weapon mastery.
 
+---
 
-
-**Source:** *Faiths and Pantheons, p.49*
+*Faiths and Pantheons, p.49*

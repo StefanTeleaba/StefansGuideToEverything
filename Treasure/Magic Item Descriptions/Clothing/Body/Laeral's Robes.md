@@ -16,6 +16,5 @@
 These robes have 6 pockets, each of which is an extradimensional space. Each pocket can hold up to 200 pounds of material, not exceeding a volume of 25 cubic feet. The robes always weigh 1 pound, regardless of their contents.  
 Retrieving an item from the robes requires a Utilize action or a Bonus Action (your choice). When you reach into the robes for a specific item, the item is always magically on top.
 
-
-
-**Source:** *City of Splendors: Waterdeep 3.5e, p.150*
+---
+*City of Splendors: Waterdeep 3.5e, p.150*

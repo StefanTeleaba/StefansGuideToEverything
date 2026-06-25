@@ -12,4 +12,6 @@ On a Critical Hit, the target and each creature of your choice within 5 feet of 
 ---
 *Faiths and Pantheons*
 
-The Sword of Shadows, favored weapon of the Faerûnian traveler god Shaundakul, was a +5 anarchic icy burst keen greatsword.
+*The Sword of Shadows, favored weapon of the Faerûnian traveler god Shaundakul, was a +5 anarchic icy burst keen greatsword.*
+
+---

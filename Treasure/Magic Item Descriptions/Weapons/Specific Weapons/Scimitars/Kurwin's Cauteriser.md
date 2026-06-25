@@ -7,5 +7,6 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 ***Flaming.*** This weapon deals an additional 1d6 Fire damage on a Hit.  
 ***Cauterizer.*** On a Hit, the target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or start Burning.
 
+---
 
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*
