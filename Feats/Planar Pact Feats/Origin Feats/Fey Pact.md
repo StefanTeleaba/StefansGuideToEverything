@@ -1,4 +1,4 @@
-*D&D Beyond Dungeon Drop - May 2026*
+*D&D Beyond Drops - May 2026*
 
 # Fey Pact
 *Planar Pact Feat (Prerequisite: Can’t Have Another Planar Pact Feat)*
