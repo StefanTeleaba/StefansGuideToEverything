@@ -10,9 +10,8 @@ This bow can be wielded as a Quarterstaff.
 
 
 ---
+
 *Dragon Magazine 349, p.21*
-
-
 *The Lone Drow: Companions of the Hall*
 
 During their years of experience, elves have found that often archers are attacked without much chance to defend themselves. They have therefore created the elven shortbow and elven longbow. They are designed to fire with the same rate of fire and accuracy, and yet the elves can use them to fend off attacks until they can protect themselves with a better weapon or spell.

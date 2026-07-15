@@ -1,4 +1,4 @@
-*D&D Beyond Dungeon Drop - May 2026*
+*D&D Beyond Drops - May 2026*
 
 # Sticks to Snakes
 *Level 4 Transmutation (Cleric, Druid, Ranger)*

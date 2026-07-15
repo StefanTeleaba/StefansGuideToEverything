@@ -1,4 +1,4 @@
-### Dagger, Parrying (5 GP)
+# Dagger, Parrying (5 GP)
 *Martial Melee Weapon*  
 
 **Damage:** 1d4 Piercing  

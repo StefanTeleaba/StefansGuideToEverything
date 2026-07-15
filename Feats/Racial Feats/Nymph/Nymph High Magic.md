@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Nymph High Magic
 *Racial Feat (Prerequisite: Nymph, Level 4+)*  
 

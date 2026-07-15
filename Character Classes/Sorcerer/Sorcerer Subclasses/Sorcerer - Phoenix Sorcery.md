@@ -1,7 +1,7 @@
-# Phoenix Sorcery
 *Unearthed Arcana - Sorcerer*  
 *This subclass was published on February 6th, 2017.*  
-*Modified by Stefan*  
+*Modified*  
+# Phoenix Sorcery
 
 Your power draws from the immortal flame that fuels the legendary phoenix. You or your ancestors perhaps rendered a phoenix a great service, or you were born in its presence. Whatever the cause, a shard of the phoenix’s power dwells within you.  
 That power is a mixed blessing. Like the mythical creature, you can invoke fiery energy and gain the ability to cheat death itself. This power comes at a cost. The fire within you seethes, demanding to be unleashed. You sometimes find yourself absentmindedly feeding fires. You can’t bear to allow a fire to sputter out. You feel most comfortable while holding a lit torch or sitting in front of a campfire.  

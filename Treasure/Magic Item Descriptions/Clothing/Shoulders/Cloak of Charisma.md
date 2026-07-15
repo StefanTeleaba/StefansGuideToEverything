@@ -1,5 +1,5 @@
 # Cloak of Charisma
-*Wondrous Item, Uncommon (Requires Attunement)*
+*Wondrous Item, Uncommon*
 
 You gain a +2 bonus to your Charisma score while you wear this cloak.
 

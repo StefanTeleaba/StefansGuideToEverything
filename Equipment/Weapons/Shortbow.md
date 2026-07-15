@@ -1,4 +1,4 @@
-### Shortbow (25 GP)
+# Shortbow (25 GP)
 *Simple Ranged Weapon*  
 
 **Damage:** 1d6 Piercing  

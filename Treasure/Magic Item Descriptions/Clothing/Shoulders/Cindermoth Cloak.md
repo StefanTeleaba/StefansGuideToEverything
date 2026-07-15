@@ -1,3 +1,4 @@
+*Baldur's Gate 3*
 # Cindermoth Cloak
 *Wondrous Item, Uncommon*  
 *Weight: 1 lb.*  
@@ -6,4 +7,4 @@
 
 ***Flaming Shroud.*** If a creature hits you with a melee attack roll, the creature starts Burning.
 
-*Baldur's Gate 3*
+---

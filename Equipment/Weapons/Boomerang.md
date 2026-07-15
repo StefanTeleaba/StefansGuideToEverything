@@ -1,4 +1,4 @@
-### Boomerang (5 SP)
+# Boomerang (5 SP)
 *Simple Ranged Weapon*  
 
 **Damage:** 1d4 Bludgeoning  

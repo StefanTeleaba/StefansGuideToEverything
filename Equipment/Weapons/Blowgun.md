@@ -1,4 +1,4 @@
-### Blowgun (10 GP)
+# Blowgun (10 GP)
 *Martial Ranged Weapon*  
 
 **Damage:** 1 Piercing  

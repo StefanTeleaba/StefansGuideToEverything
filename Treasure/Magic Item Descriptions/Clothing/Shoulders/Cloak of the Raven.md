@@ -1,3 +1,4 @@
+*Book of Ebon Tides p.196*
 # Cloak of the Raven
 *Wondrous Item, Uncommon*
 
@@ -5,4 +6,4 @@ While wearing this cloak, you have advantage on Wisdom (Perception) checks. In a
 
 While wearing the cloak in an area of Dim Light or sunlight, you can use your Action to cast Daylight as a readied action. You may then fly or carry the Daylight spell into any area of darkness. The cloak can't be used this way again until the next dawn.
 
-*Book of Ebon Tides p.196*
+---

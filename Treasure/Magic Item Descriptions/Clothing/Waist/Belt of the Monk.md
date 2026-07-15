@@ -1,3 +1,11 @@
+*Homebrew*
+# Belt of the Monk
+*Wondrous Item, Uncommon*
+
+While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+
+---
+
 # Belt of the Monk
 *Wondrous Item, Rare (Requires Attunement)*
 

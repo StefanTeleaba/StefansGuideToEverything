@@ -1,4 +1,4 @@
-# Tunic od Steady Spellcasting
+# Tunic of Steady Spellcasting
 *Wondrous Item, Uncommon*  
 *Weight: 1 lb.*  
 

@@ -1,3 +1,4 @@
+*Homebrew*
 # Reins of the Silver Steed
 *Wondrous Item, Uncommon*
 
@@ -7,4 +8,4 @@ While wearing this amulet, you gain a +5 bonus to Wisdom (Animal Handling) check
 
 ***Silver Steed.*** You can cast the Phantom Steed spell as a Magic action without expending a spell slot.
 
-*Homebrew*
+---

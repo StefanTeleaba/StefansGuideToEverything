@@ -1,4 +1,4 @@
-### Longbow (50 GP)
+# Longbow (50 GP)
 *Martial Ranged Weapon*  
 
 **Damage:** 1d8 Piercing  

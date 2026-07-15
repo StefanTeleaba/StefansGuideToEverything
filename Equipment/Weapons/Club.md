@@ -1,4 +1,4 @@
-### Club (1 SP)
+# Club (1 SP)
 *Simple Melee Weapon*  
 
 **Damage:** 1d4 Bludgeoning  

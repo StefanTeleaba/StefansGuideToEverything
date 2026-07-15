@@ -1,4 +1,4 @@
-*D&D Beyond Dungeon Drop - May 2026*
+*D&D Beyond Drops - May 2026*
 
 # Leomund's Lamentable Belaborment
 *Level 6 Enchantment (Bard, Sorcerer, Wizard)*

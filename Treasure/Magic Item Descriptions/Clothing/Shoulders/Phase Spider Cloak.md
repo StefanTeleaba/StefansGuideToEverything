@@ -1,3 +1,4 @@
+*Homebrew*
 # Phase Spider Cloak
 *Wondrous Item, Very Rare (Requires Attunement)*
 
@@ -6,9 +7,6 @@
 ***Ethereal Jaunt.*** As a Bonus Action, you can teleport from the Material Plane to the Ethereal Plane or vice versa.
 
 ***Ethereal Sight.*** You can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa.
-
-
-**Source:** *Homebrew*
 
 ---
 You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can't see anything there more than 60 feet away.
