@@ -1,7 +1,6 @@
 *Homebrew*
 # Periapt of Wisdom
-*Wondrous Item, Uncommon*
-
+*Wondrous Item, Uncommon*  
 You gain a +2 bonus to your Wisdom score while you wear this pendant.
 
 ---

@@ -11,7 +11,6 @@ If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has 
 ### Mithral Weapon
 ***Mithral.*** A weapon made of Mithral weighs half as much as a normal weapon of that type and has the Light property.
 
-
 ---
 *Dungeon Master's Guide 3.5e, p.284*
 
@@ -31,10 +30,12 @@ In the case of weapons, this lighter weight does not change a weapon’s size ca
 | Shield               | +1,000 GP          |
 | Other items          | +500 GP/lb.        |
 
-
 ---
 *Magic of Faerun, p.180*
 
+---
+*Neverwinter Nights 2: Mask of the Betrayer*  
+*Mithral is a rare, silvery metal that is lighter than iron but just as hard. When worked like steel, it becomes a wonderful material from which to create armor and is occasionally used for other items as well. It is commonly used in elven armorsmithing, and elven suits of mithral armor are often enchanted.*
 
 ---
 **Mithral Armor**  

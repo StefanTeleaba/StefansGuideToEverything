@@ -1,33 +1,27 @@
+*Homebrew*
 # Gauntlets of Ogre Power
-
-
-
-
-
-*3.5e*
----
-*Dungeon Master's Guide, p.257*
-
-These gauntlets are made of tough leather with iron studs running across the back of the hands and fingers. They grant the wearer great strength, adding a +2 enhancement bonus to his Strength score. Both gauntlets must be worn for the magic to be effective.
-
-Faint transmutation; CL 6th; Craft Wondrous Item, bull’s strength; Price 4,000 gp; Weight 4 lb. 
-
+*Wondrous Item, Uncommon*  
+While wearing these gauntlets, your Strength score increases by 2.
 
 ---
-**Price:** Varies  
-**Body Slot:** Hands  
-**Aura:** Moderate Transmutation  
-**Associated Spell:** Enhance Ability: Bull's Strength  
-**Attunement:** 24 Hours  
-**Weight:** 4 lb.
 
-*These gauntlets are made of tough leather with iron studs running across the back of the hands and fingers.*
+*Homebrew*
+# Gauntlets of Ogre Power
+*Wondrous Item, Rare*  
+While wearing these gauntlets, your Strength score increases by 2, you have Advantage on Strength checks and you count as one size larger when determining your carrying capacity.
 
-You gain a bonus to your Strength score while you wear these gauntlets.
+---
 
-#### Gauntlets of Ogre Power
-| Bonus | Price     |
-|-------|-----------|
-| +2    | 8,000 GP  |
-| +4    | 32,000 GP |
-| +6    | 72,000 GP |
+*Dungeon Master's Guide 5.5e p.264*
+# Gauntlets of Ogre Power
+*Wondrous Item, Uncommon (Requires Attunement)*  
+Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.
+
+---
+
+*Dungeon Master's Guide 3.5e p.255*
+# Gauntlets of Ogre Power
+These gauntlets are made of tough leather with iron studs running across the back of the hands and fingers. They grant the wearer great strength, adding a +2 enhancement bonus to his Strength score. Both gauntlets must be worn for the magic to be effective.  
+Faint transmutation; CL 6th; Craft Wondrous Item, bull’s strength; Price 4,000 gp; Weight 4 lb.
+
+---
