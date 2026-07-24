@@ -1,34 +1,24 @@
+*Homebrew*
 # Decision
-*Weapon (Falchion), Uncommon*
-
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
-
-The Critical Range of this weapon increases by 1.
-
-This weapon deals an additional 10 Slashing damage on a Critical Hit.
+*Weapon (Falchion), Very Rare*  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an extra 2d6 Fire damage on a hit.
 
 ---
 
+*Neverwinter Nights II*
 # Decision
-*Weapon (Falchion), Rare*
-
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.
-
-The Critical Range of this weapon increases by 1.
-
-This weapon ignores Resistance to Slashing damage and deals an additional 20 Slashing damage on a Critical Hit.
-
----
-
-# Decision
-*Weapon (Falchion), Very Rare*
-
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
-
-The Critical Range of this weapon increases by 1.
-
-This weapon ignores Resistance to Slashing damage and deals an additional 30 Slashing damage on a Critical Hit.
-
-When you take the Attack action on your turn and attack with this weapon, you can make one extra attack as part of that action. That extra attack must be made with the same weapon.
+Base Damage: 2d4  
+Base Critical Threat: 18-20/x2  
+Base Damage Type: Slashing  
+Weapon Size: Large  
+Feats Required: Martial  
+Base Item: Falchion  
+Weight: 8 pound(s)  
+Resource Name: n2_wswmfl007  
+Installation: Neverwinter Nights 2 (Base)  
+*Special Properties*  
+Enhancement Bonus [+2]  
+Damage Bonus: Fire [1d6]  
+*When war came to Neverwinter, Anali Cyl was to be wed to a wealthy merchant and sent away to Waterdeep. Anali resisted this, saying she would rather fight and die to protect the city than be wed against her will. Her parents scoffed at this, disbelieving - until the young woman grabbed the family blade from off of the wall and strode out the door. She went on to become a famous general - and she carried the falchion she'd taken from her home that day into every battle since.*
 
 ---

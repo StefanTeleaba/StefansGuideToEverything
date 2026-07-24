@@ -1,8 +1,6 @@
 # Nightshadow
-*Weapon (Longsword), Very Rare*
-
-*Nightshadow is the jet-black longsword wielded by Vhaeraun. It gleams in the light but it is invisible in darkness.*
-
+*Weapon (Longsword), Very Rare*  
+*Nightshadow is the jet-black longsword wielded by Vhaeraun. It gleams in the light but it is invisible in darkness.*  
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.
 When you score a Critical Hit with this weapon against a Construct, the weapon deals one additional die of damage.  

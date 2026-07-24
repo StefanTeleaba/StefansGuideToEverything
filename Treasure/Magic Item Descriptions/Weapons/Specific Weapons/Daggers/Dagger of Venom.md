@@ -19,3 +19,10 @@ This black +1 dagger has a serrated edge. It allows the wielder to use a poison 
 Faint necromancy; CL 5th; Craft Magic Arms and Armor, poison; Price 8,302 gp; Cost 4,302 gp + 320 XP.
 
 ---
+
+*Stranger Things: Welcome to the Hellfire Club 5.5e*
+# Poison Soaked Kukri
+*Weapon (Dagger), Uncommon*  
+You can take a Bonus Action to magically coat the blade of this Dagger with poison. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 13 Constitution saving throw or take 2d8 Poison damage and have the Poisoned condition for 1 minute. This Bonus Action can't be used again this way until the next dawn.
+
+---
