@@ -1,14 +1,11 @@
+*Dragons of Faerun 3.5e, p.126*
 # Crown of the North Wind
 *Wondrous Item, Rare*  
-
-*A crown of the north wind is an elegant platinum crown with five spires, each one shaped like a different metallic dragon (brass, copper, bronze, gold, and silver).*
-
+*A crown of the north wind is an elegant platinum crown with five spires, each one shaped like a different metallic dragon (brass, copper, bronze, gold, and silver).*  
 *Attuned to:*  
-***Charisma:*** You gain a +2 bonus to your Charisma score.
-
+***Charisma:*** You gain a +2 bonus to your Charisma score.  
 *Worn by a Follower of Bahamut:*  
 ***Cloak of Bravery.*** You radiate a protective, unseeable aura in a 60-foot Emanation that originates from you. The aura is inactive while you have the Incapacitated condition. You and your allies in the aura gain a bonus to saving throws to avoid or end the Frightened condition equal to your Charisma modifier (minimum bonus of +1).  
-
 *Worn by a Creature with the Breath Weapon Feature:*  
 ***Breath Weapon.*** When you use your Breath Weapon, you can instead use the special breath weapon of the metallic dragon associated with your element.
 | Breath Weapon    | Special Breath Weapon            |
@@ -17,12 +14,6 @@
 | Cold Breath      | Paralyzing Breath                |
 | Fire Breath      | Sleep Breath or Weakening Breath |
 | Lightning Breath | Repulsion Breath                 |
-
-
-**Source:** *Dragons of Faerun 3.5e, p.126*
-
-
-
 
 ---
 

@@ -6,6 +6,4 @@
 ***Booming Blows.*** Your Unarmed Strikes deal an additional die of Lightning damage.  
 ***Spell.*** 1/Day: Lightning Bolt
 
-
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*

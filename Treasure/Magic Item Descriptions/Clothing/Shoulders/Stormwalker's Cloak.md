@@ -44,4 +44,3 @@ All the collection benefits of the raiment function normally for and can be acti
 **2 Pieces:** You can use obscuring mist (CL 5th) as a standard (mental) action three times per day.  
 **3 Pieces:** You can use call lightning (CL 5th) as a standard (mental action) once per day.  
 **4 Pieces:** You take only half damage from electricity. If such an attack allows a save for half damage, you instead take no damage on a successful save.
-

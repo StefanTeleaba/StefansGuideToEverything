@@ -1,9 +1,4 @@
-### Ring of Jumping
-
-**Price:** 2,500 GP  
-**Body Slot:** Ring  
-**Aura:** Faint Transmutation  
-**Associated Spell:** Jump  
-**Attunement:** 1 Minute  
-
-***Jumping.*** You can cast Jump on yourself without expending a spell slot.
+*Dungeon Master's Guide 5.5e p.293*
+# Ring of Jumping
+*Ring, Uncommon (Requires Attunement)*
+While wearing this ring, you can cast Jump from it, but can target only yourself when you do so.

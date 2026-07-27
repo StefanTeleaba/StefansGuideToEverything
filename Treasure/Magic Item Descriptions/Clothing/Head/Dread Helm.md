@@ -1,17 +1,14 @@
+*Dungeon Master's Guide 5.5e, p.254*
 # Dread Helm
-*Wondrous Item, Common*
-
+*Wondrous Item, Common*  
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.
-
-**Source:** *Dungeon Master's Guide 5.5e, p.254*
 
 ---
 
+*Stranger Things: Welcome to the Hellfire Club*
 # Dread Helm
-*Wondrous Item, Common*
-
-While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.
-
+*Wondrous Item, Common*  
+While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.  
 ***Special Use:*** You have Advantage on Charisma (Intimidation) checks you make to intimidate a Humanoid who sees you wearing this helm.
 
-**Source:** *Stranger Things: Welcome to the Hellfire Club*
+---

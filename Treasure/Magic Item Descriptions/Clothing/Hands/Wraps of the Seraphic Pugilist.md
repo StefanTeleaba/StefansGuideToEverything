@@ -6,6 +6,4 @@
 ***Angelclocker Knuckles.*** Your Unarmed Strikes deal an additional die of Radiant damage.  
 ***Spell.*** 1/Day: Guiding Bolt (Level 4)
 
-
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*

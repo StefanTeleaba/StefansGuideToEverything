@@ -6,6 +6,4 @@
 ***Chilling Strikes.*** Your Unarmed Strikes deal an additional die of Cold damage.  
 ***Spell.*** 1/Day: Ice Knife (Level 3)
 
-
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*

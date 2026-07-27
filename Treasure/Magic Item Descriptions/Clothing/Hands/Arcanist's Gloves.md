@@ -1,6 +1,5 @@
 # Arcanist's Gloves
-*Wondrous Item, Uncommon*
-
+*Wondrous Item, Uncommon*  
 The gloves have 3 charges and regain all expended charges daily at dawn. When you cast a Level 1 spell that can be cast with a higher-level spell slot, you can expend a charge to cast it as a Level 2 spell.
 
 ---

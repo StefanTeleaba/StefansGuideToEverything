@@ -1,8 +1,7 @@
 *Homebrew*
 # Nimblefinger Gloves
-*Wondrous Item, Rare*
-
-While wearing these gloves, you gain a +2 bonus to Dexterity and a +5 bonus to Dexterity (Sleight of Hand) checks.
+*Wondrous Item, Rare*  
+While wearing these gloves, your Dexterity score increases by 2 and you gain a +5 bonus to Dexterity (Sleight of Hand) checks.
 
 ---
 

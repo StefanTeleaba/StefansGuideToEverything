@@ -7,4 +7,6 @@
 
 ***The Shadow Itself.*** When you reduce an enemy to 0 Hit Points, you gain the Invisible condition until the start of your next turn.
 
+---
+
 *Baldur's Gate 3*

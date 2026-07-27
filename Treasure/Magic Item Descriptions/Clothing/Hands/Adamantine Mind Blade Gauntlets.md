@@ -10,10 +10,9 @@ Your Psychic Blade gains the following property:
 
 
 ---
-*Magic Item Compendium, p.68*
 
-*Each of these heavy leather gloves bears a violet crystal set on a small plate of adamantine.*
-
+*Magic Item Compendium, p.68*  
+*Each of these heavy leather gloves bears a violet crystal set on a small plate of adamantine.*  
 **Associated Spell:** Fabricate  
 **Attunement:** 1 Hour  
 **Aura:** Moderate Transmutation  
@@ -21,10 +20,9 @@ Your Psychic Blade gains the following property:
 **Price:** 2,000 GP  
 **Weight:** 1 lb.
 
-
 ---
-*Magic Item Compendium, p.68*
 
+*Magic Item Compendium, p.68*  
 Price (Item Level): 2,000 gp (6th)
 Body Slot: Hands
 Caster Level: 9th

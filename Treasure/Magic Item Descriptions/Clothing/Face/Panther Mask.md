@@ -1,7 +1,6 @@
 *Homebrew*
 # Panther Mask
-*Wondrous Item, Uncommon*
-
+*Wondrous Item, Uncommon*  
 Your Speed increases by 10 feet while you aren't wearing medium or heavy armor. When you take the Dash action, your Speed increases by 10 feet for that action.
 
 ---

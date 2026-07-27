@@ -6,6 +6,4 @@
 ***Booming Blows.*** Your Unarmed Strikes deal an additional die of Thunder damage.  
 ***Spell.*** 1/Day: Thunderwave (Level 3)
 
-
-
-**Source:** *Baldur's Gate 3*
+*Baldur's Gate 3*
