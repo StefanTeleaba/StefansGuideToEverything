@@ -8,4 +8,6 @@ You spent your formative years traveling between manors and monasteries, perform
 **Tool Proficiency:** Calligrapher's Supplies  
 **Equipment:** Choose A or B: (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
+![Sailor](https://5e.tools/img/backgrounds/XPHB/Sailor.webp)
+
 ---

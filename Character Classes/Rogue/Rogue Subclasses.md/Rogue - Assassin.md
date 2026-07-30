@@ -1,7 +1,6 @@
+*Player's Handbook 5.5e p.134*
 # Assassin
-*Player's Handbook 5.5e*  
-
-*Practice the Grim Art of Death*
+*Practice the Grim Art of Death*  
 An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
 
 ## Level 3: Assassinate
@@ -22,3 +21,7 @@ When you use the Poison option of your Cunning Strike, the target also takes 2d6
 
 ## Level 17: Death Strike
 When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus), or the attack's damage is doubled against the target.
+
+![Assassin](https://5e.tools/img/classes/XPHB/Assassin%20Rogue.webp)
+
+---

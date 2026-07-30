@@ -1,12 +1,10 @@
 *Ravenloft: The Horrors Within 5.5e, p.*
-
 # Shadow Sorcery
 *Bend Doom and Darkness to Your Will*  
 Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.
 
 ## Level 3: Shadow Spells
-When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.  
 **Shadow Spells**
 | Sorcerer Level | Spells                                             |
 |:--------------:|----------------------------------------------------|
@@ -31,6 +29,8 @@ While you are in Dim Light or Darkness, you can take a Bonus Action to teleport 
 When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits below while your Innate Sorcery is active or until you end the form (no action required). Once you use this feature, you can’t use it again until you finish a Long Rest unless you spend 6 Sorcery Points (no action required) to restore your use of it.  
 ***Incorporeal Movement.*** You can move through creatures and objects as if they were Difficult Terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.  
 ***Shadow Resilience.*** You have Resistance to all damage except Force and Radiant damage.
+
+![Shadow Sorcery](https://5e.tools/img/classes/RHW/Shadow%20Sorcery%20Sorcerer.webp)
 
 ---
 

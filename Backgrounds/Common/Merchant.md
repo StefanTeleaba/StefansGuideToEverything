@@ -8,4 +8,6 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 **Tool Proficiency:** Navigator's Tools  
 **Equipment:** Choose A or B: (A) Navigator's Tools, 2 Pouches, Traveler's Clothes, 22 GP; or (B) 50 GP
 
+![Merchant](https://5e.tools/img/backgrounds/XPHB/Merchant.webp)
+
 ---

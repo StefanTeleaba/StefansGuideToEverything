@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.132*
 # Arcane Trickster
-*Player's Handbook 5.5e*  
-
 *Enhance Stealth with Arcane Spells*  
 Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
 
@@ -28,3 +27,5 @@ You gain the ability to distract targets with your Mage Hand. When you use the T
 ## Level 17: Spell Thief
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster. Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a Reaction to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.  
 Once you steal a spell with this feature, you can't use this feature again until you finish a Long Rest.
+
+![Arcane Trickster](https://5e.tools/img/classes/XPHB/Arcane%20Trickster%20Rogue.webp)

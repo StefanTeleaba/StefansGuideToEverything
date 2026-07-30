@@ -1,6 +1,5 @@
+*Forgotten Realms: Heroes of Faerun 5.5e p.23*
 # Scion of the Three
-*Forgotten Realms: Heroes of Faerun 5.5e*
-
 *Become a Gruesome Agent of Malice*  
 A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: Bane, deity of tyranny; Bhaal, deity of violence and murder; and Myrkul, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.  
 Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to Bane, Bhaal, and Myrkul often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
@@ -60,7 +59,11 @@ You gain the following Cunning Strike option.
 You radiate malignant power associated with one of the Dead Three. At the start of each of your turns, each creature of your choice within a 10-foot Emanation originating from you takes damage equal to your Intelligence modifier (minimum of 1); the damage type is the same as the damage Resistance granted by your choice in the Dread Allegiance feature.  
 Damage dealt by this aura ignores Resistance. The aura is inactive while you have the Incapacitated condition.
 
-## Level 13: Dread Incarnate
+## Level 17: Dread Incarnate
 You gain the following benefits.  
 ***Battle Tyrant.*** You have Advantage on attack rolls against any creature with the Frightened condition.  
 ***Murderous Intent.*** When you roll for your Sneak Attack damage, you can treat a roll of a 1 or 2 on the die as a 3.
+
+![Scion of the Three](https://5e.tools/img/classes/FRHoF/Scion%20of%20the%20Three%20Rogue.webp)
+
+---

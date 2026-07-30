@@ -8,4 +8,6 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 **Tool Proficiency:** Thieves' Tools  
 **Equipment:** Choose A or B: (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
 
+![Criminal](https://5e.tools/img/backgrounds/XPHB/Criminal.webp)
+
 ---

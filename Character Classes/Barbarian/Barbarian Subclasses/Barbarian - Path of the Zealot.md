@@ -1,7 +1,6 @@
+*Player's Handbook 5.5e p.57*
 # Path of the Zealot
-*Player's Handbook 5.5e*  
-
-Rage in Ecstatic Union with a God  
+*Rage in Ecstatic Union with a God*  
 Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
 
 ## Level 3: Divine Fury
@@ -25,3 +24,7 @@ While in this form, you gain the benefits below.
 ***Flight.*** You have a Fly Speed equal to your Speed and can hover.  
 ***Resistance.*** You have Resistance to Necrotic, Psychic, and Radiant damage.  
 ***Revivification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target's Hit Points to a number equal to your Barbarian level.
+
+![Path of the Zealot](https://5e.tools/img/classes/XPHB/Zealot%20Barbarian.webp)
+
+---

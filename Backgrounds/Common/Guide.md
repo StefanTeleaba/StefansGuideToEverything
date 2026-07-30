@@ -8,4 +8,6 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 **Tool Proficiency:** Cartographer's Tools  
 **Equipment:** Choose A or B: (A) Shortbow, 20 Arrows, Cartographer's Tools, Bedroll, Quiver, Tent, Traveler's Clothes, 3 GP; or (B) 50 GP
 
+![Guide](https://5e.tools/img/backgrounds/XPHB/Guide.webp)
+
 ---

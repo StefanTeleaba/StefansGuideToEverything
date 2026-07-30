@@ -1,6 +1,5 @@
 *Homebrew*
 # Aarakocra
-## Aarakocra Traits
 **Creature Type:** Humanoid  
 **Size:** Medium (about 4-5 feet tall)  
 **Speed:** 30 feet, Fly equal to your walking speed  

@@ -1,5 +1,4 @@
 *Ravenloft: The Horrors Within 5.5e, p.*
-
 # Phantom
 *Embrace Death and Wield Ghostly Power*  
 Some Rogues traverse the veil between life and death, shepherding opponents to the grave and slipping through the world as undetectable as a spirit. In these pursuits, a Rogue might discover a mystical connection to death itself. Such an individual becomes immersed in negative energy, infusing their strikes with deathly energy and stealing knowledge from souls who have passed on. Thieves’ guilds value Rogues of this persuasion as highly effective information gatherers and spies.
@@ -36,6 +35,8 @@ As a Bonus Action, you assume a spectral form, gaining the benefits below for 10
 Your association with death has become so close that you gain the following benefits.  
 ***Death’s Lament.*** When you use Wails from the Grave, you can deal the feature’s Necrotic damage to both the first and the second creature.  
 ***Draw of Death.*** When you roll Initiative, you gain one soul trinket for your Tokens of the Departed if you have none remaining.
+
+![Phantom](https://5e.tools/img/classes/RHW/Phantom%20Rogue.webp)
 
 ---
 

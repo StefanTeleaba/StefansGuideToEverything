@@ -1,3 +1,4 @@
+*Player's Handbook 5.5e p.128*
 # Rogue
 Rogues rely on cunning, stealth and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.  
 In combat, Rogues prioritize subtle strikes over brute strength. They would rather make one precise strike than wear an opponent down with a barrage of blows.  
@@ -59,3 +60,13 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 ## Level 20: Stroke of Luck
 You have a marvelous knack for succeeding when you need to. If you fail a D20 Test, you can turn the roll into a 20.  
 Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+
+![Rogue](https://5e.tools/img/classes/XPHB/Rogue.webp)
+
+---
+
+![Rogue](https://5e.tools/img/classes/XPHB/099-04-014.cunning-rogue.webp)
+
+![Rogue](https://5e.tools/img/classes/XPHB/101-04-016.rogue-v-dragon.webp)
+
+![Rogue](https://5e.tools/img/classes/XPHB/104-04-019.sneak-attack.webp)

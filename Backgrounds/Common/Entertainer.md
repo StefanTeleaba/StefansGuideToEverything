@@ -8,4 +8,6 @@ You spent much of your youth following roving fairs and carnivals, performing od
 **Tool Proficiency:** Choose one kind of Musical Instrument (see chapter 6)  
 **Equipment:** Choose A or B: (A) Musical Instrument (same as above), 2 Costumes, Mirror, Perfume, Traveler's Clothes, 11 GP; or (B) 50 GP
 
+![Entertainer](https://5e.tools/img/backgrounds/XPHB/Entertainer.webp)
+
 ---

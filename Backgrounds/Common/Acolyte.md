@@ -8,4 +8,6 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 **Tool Proficiency:** Calligrapher's Supplies  
 **Equipment:** Choose A or B: (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
 
+![Acolyte](https://5e.tools/img/backgrounds/XPHB/Acolyte.webp)
+
 ---

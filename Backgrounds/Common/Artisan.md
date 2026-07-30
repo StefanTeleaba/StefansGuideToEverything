@@ -8,4 +8,6 @@ You began mopping floors and scrubbing counters in an artisan's workshop for a f
 **Tool Proficiency:** Choose one kind of Artisan's Tools (see chapter 6)  
 **Equipment:** Choose A or B: (A) Artisan's Tools (same as above), 2 Pouches, Traveler's Clothes, 32 GP; or (B) 50 GP
 
+![Artisan](https://5e.tools/img/backgrounds/XPHB/Artisan.webp)
+
 ---

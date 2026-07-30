@@ -8,4 +8,6 @@ As a Caretaker with the Emerald Enclave, you take care of those who care for the
 **Tool Proficiencies:** Herbalism Kit
 **Equipment:** Choose A or B: (A) Shortbow, 20 Arrows, Herbalism Kit, Bedroll, Blanket, Pouch, Tent, Traveler's Clothes, 13 GP; or (B) 50 GP
 
+![Emerald Enclave Caretaker](https://5e.tools/img/backgrounds/FRHoF/Emerald%20Enclave%20Caretaker.webp)
+
 ---

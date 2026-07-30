@@ -8,4 +8,6 @@ You were raised in a castle, surrounded by wealth, power, and privilege. Your fa
 **Tool Proficiency:** Choose one kind of Gaming Set (see chapter 6)  
 **Equipment:** Choose A or B: (A) Gaming Set (same as above), Fine Clothes, Perfume, 29 GP; or (B) 50 GP
 
+![Noble](https://5e.tools/img/backgrounds/XPHB/Noble.webp)
+
 ---

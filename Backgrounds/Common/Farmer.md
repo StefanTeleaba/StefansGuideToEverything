@@ -8,4 +8,6 @@ You grew up close to the land. Years tending animals and cultivating the earth r
 **Tool Proficiency:** Carpenter's Tools  
 **Equipment:** Choose A or B: (A) Sickle, Carpenter's Tools, Healer's Kit, Iron Pot, Shovel, Traveler's Clothes, 30 GP; or (B) 50 GP
 
+![Farmer](https://5e.tools/img/backgrounds/XPHB/Farmer.webp)
+
 ---

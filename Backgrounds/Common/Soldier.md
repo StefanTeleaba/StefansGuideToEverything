@@ -8,4 +8,6 @@ You began training for war as soon as you reached adulthood and carry precious f
 **Tool Proficiency:** Choose one kind of Gaming Set (see chapter 6)  
 **Equipment:** Choose A or B: (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
 
+![Soldier](https://5e.tools/img/backgrounds/XPHB/Soldier.webp)
+
 ---

@@ -1,7 +1,6 @@
+*Player's Handbook 5.5e p.56*
 # Path of the World Tree
-*Player's Handbook 5.5e*  
-
-Trace the Roots and Branches of the Multiverse  
+*Trace the Roots and Branches of the Multiverse*  
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Planes, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
 
 ## Level 3: Vitality of the Tree
@@ -18,3 +17,7 @@ During your turn, your reach is 10 feet greater with any Melee weapon that has t
 ## Level 14: Travel along the Tree
 When you activate your Rage and as a Bonus Action while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see.  
 In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.
+
+![Path of the World Tree](https://5e.tools/img/classes/XPHB/World%20Tree%20Barbarian.webp)
+
+---

@@ -1,12 +1,11 @@
+*Player's Handbook 5.5e p.135*
 # Soulknife
-*Player's Handbook 5.5e*  
-
 *Strike Foes with Psionic Blades*  
 A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
 
 ## Level 3: Psionic Power
-You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
-#### Soulknife Energy Dice
+You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.  
+**Soulknife Energy Dice**
 | Rogue Level | Die Size | Number |
 |-------------|----------|--------|
 | 3           | D6       | 4      |
@@ -45,3 +44,9 @@ Once you use this feature, you can't do so again until you finish a Long Rest un
 ## Level 17: Rend Mind
 You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the Stunned condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself on a success.  
 Once you use this feature, you can't do so again until you finish a Long Rest unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
+
+![Soulknife](https://5e.tools/img/classes/XPHB/Soulknife%20Rogue.webp)
+
+---
+
+![Soulknife](https://static.wikia.nocookie.net/forgottenrealms/images/f/f3/Soulknife_Spy_AFR.jpg/revision/latest?cb=20210724125929)

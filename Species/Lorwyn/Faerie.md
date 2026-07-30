@@ -1,5 +1,4 @@
-*Lorwyn: First Light*
-
+*Lorwyn: First Light 5.5e*
 # Faerie
 Known for their mischief, faeries resemble insects with humanoid features. Their size and shape may vary, but all have antennae, black eyes, chitinous skin, and insectoid legs and wings. Every faerie is born from a flower and possesses innate magic, which many use to play pranks.  
 Some Lorwyn faeries serve Queen Oura, who has proclaimed herself the faeries’ ruler. Not all faeries recognize Oura’s authority, however. In Shadowmoor, faeries might instead worship Queen Maralen, the elf who overthrew the previous faerie queen and, some say, ushered in the clashing of Lorwyn and Shadowmoor.

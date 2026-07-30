@@ -8,4 +8,6 @@ You grew up on the streets surrounded by similarly ill-fated castoffs, a few of 
 **Tool Proficiency:** Thieves' Tools  
 **Equipment:** Choose A or B: (A) 2 Daggers, Thieves' Tools, Gaming Set (any), Bedroll, 2 Pouches, Travel- er's Clothes, 16 GP; or (B) 50 GP
 
+![Wayfarer](https://5e.tools/img/backgrounds/XPHB/Wayfarer.webp)
+
 ---

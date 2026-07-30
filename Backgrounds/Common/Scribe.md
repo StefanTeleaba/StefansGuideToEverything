@@ -8,4 +8,6 @@ You spent formative years in a scriptorium, a monastery dedicated to the preserv
 **Tool Proficiency:** Calligrapher's Supplies  
 **Equipment:** Choose A or B: (A) Calligrapher's Supplies, Fine Clothes, Lamp, Oil (3 flasks), Parchment (12 sheets), 23 GP; or (B) 50 GP
 
+![Scribe](https://5e.tools/img/backgrounds/XPHB/Scribe.webp)
+
 ---

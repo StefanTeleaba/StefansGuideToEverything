@@ -1,4 +1,8 @@
+*Player's Handbook 5.5e p.138*
 # Sorcerer
+Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby's birth or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.  
+Sorcerers don't learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.  
+Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn't like to stay quiet. A Sorcerer's magic wants to be wielded.
 
 ## Level 1: Spellcasting
 Drawing from your innate magic, you can cast spells. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.  
@@ -12,7 +16,6 @@ If another Sorcerer feature gives you spells that you always have prepared, thos
 ***Spellcasting Ability.*** Charisma is your spellcasting ability for your Sorcerer spells.  
 ***Spellcasting Focus.*** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
-
 ## Level 1: Innate Sorcery
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 - The spell save DC of your Sorcerer spells increases by 1.
@@ -24,9 +27,8 @@ You can tap into the wellspring of magic within yourself. This wellspring is rep
 You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest. You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.  
 ***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).  
 ***Creating Spell Slots.*** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.  
-Any spell slot you create with this feature vanishes when you finish a Long Rest.
-
-#### CREATING SPELL SLOTS
+Any spell slot you create with this feature vanishes when you finish a Long Rest.  
+**Creating Spell Slots**
 | Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
 |------------------|--------------------|---------------------|
 | 1                | 2                  | 2                   |
@@ -100,3 +102,7 @@ When you cast a spell that deals a type of damage from the following list, you c
 ***Twinned Spell***  
 *Cost: 1 Sorcery Point*  
 When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+
+![Sorcerer](https://5e.tools/img/classes/XPHB/Sorcerer.webp)
+
+---

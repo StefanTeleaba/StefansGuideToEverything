@@ -8,4 +8,6 @@ You spent your early years secluded in a hut or monastery located well beyond th
 **Tool Proficiency:** Herbalism Kit  
 **Equipment:** Choose A or B: (A) Quarterstaff, Herbalism Kit, Bedroll, Book (philosophy), Lamp, Oil (3 flasks), Traveler's Clothes, 16 GP; or (B) 50 GP
 
+![Hermit](https://5e.tools/img/backgrounds/XPHB/Hermit.webp)
+
 ---

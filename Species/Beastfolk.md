@@ -1,6 +1,5 @@
+*The Ultimate Adventurer's Handbook* 
 # Beastfolk
-*The Ultimate Adventurer's Handbook*  
-
 *“One general law, leading to the advancement of all organic beings, namely, multiply, vary, let the strongest live and the weakest die.” — Charles Darwin, The Origin of Species*
 
 *Beastfolk is a catchall term for a collection of humanoid peoples, each of which bear a strong resemblance to an animal. Due to the dizzying variety of animals in the world, and beastfolk that take after them, beastfolk as a whole have few common bonds. They may form small communities, particularly if they all resemble the same animal, but most often live on the edges of civilization, interacting only with those who possess the insight to see beastfolk are at least as much human as they are animal.*  

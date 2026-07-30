@@ -8,4 +8,6 @@ Your feet ache when you remember the countless hours you spent at your post in t
 **Tool Proficiency:** Choose one kind of Gaming Set (see chapter 6)  
 **Equipment:** Choose A or B: (A) Spear, Light Crossbow, 20 Bolts, Gaming Set (same as above), Hooded Lantern, Manacles, Quiver, Traveler's Clothes, 12 GP; or (B) 50 GP
 
+![Guard](https://5e.tools/img/backgrounds/XPHB/Guard.webp)
+
 ---

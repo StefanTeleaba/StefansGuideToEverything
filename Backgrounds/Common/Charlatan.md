@@ -8,4 +8,6 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 **Tool Proficiency:** Forgery Kit  
 **Equipment:** Choose A or B: (A) Forgery Kit, Costume, Fine Clothes, 15 GP; or (B) 50 GP
 
+![Charlatan](https://5e.tools/img/backgrounds/XPHB/Charlatan.webp)
+
 ---

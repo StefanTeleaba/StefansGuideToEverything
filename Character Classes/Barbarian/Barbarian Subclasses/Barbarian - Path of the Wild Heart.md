@@ -1,7 +1,6 @@
+*Player's Handbook 5.5e p.55*
 # Path of the Wild Heart
-*Player's Handbook 5.5e*  
-
-Walk in Community with the Animal World  
+*Walk in Community with the Animal World*  
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 ## Level 3: Animal Speaker
@@ -28,3 +27,5 @@ Whenever you activate your Rage, you gain one of the following options of your c
 armor.  
 ***Lion.*** While your Rage is active, any of your enemies within 5 feet of you have Disadvantage on attack rolls against targets other than you or another Barbarian who has this option active.  
 ***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the Prone condi- tion when you hit it with a melee attack.
+
+![Path of the Wild Heart](https://5e.tools/img/classes/XPHB/Wild%20Heart%20Barbarian.webp)

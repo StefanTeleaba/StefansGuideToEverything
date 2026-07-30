@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.137*
 # Thief
-*Player's Handbook 5.5e*  
-
 *Hunt for Treasure as a Classic Adventurer*  
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
 
@@ -26,3 +25,7 @@ You've learned how to maximize use of magic items, granting you the following be
 
 ## Level 17: Thief's Reflexes
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
+
+![Thief](https://5e.tools/img/classes/XPHB/Thief%20Rogue.webp)
+
+---

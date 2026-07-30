@@ -1,6 +1,5 @@
 *Homebrew*
 # Bugbear
-## Bugbear Traits
 **Creature Type:** Humanoid  
 **Size:** Medium  
 **Speed:** 30 feet  
