@@ -1,5 +1,7 @@
+*Player's Handbook 5.5e p.90* 
 # Fighter
-*Player's Handbook 5.5e* 
+Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.  
+Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants.
 
 ## Level 1: Fighting Style
 You have honed your martial prowess and gain a Fighting Style feat of your choice. Defense is recommended.  
@@ -48,3 +50,7 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ## Level 20: Three Extra Attacks
 You can attack four times instead of once whenever you take the Attack action on your turn.
+
+![Fighter](https://5e.tools/img/classes/XPHB/Fighter.webp)
+
+---

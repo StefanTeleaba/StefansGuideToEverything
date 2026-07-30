@@ -17,6 +17,8 @@ While wearing these gauntlets, your Strength score increases by 2, you have Adva
 *Wondrous Item, Uncommon (Requires Attunement)*  
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.
 
+![Gauntlets of Ogre Power](https://5e.tools/img/items/XDMG/Gauntlets%20of%20Ogre%20Power.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.255*

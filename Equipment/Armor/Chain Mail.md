@@ -1,4 +1,5 @@
-### Chain Mail
+*Player's Handbook 5.5e p.219*
+# Chain Mail
 *Heavy Armor*  
 
 **AC:** 16  
@@ -7,4 +8,6 @@
 **Weight:** 55 lb.  
 **Cost:** 75 GP  
 
-*Player's Handbook 5.5e, p.219*
+![Chain Mail](https://5e.tools/img/items/XPHB/Chain%20Mail.webp)
+
+---

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e* 
+*Player's Handbook 5.5e p.96* 
 # Champion
 *Pursue Physical Excellence in Combat*  
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
@@ -23,3 +23,7 @@ Your attack rolls with weapons and Unarmed Strikes can now score a Critical Hit 
 You attain the pinnacle of resilience in battle, giving you these benefits.  
 ***Defy Death.*** You have Advantage on Death Saving Throws. Moreover, when you roll 18-20 on a Death Saving Throw, you gain the benefit of rolling a 20 on it.  
 ***Heroic Rally.*** At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are Bloodied and have at least 1 Hit Point.
+
+![Champion](https://5e.tools/img/classes/XPHB/Champion%20Fighter.webp)
+
+---

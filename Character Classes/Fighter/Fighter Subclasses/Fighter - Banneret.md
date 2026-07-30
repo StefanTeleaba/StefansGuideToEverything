@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e*
+*Forgotten Realms: Heroes of Faerun 5.5e p.19*
 # Banneret
 *Rally Fellow Heroes with Inspiring Leadership*  
 Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. Many are knights serving in Cormyr, the Silver Marches, Damara, Chessenta, or other lands across Faerûn. They wander the realms as knights errant, taking the fight against evil beyond their kingdom's borders.  
@@ -28,6 +28,8 @@ When an ally you can see within 60 feet of yourself fails a saving throw, you ca
 You gain the following benefits.  
 ***Bolstered Rally.*** The area of effect for both Group Recovery and Rallying Surge is now a 60-foot Emanation.  
 ***Unshakable Bravery.*** You have Immunity to the Charmed and Frightened conditions.
+
+![Banneret](https://5e.tools/img/classes/FRHoF/Banneret%20Fighter.webp)
 
 ---
 

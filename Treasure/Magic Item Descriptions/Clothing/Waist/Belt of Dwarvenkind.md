@@ -9,6 +9,8 @@ If you aren't a dwarf or duergar, you gain the following additional benefits whi
 ***Darkvision.*** You have Darkvision with a range of 60 feet.  
 ***Resilience.*** You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
 
+![Belt of Dwarvenkind](https://5e.tools/img/items/XDMG/Belt%20of%20Dwarvenkind.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.248*

@@ -3,6 +3,8 @@
 *Wondrous Item, Uncommon*  
 These crystal lenses fit over the eyes. While wearing them, you have Advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
+![Eyes of the Eagle](https://5e.tools/img/items/XDMG/Eyes%20of%20the%20Eagle.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.252*

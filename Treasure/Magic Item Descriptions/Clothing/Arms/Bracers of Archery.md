@@ -24,6 +24,8 @@ While wearing these bracers, you have proficiency with the Longbow and Shortbow,
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to damage rolls made with such weapons.
 
+![Bracers of Archery](https://5e.tools/img/items/XDMG/Bracers%20of%20Archery.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.250*

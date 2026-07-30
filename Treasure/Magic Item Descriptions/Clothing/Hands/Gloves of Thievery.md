@@ -3,6 +3,8 @@
 *Wondrous Item, Uncommon*  
 These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks.
 
+![Gloves of Thievery](https://5e.tools/img/items/XDMG/Gloves%20of%20Thievery.webp)
+
 ---
 
 *Encyclopedia Magica Volume II 2e p.545*  

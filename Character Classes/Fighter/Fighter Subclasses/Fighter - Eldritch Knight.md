@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e* 
+*Player's Handbook 5.5e p.96* 
 # Eldritch Knight
 *Support Combat Skills with Arcane Magic*  
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.
@@ -30,3 +30,7 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 
 ## Level 18: Improved War Magic
 When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
+
+![Eldritch Knight](https://5e.tools/img/classes/XPHB/Eldritch%20Knight%20Fighter.webp)
+
+---

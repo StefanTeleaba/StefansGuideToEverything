@@ -10,6 +10,8 @@ While wearing this cloak, you can breathe underwater, and you have a Swim Speed 
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While wearing this cloak, you can breathe underwater, and you have a Swim Speed of 60 feet.
 
+![Cloak of the Manta Ray](https://static.wikia.nocookie.net/forgottenrealms/images/d/de/Cloak_of_the_manta_ray_5e.png/revision/latest/scale-to-width-down/217?cb=20250112113414)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.252*

@@ -4,6 +4,8 @@
 
 While wearing this cloak, you can take a Bonus Action to make it billow dramatically for 1 minute.
 
+![Cloak of Billowing](https://static.wikia.nocookie.net/forgottenrealms/images/c/ca/Cloak_of_billowing_5e.png/revision/latest/scale-to-width-down/340?cb=20241118055907)
+
 ---
 
 *Stranger Things: Welcome to the Hellfire Club*

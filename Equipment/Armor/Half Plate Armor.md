@@ -1,4 +1,5 @@
-### Half Plate Armor
+*Player's Handbook 5.5e p.219*
+# Half Plate Armor
 *Medium Armor*  
 
 **AC:** 15 + Dex modifier (max 2)  
@@ -7,4 +8,6 @@
 **Weight:** 40 lb.  
 **Cost:** 750 GP  
 
-*Player's Handbook 5.5e, p.219*
+![Half Plate Armor](https://5e.tools/img/items/XPHB/Half%20Plate%20Armor.webp)
+
+---

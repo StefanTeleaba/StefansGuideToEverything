@@ -10,4 +10,6 @@ You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.
 *Wondrous Item, Uncommon (Requires Attunement)*  
 You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.
 
+![Cloak of Protection](https://5e.tools/img/items/XDMG/Cloak%20of%20Protection.webp)
+
 ---

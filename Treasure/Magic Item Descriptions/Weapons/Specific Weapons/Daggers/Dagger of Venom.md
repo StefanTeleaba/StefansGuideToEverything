@@ -11,12 +11,16 @@ You can take a Bonus Action to magically coat the blade with poison. The poison 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 You can take a Bonus Action to magically coat the blade with poison. The poison remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Constitution saving throw or take 2d10 Poison damage and have the Poisoned condition for 1 minute. The weapon can't be used this way again until the next dawn.
 
+![Dagger of Venom](https://5e.tools/img/items/XDMG/Dagger%20of%20Venom.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.226*
 # Dagger of Venom
 This black +1 dagger has a serrated edge. It allows the wielder to use a poison effect (as the spell, save DC 14) upon a creature struck by the blade once per day. The wielder can decide to use the power after he has struck. Doing so is a free action, but the poison effect must be invoked in the same round that the dagger strikes.  
 Faint necromancy; CL 5th; Craft Magic Arms and Armor, poison; Price 8,302 gp; Cost 4,302 gp + 320 XP.
+
+![Dagger of Venom](https://static.wikia.nocookie.net/forgottenrealms/images/3/3e/Dagger_of_venom_2e.jpg/revision/latest/scale-to-width-down/594?cb=20220509044756)
 
 ---
 

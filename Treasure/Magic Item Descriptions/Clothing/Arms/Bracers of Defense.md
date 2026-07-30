@@ -10,6 +10,8 @@ While wearing these bracers, you gain a +1 bonus to Armor Class if you are weari
 *Wondrous Item, Rare (Requires Attunement)*  
 While wearing these bracers, you gain a +2 bonus to Armor Class if you are wearing no armor and using no Shield.
 
+![Bracers of Defense](https://5e.tools/img/items/XDMG/Bracers%20of%20Defense.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e, p.250*

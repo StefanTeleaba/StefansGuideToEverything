@@ -7,12 +7,16 @@ This fine garment is made of black silk interwoven with faint, silvery threads. 
 ***Spider Walk.*** You can't be caught in webs of any sort and can move through webs as if they were Difficult Terrain.  
 ***Web.*** You can cast Web (save DC 13). The web created by the spell fills twice its normal area. Once used, this property can't be used again until the next dawn.
 
+![Cloak of Arachnida](https://5e.tools/img/items/OotA/Piwafwi%20(Cloak%20of%20Elvenkind).webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.249*
 # Cloak of Arachnida
 This black garment, embroidered with a weblike pattern in silk, gives the wearer the ability to climb as if a spider climb spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by web spells or webs of any sort—she can actually move in webs at half her normal speed. Once per day, the wearer of this cloak can cast web. She also gains a +2 luck bonus on all Fortitude saves against poison from spiders.  
 Faint conjuration and transmutation; CL 6th; Craft Wondrous Item, spider climb, web; Price 14,000 gp; Weight 1 lb. 
+
+![Cloak of Arachnida](https://static.wikia.nocookie.net/forgottenrealms/images/e/e4/Cloak_of_Arachnida_3e.png/revision/latest/scale-to-width-down/348?cb=20230131013840)
 
 ---
 

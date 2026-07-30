@@ -10,6 +10,8 @@ While wearing this brooch, you have Resistance to Force damage, and you have Imm
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the Magic Missile spell.
 
+![Brooch of Shielding](https://5e.tools/img/items/XDMG/Brooch%20of%20Shielding.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.250*

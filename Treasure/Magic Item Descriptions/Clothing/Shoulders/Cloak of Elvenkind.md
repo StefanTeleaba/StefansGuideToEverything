@@ -10,6 +10,8 @@ While you wear this cloak, Wisdom (Perception) checks made to perceive you have 
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While you wear this cloak, Wisdom (Perception) checks made to perceive you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks.
 
+![Cloak of Elvenkind](https://static.wikia.nocookie.net/forgottenrealms/images/c/c4/Cloak_of_elvenkind_5e.png/revision/latest/scale-to-width-down/262?cb=20250112112631)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.253*

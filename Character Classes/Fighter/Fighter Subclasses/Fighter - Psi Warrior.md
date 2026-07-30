@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e*
+*Player's Handbook 5.5e p.98*
 # Psi Warrior
 *Augment Physical Might with Psionic Power*  
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
@@ -27,3 +27,7 @@ Once you use this feature, you can't do so again until you finish a Long Rest un
 ## Level 18: Telekinetic Master
 You always have the Telekinesis spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.  
 Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+
+![Psi Warrior](https://5e.tools/img/classes/XPHB/Psi%20Warrior%20Fighter.webp)
+
+---

@@ -70,3 +70,7 @@ The maneuvers are presented here in alphabetical order.
 ***Tactical Assessment.*** When you make an Intelligence (History or Investigation) check or a Wisdom (Insight) check, you can expend one Superiority Die and add that die to the ability check.
 
 ***Trip Attack.*** When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the Prone condition.
+
+![Battle Master](https://5e.tools/img/classes/XPHB/Battle%20Master%20Fighter.webp)
+
+---

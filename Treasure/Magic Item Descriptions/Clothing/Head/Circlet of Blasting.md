@@ -10,6 +10,8 @@ While wearing this circlet, you can project a blast of searing light toward a cr
 *Wondrous Item, Uncommon*
 While wearing this circlet, you can cast Scorching Ray with it (+5 to hit). The circlet can't cast this spell again until the next dawn.
 
+![Circlet of Blasting](https://5e.tools/img/items/XDMG/Circlet%20of%20Blasting.webp)
+
 ---
 
 *Dungeon Master's Guide 3.5e p.252*
