@@ -1,3 +1,8 @@
+*Arcana Unleashed 5.5e p.*
+# Arcane Archer
+
+---
+
 *Unearthed Arcana - Arcane Subclasses Update*  
 *This subclass was published on September 18th, 2025.*
 # Arcane Archer
@@ -160,10 +165,10 @@ If an option requires a saving throw, your Arcane Shot save DC equals 8 plus you
 
 ---
 
-[*Created by Indestructoboy*](https://www.youtube.com/@Indestructoboy/featured)
+[*Indestructoboy*](https://www.youtube.com/watch?v=sx7LIRnc84w)
 # Arcane Archer
-*Blend Magic into Ammunition to Deploy Supernatural Effects*  
-*Rumored to be a secret elven archery technique, the Arcane Archer is able to blend enchantments into ammunition to unleash devastating effects.*
+*Blend Magic into Ammunition to Deploy Supernatural Effects*
+Rumored to be a secret elven archery technique, the Arcane Archer is able to blend enchantments into ammunition to unleash devastating effects.
 
 ## Level 3: Arcane Archer Lore
 You learn magical theory and secrets of nature, granting you the following benefits.  
@@ -219,5 +224,93 @@ The Arcane Shots are presented here in alphabetical order.
 ***Unlocking Shot.*** A burst of magic fills a 15-foot Emanation originating from the ammunition. Objects within are affected by the Knock spell. A loud knock, audible up to 300 feet away, also emits from the ammunition.
 
 ***Vine Shot.*** A 60-foot-long vine grows from the ammunition, which can be climbed. It withers away after 10 minutes.
+
+---
+
+*Xanathar's Guide to Everything 5e p.28*
+# Arcane Archer
+An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of their most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
+
+## Level 3: Arcane Archer Lore
+At 3rd level, you learn magical theory or some of the secrets of nature – typical for practitioners of of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the Prestidigitation or Druidcraft cantrip.
+
+## Level 3: Arcane Shot
+At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).  
+Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits, unless the option doesn’t involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.  
+You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
+
+## Level 7: Magic Arrow
+At 7th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the arrow immediately after it hits or misses its target.
+
+## Level 7: Curving Shot
+At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
+
+## Level 15: Ever-Ready Shot
+Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
+
+### Arcane Shot Options
+The Arcane Shot feature lets you choose options for it at certain levels. The options are presented here in alphabetical order. They are all magical effects, and each one is associated with one of the schools of magic.  
+If an option requires a saving throw, your Arcane Shot save DC equals 8 + your proficiency bonus + your Intelligence modifier.
+
+***Banishing Arrow.*** You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. The creature hit by the arrow must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.  
+After you reach 18th level in this class, a target also takes 2d6 force damage when the arrow hits it.
+
+***Beguiling Arrow.*** Your enchantment magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra 2d6 psychic damage, and choose one of your allies within 30 feet of the target. The target must succeed on a Wisdom saving throw, or it is charmed by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the charmed target, deals damage to it, or forces it to make a saving throw.  
+The psychic damage increases to 4d6 when you reach 18th level in this class.
+
+***Bursting Arrow.*** You imbue your arrow with force energy drawn from the school of evocation. The arrow detonates after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take 2d6 force damage each.  
+The force damage increases to 4d6 when you reach 18th level in this class.
+
+***Enfeebling Arrow.*** You weave necromantic magic into your arrow. The creature hit by the arrow takes an extra 2d6 necrotic damage. The target must also succeed on a Constitution saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn.  
+The necrotic damage increases to 4d6 when you reach 18th level in this class.
+
+***Grasping Arrow.*** When this arrow strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. The creature hit by the arrow takes an extra 2d6 poison damage, its speed is reduced by 10 feet, and it takes 2d6 slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (Athletics) check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use this option again.  
+The poison damage and slashing damage both increase to 4d6 when you reach 18th level in this class.
+
+***Piercing Arrow.*** You use transmutation magic to give your arrow an ethereal quality. When you use this option, you don’t make an attack roll for the attack. Instead, the arrow fires forward in a line, which is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw. On a failed save, a creature takes damage as if it were hit by the arrow, plus an extra 1d6 piercing damage. On a successful save, a target takes half as much damage.  
+The piercing damage increases to 2d6 when you reach 18th level in this class.
+
+***Seeking Arrow.*** Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. When you use this option, you don’t make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon’s range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw. On a failed save, it takes damage as if it were hit by the arrow, plus an extra 1d6 force damage, and you learn the target’s current location. On a successful save, the target takes half as much damage, and you don’t learn its location.  
+The force damage increases to 2d6 when you reach 18th level in this class.
+
+***Shadow Arrow.*** You weave illusion magic into your arrow, causing it to occlude your foe’s vision with shadows. The creature hit by the arrow takes an extra 2d6 psychic damage, and it must succeed on a Wisdom saving throw or be unable to see anything farther than 5 feet away until the start of your next turn.  
+The psychic damage increases to 4d6 when you reach 18th level in this class.
+
+---
+
+*Dungeon Master's Guide 3.5e p.176*
+# Arcane Archer
+Master of the elven warbands, the arcane archer is a warrior skilled in using magic to supplement her combat prowess. Beyond the woods, arcane archers gain renown throughout entire kingdoms for their supernatural accuracy with a bow and their ability to imbue their arrows with magic. In a group, they can strike fear into an entire enemy army.  
+Fighters, rangers, paladins, and barbarians become arcane archers to add a little magic to their combat abilities. Conversely, wizards and sorcerers may take this prestige class to add combat capabilities to their repertoire. Monks, clerics, druids, rogues, and bards rarely become arcane archers.  
+NPC arcane archers often lead units of normal archers or form small, elite units formed entirely of arcane archers. These units are one of the prime reasons that the elves are so feared in battle.
+
+**Hit Die:** d8.  
+**Requirements**  
+To qualify to become an arcane archer, a character must fulfill all the following criteria.  
+**Race:** Elf or half-elf.  
+**Base Attack Bonus:** +6.  
+**Feats:** Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow).  
+**Spells:** Ability to cast 1st-level arcane spells.
+
+**Class Skills**  
+The arcane archer’s class skills (and the key ability for each skill) are Craft (Int), Hide (Dex), Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Wis), Survival (Wis), and Use Rope (Dex). See Chapter 4 of the Player ’s Handbook for skill descriptions.
+**Skill Points at Each Level:** 4 + Int modifier.
+
+**Class Features**
+All of the following are class features of the arcane archer prestige class.
+
+**Weapon and Armor Proficiency:** An arcane archer is proficient with all simple and martial weapons, light armor, medium armor, and shields.
+
+**Enhance Arrow (Su):** At 1st level, every nonmagical arrow an arcane archer nocks and lets fly becomes magical, gaining a +1 enhancement bonus. Unlike magic weapons created by normal means, the archer need not spend experience points or gold pieces to accomplish this task. However, an archer’s magic arrows only function for her. For every two levels the character advances past 1st level in the prestige class, the magic arrows she creates gain +1 greater potency (+1 at 1st level, +2 at 3rd level, +3 at 5th level, +4 at 7th level, and +5 at 9th level).
+
+**Imbue Arrow (Sp):** At 2nd level, an arcane archer gains the ability to place an area spell upon an arrow. When the arrow is fired, the spell’s area is centered on where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. It takes a standard action to cast the spell and fire the arrow. The arrow must be fired in the round the spell is cast, or the spell is wasted.
+
+**Seeker Arrow (Sp):** At 4th level, an arcane archer can launch an arrow once per day at a target known to her within range, and the arrow travels to the target, even around corners. Only an unavoidable obstacle or the limit of the arrow’s range prevents the arrow’s flight. For example, if the target is within a windowless chamber with the door closed, the arrow cannot enter. This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action).
+
+**Phase Arrow (Sp):** At 6th level, an arcane archer can launch an arrow once per day at a target known to her within range, and the arrow travels to the target in a straight path, passing through any nonmagical barrier or wall in its way. (A wall of force, a wall of fire, or the like stops the arrow.) This ability negates cover, concealment, and even armor modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action).
+
+**Hail of Arrows (Sp):** In lieu of her regular attacks, once per day an arcane archer of 8th level or higher can fire an arrow at each and every target within range, to a maximum of one target for every arcane archer level she has earned. Each attack uses the archer’s primary attack bonus, and each enemy may only be targeted by a single arrow.
+
+**Arrow of Death (Sp):** At 10th level, an arcane archer can create an arrow of death that forces the target, if damaged by the arrow’s attack, to make a DC 20 Fortitude save or be slain immediately. It takes one day to make an arrow of death, and the arrow only functions for the arcane archer who created it. The arrow of death lasts no longer than one year, and the archer can only have one such arrow in existence at a time.
 
 ---

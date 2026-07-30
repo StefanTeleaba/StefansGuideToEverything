@@ -1,7 +1,11 @@
+*Arcana Unleashed 5.5e p.*
 # Conjurer
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*  
 
+---
+
+*Unearthed Arcana - Arcane Subclasses Update*  
+*This subclass was published on September 18th, 2025.*
+# Conjurer
 *Step Across Space and Call Creatures from Thin Air*  
 You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.
 
@@ -28,10 +32,9 @@ Once you use this feature to modify a spell in this way, you must finish a Long 
 
 ---
 
-# Conjurer
 *Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
-
+*This subclass was published on June 26th, 2025.*
+# Conjurer
 *Step Across Space and Call Creatures from Thin Air*  
 You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.
 
@@ -58,12 +61,10 @@ You can also use Benign Transposition as a Reaction when a creature you can see 
 
 ---
 
-# Conjurer
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Conjurer
 As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
 
 ## Level 3: Conjuration Savant
@@ -82,3 +83,28 @@ While you are Concentrating on a Conjuration spell, your Concentration can't be 
 
 ## Level 14: Durable Summons
 Any creature that you summon or create with a Conjuration spell has Temporary Hit Points equal to twice your Wizard level.
+
+---
+
+*Player's Handbook 5e p.116*
+# School of Conjuration
+As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+
+## Level 2: Conjuration Savant
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Conjuration spell into your spellbook is halved.
+
+## Level 2: Minor Conjuration
+Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.  
+The object disappears after 1 hour, when you use this feature again, or if it takes or deals any damage.
+
+## Level 6: Benign Transportation
+Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.  
+Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
+
+## Level 10: Focused Conjuration
+Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.
+
+## Level 14: Durable Summons
+Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.
+
+---

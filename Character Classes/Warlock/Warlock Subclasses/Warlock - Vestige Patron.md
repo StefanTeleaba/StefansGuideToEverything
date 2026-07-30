@@ -1,7 +1,11 @@
-# Warlock - Vestige Patron
+*Arcana Unleashed 5.5e p.*
+# Vestige Patron
+
+---
+
 *Unearthed Arcana - Mystic Subclasses*  
 *This subclass was published on January 15th, 2026.*
-
+# Vestige Patron
 *Wield the Remnants of a Dying God’s Power*  
 Your pact draws on the power of a dying god, a being once worshipped by countless followers but now abandoned and forgotten. This dying god, known as a vestige, might have been benevolent, evil, or strange and unknowable, but now it is driven to regain its former power. The vestige needs your help it is willing to share its remaining strength with you.
 
@@ -59,3 +63,5 @@ In addition, when you drop to 0 Hit Points while within the aura, you instead ch
 ## Level 14: Semblance of Life
 Your Vestige Companion continues to grow in strength, and with your assistance, it can briefly adopt a more powerful form. Depending on the vestige’s type, you can cast one of the following spells while the vestige is within 90 feet of you without expending a spell slot or needing Material components: Summon Celestial (Celestial vestige), Summon Fiend (Fiend vestige), or Summon Undead (Undead vestige). When you cast the spell with this feature, the vestige becomes the summoned creature. Its game statistics are replaced by the summoned creature’s stat block, the spell’s level is equal to half your Warlock level (round down; maximum level 9), and the spell’s duration is 1 minute. When the spell ends, the vestige returns to its previous form.  
 Once you have cast the spell in this way, you can’t do so again until you finish a Long Rest.
+
+---

@@ -1,5 +1,4 @@
-*Eberron: Forge of the Artificer*
-
+*Eberron: Forge of the Artificer 5.5e p.37*
 # Shifter
 Shifters - sometimes called “weretouched” - descend from people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can’t change shape fully, but they can enhance their animalistic features temporarily in a process they call “shifting.”  
 Shifters resemble humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also possess prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter’s appearance might remind an onlooker of an animal, the shifter remains clearly identifiable as a Humanoid even when at their most feral.

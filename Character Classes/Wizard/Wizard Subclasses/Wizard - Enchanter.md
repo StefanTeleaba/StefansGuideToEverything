@@ -1,7 +1,11 @@
+*Arcana Unleashed 5.5e p.*
 # Enchanter
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*  
 
+---
+
+*Unearthed Arcana - Arcane Subclasses Update*  
+*This subclass was published on September 18th, 2025.*
+# Enchanter
 *Entrance and Beguile Others*  
 Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mind-altering magic for selfish ends. Many Enchanters fall somewhere in between.
 
@@ -30,10 +34,9 @@ You can reliably enchant creatures and alter their memories. You always have the
 
 ---
 
-# Enchanter
 *Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
-
+*This subclass was published on June 26th, 2025.*
+# Enchanter
 *Entrance and Beguile Others*  
 Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mind-altering magic for selfish ends. Many Enchanters fall somewhere in between.
 
@@ -61,12 +64,10 @@ Once you cast the spell with this feature, you can’t do so in this way again u
 
 ---
 
-# Enchanter
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Enchanter
 As an Enchanter, you have honed your ability to magically entrance and beguile other people and monsters. Some Enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most Enchanters fall somewhere in between.
 
 ## Level 3: Enchantment Savant
@@ -88,3 +89,31 @@ When you cast an enchantment spell of level 1 or higher that targets only one cr
 ## Level 14: Alter Memories
 You gain the ability to make a creature unaware of your magical influence on it. When you cast an Enchantment spell on one or more creatures, you can alter one creature’s understanding so that it remains unaware of being affected.  
 In addition, once before the spell expires, you can use a Magic action to try to make the chosen creature forget some of the time it spent affected by the spell. The creature must succeed on an Intelligence saving throw against your spell save DC or lose a number of hours of its memories equal to 1 + your Intelligence modifier (minimum 1). You can make the creature forget less time, and the amount of time can’t exceed the duration of your Enchantment spell.
+
+---
+
+*Player's Handbook 5e p.117*
+# School of Enchantment
+As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
+
+## Level 2: Enchantment Savant
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Enchantment spell into your spellbook is halved.
+
+## Level 2: Hypnotic Gaze
+Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.  
+On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.  
+Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.
+
+## Level 6: Instinctive Charm
+Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target.  
+On a successful save, you can't use this feature on the attacker again until you finish a long rest.  
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.
+
+## Level 10: Split Enchantment
+Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.
+
+## Level 14: Alter Memories
+At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.  
+Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
+
+---
