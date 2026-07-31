@@ -14,4 +14,6 @@ Alternatively, you cast the spell on an object that isn't being worn or carried,
 
 If any of this spell's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
 
+![Daylight](https://5e.tools/img/spells/XPHB/Daylight.webp)
+
 ---

@@ -12,3 +12,5 @@ You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate o
 If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
 ---
+
+![Clone](https://static.wikia.nocookie.net/forgottenrealms/images/d/de/Clone_%28spell%29.png/revision/latest?cb=20260110222510)

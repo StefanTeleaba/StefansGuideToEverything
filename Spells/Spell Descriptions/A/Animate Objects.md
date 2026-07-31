@@ -13,4 +13,6 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 ***Using a Higher-Level Spell Slot.*** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
+![Animate Objects](https://5e.tools/img/spells/XPHB/Animate%20Objects.webp)
+
 ---

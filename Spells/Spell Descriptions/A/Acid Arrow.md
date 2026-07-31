@@ -26,4 +26,6 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ***Using a Higher-Level Spell Slot.*** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 
+![Acid Arrow](https://5e.tools/img/spells/XPHB/Melf's%20Acid%20Arrow.webp)
+
 ---

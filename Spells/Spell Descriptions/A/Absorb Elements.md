@@ -12,3 +12,5 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 
 ---
+
+![Absorb Elements](https://static.wikia.nocookie.net/forgottenrealms/images/9/95/Absorb_elements-5e.jpg/revision/latest?cb=20190715040158&format=original)

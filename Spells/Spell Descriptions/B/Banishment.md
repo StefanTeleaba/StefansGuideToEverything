@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.245*
+*Player's Handbook 5.5e p.245*
 # Banishment
 *Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 
@@ -13,3 +13,5 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
 ---
+
+![Banishment](https://static.wikia.nocookie.net/forgottenrealms/images/3/3d/Banishment.jpg/revision/latest?cb=20220816110437)

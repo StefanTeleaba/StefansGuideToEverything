@@ -12,4 +12,6 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of aci
 
 ***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.
 
+![Vitriolic Sphere](https://5e.tools/img/spells/XPHB/Vitriolic%20Sphere.webp)
+
 ---

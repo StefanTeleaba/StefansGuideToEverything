@@ -1,5 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.143*
-
+*Forgotten Realms: Heroes of Faerun 5.5e p.143*
 # Blade of Disaster
 *Level 9 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -14,10 +13,11 @@ As a Bonus Action on your later turns, you can move the rift up to 60 feet and r
 
 The blade can harmlessly pass through any barrier, including ones created by spells like Wall of Force.
 
+![Blade of Disaster](https://static.wikia.nocookie.net/forgottenrealms/images/8/8e/Blade_of_Disaster-5eR.webp/revision/latest?cb=20251101042930&format=original)
+
 ---
 
-*Tasha's Cauldron of Everything 5e, p.106*
-
+*Tasha's Cauldron of Everything 5e p.106*
 # Blade of Disaster
 *Level 9 Conjuration (Sorcerer, Warlock, Wizard)*
 

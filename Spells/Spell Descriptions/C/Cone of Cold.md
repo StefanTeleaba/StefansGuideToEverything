@@ -1,5 +1,4 @@
-*Player’s Handbook 5.5e, p.253*
-
+*Player’s Handbook 5.5e p.253*
 # Cone of Cold
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -11,5 +10,10 @@
 You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
+
+![Cone of Cold](https://5e.tools/img/spells/XPHB/Cone%20of%20Cold.webp)
+![Cone of Cold](https://static.wikia.nocookie.net/forgottenrealms/images/f/f5/Aasimar_Wizard.png/revision/latest/scale-to-width-down/800?cb=20250514142033)
+![Cone of Cold](https://static.wikia.nocookie.net/forgottenrealms/images/c/c2/Cone_of_cold_CLB.jpg/revision/latest?cb=20220523232742)
+
 
 ---

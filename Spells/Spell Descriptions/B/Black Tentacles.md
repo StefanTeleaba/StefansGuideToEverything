@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Black Tentacles
 *Level 4 Conjuration (Wizard)*
 
@@ -16,11 +15,9 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 ---
 
-*Player's Handbook 5.5e, p.270*
-
+*Player's Handbook 5.5e p.270*
 # Evard's Black Tentacles
 *Level 4 Conjuration (Wizard)*
-
 **Casting Time:** Action  
 **Range:** 90 feet  
 **Components:** V, S, M (a tentacle)  
@@ -30,4 +27,8 @@ Squirming, ebony tentacles fill a 20-foot square on ground that you can see with
 Each creature in that area makes a Strength saving throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the Restrained condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.  
 A Restrained creature can take an action to make a Strength (Athletics) check against your spell save DC, ending the condition on itself on a success.
 
+![Evard's Black Tentacles](https://5e.tools/img/spells/XPHB/Evard's%20Black%20Tentacles.webp)
+
 ---
+
+![Evard's Black Tentacles](https://static.wikia.nocookie.net/forgottenrealms/images/b/b8/Evards-black-tentacles-2e.png/revision/latest?cb=20190116002034)

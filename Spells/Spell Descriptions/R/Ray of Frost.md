@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e, p.311*
+*Player’s Handbook 5.5e p.311*
 # Ray of Frost
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -12,3 +12,5 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
+
+![Ray of Frost](https://static.wikia.nocookie.net/forgottenrealms/images/d/d5/Ray_of_frost.jpeg/revision/latest?cb=20210701154443&format=original)

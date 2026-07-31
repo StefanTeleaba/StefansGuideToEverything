@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.338*
-
+*Player's Handbook 5.5e p.338*
 # Wall of Fire
 *Level 4 Evocation (Cleric, Paladin, Warlock, Wizard)*
 
@@ -15,3 +14,5 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
 
 ---
+
+![Wall of Fire](https://static.wikia.nocookie.net/forgottenrealms/images/7/73/Wall_of_fire-5e.jpg/revision/latest?cb=20191103030539&format=original)

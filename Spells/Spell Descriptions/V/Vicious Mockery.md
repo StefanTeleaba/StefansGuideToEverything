@@ -11,4 +11,6 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
+![Vicious Mockery](https://5e.tools/img/spells/XPHB/Vicious%20Mockery.webp)
+
 ---

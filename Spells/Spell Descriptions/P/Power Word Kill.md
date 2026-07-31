@@ -1,5 +1,4 @@
-*Player’s Handbook 5.5e, p.306*
-
+*Player’s Handbook 5.5e p.306*
 # Power Word Kill
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -11,3 +10,5 @@
 You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 
 ---
+
+![Power Word Kill](https://static.wikia.nocookie.net/forgottenrealms/images/1/10/Power_word_kill_GDY.jpeg/revision/latest?cb=20230427104640&format=original)

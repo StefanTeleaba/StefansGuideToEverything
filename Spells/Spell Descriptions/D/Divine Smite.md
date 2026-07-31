@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.265*
-
+*Player's Handbook 5.5e p.265*
 # Divine Smite
 *Level 1 Evocation (Paladin)*
 
@@ -11,5 +10,7 @@
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
+
+![Divine Smite](https://5e.tools/img/spells/XPHB/Divine%20Smite.webp)
 
 ---

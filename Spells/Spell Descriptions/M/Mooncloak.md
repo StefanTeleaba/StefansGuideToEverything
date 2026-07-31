@@ -1,5 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.142*
-
+*Forgotten Realms: Heroes of Faerun 5.5e p.142*
 # Alustriel's Mooncloak
 *Level 5 Abjuration (Bard, Druid, Ranger, Wizard)*
 
@@ -12,5 +11,7 @@ For the duration, moonlight fills a 20-foot Emanation originating from you with 
 While the spell lasts, you can use one of the following options, ending the spell immediately:  
 **Liberation.** When you fail a saving throw to avoid or end the Frightened, Grappled, or Restrained condition, you can take a Reaction to succeed on the save instead.  
 **Respite.** As a Magic action, you or an ally within the area regains Hit Points equal to 4d10 plus your spellcasting ability modifier.
+
+![Alustriel's Mooncloak](https://5e.tools/img/spells/FRHoF/Alustriel's%20Mooncloak.webp)
 
 ---

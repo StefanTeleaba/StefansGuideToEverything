@@ -1,5 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.144*
-
+*Forgotten Realms: Heroes of Faerun 5.5e p.144*
 # Elminster's Effulgent Spheres
 *Level 6 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -15,5 +14,7 @@ While the spheres are present, you can expend spheres to create the following ef
 The spell ends early if you have no more spheres remaining.
 
 ***Using a Higher-Level Spell Slot.*** The number of spheres increases by 1 for every spell slot level above 6.
+
+![Elminster's Effulgent Spheres](https://5e.tools/img/spells/FRHoF/Elminster's%20Effulgent%20Spheres.webp)
 
 ---
