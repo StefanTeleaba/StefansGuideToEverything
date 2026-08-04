@@ -1,6 +1,5 @@
-# Path of the Sharpened Mind
 [*Created by CamunonZ*](https://bio.site/spaghetti0)
-
+# Path of the Sharpened Mind
 While no less angry than their traditional counterparts, a barbarian of this path connects with their wrath in a different way, letting it fuel their intellect instead of obfuscating it.
 Rather than wild brutes, they are a breed of cunning, calculative warriors; with a mental strength and force of will that come second to none.
 

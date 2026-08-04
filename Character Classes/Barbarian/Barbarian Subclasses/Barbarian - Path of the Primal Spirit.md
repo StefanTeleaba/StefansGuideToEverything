@@ -1,6 +1,5 @@
-# Path of the Primal Spirit
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Path of the Primal Spirit
 *Rage Alongside a Bestial Spirit*  
 Many Barbarians are in tune with the natural world, but few are as mystically intertwined with it as those who walk the Path of the Primal Spirit. These Barbarians forge powerful connections with beasts and nature spirits, inspiring such ethereal beings to manifest and journey on far-flung adventures.  
 Barbarians who follow this path have a deep reverence for the cycle of the natural world. Such Barbarians are as likely to accept quests and pleas for aid from local wildlife as they are from people. This respect for animals and spirits doesn't cross into naivety—few understand the delicate balance between the needs of predator and prey better than those who walk the Path of the Primal Spirit.

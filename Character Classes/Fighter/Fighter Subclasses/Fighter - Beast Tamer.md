@@ -1,6 +1,5 @@
 *Homebrew*
 # Beast Tamer
-
 *Fight Alongside a Bestial Spirit*  
 A Beast Tamer forges powerful connections with beasts and nature spirits, inspiring such ethereal beings to manifest and journey on far-flung adventures.
 

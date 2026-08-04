@@ -1,8 +1,6 @@
-# Path of the Spell Scorned
 *Cthulhu by Torchlight 5.5e*
-
-*“My magic? It's the magic of stabbing things in the face. Works well in my experience.” — Oreg the Slayer*
-
+# Path of the Spell Scorned
+*“My magic? It's the magic of stabbing things in the face. Works well in my experience.” — Oreg the Slayer*  
 *The Path of the Spell Scorned awakens a mote of antimagic within the soul of its adherents. These elite warriors steel themselves against magical effects. Some are specially trained bodyguards, tasked with protecting the elite mages of arcane academies or the high priests of religious orders. Others are demon hunters, their resistance allowing them to overcome the foul magic that strikes down lesser warriors.*
 
 ## Level 3: Instinctual Divination

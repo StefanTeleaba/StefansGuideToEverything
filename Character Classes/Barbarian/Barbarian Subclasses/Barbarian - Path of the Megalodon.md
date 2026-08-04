@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by Sax*](https://bio.site/spaghetti0)
-
 # Path of the Megalodon
 *Channel the Hunger of the Ancient Deep*  
 Barbarians who follow the Path of the Megalodon become relentless hunters, driven by the scent of blood and the promise of the kill. Once their prey begins to falter, escape becomes all but impossible.

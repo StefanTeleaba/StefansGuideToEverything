@@ -1,9 +1,7 @@
-# Scribe
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Scribe
 Magic of the book—that’s what many folk call wizardry. The name is apt, given how much time Wizards spend poring over tomes and penning theories about the nature of magic. It’s rare to see Wizards traveling without books and scrolls sprouting from their bags, and a Wizard would go to great lengths to plumb an archive of ancient knowledge.  
 Among Wizards, Arcane Scribes are the most bookish. While Arcane Scribes take many forms, their mission is consistent: recording magical discoveries so that wizardry can flourish. And while all Wizards value spellbooks, Scribes magically awaken their books, turning it into a trusted companion. All Wizards study books, but a wizardly scribe talks to theirs!
 

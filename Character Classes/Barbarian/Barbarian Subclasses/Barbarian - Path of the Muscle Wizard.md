@@ -1,8 +1,6 @@
-# Path of the Muscle Wizard
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
-*Be a Buff, Angry "Wizard"*
-
+# Path of the Muscle Wizard
+*Be a Buff, Angry "Wizard"*  
 *You're a wizard! Perhaps you went to wizarding school on a football scholarship or just picked up a book at the gym and started reading. No matter how you got here, you're a wizard, one that just coincidentally has massive, rippling muscles. You have the big dumb hat and the book filled with gibberish and everything!*  
 *You gently remind others, often by beating them to a pulp and cracking their bones, that your magical powers shouldn't be questioned. You're a good wizard—the best one, even! And only a fool would say otherwise.*
 
