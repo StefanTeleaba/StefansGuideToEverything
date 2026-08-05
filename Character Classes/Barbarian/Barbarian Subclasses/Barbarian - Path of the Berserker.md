@@ -19,3 +19,5 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 ![Path of the Berserker](https://5e.tools/img/classes/XPHB/Berserker%20Barbarian.webp)
 
 ---
+
+![Berserker](https://5e.tools/img/book/FRHoF/002-00-003.karlach.webp)

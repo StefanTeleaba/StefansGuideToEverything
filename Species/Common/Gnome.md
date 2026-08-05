@@ -19,3 +19,5 @@ As a Gnome, you have these special traits.
 ![Gnome](https://5e.tools/img/races/XPHB/Gnome.webp)
 
 ---
+
+![Gnome](https://5e.tools/img/book/FRHoF/006-01-004.gnome-with-rat.webp)

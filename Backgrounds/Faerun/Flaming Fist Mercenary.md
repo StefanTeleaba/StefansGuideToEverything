@@ -9,5 +9,7 @@ The chief law enforcement branch of Baldur's Gate is the Flaming Fist, a brawny 
 **Equipment:** Choose A or B: (A) Mace, Smith's Tools, Fine Clothes, Manacles, Portable Ram, 4 GP; or (B) 50 GP
 
 ![Flaming Fist Mercenary](https://5e.tools/img/backgrounds/FRHoF/Flaming%20Fist%20Mercenary.webp)
+![Flaming Fist Mercenary](https://5e.tools/img/book/FRHoF/178-06-027.flaming-fist-mercenary-fights.webp)
+*A Flaming Fist mercenary fights off devil worshipers in Baldur's Gate.*  
 
 ---

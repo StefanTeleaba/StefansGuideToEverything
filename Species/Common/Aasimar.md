@@ -24,3 +24,15 @@ Here are the transformation options:
 ![Aasimar](https://5e.tools/img/races/XPHB/Aasimar.webp)
 
 ---
+
+*Forgotten Realms: Heroes of Faerun*
+# Aasimar
+Aasimar are among the rarest of Humanoid species in Faerûn. Although born to parents throughout the Forgotten Realms, aasimar are so unusual that no realm, city, or town is made up primarily of aasimar. Instead, individual aasimar grow up within the society and culture of their parents, and their outlook is shaped by the tension between that culture and the aasimar's connection to the Upper Planes.  
+**Fish out of Water**  
+In much of the Realms, an aasimar often feels like an outsider. When aasimar are children, their celestial nature easily goes unnoticed or is hidden by concerned family members. But eventually that nature becomes impossible to conceal. This is a dangerous time for aasimar, for Shar and other evil deities—and their worshipers—prey on innocent aasimar ignorant of their true nature and full power.  
+Throughout an aasimar's life, they frequently receive visions, prophetic dreams, or powerful feelings that hint at their destiny. Sometimes these prophetic instincts are sent by the aasimar's angelic ancestor, but they can just as easily be uncontrolled manifestations of celestial power.  
+**Celestial Patrons**  
+Many aasimar are found or adopted by followers of a good deity, such as angels or animal lords—or even by a good deity themself. Their connection to this celestial being informs the aasimar's life separate from the culture into which they were born. Corellon, Eilistraee, Lliira, Milil, and Selûne are frequently patrons of aasimar.  
+In the Old Empires, where gods and demigods rule openly, aasimars are more common. The current generation of aasimar often trace their lineage to a mortal specially chosen to serve a good deity. Many aasimar wander the realms, eventually gravitating to a great city such as Waterdeep, Baldur's Gate, or Calimshan, where their unusual nature isn't particularly remarkable.
+
+---

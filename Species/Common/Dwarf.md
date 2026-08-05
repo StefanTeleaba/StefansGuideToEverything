@@ -20,3 +20,5 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 ![Dwarf](https://5e.tools/img/races/XPHB/Dwarf.webp)
 
 ---
+
+![Dwarf](https://5e.tools/img/book/FRHoF/005-01-003.dwarf.webp)

@@ -33,3 +33,5 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 ![Elf](https://5e.tools/img/races/XPHB/Elf.webp)
 
 ---
+
+![Elf](https://5e.tools/img/book/FRHoF/008-01-006.elf.webp)

@@ -9,5 +9,7 @@ Maybe you needed the money. Maybe you longed for a family, no matter how dubious
 **Equipment:** Choose A or B: (A) Club, Dagger, Forgery Kit, Fine Clothes, Hooded Lantern, Oil (3 flasks), 2 Pouches, String, Tinderbox, 11 GP; or (B) 50 GP
 
 ![Zhentarim Mercenary](https://5e.tools/img/backgrounds/FRHoF/Zhentarim%20Mercenary.webp)
+![Zhentarim](https://5e.tools/img/book/FRHoF/174-06-023.zhentarim.webp)
+![Zhentarim](https://5e.tools/img/book/FRHoF/175-06-024.zhentarim-items.webp)
 
 ---

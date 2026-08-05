@@ -31,3 +31,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 ![Tiefling](https://5e.tools/img/races/XPHB/Tiefling.webp)
 
 ---
+
+*Forgotten Realms: Adventures in Faerun*  
+![Tiefling](https://5e.tools/img/book/FRAiF/073-02-020.forest-of-cormanthor.webp)
+*The forest of Cormanthor is filled with peril.*

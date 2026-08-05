@@ -9,5 +9,8 @@ As a Caretaker with the Emerald Enclave, you take care of those who care for the
 **Equipment:** Choose A or B: (A) Shortbow, 20 Arrows, Herbalism Kit, Bedroll, Blanket, Pouch, Tent, Traveler's Clothes, 13 GP; or (B) 50 GP
 
 ![Emerald Enclave Caretaker](https://5e.tools/img/backgrounds/FRHoF/Emerald%20Enclave%20Caretaker.webp)
+![Emerald Enclave](https://5e.tools/img/book/FRHoF/156-06-005.emerald-enclave.webp)
+![From left to right: Circle of Air, Circle of the Ancients, Circle of the Giants, Circle of the Land, Circle of the Moon, Circle of Wildfire](https://5e.tools/img/book/FRHoF/157-06-006.enclave-circles.webp)
+*From left to right: Circle of Air, Circle of the Ancients, Circle of the Giants, Circle of the Land, Circle of the Moon, Circle of Wildfire*
 
 ---

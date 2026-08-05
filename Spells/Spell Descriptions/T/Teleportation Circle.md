@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.332*
-
+*Player's Handbook 5.5e p.332*
 # Teleportation Circle
 *Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -14,3 +13,5 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
 ---
+
+![Teleportation Circle](https://static.wikia.nocookie.net/forgottenrealms/images/e/e7/Teleportation_Circle.jpg/revision/latest/scale-to-width-down/768?cb=20211125123549)

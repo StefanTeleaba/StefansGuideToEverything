@@ -9,5 +9,7 @@ Not all who answer the call of a higher power are content to pore over scripture
 **Equipment:** Choose A or B: (A) Spear, Smith's Tools, Bullseye Lantern, Holy Symbol, Manacles, Oil (5 flasks), Tinderbox, Traveler's Clothes, 9 GP; or (B) 50 GP
 
 ![Knight of the Gauntlet](https://5e.tools/img/backgrounds/FRHoF/Knight%20of%20the%20Gauntlet.webp)
+![Order of the Gauntler](https://5e.tools/img/book/FRHoF/165-06-014.order-of-the-gauntlet.webp)
+![Order of the Gauntler](https://5e.tools/img/book/FRHoF/166-06-015.order-of-the-guantlet-items.webp)
 
 ---

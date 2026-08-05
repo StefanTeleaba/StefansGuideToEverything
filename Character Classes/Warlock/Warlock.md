@@ -176,3 +176,6 @@ You can cast Speak with Dead without expending a spell slot.
 **Witch Sight**  
 *Prerequisite: Level 15+ Warlock*  
 You have Truesight with a range of 30 feet.
+
+![Warlock](https://5e.tools/img/book/XPHB/177-07-003.arcane-focus.webp)  
+*A Warlock channels magic through an Arcane Focus*  

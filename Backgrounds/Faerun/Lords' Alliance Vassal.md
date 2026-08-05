@@ -9,5 +9,8 @@ You've pledged your loyalty to a member-city of the Lords' Alliance. As an Allia
 **Equipment:** Choose A or B: (A) 2 Javelins, Calligrapher's Supplies, Fine Clothes, Ink, 5 Ink Pens, Parchment (9 sheets), 13 GP; or (B) 50 GP
 
 ![Lords' Alliance Vassal](https://5e.tools/img/backgrounds/FRHoF/Lords'%20Alliance%20Vassal.webp)
+![Lord's Alliance](https://5e.tools/img/book/FRHoF/162-06-011.lords-alliance.webp)
+![From Left to Right: Amphail, Baldur's Gate, Daggerford, Longsaddle, Mirabar, Mithral Hall, Neverwinter, Silverymoon, Waterdeep, Yartar](https://5e.tools/img/book/FRHoF/163-06-012.coat-of-arms.webp)
+*From Left to Right: Amphail, Baldur's Gate, Daggerford, Longsaddle, Mirabar, Mithral Hall, Neverwinter, Silverymoon, Waterdeep, Yartar*  
 
 ---

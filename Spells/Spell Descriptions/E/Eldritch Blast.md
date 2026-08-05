@@ -12,3 +12,9 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 ***Cantrip Upgrade.*** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
+
+*Forgotten Realms: Adventures in Faerun*  
+![Tiefling](https://5e.tools/img/book/FRAiF/073-02-020.forest-of-cormanthor.webp)  
+*The forest of Cormanthor is filled with peril.*
+
+---

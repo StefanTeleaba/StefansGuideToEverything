@@ -17,3 +17,6 @@ As a Human, you have these special traits.
 ![Human](https://5e.tools/img/races/XPHB/Human.webp)
 
 ---
+
+*Forgotten Realms: Heroes of Faerun*  
+![Human](https://5e.tools/img/book/FRHoF/004-01-002.characters.webp)

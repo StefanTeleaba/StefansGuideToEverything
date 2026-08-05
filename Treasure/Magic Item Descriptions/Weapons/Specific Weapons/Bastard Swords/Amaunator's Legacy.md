@@ -1,3 +1,4 @@
+*Homebrew*
 # Amaunator's Legacy
 *Weapon (Bastard Sword), Rare*
 
@@ -10,7 +11,7 @@ As a Magic action, you can launch a sunbeam in a 5-foot-wide, 60-foot-long Line.
 ---
 
 *Icewind Dale: Heart of Winter*
-
+# Amaunator's Legacy
 *This shiny brass sword is extremely old, dating back at least three thousand years before Dale Reckoning. It was created by a Netherese archmage named Pouldinus as a gift to a warrior friend. This friend, Kalamnin, was a strict devotee of Amaunator, a harsh, unforgiving god now almost forgotten by sages. Amaunator was the god of law and the god of the sun. He required his servants to follow his edicts exactly. Kalamnin did his best to observe Amaunator's laws in his travels. The blade was lost when Kalamnin was killed in battle by dozens of nycadaemons. The sorcerer who summoned the creatures, Ylmandi, kept the blade in his family until the fall of Netheril.*
 
 ---

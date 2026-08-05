@@ -7,6 +7,8 @@ As a Kobold, you have these special traits.
 ***Darkvision.*** You have Darkvision with a range of 60 feet.  
 ***Pack Tactics.*** You have Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
+![Kobold](https://5e.tools/img/book/XDMG/056-03-008.kobold-hold.webp)
+
 ---
 
 *Mordenkainen Presents: Monsters of the Multiverse 5e p.25*

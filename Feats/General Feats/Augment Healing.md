@@ -3,7 +3,7 @@
 *General Feat (Prerequisites: Level 4+; Spellcasting or Pact Magic Feature; Intelligence, Wisdom, or Charisma 13+)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.  
-***Augmented Healing.*** When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal twice the spell slot's level.
+***Augmented Healing.*** When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal twice the spell slot's level.  
 ***Divine Healer.*** You always have the *Cure Wounds* spell prepared, and you can cast it as a Bonus Action. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
 ---

@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.331*
-
+*Player's Handbook 5.5e p.331*
 # Teleport
 *Level 7 Conjuration (Sorcerer, Wizard)*
 
@@ -12,15 +11,14 @@ This spell instantly transports you and up to eight willing creatures that you c
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.  
 
 **Teleportation Outcome**
-| **Familiarity**          | **Mishap** | **Similar Area** | **Off Target** | **On Target** |
-|--------------------------|------------|------------------|----------------|---------------|
-| Permanent circle         | —          | —                | —              | 01-00         |
-| Linked object            | —          | —                | —              | 01-00         |
-| Very familiar            | 01-05      | 06-13            | 14-24          | 25-00         |
-| Seen casually            | 01-33      | 34-43            | 44-53          | 54-00         |
-| Viewed once or described | 01-43      | 44-53            | 54-73          | 74-00         |
-| False destination        | 01-50      | 51-00            | —              | —             |
-
+| Familiarity              | Mishap | Similar Area | Off Target | On Target |
+|--------------------------|--------|--------------|------------|-----------|
+| Permanent circle         | —      | —            | —          | 01-00     |
+| Linked object            | —      | —            | —          | 01-00     |
+| Very familiar            | 01-05  | 06-13        | 14-24      | 25-00     |
+| Seen casually            | 01-33  | 34-43        | 44-53      | 54-00     |
+| Viewed once or described | 01-43  | 44-53        | 54-73      | 74-00     |
+| False destination        | 01-50  | 51-00        | —          | —         |
 
 ***Familiarity.*** Here are the meanings of the terms in the table's Familiarity column:
 - "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.

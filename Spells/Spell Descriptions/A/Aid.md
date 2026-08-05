@@ -17,7 +17,7 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 
 ---
 
-*Player's Handbook 5.5e, p.239*
+*Player's Handbook 5.5e p.239*
 # Aid
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 

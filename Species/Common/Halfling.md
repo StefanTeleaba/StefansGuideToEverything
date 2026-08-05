@@ -20,3 +20,5 @@ As a Halfling, you have these special traits.
 ![Halfling](https://5e.tools/img/races/XPHB/Halfling.webp)
 
 ---
+
+![Halfling](https://5e.tools/img/book/FRHoF/007-01-005.dog-and-halfling-in-armor.webp)
