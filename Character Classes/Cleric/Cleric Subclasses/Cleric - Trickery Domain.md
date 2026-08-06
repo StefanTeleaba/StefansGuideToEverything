@@ -1,15 +1,15 @@
+*Player's Handbook 5.5e p.75*
 # Trickery Domain
-*Player's Handbook 5.5e*  
-
 *Make Mischief and Challenge Authority*  
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.  
 Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
 ## Level 3: Trickery Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
-### Trickery Domain Spells
+
+**Trickery Domain Spells**
 | Cleric Level | Prepared Spells                                               |
-|--------------|---------------------------------------------------------------|
+|:------------:|---------------------------------------------------------------|
 | 3rd          | Charm Person, Disguise Self, Invisibility, Pass without Trace |
 | 5th          | Hypnotic Pattern, Nondetection                                |
 | 7th          | Confusion, Dimension Door                                     |

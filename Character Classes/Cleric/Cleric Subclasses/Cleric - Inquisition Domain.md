@@ -1,6 +1,5 @@
-# Inquisition Domain
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Inquisition Domain
 *Cleanse the Heretics*  
 The Inquisition Domain reflects the order of the multiverse and the rejection of tainted magic—so far as certain celestial powers see it. Only the divine casters are pure and fit for use.  
 Since arcane magic is strong enough to challenge the gods, divine beings of this domain, such as the Arch Seraph Empyreus, demand magic-using mortals be kept in check. Most zealots root out all arcanists, while some strike fragile truces when complete removal isn't feasible.

@@ -1,38 +1,38 @@
+*Player's Handbook 5.5e p.84*
 # Circle of the Land
-*Player's Handbook 5.5e*  
-
 *Celebrate Connection to the Natural World*  
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
 
 ## Level 3: Circle of the Land Spells
 Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
-### Arid Land
+
+**Arid Land**
 | Druid Level | Circle Spells                  |
-|-------------|--------------------------------|
+|:-----------:|--------------------------------|
 | 3rd         | Blur, Burning Hands, Fire Bolt |
 | 5th         | Fireball                       |
 | 7th         | Blight                         |
 | 9th         | Wall of Stone                  |
 
-### Polar Land
+**Polar Land**
 | Druid Level | Circle Spells                        |
-|-------------|--------------------------------------|
+|:-----------:|--------------------------------------|
 | 3rd         | Fog Cloud, Hold Person, Ray of Frost |
 | 5th         | Sleet Storm                          |
 | 7th         | Ice Storm                            |
 | 9th         | Cone of Cold                         |
 
-### Temperate Land
+**Temperate Land**
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+|:-----------:|-----------------------------------|
 | 3rd         | Misty Step, Shocking Grasp, Sleep |
 | 5th         | Lightning Bolt                    |
 | 7th         | Freedom of Movement               |
 | 9th         | Tree Stride                       |
 
-### Tropical Land
+**Tropical Land**
 | Druid Level | Circle Spells                     |
-|-------------|-----------------------------------|
+|:-----------:|-----------------------------------|
 | 3rd         | Acid Splash, Ray of Sickness, Web |
 | 5th         | Stinking Cloud                    |
 | 7th         | Polymorph                         |
@@ -48,7 +48,8 @@ In addition, when you finish a Short Rest, you can choose expended spell slots t
 
 ## Level 10: Nature's Ward
 You are immune to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
-### Nature's Ward
+
+**Nature's Ward**
 | Land Type | Resistance |
 |-----------|------------|
 | Arid      | Fire       |

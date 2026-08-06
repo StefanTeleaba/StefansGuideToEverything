@@ -1,9 +1,12 @@
+*Homebrew*
 # Extra Bardic Inspiration
-*Class Feat (Prerequisite: Level 4+, Bardic Inspiration Feature)*
-
+*Class Feat (Prerequisite: Level 4+, Bardic Inspiration Feature)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Charisma score by 1, to a maximum of 20.  
 ***Extra Bardic Inspiration.*** You gain 2 more uses of your Bardic Inspiration feature.  
 ***Repeatable.*** You can take this feat more than once.
 
-**Source:** *Complete Adventurer 3.5e, p.109*
+---
+
+*Complete Adventurer 3.5e p.109*
+# Extra Bardic Inspiration

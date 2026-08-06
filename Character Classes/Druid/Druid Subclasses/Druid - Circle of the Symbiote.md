@@ -1,8 +1,6 @@
-# Circle of the Symbiote
 *Cthulhu by Torchlight 5.5e*
-
-*“Steel and magic come and go. Nature abides.” — Lerex the Justifier*
-
+# Circle of the Symbiote
+*“Steel and magic come and go. Nature abides.” — Lerex the Justifier*  
 *Druids typically view themselves as caretakers of the natural world, using their magic to maintain the wild realms. Druids of the Circle of the Symbiote take this a step further. They become part of nature, allowing plants to take root in their flesh and become an integral part of their being.*  
 *Druids of this circle are sometimes seen as extremists by their brethren. They treat plants and animals as equals, seeing intelligent creatures as no more worthy of respect or protection than other living things. At their most extreme, these Druids wage war against civilization, calling on fang and vine to topple those who would invade the natural world and subvert it.*  
 *These Druids, owing to their close bonds to the natural world, are drawn to face the horrid invaders of the Cthulhu Mythos. They see themselves as the wild's first line of defense against these abominations.*
@@ -19,7 +17,8 @@
 
 ## Level 3: Circle of the Symbiote Spells
 When you reach a Druid level specified in the Circle of the Symbiote Spells table, you thereafter always have the listed spells prepared.  
-### Circle of the Symbiote Spells
+
+**Circle of the Symbiote Spells**
 | Druid Level | Circle Spells                |
 |:-----------:|------------------------------|
 | 3           | Barkskin, Entangle, Guidance |

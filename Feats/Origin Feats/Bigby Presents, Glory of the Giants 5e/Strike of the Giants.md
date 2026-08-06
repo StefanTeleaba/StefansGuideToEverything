@@ -1,8 +1,6 @@
-*Bigby Presents: Glory of the Giants 5e, p.19*
-
+*Bigby Presents: Glory of the Giants 5e, p.19*  
 # Strike of the Giants
-*Origin Feat*
-
+*Origin Feat*  
 You have absorbed primeval magic that gives you an echo of the might of giants. When you take this feat, choose one of the benefits listed below. Once per turn, when you hit a target with a melee weapon attack or a ranged weapon attack using a thrown weapon, you can imbue the attack with an additional effect depending on the benefit you chose:
 
 **Cloud Strike.** The target takes an extra 1d4 Thunder damage. If the target is a creature, it must succeed on a Wisdom saving throw, or you become invisible to it until the start of your next turn or until immediately after you make an attack roll or cast a spell.

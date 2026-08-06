@@ -1,3 +1,5 @@
+*Unearthed Arcana - Villainous Options*  
+*This subclass was published on April 2nd, 2026.*
 # Path of the Death Knight
 Death knights are dastards, deserters, and disgraced champions, undead warriors who march toward perdition to fulfill selfish desires and slake their bloodthirst. A death knight’s martial prowess is inextricably tied to their evil nature, but their heinous deeds extend far beyond the battlefield.
 
@@ -21,6 +23,3 @@ Notable death knights across the multiverse include the following:
 **Olanthius**, former general of the angel Zariel who became a death knight after Zariel’s fall from grace  
 **Saint Kargoth**, favored servant of the demon lord Demogorgon and Greyhawk’s first death knight  
 While most death knights refuse to atone for the acts that made them, it’s possible for a death knight to repent and end their curse. Such was the fate of Lord Vanrak Moonstar of Waterdeep, who repented to Selûne for betraying her in favor of her nemesis, Shar. For more on death knights, see the Monster Manual.
-
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*

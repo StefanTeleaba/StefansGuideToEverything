@@ -1,8 +1,6 @@
-# Apocalypse Domain
 *Cthulhu by Torchlight 5.5e*
-
-*“Some say the world ends in fire. Others, ice. I'm ready for both.” — Endara, Doom's Daughter*
-
+# Apocalypse Domain
+*“Some say the world ends in fire. Others, ice. I'm ready for both.” — Endara, Doom's Daughter*  
 *Few gods embrace the Apocalypse Domain, yet in times of war, disease, or social upheaval, its Clerics appear at the head of grim cults that proclaim the world's imminent demise. Devotes of the Apocalypse Domain are usually apostates and heretics cast from religious orders for their fanatical conviction to the end of all things.*  
 *The exact origin of their divine power confounds the elders of established religions. Sometimes, these Clerics derive their powers from the gods of fate, doom, or change. More often, though, they seem to draw their power from the collective gloom of a population facing disaster. Perhaps the world's demise is truly imminent, and these visionaries have found some way to tap into the apocalypse as it grows near.*
 

@@ -1,9 +1,11 @@
+*Homebrew*
 # Head Shot
-*Rogue Feat (Prerequisite: Level 8+, Cunning Strike Feature)*
-
+*Rogue Feat (Prerequisite: Level 8+, Cunning Strike Feature)*  
+You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Dexterity by 1, to a maximum of 20.  
 You gain the following *Cunning Strike* option.  
 ***Head Shot (Cost: 2d6).*** The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.
 
 ---
+
 *Complete Scoundrel 3.5e, p.77*

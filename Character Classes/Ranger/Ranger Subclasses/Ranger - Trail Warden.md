@@ -1,8 +1,6 @@
-# Trail Warden
 *Cthulhu by Torchlight 5.5e*
-
-*“Wanting to become a hero is a noble aim, but no one remembers the guy who died of dysentery on his way to the dungeon.” — Hilda Farwander*
-
+# Trail Warden
+*“Wanting to become a hero is a noble aim, but no one remembers the guy who died of dysentery on his way to the dungeon.” — Hilda Farwander*  
 *Trail wardens are Rangers who have taken an oath. When they lead others into the wilderness, they swear to bring them back safe and sound, but they aren't mere bodyguards or tour guides. Trail Wardens only lead those they deem capable of providing the skills and abilities needed to endure the horrid monsters and grinding conditions of an expedition. Far from civilization's protective grasp, there is no room for dead weight. A single mistake can cost the lives of an entire party.*  
 *Trail Wardens are known for their harsh attitude toward others. Some Trail Wardens believe that they must bring the realities of the wilderness into civilization to prevent the careless from joining their expeditions and endangering the group. But once in the wilds, they become nurturing, protective, and insightful as they guide their charges safely through dangerous territory.*
 

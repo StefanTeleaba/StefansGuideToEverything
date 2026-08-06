@@ -1,15 +1,15 @@
+*Player's Handbook 5.5e p.73*
 # Life Domain
-*Player's Handbook 5.5e*  
-
 *Soothe the Hurts of the World*  
 The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.  
 Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.
 
 ## Level 3: Life Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
-### Life Domain Spells
+
+**Life Domain Spells**
 | Cleric Level | Prepared Spells                             |
-|--------------|---------------------------------------------|
+|:------------:|---------------------------------------------|
 | 3rd          | Aid, Bless, Cure Wounds, Lesser Restoration |
 | 5th          | Mass Healing Word, Revivify                 |
 | 7th          | Aura of Life, Death Ward                    |

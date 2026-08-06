@@ -1,7 +1,6 @@
 *D&D Beyond Drops - July 2026*
 # Pack Fighting
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
-
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 When you make a melee attack with a weapon or an Unarmed Strike against a creature, you gain a +1 bonus to the damage roll if at least one of your allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. If at least one ally within 5 feet of the creature also has this feat and doesn’t have the Incapacitated condition, this bonus increases to +2.
 
 ---

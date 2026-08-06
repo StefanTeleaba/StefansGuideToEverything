@@ -1,8 +1,6 @@
 *Bigby Presents: Glory of the Giants 5e, p.17*
-
 # Fury of the Frost Giant
-*General Feat (Prerequisite: Level 4+, Strike of the Giants (Frost Strike) Feat)*
-
+*General Feat (Prerequisite: Level 4+, Strike of the Giants (Frost Strike) Feat)*  
 You've manifested the icy might emblematic of frost giants, granting you the following benefits:  
 ***Ability Score Increase.*** Increase your Strength, Constitution, or Wisdom by 1, to a maximum of 20.  
 ***Born of Ice.*** You have resistance to cold damage.  

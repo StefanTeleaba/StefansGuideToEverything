@@ -1,5 +1,4 @@
 *Ravenloft: The Horrors Within 5.5e, p.*
-
 # College of Spirits
 *Call Forth Spirits from Beyond the Grave*
 Bards of the College of Spirits conjure legendary spirits to change the world. But such entities are capricious, and what a Bard summons isn’t always entirely under their control.

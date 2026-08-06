@@ -1,8 +1,6 @@
 *Bigby Presents: Glory of the Giants 5e, p.18*
-
 # Keenness of the Stone Giant
-*General Feat (Prerequisite: Level 4+, Strike of the Giants (Stone Strike) Feat)*
-
+*General Feat (Prerequisite: Level 4+, Strike of the Giants (Stone Strike) Feat)*  
 You've manifested the physical talents emblematic of stone giants, granting you the following benefits:  
 ***Ability Score Increase.*** Increase your Strength, Constitution, or Wisdom by 1, to a maximum of 20.  
 ***Cavernous Sight.*** You gain darkvision with a range of 60 feet. If you already have darkvision from another source, its range increases by 60 feet.  

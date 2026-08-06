@@ -1,7 +1,6 @@
-#  Celebration Domain
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*  
-
+*v1.1*
+#  Celebration Domain
 *Celebrate your Allies’ Accomplishments*  
 Celebrations may not be essential for survival, but they are paramount to living: this is the ethos carried by clerics of the Celebration Domain and the deities they worship. Clerics of this domain are renowned for their exuberant parties and banquets, which are open to all that wish to celebrate. They are also infamous for an abundance of holy days throughout the calendar year, supplying them ample opportunities to be festive.
 

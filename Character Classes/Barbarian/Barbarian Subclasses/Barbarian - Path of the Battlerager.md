@@ -26,3 +26,30 @@ While your Rage is active and you have one or more creatures Grappled, you can u
 Once per turn, while your Rage is active and you have one or more creatures Grappled, you can forgo one of your attacks to use the Grappled creature as a weapon, provided the creature is the same size as you or smaller and you have nothing in your hands. You choose one of the following options:  
 ***Roundhouse Sweep.*** You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a Dexterity saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 3d8 Bludgeoning damage and is pushed 10 feet away from you. The Grappled creature takes 2d8 Bludgeoning damage.  
 ***Seismic Toss.*** You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a Strength save (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 2d8 Bludgeoning damage and has the Prone condition.
+
+---
+
+*Sword Coast Adventurer's Guide 5e p.121*
+# Path of the Battlerager
+Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.  
+**Restriction: Dwarves Only**  
+Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.  
+Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms.
+
+## Level 3: Battlerager Armor
+When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.  
+While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.  
+Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
+
+## Level 6: Reckless Abandon
+Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
+
+## Level 10: Battlerager Charge
+Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.
+
+## Level 14: Spiked Retribution
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.
+
+---
+
+![Vicious Battlerager](https://static.wikia.nocookie.net/forgottenrealms/images/f/f1/Vicious_Battlerager_CLB.jpg/revision/latest/scale-to-width-down/800?cb=20220529112301)

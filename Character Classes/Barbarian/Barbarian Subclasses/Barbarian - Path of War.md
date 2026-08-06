@@ -1,6 +1,5 @@
-# Path of War
 [*Created by the_bluez*](https://bio.site/spaghetti0)
-
+# Path of War
 *Kill and loot!*  
 Instead of being a traditionally more tribal culture, or deriving your strength from esoteric or emotional sources, you come from a more ordered path of life, though still violent. You are a trained soldier, one that becomes a killing machine onto the battlefield, and that pushes others to follow their gruesome example.
 

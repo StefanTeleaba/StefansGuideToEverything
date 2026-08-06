@@ -1,9 +1,7 @@
-# Death Domain
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Death Domain
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 
 ## Level 3: Domain Spells

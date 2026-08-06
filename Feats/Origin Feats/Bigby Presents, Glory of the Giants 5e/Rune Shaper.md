@@ -1,8 +1,6 @@
 *Bigby Presents: Glory of the Giants 5e, p.18*
-
 # Rune Shaper
-*Origin Feat*
-
+*Origin Feat*  
 You've studied the magic of Giant runes, granting you the following benefits:  
 ***Comprehend Languages.*** You learn the comprehend languages spell. You can cast this spell without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using any spell slots you have.  
 ***Rune Magic.*** You know a number of runes equal to half your proficiency bonus (rounded down), chosen from the Rune Spells table. Whenever you finish a long rest, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You temporarily learn the 1st-level spells that correspond to the runes you inscribed, as specified on the Rune Spells table, and you know those spells until you finish a long rest, when the runes fade. While you are wearing or carrying any rune-marked object, you can cast the spells associated with those runes using any spell slots you have.  

@@ -1,8 +1,6 @@
 *Bigby Presents: Glory of the Giants 5e, p.17*
-
 # Ember of the Fire Giant
-*General Feat (Prerequisite: Level 4+, Strike of the Giants (Storm Strike) Feat)*
-
+*General Feat (Prerequisite: Level 4+, Strike of the Giants (Storm Strike) Feat)*  
 You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:  
 ***Ability Score Increase.*** Increase your Strength, Constitution, or Wisdom by 1, to a maximum of 20.  
 ***Born of Flame.*** You have resistance to Fire damage.  

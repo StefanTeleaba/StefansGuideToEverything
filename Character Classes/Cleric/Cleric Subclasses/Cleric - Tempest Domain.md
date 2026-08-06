@@ -1,15 +1,13 @@
-# Tempest Domain
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Tempest Domain
 Gods whose portfolios include the Tempest domain – including Talos, Umberlee, Kord, Zeboim, the Devourer, Zeus, and Thor – govern storms, sea, and, sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
 ## Level 3: Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Tempest Domain Spells table, you thereafter always have the listed spells prepared.
 
-### Tempest Domain Spells
+**Tempest Domain Spells**
 | Cleric Level | Spells                                        |
 |:------------:|-----------------------------------------------|
 | 3            | Fog Cloud, Gust of Wind, Shatter, Thunderwave |

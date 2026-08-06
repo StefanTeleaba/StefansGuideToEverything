@@ -1,7 +1,6 @@
-# Pestilence Domain
 *Unearthed Arcana - Villainous Options*  
 *This subclass was published on April 2nd, 2026.*
-
+# Pestilence Domain
 *Foment Plague and Rot*  
 Clerics of the Pestilence Domain harness supernatural plague and decay to erode their enemies’ vitality. Though common folk often regard pestilence as a force of rampant destruction, Clerics of this domain wield it with surgical precision.  
 The Pestilence Domain is associated with gods of poison, disease, famine, and rot. These deities use blighted crops, magical outbreaks, and swarms of insects and vermin to motivate or punish mortals in accordance with their doctrines. Their followers include apothecaries, doctors, poisoners, and royal tasters. Other followers might devote themselves to a god of pestilence to spare their communities or loved ones from plague.

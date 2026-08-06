@@ -1,3 +1,5 @@
+*Unearthed Arcana - Villainous Options*  
+*This subclass was published on April 2nd, 2026.*
 # Path of the Lich
 Liches are powerful spellcasters who have conquered death through the relentless pursuit of arcane power. All liches undergo a ritual that binds their soul to a spirit jar, a personal and well-protected object that allows the lich’s destroyed body to re-form as long as the object is intact.
 
@@ -22,6 +24,3 @@ While the most infamous liches in D&D represent evil incarnate, liches can vary 
 **Vlaakith the Lich-Queen**, the ironfisted leader of the githyanki  
 **Zlan**, the frozen amalgamation of the seven liches who created the Crystal Shard  
 All liches have in common their arcane prowess, their undead nature, and the sequestering of their souls. For more on liches, see the Monster Manual.
-
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*

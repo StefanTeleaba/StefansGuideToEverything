@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.88*
 # Circle of the Stars
-*Player's Handbook 5.5e*  
-
 *Harness Secrets Hidden in Constellations*  
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.
 
@@ -8,9 +7,10 @@ The Circle of the Stars has tracked heavenly patterns since time immemorial, dis
 You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.  
 While holding the map, you have the Guidance and Guiding Bolt spells prepared, and you can cast Guiding Bolt without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.  
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short or Long Rest, and it destroys the previous map.
-### Star Map
+
+**Star Map**
 | 1d6 | Map Form                                          |
-|-----|---------------------------------------------------|
+|:---:|---------------------------------------------------|
 | 1   | A scroll bearing depictions of constellations     |
 | 2   | A stone tablet with fine holes drilled through it |
 | 3   | An owlbear hide tooled with stellar symbols       |

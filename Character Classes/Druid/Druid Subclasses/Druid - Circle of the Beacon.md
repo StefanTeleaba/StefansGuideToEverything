@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by Lokhii*](https://bio.site/spaghetti0)
-
 # Circle of the Beacon
 *Serve as a Light When All Others Go Out*  
 Life in coastal cities remains distinct from that in the wilderness or other regions, but it is no less rife with primal power. At the sea’s edge, where the morning mist takes the land and the cries of seagulls and haggard sailors fill the sky, Druids of the Circle of Lanterns go about their task. Their light swells together into a well of spiritual energy, one that guides wayward sea captains home in treacherous conditions. Colloquially known as the “Circle of the Lighthouse,” these Druids wield their primal gifts to protect the innocent and downtrodden, protecting vessels from sea monsters and nautical raiders.

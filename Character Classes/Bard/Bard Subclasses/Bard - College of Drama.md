@@ -1,12 +1,10 @@
-# College of Drama
 *Cthulhu by Torchlight 5.5e*
-
+# College of Drama
 *“All the world's a stage,*  
 *And all the men and women merely players.*  
 *They have their exits and their entrances;*  
 *And one man in his time plays many parts.”*  
-*— William Shakespeare*
-
+*— William Shakespeare*  
 Bards tell tales in a variety of ways. Some sing. Some dance. But it is through art they share the sagas of ancient days. Bards of the College of Drama take a deeper approach to bringing the old stories to life. With a combination of skill and magic, they alter not only their own appearance and voice but that of an entire troupe.  
 By becoming characters from legend, these Bards inspire greatness in those who witness their performances. They rally their allies to impossible feats of perseverance, reminding their friends that the heroes of old faced worse and carried through to victory.  
 Bards who adopt this specialization are particularly adept at infiltrating evil organizations. Their magic allows their entire party to take on a role, giving the group the opportunity to blend in during a ritual or take part in a large gathering.

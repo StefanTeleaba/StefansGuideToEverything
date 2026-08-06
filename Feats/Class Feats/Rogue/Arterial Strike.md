@@ -1,12 +1,12 @@
+*Homebrew*
 # Arterial Strike
-*Rogue Feat (Prerequisite: Level 4+, Cunning Strike Feature)*
-
-*Your Sneak Attacks target large blood vessels, leaving wounds that cause massive blood loss.*
-
-***Ability Score Increase.*** Increase your Dexterity by 1, to a maximum of 20.
-
+*Rogue Feat (Prerequisite: Level 4+, Cunning Strike Feature)*  
+*Your Sneak Attacks target large blood vessels, leaving wounds that cause massive blood loss.*  
+You gain the following benefits.  
+***Ability Score Increase.*** Increase your Dexterity by 1, to a maximum of 20.  
 You gain the following *Cunning Strike* option.  
 ***Arterial Strike (Cost: 1d6).*** At the start of each of its turns for 1 minute, the target takes 1d6 damage and then makes a Constitution saving throw. On a failed save, the wound keeps bleeding. On a successful save, the wound stops bleeding.
 
 ---
+
 *Complete Warrior 3.5e, p.96*

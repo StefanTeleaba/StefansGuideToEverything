@@ -14,7 +14,7 @@ Gods associated with the Arcana Domain know the secrets and potential of magic i
 Your connection to this divine domain means you always have certain spells ready. When you reach a Cleric level specified in the Arcana Domain Spells table, you thereafter always have the listed spells prepared.  
 **Arcana Domain Spells**
 | Cleric Level | Spells                                                         |
-|--------------|----------------------------------------------------------------|
+|:------------:|----------------------------------------------------------------|
 | 3            | Detect Magic, Magic Missile, Magic Weapon, Nystul’s Magic Aura |
 | 5            | Counterspell, Dispel Magic                                     |
 | 7            | Arcane Eye, Leomund’s Secret Chest                             |

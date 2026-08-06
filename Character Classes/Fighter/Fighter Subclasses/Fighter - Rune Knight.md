@@ -44,7 +44,6 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 - While wearing or carrying an object inscribed with this Rune, you have Expertise in the Artisan’s Tools you have proficiency in.  
 - When you hit a creature with an attack using a weapon, you can invoke the Rune to summon fiery shackles: the target takes an extra 2d6 Fire damage, and it must succeed on a Strength saving throw or have the Restrained condition for 1 minute. While Restrained by the shackles, the target takes 2d6 fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success.  
 
-
 ***Frost Rune.*** This Rune’s magic evokes the might of those who survive in the wintry wilderness, such as frost giants.  
 - While wearing or carrying an object inscribed with this Rune, you have advantage on Animal Handling checks and Intimidation checks.  
 - You can invoke the Rune as a Bonus Action to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your Unarmed Strikes.  

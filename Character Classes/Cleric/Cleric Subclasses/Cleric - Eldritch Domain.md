@@ -1,6 +1,5 @@
-# Eldritch Domain
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Eldritch Domain
 *Wield the Power that Killed the Gods*  
 Even the most benevolent divine beings operate outside the bounds of mortal comprehension. These eldritch forces sing a siren song that calls to mortal worshippers through lucid dreams and terrible whispers. The Eldritch Domain empowers the followers of the unknown and distant forces of chaos, divine entities of eldritch oblivion, and dead gods.
 

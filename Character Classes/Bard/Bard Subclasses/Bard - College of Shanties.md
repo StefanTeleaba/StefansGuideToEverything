@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by PerfectlyCircularSeal*](https://bio.site/spaghetti0)
-
 # College of Shanties
 *Lift The Spirits Of Your Crew*  
 On the many voyages across the seas, there are times when spirits sink lower than the orlop deck. In those dire moments, only a swinging shanty can bolster a crew’s morale. Bards who dedicate their craft to these ship-stirring songs imbue magic into every word and note.

@@ -1,3 +1,4 @@
+*Homebrew*
 # Ice Claw
 *Weapon (Shortsword), Very Rare*
 
@@ -16,11 +17,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 ***Sentience.*** Ice Claw is a sentient weapon of Lawful-Neutral alignment, with an Intelligence of 17, a Wisdom of 13, and a Charisma of 20. It has hearing and Darkvision out to 120 feet.  
 The weapon communicates telepathically with its wielder and speaks Common and Dwarvish.
 
-
 ---
-*Dragon Magazine 188, p.52*
 
-**Ice Claw**  
+*Dragon Magazine 188, p.52*
+# Ice Claw
 This sword was forged by the dwarves of Citadel Adbar (see FR5 The Savage Frontier) centuries ago to stem the onslaught of dragons in the Ice Mountains. Their high king maintained the weapon in his personal armory and bestowed it on a select group of champions for specific quests; it had no exclusive wielder and was only seldom used. Dwarven tradition holds that Ice Claw has slain at least one dragon and three fiends during its colorful history, as well as many lesser foes.
 
 One hero failed in his appointed task and lost Ice Claw to treachery; he shaved his beard in shame, then left in exile to recover the blade. He died without success 116 winters ago.
@@ -30,3 +30,5 @@ The sword remained lost for the better part of four decades before it eventually
 Description: Ice Claw is a unique short sword with a polished off-white blade that is cool to the touch. The pommel is silver, twined with black adamantite thread and set with a large diamond (worth 5,000 gp). It is of lawful-neutral alignment (Intelligence 17, Ego 20), communicates by speech (in Common or Dwarvish) or telepathy, and can read writings of either mundane or magical nature when touched to the open script.
 
 This sword acts as a frost brand +3 (DMG, page 185) with the special purpose of defeating dragons of any alignment. The wielder gains a +2 to all saving throws and takes -1 hp per die of damage sustained in combat against dragons (to a minimum of 1 hp per die). Ice Claw's bearer is also immune to the aura of fear surrounding some dragons.
+
+---

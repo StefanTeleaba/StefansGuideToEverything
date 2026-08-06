@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by murf1e*](https://bio.site/spaghetti0)
-
 # College of the Windrose
 *Conduct the Wind to Roil or Fly*  
 Like a conductor guiding the band through its performance, you guide the element of air through its own. Bards who learn to use their magic this way live a life of freedom, and like the winds themselves, never stay in one place too long.

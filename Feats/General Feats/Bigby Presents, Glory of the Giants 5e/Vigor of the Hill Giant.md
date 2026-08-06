@@ -1,8 +1,6 @@
 *Bigby Presents: Glory of the Giants 5e, p.19*
-
 # Vigor of the Hill Giant
-*General Feat (Prerequisite: Level 4+, Strike of the Giants (Hill Strike) Feat)*
-
+*General Feat (Prerequisite: Level 4+, Strike of the Giants (Hill Strike) Feat)*  
 You've manifested the resilience emblematic of hill giants, granting you the following benefits:  
 ***Ability Score Increase.*** Increase your Strength, Constitution, or Wisdom by 1, to a maximum of 20.  
 ***Bulwark.*** When you are subjected to an effect that would move you at least 5 feet or give you the prone condition, you can use your reaction to steady yourself. You aren't moved and don't have the prone condition.  

@@ -1,16 +1,14 @@
-# Twilight Domain
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Twilight Domain
 The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.  
 Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
 
 ## Level 3: Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Twilight Domain Spells table, you thereafter always have the listed spells prepared.
 
-### Twilight Domain Spells
+**Twilight Domain Spells**
 | Cleric Level | Spells                                         |
 |:------------:|------------------------------------------------|
 | 3            | Faerie Fire, Moonbeam, Sleep, See Invisibility |

@@ -1,8 +1,11 @@
+*Homebrew*
 # Hamstring
-*Class Feat (Prerequisite: Level 4+, Cunning Strike Feature)*
-
+*Class Feat (Prerequisite: Level 4+, Cunning Strike Feature)*  
+You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Dexterity by 1, to a maximum of 20.  
 You gain the following *Cunning Strike* option.  
 ***Hamstring (Cost: 1d6).*** The target's Speed is halved until the end of your next turn.
 
-**Source:** *Complete Warrior 3.5e, p.100*
+---
+
+*Complete Warrior 3.5e, p.100*

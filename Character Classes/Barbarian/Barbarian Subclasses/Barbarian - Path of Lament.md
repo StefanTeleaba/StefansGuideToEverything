@@ -1,7 +1,6 @@
-# Path of Lament
 *Unearthed Arcana - Villainous Options 2*  
 *This subclass was published on April 23rd, 2026.*
-
+# Path of Lament
 *Transform Bitter Anguish into Supernatural Rage*  
 Barbarians who walk the Path of Lament hone their regrets into deadly weapons and channel their deepest sorrows into rageful action. Propelled by supernatural grief, their fury grants them gifts from beyond the grave.  
 A Barbarian may choose the Path of Lament, but more often the path is thrust on the Barbarian by unhappy accident. At the heart of the Barbarian’s rage are great trauma and unresolved grief—painful emotions fueled by haunting memories that rise to the surface during adrenaline-filled moments. You can roll on or choose a result from the Path of Lament Origins table to inspire the incident that forms the root of your despair.

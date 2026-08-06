@@ -1,3 +1,4 @@
+*Player's Handbook 5.5e p.80*
 # Druid
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.  
 Revering nature above all, individual Druids gain their magic from nature, a nature deity, or both, and they typically unite with other Druids to perform rites that mark the passage of the seasons and other natural cycles.  
@@ -36,9 +37,10 @@ You gain additional uses when you reach certain Druid levels, as shown in the Wi
 ***Known Forms.*** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.  
 When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.  
 When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
-### Beast Shapes
+
+**Beast Shapes**
 | Druid Level | Known Forms | Max CR | Fly Speed |
-|-------------|-------------|--------|-----------|
+|:-----------:|:-----------:|:------:|:---------:|
 | 2           | 4           | 1/4    | No        |
 | 4           | 6           | 1/2    | No        |
 | 8           | 8           | 1      | Yes       |

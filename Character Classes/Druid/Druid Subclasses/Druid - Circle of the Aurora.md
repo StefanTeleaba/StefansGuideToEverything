@@ -1,16 +1,16 @@
-# Circle of the Aurora
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*  
-
+*v1.0*
+# Circle of the Aurora
 *Channel Arctic Power to Inspire and Beguile*  
 In the cold, harsh climates of the arctic and antarctic tundras, druids can be found communing with brilliant and colorful lights which streak the skies - known as auroras. These druids channel the dazzling power of these aurorae to protect their ancestral homes, beguiling would-be invaders with enchanting lights of their own.
 
 ## Level 3: Circle Spells
 Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of Bark Spells table, you thereafter always have the listed spells prepared.  
 In addition, you can cast Dancing Lights without the need to concentrate on it. The spell ends early if you cast it again, or if you choose to end it at any time (no action required).
-### Circle of the Aurora Spells
+
+**Circle of the Aurora Spells**
 | Druid Level | Prepared Spells                                                    |
-|-------------|--------------------------------------------------------------------|
+|:-----------:|--------------------------------------------------------------------|
 | 3           | Calm Emotions, Charm Person, Dancing Lights, Faerie Fire, Moonbeam |
 | 5           | Hypnotic Pattern, Sleet Storm                                      |
 | 7           | Confusion, Ice Storm                                               |

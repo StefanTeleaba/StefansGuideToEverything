@@ -1,15 +1,15 @@
+*Player's Handbook 5.5e p.76*
 # War Domain
-*Player's Handbook 5.5e*  
-
 *Inspire Valor and Smite Foes*  
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.  
 Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
 ## Level 3: War Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the War Domain Spells table, you thereafter always have the listed spells prepared.
-### War Domain Spells
+
+**War Domain Spells**
 | Cleric Level | Prepared Spells                                               |
-|--------------|---------------------------------------------------------------|
+|:------------:|---------------------------------------------------------------|
 | 3rd          | Guiding Bolt, Magic Weapon, Shield of Faith, Spiritual Weapon |
 | 5th          | Crusader's Mantle, Spirit Guardians                           |
 | 7th          | Fire Shield, Freedom of Movement                              |

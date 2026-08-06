@@ -1,6 +1,6 @@
+*Player's Handbook 5.5e p.210*
 # Boon of Irresistible Offense
-*Epic Boon Feat (Prerequisite: Level 19+)*
-
+*Epic Boon Feat (Prerequisite: Level 19+)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength or Dexterity by 1, to a maximum of 30.  
 ***Overcome Defenses.*** The Bludgeoning, Piercing, and Slashing damage you deal always ignores Resistance.  

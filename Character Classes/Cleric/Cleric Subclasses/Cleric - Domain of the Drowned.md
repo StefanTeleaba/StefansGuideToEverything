@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by the_bluez*](https://bio.site/spaghetti0)
-
 # Domain of the Drowned
 *Fickle like a wave. Deep as the abyss.*  
 Once a sailor, a pirate, perhaps a captain, or a simple passenger. The sea took you, purified you in its cold womb, and from its salt and waves you were reborn. Now you dispense its gifts and its wrath to anyone you meet.

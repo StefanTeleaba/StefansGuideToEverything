@@ -28,7 +28,6 @@ Once per turn, when you use a maneuver, you can roll 1d8 and use the number roll
 ## Level 18: Ultimate Combat Superiority
 Your Superiority Die becomes a d12.
 
-
 ### Maneuver Options
 The maneuvers are presented here in alphabetical order.
 

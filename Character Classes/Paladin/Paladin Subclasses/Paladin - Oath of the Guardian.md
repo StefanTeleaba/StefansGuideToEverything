@@ -1,8 +1,6 @@
-# Oath of the Guardian
 *Cthulhu by Torchlight 5.5e*
-
-*“The first step to killing an eldritch horror: don't die.” — Miranda of the Unbroken Shield*
-
+# Oath of the Guardian
+*“The first step to killing an eldritch horror: don't die.” — Miranda of the Unbroken Shield*  
 *These Paladins serve as protectors of the common folk and guards against rampaging monsters. Those who embrace this oath range from itinerant Paladins who single-handedly defend towns on the borderlands to elite groups of knights tasked with protecting the cardinals of a religious order.*
 
 **Tenets of the Guardian**  
