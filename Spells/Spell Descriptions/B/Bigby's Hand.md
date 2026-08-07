@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.246*
 # Bigby's Hand
-*Level 5 Evocation (Sorcerer, Wizard)*
+*Level 5 Evocation (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

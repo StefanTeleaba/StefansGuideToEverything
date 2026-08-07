@@ -11,6 +11,6 @@ You can don or doff this item as a Magic action.
 ***Spell Resistance.*** You have Advantage on saving throws against spells.  
 ***Wings.*** As a Bonus Action, you can cause feathered wings to appear on your back. The wings last until you dismiss them (no action required). The wings give you a Fly Speed of 60 feet.  
 
+---
 
-
-**Source:** *Magic Item Compendium 3.5e, p.170*
+*Magic Item Compendium 3.5e, p.170*

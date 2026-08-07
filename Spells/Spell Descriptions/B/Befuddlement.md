@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Befuddlement
 *Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
 
@@ -16,8 +15,7 @@ On a successful save, the target takes half as much damage only.
 
 ---
 
-*Player's Handbook 5.5e, p.245*
-
+*Player's Handbook 5.5e p.245*
 # Befuddlement
 *Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
 

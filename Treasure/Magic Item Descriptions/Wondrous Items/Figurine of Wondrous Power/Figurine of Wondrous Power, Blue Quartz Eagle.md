@@ -9,6 +9,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ***Blue Quartz Eagle.*** This polished blue quartz eagle can become an Eagle for up to 24 hours. The eagle fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed. The eagle has Advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, it can make out details of even extremely distant creatures and objects as small as 2 feet across. The eagle can communicate telepathically with you at any range if you and it are on the same plane of existence. Additionally, as a Bonus Action, you can see through the eagle's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
+---
 
-
-**Source.** *Dungeon Master's Guide 5.5e, p.261*
+*Dungeon Master's Guide 5.5e, p.261*

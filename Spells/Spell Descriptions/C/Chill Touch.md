@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.249*
+*Player's Handbook 5.5e p.249*
 # Chill Touch
 *Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 

@@ -32,4 +32,6 @@ Conjuration (Creation) [Acid]
 You breathe forth a cone of acidic droplets. The cone deals 1d6 points of acid damage per caster level (maximum 10d6).  
 *Material Component:* A handful of fire ants (alive or dead).
 
+![Acid Breath](https://web.archive.org/web/20161101192216if_/http://archive.wizards.com/dnd/images/spellcomp_gallery/92180.jpg)
+
 ---

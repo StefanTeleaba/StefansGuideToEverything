@@ -1,5 +1,4 @@
 *Unearthed Arcana 2025 - Psion Update, 5.5e, p.11*
-
 # Abi-Dalzim's Horrid Wilting
 *Level 8 Necromancy (Psion, Sorcerer, Wizard)*
 
@@ -14,7 +13,6 @@ Nonmagical plants in the area that aren’t creatures, such as trees and shrubs,
 ---
 
 *Xanathar's Guide to Everything*
-
 # Abi-Dalzim's Horrid Wilting
 *Level 8 Necromancy (Psion, Sorcerer, Wizard)*
 

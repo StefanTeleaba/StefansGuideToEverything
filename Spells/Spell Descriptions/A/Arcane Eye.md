@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.242*
 # Arcane Eye
-*Level 4 Divination (Wizard)*
+*Level 4 Divination (Artificer, Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

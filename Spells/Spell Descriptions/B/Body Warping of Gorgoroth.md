@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Body Warping of Gorgoroth
 *Level 1 Transmutation (Sorcerer, Warlock, Wizard)*
 

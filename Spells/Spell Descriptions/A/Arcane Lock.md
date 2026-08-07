@@ -1,6 +1,6 @@
-*Player's Handbook 5.5e, p.242*
+*Player's Handbook 5.5e p.242*
 # Arcane Lock
-*Level 2 Abjuration (Wizard)*
+*Level 2 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

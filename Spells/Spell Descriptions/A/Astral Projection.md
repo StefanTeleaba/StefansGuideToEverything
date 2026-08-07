@@ -1,6 +1,6 @@
-*Player's Handbook 5.5e, p.243*
+*Player's Handbook 5.5e p.243*
 # Astral Projection
-*Level 9 Necromancy (Cleric, Warlock, Wizard)*
+*Level 9 Necromancy (Cleric, Psion, Warlock, Wizard)*
 
 **Casting Time:** 1 hour  
 **Range:** 10 feet  

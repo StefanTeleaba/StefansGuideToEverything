@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Briar Web
 *Level 2 Transmutation (Druid, Ranger)*
 
@@ -16,6 +15,6 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ---
 
-*Spell Compendium 3.5e, p.39*
+*Spell Compendium 3.5e p.39*
 
 ---

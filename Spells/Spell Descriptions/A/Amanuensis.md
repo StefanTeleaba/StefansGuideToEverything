@@ -11,6 +11,6 @@ This spell allows the caster to copy non-magical text from one source onto blank
 
 ---
 
-*Spell Compendium 3.5e, p.9*
+*Spell Compendium 3.5e p.9*
 
 ---

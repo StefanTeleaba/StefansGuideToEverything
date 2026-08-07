@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Call Deity
 *Level 8 Conjuration (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 

@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.185*
+*Grim Hollow: Player's Guide 2024 5.5e p.185*
 # Assisted Aim
 *Level 1 Enchantment (Bard, Cleric, Druid, Paladin, Ranger)*
 

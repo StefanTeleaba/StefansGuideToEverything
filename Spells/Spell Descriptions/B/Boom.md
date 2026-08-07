@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Boom
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -14,6 +13,6 @@ You unleash a blast of high pitched sound. One creature that you can see within 
 
 ---
 
-*Magic of Faerun 3.5e, p.101*
+*Magic of Faerun 3.5e p.101*
 
 ---

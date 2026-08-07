@@ -21,6 +21,6 @@ You assume the form of a Wolf. The spell ends if you have the Incapacitated cond
 
 ---
 
-*Spell Compendium 3.5e, p.16*
+*Spell Compendium 3.5e p.16*
 
 ---

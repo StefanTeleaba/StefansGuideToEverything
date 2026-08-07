@@ -1,5 +1,4 @@
 *Homebrew*, *V02*
-
 # Burning Hands
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -37,8 +36,7 @@ Flammable objects in the Cone that aren't being worn or carried start burning.
 
 ---
 
-*Player's Handbook 5.5e, p.248*
-
+*Player's Handbook 5.5e p.248*
 # Burning Hands
 *Level 1 Evocation (Sorcerer, Wizard)*
 

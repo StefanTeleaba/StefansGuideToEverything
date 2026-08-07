@@ -1,6 +1,6 @@
-*Player's Handbook 5.5e, p.242*
+*Player's Handbook 5.5e p.242*
 # Arcane Vigor
-*Level 2 Abjuration (Sorcerer, Wizard)*
+*Level 2 Abjuration (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Self  

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Bottomless Hate
 *Level 1 Enchantment (Ranger)*
 

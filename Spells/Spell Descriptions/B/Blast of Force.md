@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Blast of Force
 *Level 2 Evocation (Sorcerer, Wizard)*
 

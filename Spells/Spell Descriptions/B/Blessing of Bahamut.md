@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Blessing of Bahamut
 *Level 1 Abjuration (Paladin)*
 

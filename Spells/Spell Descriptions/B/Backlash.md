@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.142*
+*Forgotten Realms: Heroes of Faerun 5.5e p.142*
 # Backlash
 *Level 4 Abjuration (Bard, Sorcerer, Warlock, Wizard)*
 

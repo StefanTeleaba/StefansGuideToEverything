@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Cat's Spring
 *Conjuration Cantrip (Bard, Druid, Sorcerer, Warlock, Wizard)*
 

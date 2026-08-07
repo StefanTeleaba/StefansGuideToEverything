@@ -1,6 +1,6 @@
-*Player's Handbook 5.5e, p.247*
+*Player's Handbook 5.5e p.247*
 # Blade Ward
-*Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+*Abjuration Cantrip (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
