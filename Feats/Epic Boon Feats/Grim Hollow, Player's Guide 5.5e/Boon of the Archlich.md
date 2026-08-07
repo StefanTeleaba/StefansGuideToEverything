@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.120*
+*Grim Hollow: Player's Guide 2024 5.5e p.120*
 # Boon of the Archlich
 *Epic Boon Feat (Prerequisites: Level 19+, Lich Transformation)*  
 You gain the following benefits.  

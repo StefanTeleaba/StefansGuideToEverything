@@ -7,4 +7,4 @@
 
 ---
 
-*Complete Adventurer 3.5e, p.107*
+*Complete Adventurer 3.5e p.107*

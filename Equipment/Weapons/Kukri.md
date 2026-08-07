@@ -28,7 +28,7 @@
 
 ---
 
-*Player's Handbook 3.5e, p.121*  
+*Player's Handbook 3.5e p.121*  
 **Cost:** 8 GP  
 **Damage:** 1d4  
 **Critical:** 18-20/×2

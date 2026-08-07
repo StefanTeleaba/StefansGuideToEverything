@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.39*
+*Forgotten Realms: Heroes of Faerun 5.5e p.39*
 # Dragonscarred
 *General Feat (Prerequisites: Level 4+, Cult of the Dragon Initiate)*  
 You gain the following benefits.  

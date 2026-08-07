@@ -1,4 +1,4 @@
-*Tasha's Cauldron of Everything 5e, p.41*
+*Tasha's Cauldron of Everything 5e p.41*
 # Superior Technique
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 ***Maneuvers.*** You learn one maneuver of your choice from the "Maneuver Options" section of the Battle Master Fighter. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.  

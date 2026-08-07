@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.118*
+*Grim Hollow: Player's Guide 2024 5.5e p.118*
 # Advanced Weapon Proficiency
 *Fighting Style Feat (Prerequisites: Fighting Style Feature, Special)*  
 You gain the following benefits.  

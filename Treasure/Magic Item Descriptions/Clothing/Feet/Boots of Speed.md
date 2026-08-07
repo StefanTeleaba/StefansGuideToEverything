@@ -12,3 +12,5 @@ As a free action, the wearer can click her boot heels together, enabling her to 
 Moderate transmutation; CL 10th; Craft Wondrous Item, haste; Price 12,000 gp; Weight 1 lb.
 
 ---
+
+![# Boots of Speed](https://static.wikia.nocookie.net/forgottenrealms/images/5/52/Boots_of_Speed_AFR.jpg/revision/latest?cb=20210718010324)

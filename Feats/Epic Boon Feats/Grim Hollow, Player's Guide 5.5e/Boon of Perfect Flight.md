@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.121*
+*Grim Hollow: Player's Guide 2024 5.5e p.121*
 # Boon of Perfect Flight
 *Epic Boon Feat (Prerequisite: Level 19+)*  
 You gain the following benefits.  

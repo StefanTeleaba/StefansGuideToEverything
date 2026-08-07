@@ -15,7 +15,7 @@
 
 ---
 
-*Grim Hollow: Player's Guide 2024 5.5e, p.128*
+*Grim Hollow: Player's Guide 2024 5.5e p.128*
 # Sabre (25 GP)
 *Advanced Melee Weapon*    
 **Damage:** 1d8 Slashing  

@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.17*
+*Bigby Presents: Glory of the Giants 5e p.17*
 # Ember of the Fire Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Storm Strike) Feat)*  
 You've manifested the fiery combat emblematic of fire giants, granting you the following benefits:  

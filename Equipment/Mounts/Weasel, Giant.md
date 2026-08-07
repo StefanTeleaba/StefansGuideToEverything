@@ -5,4 +5,4 @@
 Speed: 40 ft., Climb 30 ft.  
 Carrying Capacity: 165 lb.
 
-**Source:** *Monster Manual 5.5e, p.361*
+**Source:** *Monster Manual 5.5e p.361*

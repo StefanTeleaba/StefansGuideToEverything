@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.18*
+*Bigby Presents: Glory of the Giants 5e p.18*
 # Rune Shaper
 *Origin Feat*  
 You've studied the magic of Giant runes, granting you the following benefits:  

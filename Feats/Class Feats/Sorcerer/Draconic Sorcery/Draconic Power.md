@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Arcane 3.5e, p.78*
+*Complete Arcane 3.5e p.78*

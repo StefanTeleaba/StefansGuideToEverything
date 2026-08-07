@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.32*
+*Forgotten Realms: Heroes of Faerun 5.5e p.32*
 # Lords' Alliance Vassal
 You've pledged your loyalty to a member-city of the Lords' Alliance. As an Alliance agent, you must uphold the tenets of the Alliance and seek to increase safety and prosperity along the Sword Coast. You're sworn to bring honor and glory to your lord's house, whether that means securing trade roads for a merchant-lord of Waterdeep or vanquishing monsters upriver of Daggerford. You've trained in the arts of swordplay and statecraft and are as deft with a blade as you are with a quill.
 

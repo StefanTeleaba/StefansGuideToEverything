@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.119*
+*Grim Hollow: Player's Guide 2024 5.5e p.119*
 # Dual Shot
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*  
 You gain the following benefits.  

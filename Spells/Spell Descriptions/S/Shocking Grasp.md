@@ -12,3 +12,5 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
+
+![Shocking Grasp](https://cards.scryfall.io/art_crop/front/a/b/ab95fe13-c09b-4eed-aeae-fb1c5b6eb476.jpg?1783926509)

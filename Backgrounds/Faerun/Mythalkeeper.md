@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.34*
+*Forgotten Realms: Heroes of Faerun 5.5e p.34*
 # Mythalkeeper
 Mythals are sources of great magical power that can alter the Weave or even the very nature of reality. Most were constructed in antiquity, and many have since been damaged or gone dormant. As a mythalkeeper from the Dalelands, your first experience with a mythal was likely in the ruins of Myth Drannor. You roam Faerûn in search of other ruined places of power, hoping to learn more about the history and powers of mythals—or even restore a malfunctioning one.
 

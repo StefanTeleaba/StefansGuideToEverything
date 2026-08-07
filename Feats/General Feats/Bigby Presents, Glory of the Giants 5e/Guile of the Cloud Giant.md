@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.18*
+*Bigby Presents: Glory of the Giants 5e p.18*
 # Guile of the Cloud Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Cloud Strike) Feat)*  
 You've manifested the confounding magic emblematic of cloud giants, granting you the following benefits:  

@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e, p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 
 # Hollow Warden
 *Draw on the Might of Ancient Wild Terrors*  

@@ -1,5 +1,4 @@
 *Player’s Handbook 5.5e p.335*
-
 # True Polymorph
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 
@@ -20,3 +19,7 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 If the spell lasts more than an hour, you no longer control the creature. It might remain Friendly to you, depending on how you have treated it.
 
 **Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
+
+---
+
+![True Polymorph](https://static.wikia.nocookie.net/forgottenrealms/images/5/5f/True_Polymorph_AFR.jpg/revision/latest?cb=20211223195915)

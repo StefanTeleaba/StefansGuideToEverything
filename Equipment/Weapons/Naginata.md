@@ -15,7 +15,7 @@
 
 ---
 
-*Player's Handbook 3.5e, p.121*  
+*Player's Handbook 3.5e p.121*  
 **Cost:** 10 GP  
 **Damage:** 1d10  
 **Critical:** ×3

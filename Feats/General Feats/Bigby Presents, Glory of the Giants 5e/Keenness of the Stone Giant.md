@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.18*
+*Bigby Presents: Glory of the Giants 5e p.18*
 # Keenness of the Stone Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Stone Strike) Feat)*  
 You've manifested the physical talents emblematic of stone giants, granting you the following benefits:  

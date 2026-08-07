@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Epic Level Handbook 3.5e, p.62*
+*Epic Level Handbook 3.5e p.62*

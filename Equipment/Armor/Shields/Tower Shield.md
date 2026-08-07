@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.127*
+*Grim Hollow: Player's Guide 2024 5.5e p.127*
 # Tower Shield
 *Armor (Shield)*  
 *200 gp, 50 lb.*

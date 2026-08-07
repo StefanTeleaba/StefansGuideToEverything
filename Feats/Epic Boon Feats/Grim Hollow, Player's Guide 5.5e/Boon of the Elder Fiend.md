@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.120*
+*Grim Hollow: Player's Guide 2024 5.5e p.120*
 # Boon of the Elder Fiend
 *Epic Boon Feat (Prerequisites: Level 19+, Fiend Transformation)*  
 ***Ability Score Increase.*** Increase one ability score of your choice by 1, to a maximum of 30.  

@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.282*
-
 # Guiding Bolt
 *Level 1 Evocation (Cleric)*
 
@@ -13,3 +12,5 @@ You hurl a bolt of light toward a creature within range. Make a ranged spell att
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ---
+
+![Guiding Bolt](https://static.wikia.nocookie.net/forgottenrealms/images/a/ae/Guiding_Bolt.png/revision/latest?cb=20250207145149)

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Stoneskin
 *Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -13,7 +12,6 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 ---
 
 *Player's Handbook 5.5e p.321*
-
 # Stoneskin
 *Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -25,3 +23,5 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ---
+
+![Stoneskin](https://static.wikia.nocookie.net/forgottenrealms/images/c/c5/Stoneskin_CLB.jpg/revision/latest?cb=20220529112544)

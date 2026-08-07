@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.33*
+*Forgotten Realms: Heroes of Faerun 5.5e p.33*
 # Moonwell Pilgrim
 Like many who hail from the Moonshae Isles, you grew up revering the blessed land, its unique gods, and the mysterious shrines called the moonwells. As a moonwell pilgrim, you undertook a quest to visit and commune with every moonwell on (or off) the map. Along your idyllic journeys, you collected a repertoire of Moonshavian folk songs, painted landscapes of enchanting vistas, and even learned how to wield a bit of primal magic.
 

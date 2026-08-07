@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.299*
-
 # Modify Memory
 *Level 5 Enchantment (Bard, Wizard)*
 
@@ -17,3 +16,5 @@ A Remove Curse or Greater Restoration spell cast on the target restores the crea
 ***Using a Higher-Level Spell Slot.*** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
 ---
+
+![Modify Memory](https://static.wikia.nocookie.net/forgottenrealms/images/9/92/Modify_Memory.png/revision/latest?cb=20220904121429)

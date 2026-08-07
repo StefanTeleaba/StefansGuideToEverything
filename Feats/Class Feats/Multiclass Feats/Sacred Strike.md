@@ -8,4 +8,4 @@ You gain the following benefits.
 
 ---
 
-*Book of Exhalted Deeds 3.5e, p.45*
+*Book of Exhalted Deeds 3.5e p.45*

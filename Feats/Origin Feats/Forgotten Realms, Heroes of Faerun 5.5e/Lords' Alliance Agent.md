@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.38*
+*Forgotten Realms: Heroes of Faerun 5.5e p.38*
 # Lords' Alliance Agent
 *Origin Feat*  
 You gain the following benefits.  

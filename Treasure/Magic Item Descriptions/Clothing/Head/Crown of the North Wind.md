@@ -1,4 +1,4 @@
-*Dragons of Faerun 3.5e, p.126*
+*Dragons of Faerun 3.5e p.126*
 # Crown of the North Wind
 *Wondrous Item, Rare*  
 *A crown of the north wind is an elegant platinum crown with five spires, each one shaped like a different metallic dragon (brass, copper, bronze, gold, and silver).*  

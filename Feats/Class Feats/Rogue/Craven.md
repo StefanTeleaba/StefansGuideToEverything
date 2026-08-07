@@ -9,4 +9,4 @@ You gain the following benefits.
 
 ---
 
-*Champions of Ruin 3.5e, p.17*
+*Champions of Ruin 3.5e p.17*

@@ -1,6 +1,6 @@
 # Dragonfire Adept
 *Class*  
-*Dragon Magic 3.5e, p.24*
+*Dragon Magic 3.5e p.24*
 
 **Core Traits**
 - **Primary Ability:** Constitution and Charisma

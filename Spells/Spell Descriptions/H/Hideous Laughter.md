@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.331*
-
 # Tasha's Hideous Laughter
 *Level 1 Enchantment (Bard, Warlock, Wizard)*
 
@@ -14,3 +13,5 @@ At the end of each of its turns and each time it takes damage, it makes another 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level about 1.
 
 ---
+
+![Tasha's Hideous Laughter](https://static.wikia.nocookie.net/forgottenrealms/images/0/04/Tasha%27s_hideous_laughter_AFR.jpg/revision/latest/scale-to-width-down/767?cb=20210702072944)

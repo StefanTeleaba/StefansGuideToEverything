@@ -17,4 +17,4 @@ These robes have 6 pockets, each of which is an extradimensional space. Each poc
 Retrieving an item from the robes requires a Utilize action or a Bonus Action (your choice). When you reach into the robes for a specific item, the item is always magically on top.
 
 ---
-*City of Splendors: Waterdeep 3.5e, p.150*
+*City of Splendors: Waterdeep 3.5e p.150*

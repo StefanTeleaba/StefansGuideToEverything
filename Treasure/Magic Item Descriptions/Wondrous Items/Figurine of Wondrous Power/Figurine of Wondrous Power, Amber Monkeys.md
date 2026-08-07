@@ -21,4 +21,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ---
 
-*Encyclopedia Magica Volume 2 2e, p.473*
+*Encyclopedia Magica Volume 2 2e p.473*

@@ -17,7 +17,7 @@
 
 ---
 
-*Grim Hollow: Player's Guide 2024 5.5e, p.128*
+*Grim Hollow: Player's Guide 2024 5.5e p.128*
 # Claymore (500 GP)
 *Advanced Melee Weapon*  
 **Damage:** 2d6 Slashing  

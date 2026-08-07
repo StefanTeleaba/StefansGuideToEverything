@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.42*
+*Forgotten Realms: Heroes of Faerun 5.5e p.42*
 # Boon of Exquisite Radiance
 *Epic Boon Feat (Prerequisite: Level 19+)*  
 You gain the following benefits.  

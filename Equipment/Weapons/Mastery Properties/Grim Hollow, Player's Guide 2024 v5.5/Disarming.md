@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.123*
+*Grim Hollow: Player's Guide 2024 5.5e p.123*
 # Disarming
 
 ***Disarming.*** A Disarming weapon can catch a foe's weapon, allowing you to remove it from their grasp. When you take the Attack action on your turn and hit with a Disarming weapon, you can use your Bonus Action later on the same turn to disarm the target. Both you and the attacker must make opposed attack rolls, ignoring any sources of Advantage and Disadvantage. If your result is higher and the weapon is something the target can drop, the weapon falls from the target's grasp, landing in its space.  

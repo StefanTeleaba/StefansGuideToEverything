@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.19*
+*Bigby Presents: Glory of the Giants 5e p.19*
 # Vigor of the Hill Giant
 *General Feat (Prerequisite: Level 4+, Strike of the Giants (Hill Strike) Feat)*  
 You've manifested the resilience emblematic of hill giants, granting you the following benefits:  

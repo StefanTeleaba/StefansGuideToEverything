@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.118*
+*Grim Hollow: Player's Guide 2024 5.5e p.118*
 # Close Combat Artillerist
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 

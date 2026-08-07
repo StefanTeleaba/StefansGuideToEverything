@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Divine 3.5e, p.79*
+*Complete Divine 3.5e p.79*

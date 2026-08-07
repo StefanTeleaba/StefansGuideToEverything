@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.40*
+*Forgotten Realms: Heroes of Faerun 5.5e p.40*
 # Purple Dragon Commandant
 *General Feat (Prerequisites: Level 4+, Purple Dragon Rook or Martial Weapon Proficiency)*  
 You gain the following benefits.  

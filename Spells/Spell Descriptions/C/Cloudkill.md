@@ -14,3 +14,5 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
 
 ---
+
+![Cloudkill](https://static.wikia.nocookie.net/forgottenrealms/images/b/b6/Cloudkill_CLB.jpg/revision/latest?cb=20220820094040)

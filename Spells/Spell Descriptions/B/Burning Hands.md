@@ -18,7 +18,6 @@ Until the spell ends, you can take a Magic action to create a new Cone of flames
 ---
 
 *Homebrew*, *V01*
-
 # Burning Hands
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -51,3 +50,5 @@ Flammable objects in the Cone that aren't being worn or carried start burning.
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 ---
+
+![Burning Hands](https://static.wikia.nocookie.net/forgottenrealms/images/5/56/Burning_Hands_AFR.jpg/revision/latest?cb=20210805133055)

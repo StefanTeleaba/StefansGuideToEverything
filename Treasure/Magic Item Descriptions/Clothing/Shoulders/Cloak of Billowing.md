@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e, p.244*
+*Dungeon Master's Guide 5.5e p.244*
 # Cloak of Billowing
 *Wondrous Item, Common*
 

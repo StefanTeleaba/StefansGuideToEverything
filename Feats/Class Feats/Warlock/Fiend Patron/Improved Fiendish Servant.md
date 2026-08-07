@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Champions of Ruin 3.5e, p.20*
+*Champions of Ruin 3.5e p.20*

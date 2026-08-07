@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e, p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 # Phantom
 *Embrace Death and Wield Ghostly Power*  
 Some Rogues traverse the veil between life and death, shepherding opponents to the grave and slipping through the world as undetectable as a spirit. In these pursuits, a Rogue might discover a mystical connection to death itself. Such an individual becomes immersed in negative energy, infusing their strikes with deathly energy and stealing knowledge from souls who have passed on. Thieves’ guilds value Rogues of this persuasion as highly effective information gatherers and spies.

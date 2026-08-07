@@ -8,4 +8,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Arcane 3.5e, p.79*
+*Complete Arcane 3.5e p.79*

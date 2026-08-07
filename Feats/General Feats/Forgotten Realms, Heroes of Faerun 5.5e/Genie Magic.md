@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.39*
+*Forgotten Realms: Heroes of Faerun 5.5e p.39*
 # Genie Magic
 *General Feat (Prerequisite: Level 4+)*  
 You gain the following benefits.  

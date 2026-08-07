@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.43*
+*Forgotten Realms: Heroes of Faerun 5.5e p.43*
 # Boon of Poison Mastery
 *Epic Boon Feat (Prerequisite: Level 19+)*  
 You gain the following benefits.  

@@ -12,7 +12,7 @@ If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has 
 ***Mithral.*** A weapon made of Mithral weighs half as much as a normal weapon of that type and has the Light property.
 
 ---
-*Dungeon Master's Guide 3.5e, p.284*
+*Dungeon Master's Guide 3.5e p.284*
 
 *Mithral is a very rare silvery, glistening metal that is lighter than iron but just as hard.*
 

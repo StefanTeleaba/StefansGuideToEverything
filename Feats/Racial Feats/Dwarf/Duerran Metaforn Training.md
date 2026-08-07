@@ -8,4 +8,4 @@ You can use this ability a number of times equal to your Proficiency Bonus, and 
 
 ---
 
-*Champions of Valor 3.5e, p.29*
+*Champions of Valor 3.5e p.29*

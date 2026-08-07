@@ -1,4 +1,4 @@
-*Bigby Presents: Glory of the Giants 5e, p.19*  
+*Bigby Presents: Glory of the Giants 5e p.19*  
 # Strike of the Giants
 *Origin Feat*  
 You have absorbed primeval magic that gives you an echo of the might of giants. When you take this feat, choose one of the benefits listed below. Once per turn, when you hit a target with a melee weapon attack or a ranged weapon attack using a thrown weapon, you can imbue the attack with an additional effect depending on the benefit you chose:

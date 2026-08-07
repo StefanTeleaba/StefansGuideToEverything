@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e, p.37*
+*Forgotten Realms: Heroes of Faerun 5.5e p.37*
 # Emerald Enclave Fledgling
 *Origin Feat*  
 You gain the following benefits.  

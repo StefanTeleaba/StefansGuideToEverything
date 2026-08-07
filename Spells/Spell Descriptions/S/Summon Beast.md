@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Summon Beast
 *Level 2 Conjuration (Druid, Ranger)*
 

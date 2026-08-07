@@ -1,4 +1,4 @@
-*Player's Handbook 2024 5.5e, p.219*
+*Player's Handbook 2024 5.5e p.219*
 # Shield
 *Armor (Shield)*  
 *10 gp, 6 lb.*

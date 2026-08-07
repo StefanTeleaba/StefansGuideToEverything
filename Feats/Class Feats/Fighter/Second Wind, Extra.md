@@ -8,4 +8,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Warrior 3.5e, p.98*
+*Complete Warrior 3.5e p.98*

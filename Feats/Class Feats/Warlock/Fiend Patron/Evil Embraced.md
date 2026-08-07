@@ -9,4 +9,4 @@ You can use this feature a number of times equal to your Proficiency Bonus, and 
 
 ---
 
-*Champions of Ruin 3.5e, p.23*
+*Champions of Ruin 3.5e p.23*

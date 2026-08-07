@@ -9,7 +9,7 @@
 
 ---
 
-*Dungeon Master's Guide II 3.5e, p.272*  
+*Dungeon Master's Guide II 3.5e p.272*  
 These slippers imbue the wearer with a shocking grace and a deadly fluidity in battle.  
 *Description:* These soft, open-toed slippers are made of supple leather and look very comfortable.  
 *Activation:* This item is continuously active while worn, provided that the wearer’s armor is no heavier than light. No action on the wearer’s part is required to gain the effect.  

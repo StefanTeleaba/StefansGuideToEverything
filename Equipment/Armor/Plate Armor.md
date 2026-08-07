@@ -7,4 +7,4 @@
 **Weight:** 65 lb.  
 **Cost:** 1,500 GP  
 
-*Player's Handbook 5.5e, p.219*
+*Player's Handbook 5.5e p.219*

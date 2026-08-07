@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.121*
+*Grim Hollow: Player's Guide 2024 5.5e p.121*
 # Boon of Shadowsteel Mastery
 *Epic Boon Feat (Prerequisites: Level 19+, Shadowsteel Ghoul Transformation)*  
 You gain the following benefits.  

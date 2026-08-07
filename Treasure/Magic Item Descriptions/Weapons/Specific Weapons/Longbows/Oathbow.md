@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e, p.282*
+*Dungeon Master's Guide 5.5e p.282*
 # Oathbow
 *Weapon (Longbow), Very Rare*
 

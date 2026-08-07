@@ -1,4 +1,4 @@
-*Grim Hollow: Player's Guide 2024 5.5e, p.126*
+*Grim Hollow: Player's Guide 2024 5.5e p.126*
 # Buckler
 *Armor (Shield)*  
 *20 gp, 4 lb.*

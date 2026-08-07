@@ -9,4 +9,4 @@ You gain the following *Cunning Strike* option.
 
 ---
 
-*Complete Warrior 3.5e, p.96*
+*Complete Warrior 3.5e p.96*

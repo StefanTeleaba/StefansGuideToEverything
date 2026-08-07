@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.222*
+*Player's Handbook 5.5e p.222*
 # Acid
 *Adventuring Gear*  
 25 GP, 1 lb.
