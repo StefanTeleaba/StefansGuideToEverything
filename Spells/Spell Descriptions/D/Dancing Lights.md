@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.259*
+*Player's Handbook 5.5e p.259*
 # Dancing Lights
 *Illusion Cantrip (Bard, Sorcerer, Wizard)*
 

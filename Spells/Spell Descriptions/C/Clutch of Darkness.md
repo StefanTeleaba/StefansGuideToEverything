@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Clutch of Darkness
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 

@@ -1,5 +1,4 @@
-*Spell Compendium 3.5e, p.47*
-
+*Homebrew*
 # Climb Walls
 *Level 1 Transmutation (Druid, Ranger)*
 
@@ -15,3 +14,5 @@ You touch a willing creature. For the duration, climbing don't cost that creatur
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 ---
+
+*Spell Compendium 3.5e p.47*

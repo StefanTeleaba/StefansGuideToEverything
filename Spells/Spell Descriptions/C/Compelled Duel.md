@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.252*
-
+*Player's Handbook 5.5e p.252*
 # Compelled Duel
 *Level 1 Enchantment (Paladin)*
 

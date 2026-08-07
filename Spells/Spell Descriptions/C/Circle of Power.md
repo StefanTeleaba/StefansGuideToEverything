@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.250*
-
+*Player's Handbook 5.5e p.250*
 # Circle of Power
 *Level 5 Abjuration (Cleric, Paladin, Wizard)*
 

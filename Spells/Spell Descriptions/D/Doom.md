@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Doom
 *Level 3 Necromancy (Cleric)*
 

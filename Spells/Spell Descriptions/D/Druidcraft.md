@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.266*
+*Player's Handbook 5.5e p.266*
 # Druidcraft
 *Transmutation Cantrip (Druid)*
 

@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Dread Curse of Azathoth
 *Level 7 Evocation (Sorcerer, Warlock, Wizard)*
 

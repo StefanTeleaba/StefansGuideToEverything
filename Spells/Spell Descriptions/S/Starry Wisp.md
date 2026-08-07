@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.320*
+*Player's Handbook 5.5e p.320*
 # Starry Wisp
 *Evocation Cantrip (Bard, Druid)*
 

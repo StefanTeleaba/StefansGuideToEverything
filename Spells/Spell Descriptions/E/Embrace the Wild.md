@@ -20,6 +20,6 @@ You also gain a +2 bonus to Wisdom (Perception) checks for the duraiton.
 
 ---
 
-*Spell Compendium 3.5e, p.79*
+*Spell Compendium 3.5e p.79*
 
 ---

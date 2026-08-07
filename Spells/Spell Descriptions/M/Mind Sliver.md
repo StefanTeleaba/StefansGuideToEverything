@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.298*
+*Player's Handbook 5.5e p.298*
 # Mind Sliver
 *Enchantment Cantrip (Sorcerer, Warlock, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e, p.313*
+*Player’s Handbook 5.5e p.313*
 # Sacred Flame
 *Evocation Cantrip (Cleric)*
 

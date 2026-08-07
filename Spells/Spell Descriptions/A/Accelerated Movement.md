@@ -15,7 +15,7 @@ Until the spell ends, Climbing, Crawling, Swimming and Difficult Terrain don't c
 
 ---
 
-*Spell Compendium 3.5e, p.7*
+*Spell Compendium 3.5e p.7*
 # Accelerated Movement
 Transmutation  
 **Level:** Bard 1, ranger 1, sorcerer/wizard 1  

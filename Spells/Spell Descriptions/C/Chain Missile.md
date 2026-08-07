@@ -14,6 +14,6 @@ You launch four glowing darts of magical force toward a creature you can see wit
 
 ---
 
-*Spell Compendium 3.5e, p.44*
+*Spell Compendium 3.5e p.44*
 
 ---

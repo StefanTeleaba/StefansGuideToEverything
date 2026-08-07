@@ -13,8 +13,8 @@ You create two teardrop-shaped darts of flesh-corrosive force. Each dart strikes
 
 ---
 
-*The Drow of the Underdark, 2e, p.52*
-*Wizard's Spell Compendium Volume I 2e, p.23*
+*The Drow of the Underdark, 2e p.52*
+*Wizard's Spell Compendium Volume I 2e p.23*
 # Acid Bolt
 (Evocation)  
 (Alchemy)  

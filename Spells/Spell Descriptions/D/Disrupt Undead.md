@@ -14,6 +14,6 @@ You direct a ray of positive energy at a creature within range. Make a ranged sp
 
 ---
 
-*Player's Handbook 3.5e, p.223*
+*Player's Handbook 3.5e p.223*
 
 ---

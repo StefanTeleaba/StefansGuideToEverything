@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.333*
+*Player's Handbook 5.5e p.333*
 # Thunderclap
 *Evocation Cantrip (Bard, Druid, Sorcerer, Warlock, Wizard)*
 

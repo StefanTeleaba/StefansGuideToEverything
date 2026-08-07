@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.251*
-
+*Player's Handbook 5.5e p.251*
 # Cloudkill
 *Level 5 Conjuration (Sorcerer, Wizard)*
 

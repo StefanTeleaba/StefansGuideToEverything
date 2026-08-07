@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.282*
+*Player's Handbook 5.5e p.282*
 # Guidance
 *Divination Cantrip (Cleric, Druid)*
 

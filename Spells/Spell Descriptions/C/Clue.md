@@ -1,5 +1,4 @@
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
 # Clue
 *Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 

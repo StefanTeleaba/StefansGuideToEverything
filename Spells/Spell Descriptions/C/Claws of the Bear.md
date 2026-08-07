@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Claws of the Bear
 *Level 1 Transmutation (Druid, Ranger)*
 
@@ -14,6 +13,6 @@ When you hit with your Unarmed Strike and deal damage, you can deal Slashing dam
 
 ---
 
-*Spell Compendium 3.5e, p.47*
+*Spell Compendium 3.5e p.47*
 
 ---

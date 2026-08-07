@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.293*
+*Player's Handbook 5.5e p.293*
 # Mage Hand
 *Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 

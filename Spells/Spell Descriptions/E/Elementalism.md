@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.267*
+*Player's Handbook 5.5e p.267*
 # Elementalism
 *Transmutation Cantrip (Druid, Sorcerer, Wizard)*
 

@@ -1,5 +1,4 @@
 *Homebrew 02*
-
 # Dreadful Strike
 *Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -15,7 +14,6 @@ You make one attack with the weapon used in the spell's casting. The attack uses
 ---
 
 *Homebrew 01*
-
 # Dreadful Strike
 *Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 

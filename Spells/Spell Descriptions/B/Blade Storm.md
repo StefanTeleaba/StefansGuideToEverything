@@ -13,6 +13,6 @@ You can use your action to make a melee attack against any number of creatures w
 
 ---
 
-*Spell Compendium 3.5e, p.24*
+*Spell Compendium 3.5e p.24*
 
 ---

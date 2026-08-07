@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e, p.337*
+*Player’s Handbook 5.5e p.337*
 # Vicious Mockery
 *Enchantment Cantrip (Bard)*
 

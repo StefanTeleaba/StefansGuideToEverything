@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.297*
+*Player's Handbook 5.5e p.297*
 # Mending
 *Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 

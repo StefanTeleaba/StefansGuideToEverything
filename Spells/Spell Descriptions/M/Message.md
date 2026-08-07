@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.298*
+*Player's Handbook 5.5e p.298*
 # Message
 *Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 

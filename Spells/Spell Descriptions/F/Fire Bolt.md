@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e, p.274*
+*Player's Handbook 5.5e p.274*
 # Fire Bolt
 *Evocation Cantrip (Sorcerer, Wizard)*
 

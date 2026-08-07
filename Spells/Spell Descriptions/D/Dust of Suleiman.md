@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Dust of Suleiman
 *Level 4 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
 

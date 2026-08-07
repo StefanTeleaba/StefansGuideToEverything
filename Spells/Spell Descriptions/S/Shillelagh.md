@@ -15,7 +15,7 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ---
 
-*Player's Handbook 5.5e, p.316*
+*Player's Handbook 5.5e p.316*
 # Shillelagh
 *Transmutation Cantrip (Druid)*
 

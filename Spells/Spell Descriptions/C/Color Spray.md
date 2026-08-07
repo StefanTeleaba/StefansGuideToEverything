@@ -1,5 +1,4 @@
-*Player's Handbook 5.5e, p.251*
-
+*Player's Handbook 5.5e p.251*
 # Color Spray
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 

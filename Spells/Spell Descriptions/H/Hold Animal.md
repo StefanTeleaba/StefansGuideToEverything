@@ -14,6 +14,6 @@ Choose a Beast that you can see within range. The target must succeed on a Wisdo
 
 ---
 
-*Player's Handbook 3.5e, p.*
+*Player's Handbook 3.5e p.*
 
 ---

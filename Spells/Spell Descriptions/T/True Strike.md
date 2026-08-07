@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e, p.336*
+*Player’s Handbook 5.5e p.336*
 # True Strike
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 

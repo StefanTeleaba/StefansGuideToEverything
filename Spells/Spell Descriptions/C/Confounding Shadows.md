@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Confounding Shadows
 *Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
