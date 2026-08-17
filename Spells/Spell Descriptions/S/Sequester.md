@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.315*
-
 # Sequester
 *Level 7 Transmutation (Wizard)*
 

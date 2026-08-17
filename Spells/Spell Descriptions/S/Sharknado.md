@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by Jezflix*](https://bio.site/spaghetti0)
-
 # Sharknado
 *Level 7 Conjuration (Cleric, Druid, Sorcerer, Wizard)*
 

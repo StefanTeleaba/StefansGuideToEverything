@@ -8,8 +8,6 @@ You trained your whole life to become a member of the Shadowmasters, the mysteri
 **Tool Proficiencies:** Thieves' Tools  
 **Equipment:** Choose A or B: (A) 2 Daggers, Thieves' Tools, Caltrops, Costume, Grappling Hook, Iron Spikes, Mirror, 2 Pouches, Rope, Traveler's Clothes, 3 GP; or (B) 50 GP
 
-![Shadowmasters Exile](https://5e.tools/img/backgrounds/FRHoF/Shadowmasters%20Exile.webp)
-![Shadow Thief](https://5e.tools/img/book/FRHoF/177-06-026.streets-of-baldurs-gate.webp)
-*On the streets of a city like Baldur's Gate, none are safe from the Shadow Thieves.*  
+![Shadowmasters Exile](https://5e.tools/img/backgrounds/FRHoF/Shadowmasters%20Exile.webp)  
 
 ---

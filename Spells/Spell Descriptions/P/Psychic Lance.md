@@ -1,5 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, 5.5e p.13*
-
+*Unearthed Arcana 2025 - Psion Update 5.5e p.13*
 # Raulothim's Psychic Lance
 *Level 4 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
@@ -16,8 +15,7 @@ The target must make an Intelligence saving throw. On a failed save, the target 
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, 5.5e p.10*
-
+*Unearthed Arcana 2025 - The Psion 5.5e p.10*
 # Raulothim's Psychic Lance
 *Level 4 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
@@ -35,7 +33,6 @@ The target must make an Intelligence saving throw. On a failed save, the target 
 ---
 
 *Fizban's Treasury of Dragons 5e p.21*
-
 # Raulothim's Psychic Lance
 *Level 4 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 

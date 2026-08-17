@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Scare
 *Level 2 Necromancy (Bard, Sorcerer, Wizard)*
 

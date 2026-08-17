@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Haste, Swift
 *Level 2 Transmutation (Ranger)*
 

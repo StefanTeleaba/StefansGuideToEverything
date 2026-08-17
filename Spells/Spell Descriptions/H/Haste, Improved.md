@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Haste, Improved
 *Level 6 Transmutation (Sorcerer, Wizard)*
 

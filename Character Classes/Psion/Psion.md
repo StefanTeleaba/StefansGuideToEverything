@@ -1,9 +1,7 @@
+*Unearthed Arcana 2025 - Psion Update*  
+*This subclass was published on October 2nd, 2025.*
 # Psion
 *A Master of Psionic Power*  
-
-*Unearthed Arcana 2025 - Psion Update*  
-*This subclass was published on October 2nd, 2025.*  
-
 Psions wield magic and extraordinary powers through the power of thought. They develop their minds as fonts of power that manifest spells and grow stronger over the course of their adventuring careers. You can find everything you need to play one of these psionic powerhouses in the next few sections.
 
 ## Core Traits
@@ -15,6 +13,30 @@ Psions wield magic and extraordinary powers through the power of thought. They d
 **Skill Proficiencies:** *Choose 2:* Arcana, Insight, Intimidation, Investigation, Medicine, Perception, or Persuasion.  
 **Weapon Proficiencies:** Simple weapons  
 **Starting Equipment:** *Choose A or B:* (A) Spear, 2 Daggers, Light Crossbow, 20 Bolts, Case, Dungeoneer's Pack, and 6 GP; or (B) 50 GP  
+
+**Psion Features**
+| Level  | Proficiency Bonus | Class Features | Energy Die | Number of Dice | Cantrips | Prepared Spells |1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|:------:|:-----------------:|:---------------|:----------:|:--------------:|:--------:|:---------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1st  | +2 | Psionic Power, Spellcasting, Subtle Telekinesis | D6  | 4  | 2 | 4  | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 | Psionic Discipline                              | D6  | 4  | 2 | 5  | 3 | — | — | — | — | — | — | — | — |
+| 3rd  | +2 | Psion Subclass                                  | D6  | 4  | 2 | 6  | 4 | 2 | — | — | — | — | — | — | — |
+| 4th  | +2 | Ability Score Improvement                       | D6  | 4  | 3 | 7  | 4 | 3 | — | — | — | — | — | — | — |
+| 5th  | +3 | Psionic Discipline, Psionic Restoration         | D8  | 6  | 3 | 9  | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th  | +3 | Subclass Feature                                | D8  | 6  | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th  | +3 | Psionic Surge                                   | D8  | 6  | 3 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th  | +3 | Ability Score Improvement                       | D8  | 6  | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th  | +4 | —                                               | D8  | 8  | 3 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Psionic Discipline, Subclass Feature            | D8  | 8  | 4 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | —                                               | D10 | 8  | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement                       | D10 | 8  | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Psionic Discipline                              | D10 | 10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Subclass Feature                                | D10 | 10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | —                                               | D10 | 10 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement                       | D10 | 10 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Psionic Discipline                              | D12 | 12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Psionic Reserves                                | D12 | 12 | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Epic Boon                                       | D12 | 12 | 4 | 21 | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Enkindled Life Force                            | D12 | 12 | 4 | 22 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
 
 ## Level 1: Psionic Power
 You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy Dice. Your Psion level determines the die size and number of Psionic Energy Dice you have, as shown in the Energy Dice column of the Psion Features table.  
@@ -94,12 +116,10 @@ When you use Sharpened Mind, you can also use a different Psionic Discipline thi
 
 ---
 
+*Unearthed Arcana 2025 - The Psion*  
+*This subclass was published on May 27th, 2025.*
 # Psion
 *A Master of Psionic Power*  
-
-*Unearthed Arcana 2025 - The Psion*  
-*This subclass was published on May 27th, 2025.*  
-
 Psions weave magic and extraordinary powers through the power of their minds. They develop their minds as fonts of power that manifest spells and grow stronger over the course of their adventuring careers. You can find everything you need to play one of these psionic powerhouses in the next few sections.
 
 ## Core Traits
@@ -111,6 +131,30 @@ Psions weave magic and extraordinary powers through the power of their minds. Th
 **Skill Proficiencies:** *Choose 2:* Arcana, Insight, Intimidation, Investigation, Medicine, Perception, or Persuasion.  
 **Weapon Proficiencies:** Simple weapons  
 **Starting Equipment:** *Choose A or B:* (A) Spear, 2 Daggers, Light Crossbow, 20 Bolts, Case, Dungeoneer's Pack, and 6 GP; or (B) 50 GP  
+
+**Psion Features**
+| Level  | Proficiency Bonus | Class Features | Energy Die | Number of Dice | Cantrips | Prepared Spells |1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|:------:|:-----------------:|:---------------|:----------:|:--------------:|:--------:|:---------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1st  | +2 | Spellcasting, Psionic Power, Subtle Telekinesis | D6  | 4  | 2 | 4  | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 | Psionic Discipline, Psionic Modes               | D6  | 4  | 2 | 5  | 3 | — | — | — | — | — | — | — | — |
+| 3rd  | +2 | Psion Subclass                                  | D6  | 4  | 2 | 6  | 4 | 2 | — | — | — | — | — | — | — |
+| 4th  | +2 | Ability Score Improvement                       | D6  | 4  | 2 | 7  | 4 | 3 | — | — | — | — | — | — | — |
+| 5th  | +3 | Psionic Restoration                             | D8  | 6  | 2 | 9  | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th  | +3 | Subclass Feature                                | D8  | 6  | 2 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th  | +3 | Psionic Surge                                   | D8  | 6  | 2 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th  | +3 | Ability Score Improvement                       | D8  | 6  | 2 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th  | +4 | —                                               | D8  | 8  | 2 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Psionic Discipline, Subclass Feature            | D8  | 8  | 3 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | —                                               | D10 | 8  | 3 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement                       | D10 | 8  | 3 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | —                                               | D10 | 10 | 3 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Subclass Feature                                | D10 | 10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | —                                               | D10 | 10 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement                       | D10 | 10 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Psionic Discipline                              | D12 | 12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | —                                               | D12 | 12 | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Epic Boon                                       | D12 | 12 | 4 | 21 | 4 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Enkindled Lifeforce                             | D12 | 12 | 4 | 22 | 4 | 3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 |
 
 ## Level 1: Spellcasting
 You have learned how to channel magical energy using the power of your mind. See the Player's Handbook for the rules on spellcasting. The information below details how you use those rules with Psion spells, which appear in the Psion spell list later in the class's description.  
@@ -156,7 +200,6 @@ When you roll Initiative, you can expend one of your Hit Point Dice and regain o
 ## Level 20: Enkindled Lifeforce
 Once per turn, when you expend one Psionic Energy Die and roll it for a Psion feature or Psionic Discipline, you can expend two of your Hit Point Dice to roll two additional Psionic Energy Dice and add the numbers rolled to the total.
 
-
 ### Psionic Discipline Options
 Psionic Discipline options appear in alphabetical order.
 
@@ -193,3 +236,27 @@ When you cast a Psion spell from the Abjuration or Divination school with a cast
 
 **Tactical Mind**  
 When you take the Study action, you can expend one Psionic Energy Die, roll it, and add the number rolled to the ability check.
+
+---
+
+*Expanded Psionics Handbook 3.5e p.19*
+# Psion
+The striking fist or flashing sword pales beside a psion’s focused stare. Psionic powers arise from a regimen of strict mental discipline developed over months and years of self scrutiny and subconscious discovery. Those who overcome their personal demons, fears, and other pitfalls of intense self-reflection learn to call upon an internal reservoir of psionic power.  
+Psions depend on a continual study of their own minds to discover an ever wider range of mental powers. They meditate on memories and the nature of memory itself, debate with their own fragment personalities, and delve into the dark recesses of their minds’ convoluted corridors. “Know thyself” is not just a saying for a psion—it’s the road to power.  
+**Adventures:** A psion adventures to stimulate his mind. New experiences translate to new avenues of thought, and eventually to the discovery of previously latent abilities. A psion’s powers are innate but not effortlessly attained.  
+Good psions seek what is best in the world and attempt to preserve those elements with their mastery of mental powers. Evil psions seek to mold others to their own desires, whether using their powers openly or in secret.  
+**Characteristics:** The psion draws real power from his mind. His power is a logical expression of lore attained through ongoing self-study. His aggressive powers do not freely scale as do the spells of arcane and divine casters, but he enjoys supreme flexibility in accessing those powers. A psion must choose one discipline in which to focus, at the cost of losing access to the signature powers found in other disciplines—so in a sense the psion character class is six classes rather than one. A shaper (a psion who has selected metacreativity as her discipline) is a very different character from a telepath (a psion whose discipline is telepathy).  
+**Alignment:** For a psion, psionics is a personal art. Psions look always inward, so they tend slightly toward neutrality over both chaos and law, but being neutral is not a requirement. Psions can be either good or evil.  
+**Religion:** Psions are not particularly drawn to any deity, due to their exceptional focus on their own personal potential. Psions who do revere a deity do not conform to any general choice.  
+**Background:** Those destined to be psions show signs of mental powers from the time they are just a few years old, but manifestations become especially noticeable at puberty. Unexplained noises and lights, crockery flying through the air of its own accord, and the appearance of small items out of thin air are common occurrences. Many who have the gift grow out of it, turning away from their potential. However, a few embrace their newfound special powers. Psions are often on their own, misunderstood and feared by friends and family. Sometimes, psions find others with similar abilities and form informal networks, small societies, or even tiny communes populated with individuals who all possess some psionic ability.  
+**Races:** The inborn gift for psionics is unpredictable, and it can show up in any of the common races. Of the races with a penchant for psionic ability (those described in Chapter 1 of this book), elans are most likely to take up the psion mantle. Mind fl ayers are especially likely to become psions, since their abilities are actually components of a deeper psionic nature—they possess awesome psionic might even without taking levels in the psion class.  
+**Other Classes:** Psions enjoy the company of monks and psychic warriors, sharing those characters’ dedication to self-mastery. Psions sometimes get off on the wrong foot with members of spellcasting classes such as sorcerers and wizards, because some psions feel that magic is a crutch for the mind. They are very suspicious of wilders, since the uncontained raw emotion of the wilder is anathema to the psion’s disciplined path.  
+**Role:** A psion’s powers make him a good addition to any party. Psions take on differing roles within a party, based on the discipline each one selects. For example, seers (specialists in clairsentience) serve to guide parties in diffi cult spots, while shapers (psions who have chosen metacreativity as their discipline) vastly upgrade the party’s options in a fight.
+
+## Game Rule Information
+Psions have the following game statistics.  
+**Abilities:** Intelligence determines how powerful a power a psion can manifest, how many powers he can manifest, and how hard those powers are to resist. See Class Features, below.  
+**Alignment:** Any.  
+**Hit Die:** d4.
+
+---

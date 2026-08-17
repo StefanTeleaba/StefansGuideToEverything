@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Shield of Faith
 *Level 1 Abjuration (Cleric, Paladin)*
 
@@ -17,7 +16,6 @@ A shimmering field surrounds a creature of your choice within range, granting it
 ---
 
 *Player's Handbook 5.5e p.316*
-
 # Shield of Faith
 *Level 1 Abjuration (Cleric, Paladin)*
 

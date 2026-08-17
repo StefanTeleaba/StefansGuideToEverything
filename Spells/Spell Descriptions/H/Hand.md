@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Arcane Hand
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -25,7 +24,6 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 ---
 
 *Player's Handbook 5.5e p.246*
-
 # Bigby's Hand
 *Level 5 Evocation (Sorcerer, Wizard)*
 

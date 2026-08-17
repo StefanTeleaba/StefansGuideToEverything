@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.302*
-
 # Otiluke's Freezing Sphere
 *Level 6 Evocation (Sorcerer, Wizard)*
 

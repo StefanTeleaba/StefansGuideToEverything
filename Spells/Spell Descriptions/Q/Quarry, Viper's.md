@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Viper's Quarry
 *Level 2 Divination (Ranger)*  
 

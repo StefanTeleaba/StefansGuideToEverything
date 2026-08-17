@@ -9,7 +9,5 @@ You are an initiate of the Cult of the Dragon. You discovered or were brought to
 **Equipment:** Choose A or B: (A) Calligrapher's Supplies, Dagger, Glass Bottle, Lamp, Manacles, Oil (5 flasks), 2 Pouches, Robe, Rope, 30 GP; or (B) 50 GP
 
 ![Dragon Cultist](https://5e.tools/img/backgrounds/FRHoF/Dragon%20Cultist.webp)
-![Cult of the Dragon](https://5e.tools/img/book/FRHoF/153-06-002.cult-of-the-dragon.webp)
-![Cult of the Dragon](https://5e.tools/img/book/FRHoF/154-06-003.cult-of-the-dragon-items.webp)
 
 ---

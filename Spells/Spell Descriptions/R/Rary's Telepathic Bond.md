@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.311*
-
 # Rary's Telepathic Bond
 *Level 5 Divination (Bard, Wizard)*
 

@@ -1,6 +1,6 @@
 *Xanathar's Guide to Everything 5e p.150*
 # Absorb Elements
-*Level 1 Abjuration (Druid, Ranger, Sorcerer, Wizard)*
+*Level 1 Abjuration (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Reaction, which you take when you take Acid, Cold, Fire, Lightning, or Thunder damage  
 **Range:** Self  

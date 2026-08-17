@@ -9,9 +9,5 @@ You accepted an invitation to join the Harpers, pledging an oath to uphold the H
 **Equipment:** Choose A or B: (A) Disguise Kit, Bedroll, Costume, Grappling Hook, Rope, Traveler's Clothes, 14 GP; or (B) 50 GP
 
 ![Harper](https://5e.tools/img/backgrounds/FRHoF/Harper.webp)
-![Harper](https://5e.tools/img/book/FRHoF/159-06-008.harpers.webp)
-![Harper](https://5e.tools/img/book/FRHoF/160-06-009.harpers-items.webp)
-![Harper](https://5e.tools/img/book/FRAiF/000-00-001.harpers-music.webp)
-*A Harper's music attracts mysterious animals in the wilderness.*  
 
 ---

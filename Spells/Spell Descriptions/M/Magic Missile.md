@@ -13,10 +13,4 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 ![Magic Missile](https://5e.tools/img/spells/XPHB/Magic%20Missile.webp)
 
-![Magic Missile](https://static.wikia.nocookie.net/forgottenrealms/images/f/f3/Magic_missile_AFR.jpg/revision/latest/scale-to-width-down/536?cb=20220524082126)
-
-![Magic Missile](https://static.wikia.nocookie.net/forgottenrealms/images/d/dd/Magic_missile-5e.jpg/revision/latest/scale-to-width-down/479?cb=20170612144643)
-
-![Magic Missile](https://static.wikia.nocookie.net/forgottenrealms/images/b/b3/Chickenspell.png/revision/latest/scale-to-width-down/800?cb=20220218165622)
-
 ---

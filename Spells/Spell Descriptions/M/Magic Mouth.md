@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Magic Mouth
 *Level 2 Illusion (Bard, Wizard)*
 
@@ -17,7 +16,6 @@ The trigger can be as general or as detailed as you like, though it must be base
 ---
 
 *Player's Handbook 5.5e p.295*
-
 # Magic Mouth
 *Level 2 Illusion (Bard, Wizard)*
 

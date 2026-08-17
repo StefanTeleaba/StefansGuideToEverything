@@ -1,5 +1,4 @@
 *D&D Beyond Drops, June 2026*
-
 # Searing Orb
 *Level 2 Evocation (Cleric, Paladin)*
 

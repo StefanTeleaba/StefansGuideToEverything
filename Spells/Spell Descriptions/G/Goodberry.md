@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Goodberry
 *Level 1 Conjuration (Druid, Ranger)*
 
@@ -16,7 +15,6 @@ Uneaten berries disappear when the spell ends.
 ---
 
 *Player's Handbook 5.5e p.280*
-
 # Goodberry
 *Level 1 Conjuration (Druid, Ranger)*
 

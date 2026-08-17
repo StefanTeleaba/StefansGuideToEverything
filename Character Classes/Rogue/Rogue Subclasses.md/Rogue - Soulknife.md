@@ -49,4 +49,24 @@ Once you use this feature, you can't do so again until you finish a Long Rest un
 
 ---
 
-![Soulknife](https://static.wikia.nocookie.net/forgottenrealms/images/f/f3/Soulknife_Spy_AFR.jpg/revision/latest?cb=20210724125929)
+*Tasha's Cauldron of Everything 5e p.63*
+# Soulknife
+Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.  
+Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.  
+As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.
+
+---
+
+*Expanded Psionics Handbook 3.5e p.26*
+# Soulknife
+A soulknife recognizes his own mind as the most beautiful—and the most deadly—thing in all creation. With this understanding and through extended practice, a soulknife learns to forge his mental strength into a shimmering blade of semisolid psychic energy.  
+Each soulknife’s personal blade, referred to as a mind blade, differs in color and shape according to his personality, mental strength, and even mood. Although no two mind blades look alike, all share the same lethal qualities. Because soulknives turn the power of their minds to such weaponry, they are notorious for their violence.  
+**Adventures:** While caution and forethought go into a soulknife’s preparation for adventure, most have a hard time restraining their natural bravado and showmanship. After all, how many adventurers can dispatch opponents with a blade materialized from pure thought? Thus, for many soulknives, adventuring presents an opportunity to do what they love most: Wield the idealized blade wrought of their innermost desires.  
+**Characteristics:** More than any other psionic class, the soulknife fights with psionic power directly in both melee and ranged combat. Strength, combat prowess, and psionic talent allow the soulknife to claim equal footing—at least—with any other combat-oriented class on the field of battle.  
+**Alignment:** Despite their inborn showmanship, soulknives are often lawful, utilizing a disciplined mindset to idealize and materialize their mind blades. Chaotic aligned soulknives rely on strength of spirit instead of rigid discipline to materialize their mind blades. Characters who are neutral with respect to law and chaos rarely become soulknives.  
+**Religion:** Soulknives who prefer to worship sometimes choose deities such as St. Cuthbert (deity of retribution) or Heironeous (deity of valor). Evil soulknives often follow Erythnul, delighting in their ability to slaughter with the power of their minds.  
+**Background:** Many who have the ability and desire to mix the manifestation of psionic power with military might become psychic warriors, but for those with the right mix of talent and skill, the way of the soulknife is more alluring. Soulknives are trained for the most part by older, more experienced soulknives.  
+**Races:** The inborn gift for psionics is unpredictable, and it can show up in any of the common races. Of the races with a penchant for psionic ability (those described in Chapter 1 of this book), xephs seem especially likely to end up as soulknives. Among all other creatures, virtually no opportunity for soulknife training is available.  
+**Other Classes:** Soulknives are most comfortable with those who have similarly aggressive bents, such as monks, fighters, and paladins. They are less comfortable with psychic warriors (perhaps due to a feeling of competition), spellcasters, psions, and wilders, though a soulknife can discipline himself to manage most any relationship.
+
+---

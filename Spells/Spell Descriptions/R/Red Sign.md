@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Red Sign
 *Level 6 Conjuration (Sorcerer, Warlock, Wizard)*
 

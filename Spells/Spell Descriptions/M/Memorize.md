@@ -1,5 +1,4 @@
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
 # Memorize
 *Level 1 Enchantment (Bard, Cleric, Wizard)*
 

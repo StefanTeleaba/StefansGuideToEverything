@@ -1,7 +1,7 @@
+*Dungeon Master's Guide 5.5e p.269*
 # Heward's Handy Haversack
 *Wondrous item, Rare*  
-
-**Weight:** 5 lb.  
+*5 lb.*
 
 This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 200 pounds of material, not exceeding a volume of 25 cubic feet. The central pouch can hold up to 500 pounds of material, not exceeding a volume of 64 cubic feet. The haversack always weighs 5 pounds, regardless of its contents.  
 
@@ -11,4 +11,8 @@ If any of its pouches is overloaded, pierced, or torn, the haversack ruptures an
 
 Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.  
 
-Placing the haversack inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.  
+Placing the haversack inside an extradimensional space created by a Bag of Holding, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
+![Heward's Handy Haversack](https://5e.tools/img/items/XDMG/Hewards%20Handy%20Haversack.webp)
+
+---

@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Shadowy Eruption
 *Level 3 Conjuration (Sorcerer, Warlock, Wizard)*
 

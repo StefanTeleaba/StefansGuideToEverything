@@ -1,5 +1,4 @@
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
 # Hangover
 *Level 2 Enchantment (Bard, Sorcerer, Wizard)*
 

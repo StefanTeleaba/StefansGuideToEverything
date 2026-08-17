@@ -11,8 +11,4 @@ You touch a willing creature who isn't wearing armor. Until the spell ends, the 
 
 ![Mage Armor](https://5e.tools/img/spells/XPHB/Mage%20Armor.webp)
 
-![Mage Armor](https://static.wikia.nocookie.net/forgottenrealms/images/1/19/Armor_of_Shadows_Arena.png/revision/latest?cb=20220911100729)
-
-![Mage Armor](https://static.wikia.nocookie.net/forgottenrealms/images/1/15/Mage_armor_spellfire.png/revision/latest/scale-to-width-down/298?cb=20260207165710)
-
 ---

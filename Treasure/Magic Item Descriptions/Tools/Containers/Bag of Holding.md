@@ -27,4 +27,8 @@ If the bag is overloaded, or if sharp objects pierce it (from inside or outside)
 
 If a bag of holding is placed within a portable hole a rift to the Astral Plane is torn in the space: Bag and hole alike are sucked into the void and forever lost. If a portable hole is placed within a bag of holding, it opens a gate to the Astral Plane: The hole, the bag, and any creatures within a 10-foot radius are drawn there, destroying the portable hole and bag of holding in the process.
 
-Moderate conjuration; CL 9th; Craft Wondrous Item, secret chest. 
+Moderate conjuration; CL 9th; Craft Wondrous Item, secret chest.
+
+---
+
+![Bag of Holding](https://static.wikia.nocookie.net/forgottenrealms/images/3/39/Bag_of_Holding_AFR.jpg/revision/latest?cb=20210724165734)

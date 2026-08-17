@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Lightfoot
 *Level 1 Transmutation (Ranger)*
 

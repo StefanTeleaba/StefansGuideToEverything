@@ -12,8 +12,8 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 
 
 ---
-# Alamion, the Frost Father
 *Dragon Magazine 278, p.108*
+# Alamion, the Frost Father
 
 **Associated Spell:** -  
 **Attunement:** 1 Hour  
@@ -29,9 +29,8 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 ***Sentinel.*** Alamion changes in appearance from shining, etched steel to glowing, translucent ice when fire-using creatures (any creature that has a fire-based attack) are within 120 feet of it. Wherever the wielder goes, so long as she grips the weapon and is within 120 feet of a fire-using creature, she leaves frosted footprints.  
 ***Bane.*** You gain a +2 bonus to attack rolls against Aberrations, Elementals, Fey and Fiends with this weapon. This weapon deals an additional 2d6 damage on a Hit against Aberrations, Elementals, Fey and Fiends.  
 
-
-
 ---
+*Dragon Magazine 278, p.108*
 This longsword is part of a matched pair of weapons, the other being the short sword Malamion. 
 
 *Alamion's blade is slightly thinner than a typical longsword blade and has a fuller down the center. Acid-etched snowflake patterns are scattered along the length of the blade, most of them concentrated near the hilt. The hilt of the sword is made of bronze sandwiched between two pieces of ivory carved to show clouds unleashing winds and snow. The grip is covered with mother-of-pearl lashed securely into place with bronze wire. The pommel of the weapon is a solid bronze globe with the snowflake lozenge of Auril etched into the bottom.*

@@ -1,5 +1,4 @@
 *Forgotten Realms: Heroes of Faerun 5.5e p.145*
-
 # Laeral's Silver Lance
 *Level 3 Evocation (Cleric, Sorcerer, Wizard)*
 
@@ -15,7 +14,6 @@ Silver energy bursts out from you in a 120-footlong, 5-foot-wide Line. Each crea
 ---
 
 *Homebrew*
-
 # Silver Lance
 *Level 3 Evocation (Sorcerer, Wizard)*
 

@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.312*
-
 # Remove Curse
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 

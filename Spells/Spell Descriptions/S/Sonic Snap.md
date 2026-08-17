@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)
-
 # Sonic Snap
 *Evocation Cantrip (Bard, Sorcerer, Wizard)*
 

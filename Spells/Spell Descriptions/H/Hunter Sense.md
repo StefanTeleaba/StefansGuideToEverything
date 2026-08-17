@@ -1,5 +1,4 @@
 *Grim Hollow: Player's Guide 2024 5.5e p.194*
-
 # Hunter Sense
 *Divination Cantrip (Druid, Ranger)*
 

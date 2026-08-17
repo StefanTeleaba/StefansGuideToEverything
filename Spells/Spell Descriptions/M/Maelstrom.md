@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by Sax*](https://bio.site/spaghetti0)
-
 # Maelstrom
 *Level 5 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -19,7 +18,6 @@ Churning waters turn the maelstrom’s area of effect into Difficult Terrain unt
 ---
 
 *Xanathar's Guide to Everything 5e p.160*
-
 # Maelstrom
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 

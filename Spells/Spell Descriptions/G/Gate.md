@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.277*
-
 # Gate
 *Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
 

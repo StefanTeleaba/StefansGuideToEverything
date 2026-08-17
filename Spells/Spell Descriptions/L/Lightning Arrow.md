@@ -1,5 +1,4 @@
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 # Lightning Arrow
 *Level 3 Transmutation (Ranger)*
 
@@ -16,7 +15,6 @@ The weapon or ammunition then returns to its normal form.
 ---
 
 *Player's Handbook 5.5e p.292*
-
 # Lightning Arrow
 *Level 3 Transmutation (Ranger)*
 

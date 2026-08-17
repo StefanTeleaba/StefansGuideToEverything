@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.289*
-
 # Jallarzi's Storm of Radiance
 *Level 5 Evocation (Warlock, Wizard)*
 

@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.299*
-
 # Mislead
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 

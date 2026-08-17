@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Lay of the Land
 *Level 1 Divination (Druid, Ranger)*
 

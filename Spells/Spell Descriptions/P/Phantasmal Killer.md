@@ -1,5 +1,4 @@
 *Player’s Handbook 5.5e p.304*
-
 # Phantasmal Killer
 *Level 4 Illusion (Bard, Wizard)*
 

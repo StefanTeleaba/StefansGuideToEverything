@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Paralytic Missile
 *Level 2 Evocation (Sorcerer, Wizard)*
 

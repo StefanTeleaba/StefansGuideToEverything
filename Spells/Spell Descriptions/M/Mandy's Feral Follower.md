@@ -1,5 +1,4 @@
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
 # Mandy's Feral Follower
 *Level 4 Transmutation (Wizard)*
 

@@ -1,6 +1,6 @@
 *Homebrew*
 # Alarm
-*Level 1 Abjuration (Ranger, Wizard)*
+*Level 1 Abjuration (Artificer, Ranger, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:** 30 feet  
@@ -17,7 +17,7 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 *Player's Handbook 5.5e p.239*
 # Alarm
-*Level 1 Abjuration (Ranger, Wizard)*
+*Level 1 Abjuration (Artificer, Ranger, Wizard)*
 
 **Casting Time:** 1 minute or Ritual  
 **Range:** 30 feet  

@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.281*
-
 # Greater Invisibility
 *Level 4 Illusion (Bard, Sorcerer, Wizard)*
 

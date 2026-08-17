@@ -1,5 +1,4 @@
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
 # Moment to Think
 *Transmutation Cantrip (Cleric, Sorcerer, Wizard)*
 

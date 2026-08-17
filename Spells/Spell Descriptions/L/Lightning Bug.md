@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Lightning Bug
 *Level 1 Evocation (Sorcerer, Wizard)*
 

@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Hunter's Mercy
 *Level 1 Divination (Ranger)*
 

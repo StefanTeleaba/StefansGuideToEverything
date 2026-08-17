@@ -1,5 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, 5.5e p.13*
-
+*Unearthed Arcana 2025 - Psion Update 5.5e p.13*
 # Psychic Scream
 *Level 9 Enchantment (Bard, Psion, Sorcerer, Warlock)*
 
@@ -14,8 +13,7 @@ At the end of each of its turns, the Stunned target repeats the save, ending the
 
 ---
 
-*Unearthed Arcana 2025 - The Psion, 5.5e p.10*
-
+*Unearthed Arcana 2025 - The Psion 5.5e p.10*
 # Psychic Scream
 *Level 9 Enchantment (Bard, Psion, Sorcerer, Warlock)*
 
@@ -31,7 +29,6 @@ At the end of each of its turns, the Stunned target repeats the save, ending the
 ---
 
 *Xanathar's Guide to Everything 5e p.163*
-
 # Psychic Scream
 *Level 9 Enchantment (Bard, Psion, Sorcerer, Warlock)*
 

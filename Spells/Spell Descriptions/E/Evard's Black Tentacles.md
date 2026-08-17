@@ -1,5 +1,5 @@
 *Homebrew*
-# Black Tentacles
+# Evard's Black Tentacles
 *Level 4 Conjuration (Wizard)*
 
 **Casting Time:** Action  

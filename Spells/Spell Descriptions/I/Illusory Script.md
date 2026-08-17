@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.288*
-
 # Illusory Script
 *Level 1 Illusion (Bard, Wizard)*
 

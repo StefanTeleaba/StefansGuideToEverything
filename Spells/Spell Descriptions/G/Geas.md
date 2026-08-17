@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.278*
-
 # Geas
 *Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 

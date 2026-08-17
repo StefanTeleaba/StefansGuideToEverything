@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.317*
-
 # Simulacrum
 *Level 7 Illusion (Wizard)*
 

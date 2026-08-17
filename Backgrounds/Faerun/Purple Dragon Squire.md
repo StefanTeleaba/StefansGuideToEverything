@@ -9,7 +9,5 @@ You've pledged your life to the safety of Cormyr and sought admission to that re
 **Equipment:** Choose A or B: (A) Spear, Navigator's Tools, Fine Clothes, 9 GP; or (B) 50 GP
 
 ![Purple Dragon Squire](https://5e.tools/img/backgrounds/FRHoF/Purple%20Dragon%20Squire.webp)
-![Purple Dragon Knights](https://5e.tools/img/book/FRHoF/168-06-017.purple-dragon-knights.webp)
-![Purple Dragon Knights](https://5e.tools/img/book/FRHoF/169-06-018.purple-dragon-items.webp)
 
 ---

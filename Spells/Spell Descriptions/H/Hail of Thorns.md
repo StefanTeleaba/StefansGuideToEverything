@@ -1,5 +1,4 @@
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
 
@@ -15,7 +14,6 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 ---
 
 *Player's Handbook 5.5e p.283*
-
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
 

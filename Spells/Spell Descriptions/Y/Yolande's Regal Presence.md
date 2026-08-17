@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.343*
-
 # Yolande's Regal Presence
 *Level 5 Enchantment (Bard, Wizard)*
 

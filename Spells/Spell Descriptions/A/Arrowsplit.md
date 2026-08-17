@@ -12,10 +12,10 @@ When you cast the spell, the ammunition you're using splits into three identical
 ***Using a Higher-Level Spell Slot.*** The ammunition splits into one more piece for each spell slot level above 3.
 
 ---
+
 *Champions of Ruin 3.5e p.28*
 # Arrowsplit
-*Conjuration (Creation)*
-
+*Conjuration (Creation)*  
 **Level:** Assassin 3, ranger 3, justice of weald and woe 3  
 **Components:** V, M  
 **Casting Time:** 1 swift action  
@@ -24,9 +24,7 @@ When you cast the spell, the ammunition you're using splits into three identical
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Spell Resistance:** Yes  
-
-This spell is cast upon a masterwork arrow or bolt, causing it to split in mid-flight into 1d4+1 identical masterwork arrows or bolts. All the missiles strike the same target, and you must make a separate attack roll for each missile. The arrow or bolt must be fired during the same round the spell is cast, or the magic dissipates and is lost. The projectile is destroyed even if it misses its target.
-
+This spell is cast upon a masterwork arrow or bolt, causing it to split in mid-flight into 1d4+1 identical masterwork arrows or bolts. All the missiles strike the same target, and you must make a separate attack roll for each missile. The arrow or bolt must be fired during the same round the spell is cast, or the magic dissipates and is lost. The projectile is destroyed even if it misses its target.  
 *Material Component:* Masterwork arrow or bolt.
 
 ---

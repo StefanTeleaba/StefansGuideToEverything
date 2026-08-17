@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Purging Blade
 *Level 1 Transmutation (Paladin)*
 

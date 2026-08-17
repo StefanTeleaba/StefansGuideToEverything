@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.286*
-
 # Hold Person
 *Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 

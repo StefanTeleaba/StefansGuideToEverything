@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.296*
-
 # Mass Suggestion
 *Level 6 Enchantment (Bard, Sorcerer, Wizard)*
 
