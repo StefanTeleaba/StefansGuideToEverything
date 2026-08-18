@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Sphere of Invisibility
 *Level 3 Illusion (Sorcerer, Wizard)*
 

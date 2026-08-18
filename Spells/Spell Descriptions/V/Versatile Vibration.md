@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Versatile Vibration  
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -17,7 +16,10 @@ Until the spell ends, you can take a Magic action to maintain and reposition the
 
 ---
 
-*Magic of Faerun 3.5e p.101*  
 *Spell Compendium 3.5e p.195*  
+
+---
+
+*Magic of Faerun 3.5e p.101*
 
 ---

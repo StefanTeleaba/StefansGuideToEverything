@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by bored_ethan*](https://bio.site/spaghetti0)
-
 # Waterspout
 *Level 2 Transmutation (Druid)*
 

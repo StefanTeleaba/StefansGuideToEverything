@@ -16,15 +16,15 @@ Until the spell ends, you can take a Magic action to launch a new bolt of force.
 
 *Wizard's Spell Compendium Volume I 2e p.80*
 # Bigby's Besieging Bolt
-(Evocation)
-Level: 6
-Range: Special
-Components: V, S, M
-Casting Time: 1 rd.
-Duration: 1 rd./level
-Area of Effect: Special
-Saving Throw: None
-This spell is similar to magic missile. When the spell is cast, the wizard is able to fire one magical siege bolt for every two levels of the caster. The bolt will behave as a given siege engine missile in range and effect. The type of siege missile the bolt mimics depends on the caster's level.
+*(Evocation)*  
+**Level:** 6  
+**Range:** Special  
+**Components:** V, S, M  
+**Casting Time:** 1 rd.  
+**Duration:** 1 rd./level  
+**Area of Effect:** Special  
+**Saving Throw:** None  
+This spell is similar to magic missile. When the spell is cast, the wizard is able to fire one magical siege bolt for every two levels of the caster. The bolt will behave as a given siege engine missile in range and effect. The type of siege missile the bolt mimics depends on the caster's level.  
 The bolts must be launched at the rate of one every two rounds in succeeding rounds. During this time the caster can do nothing else. If the spell is interrupted, no additional bolts can be launched. The bolts strike their target unerringly.
 
 | Wizard's Level | Siege Engine Missile |
@@ -33,7 +33,7 @@ The bolts must be launched at the rate of one every two rounds in succeeding rou
 | 14th           | catapult, heavy      |
 | 16th           | trebuchet            |
 
-The material component is a small stone sprinkled with diamond dust.
+The material component is a small stone sprinkled with diamond dust.  
 *Notes:* Uncommon or rare (WoG).
 
 ---

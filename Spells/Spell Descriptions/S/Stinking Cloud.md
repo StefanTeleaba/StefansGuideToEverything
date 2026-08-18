@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.321*
-
 # Stinking Cloud
 *Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 

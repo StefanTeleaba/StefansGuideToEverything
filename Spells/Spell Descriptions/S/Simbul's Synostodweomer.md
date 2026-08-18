@@ -9,7 +9,8 @@
 
 You imbue one creature you touch with magical healing energy for the duration. Whenever the target casts a spell using a spell slot, the target can immediately roll a number of unexpended Hit Point Dice equal to the spell slot's level and regain Hit Points equal to the roll's total plus your spellcasting ability modifier; those dice are then expended.
 
-![With her spell Simbul's Synostodweomer, the Simbul protects her sister Dove Falconhand in battle](https://5e.tools/img/book/FRHoF/037-01-035.spell-simbuls-synostodweomer.webp)
+![Simbul's Synostodweomer](https://5e.tools/img/book/FRHoF/037-01-035.spell-simbuls-synostodweomer.webp)  
+*With her spell Simbul's Synostodweomer, the Simbul protects her sister Dove Falconhand in battle*
 
 ---
 

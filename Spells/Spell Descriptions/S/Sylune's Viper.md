@@ -1,5 +1,4 @@
 *Forgotten Realms: Heroes of Faerun 5.5e p.147*
-
 # Sylune's Viper
 *Level 3 Conjuration (Druid, Wizard)*
 

@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Wave of Oblivion
 *Level 9 Evocation (Sorcerer, Warlock, Wizard)*
 

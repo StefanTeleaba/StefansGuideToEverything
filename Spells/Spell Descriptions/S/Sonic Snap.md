@@ -16,5 +16,17 @@ You create a brief but loud noise adjacent to a creature you can see within rang
 ---
 
 *Spell Compendium 3.5e p.195*
+# Sonic Snap
+*Evocation [Sonic]*  
+**Level:** Sorcerer/wizard 0  
+**Components:** V, S  
+**Casting Time:** 1 standard action  
+**Range:** Close (25 ft. + 5 ft./2 levels)  
+**Target:** One creature or object  
+**Duration:** Instantaneous  
+**Saving Throw:** Will partial  
+**Spell Resistance:** Yes  
+*You bark the last word of the spell, and that word takes life, streaking toward your target and exploding in a shout.*  
+You create a brief but loud noise adjacent to the target. The subject takes 1 point of sonic damage and must succeed on a Will saving throw or be deafened for 1 round. This spell has no effect if cast into the area of a silence spell.
 
 ---

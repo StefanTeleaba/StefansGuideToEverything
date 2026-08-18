@@ -1,5 +1,4 @@
 *Grim Hollow: Player's Guide 2024 5.5e p.204*
-
 # Thorn Armor
 *Level 1 Abjuration (Druid, Ranger)*
 

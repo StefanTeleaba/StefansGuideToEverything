@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Striking Fist
 *Level 2 Evocation (Sorcerer, Wizard)*
 

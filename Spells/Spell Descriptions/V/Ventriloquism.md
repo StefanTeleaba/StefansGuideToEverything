@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Ventriloquism
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 

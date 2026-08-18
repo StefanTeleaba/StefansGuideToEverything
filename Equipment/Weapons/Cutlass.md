@@ -16,6 +16,7 @@
 *Forgotten Realms Campaign Setting*  
 *Stormwrack*
 # Cutlass
+*Martial Melee Weapon*  
 **Cost:** 15 GP  
 **Damage:** 1d6  
 **Critical:** 19-20/x2  

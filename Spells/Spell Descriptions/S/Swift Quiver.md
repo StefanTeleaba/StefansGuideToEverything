@@ -1,5 +1,4 @@
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 # Swift Quiver
 *Level 5 Transmutation (Ranger)*
 
@@ -13,7 +12,6 @@ When you cast the spell and as a Bonus Action until it ends, you can make two at
 ---
 
 *Player's Handbook 5.5e p.329*
-
 # Swift Quiver
 *Level 5 Transmutation (Ranger)*
 

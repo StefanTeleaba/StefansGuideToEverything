@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.341*
-
 # Weird
 *Level 9 Illusion (Warlock, Wizard)*
 

@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Voorish Sign
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 

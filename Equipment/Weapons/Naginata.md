@@ -1,12 +1,10 @@
 *Homebrew*
 # Naginata (50 GP)
-*Martial Melee Weapon*
-
+*Martial Melee Weapon*  
 **Damage:** 1d10 Slashing  
 **Properties:** Brutal, Heavy, Reach, Two‑Handed  
 **Mastery:** Graze  
-**Weight:** 6 lb.
-
+**Weight:** 6 lb.  
 ***Brutal.*** When you score a Critical Hit with a Brutal weapon against a creature, the weapon deals one additional die of damage.
 ***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
 ***Reach.*** A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.  
@@ -15,7 +13,10 @@
 
 ---
 
+*Dragon Magazine 331*  
 *Player's Handbook 3.5e p.121*  
+# Naginata
+*Martial Melee Weapon*  
 **Cost:** 10 GP  
 **Damage:** 1d10  
 **Critical:** ×3

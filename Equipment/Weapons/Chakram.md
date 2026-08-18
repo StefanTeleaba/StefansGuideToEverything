@@ -29,6 +29,7 @@
 
 *Arms and Equipment Guide 3.5e p.6*
 # Chakram
+*Exotic Ranged Weapon*
 **Cost:** 15 GP  
 **Damage:** 1d4  
 **Crit:** x3  

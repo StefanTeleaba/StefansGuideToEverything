@@ -1,5 +1,4 @@
 *Cthulhu by Torchlight 5.5e*
-
 # Feline Grace
 *Level 2 Transmutation (Bard, Druid, Ranger, Sorcerer, Warlock, Wizard)*
 
