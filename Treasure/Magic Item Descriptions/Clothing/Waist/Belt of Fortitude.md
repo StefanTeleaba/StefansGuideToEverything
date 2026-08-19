@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Belt of Fortitude
 *Wondrous Item, Uncommon*
 

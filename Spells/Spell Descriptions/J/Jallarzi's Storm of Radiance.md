@@ -12,4 +12,6 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 ***Using a Higher-Level Spell Slot.*** The Radiant and Thunder damage increase by 1d10 for each spell slot level above 5.
 
+![Jallarzi's Storm of Radiance](https://5e.tools/img/spells/XPHB/Jallarzi's%20Storm%20of%20Radiance.webp)
+
 ---

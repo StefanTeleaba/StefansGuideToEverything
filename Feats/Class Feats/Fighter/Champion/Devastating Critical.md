@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Devastating Critical
 *General Feat (Prerequisite: Level 16+, Superior Critical Feature)*  
 You gain the following benefits.  

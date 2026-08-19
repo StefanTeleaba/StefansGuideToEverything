@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Extra Pact Magic Spell Slot
 *Class Feat (Prerequisite: Level 4+, Pact Magic Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Drums of Marching
 *Wondrous Item, Rare*  
 While you are playing this musical instrument, you can give an inspiring performance, bolstering your marching allies (including yourself).  

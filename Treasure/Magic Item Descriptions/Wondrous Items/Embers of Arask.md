@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Embers of Arask
 *Wondrous Item, Uncommon*  
 A command word causes the embers to ignite and become flaming. They cannot be extinguished. They deal 1d6 fire damage to anything they come in contact with.

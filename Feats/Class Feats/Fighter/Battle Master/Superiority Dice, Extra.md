@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Extra Superiority Dice
 *Class Feat (Prerequisite: Level 4+, Combat Superiority Feature)*  
 You gain the following benefits.  

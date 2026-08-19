@@ -1,4 +1,4 @@
-*D&D Beyond Drops - July 2026*
+*D&D Beyond Drops July 2026*
 # Stormwalker's Cloak
 *Wondrous Item, Rare (Requires Attunement)*
 

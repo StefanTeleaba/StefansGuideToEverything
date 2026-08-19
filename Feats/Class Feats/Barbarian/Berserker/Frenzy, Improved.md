@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Frenzy
 *Barbarian Feat (Prerequisite: Level 4+, Frenzy Feature)*  
 You gain the following benefits.  

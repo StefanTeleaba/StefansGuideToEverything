@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Favored Enemy
 *Class Feat (Prerequisite: Level 4+, Favored Enemy Feature)*  
 You gain the following benefits.  

@@ -9,4 +9,4 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 3/day: Hail of Thorns (level 3 version, spell save DC 15)  
 
 ---
-*Homebrew*
+*Homebrew 5.5e*

@@ -1,4 +1,4 @@
-*Homebrew*, *03*
+*Homebrew 5.5e*, *03*
 # Sleep
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -15,7 +15,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 ---
 
-*Homebrew*, *02*
+*Homebrew 5.5e*, *02*
 # Sleep
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -32,7 +32,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 ---
 
-*Homebrew*, *01*
+*Homebrew 5.5e*, *01*
 # Sleep
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 

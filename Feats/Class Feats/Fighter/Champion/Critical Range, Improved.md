@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Critical Range
 *General Feat (Prerequisite: Level 4+, Improved Critical Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Chant of Fortitude
 *Class Feat (Prerequisite: Level 4+, Bardic Inspiration Feature)*  
 You gain the following benefits.  

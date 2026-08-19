@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Mountain's Endurance
 *Racial Feat (Prerequisite: Goliath: Stone Giant Ancestry, Level 4+)*  
 Your ability to shrug off harm improves. You gain the following benefits.  

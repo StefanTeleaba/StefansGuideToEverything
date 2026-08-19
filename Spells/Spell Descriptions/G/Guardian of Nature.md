@@ -2,7 +2,7 @@
 # Guardian of Nature
 *Level 4 Transmutation (Druid, Ranger)*
 
-**Casting Time:** Bonus action  
+**Casting Time:** Bonus Action  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute

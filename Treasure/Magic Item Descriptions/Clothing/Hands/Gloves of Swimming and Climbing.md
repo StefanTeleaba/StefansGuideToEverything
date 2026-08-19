@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Gloves of Swimming and Climbing
 *Wondrous Item, Uncommon*  
 While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.

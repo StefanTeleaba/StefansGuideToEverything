@@ -8,7 +8,7 @@ Each time you make an attack roll with this magic weapon and hit, you can have i
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Javelin of Lightning
 *Weapon (Javelin), Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage. Whether you deal Lightning damage or the weapon's normal damage type, the attack deals an extra 1d6 Lightning damage.  
@@ -16,7 +16,7 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Javelin of Lightning
 *Weapon (Javelin), Very Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage. Whether you deal Lightning damage or the weapon's normal damage type, the target and each creature of your choice within 5 feet of it takes an extra 1d6 Lightning damage.  

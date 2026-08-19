@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Paralyzing Strike
 *Class Feat (Prerequisite: Level 4+, Stunning Strike Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Kibbenimkedaz, the Book of the Names of Stones
 *Wondrous Item, Legendary (Requires Attunement)*  
 You can use an action to cast one of the following spells from the Kibbenimkedaz: *Legend Lore*. The spells use your spellcasting ability and spell save DC.  

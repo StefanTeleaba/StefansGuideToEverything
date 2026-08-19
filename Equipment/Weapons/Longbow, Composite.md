@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Composite Longbow (75 GP)
 *Martial Ranged Weapon*  
 

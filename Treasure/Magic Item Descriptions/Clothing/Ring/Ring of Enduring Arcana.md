@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Enduring Arcana
 *Ring, Rare*
 Wihle wearing this ring, you have Advantage on saving throws against *Counterspell* and checks made to dispel your spells have Disadvantage.

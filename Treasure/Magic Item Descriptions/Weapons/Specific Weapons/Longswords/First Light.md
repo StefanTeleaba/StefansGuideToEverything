@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # First Light
 *Weapon (Longsword), Legendary*  
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +5 when you use the weapon to attack Undead. The weapon deals an extra 3d8 damage of the weapon's type if the target is an Undead.  

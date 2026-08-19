@@ -1,4 +1,4 @@
-*D&D Beyond Drops - August 2026 - Errata*
+*D&D Beyond Drops August 2026 - Errata*
 # Infernal Pact
 *Planar Pact Feat (Prerequisite: Can’t Have Another Planar Pact Feat)*  
 You gain the following benefits.  
@@ -8,7 +8,7 @@ You gain the following benefits.
 
 ---
 
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Infernal Pact
 *Planar Pact Feat (Prerequisite: Can’t Have Another Planar Pact Feat)*  
 You gain the following benefits.  

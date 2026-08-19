@@ -9,4 +9,4 @@ While wearing this armor, you can breathe underwater, and you have a Swim Speed 
 
 ***Blood Frenzy.*** You have Advantage on attack rolls against Bloodied creatures.
 
-*Homebrew*
+*Homebrew 5.5e*

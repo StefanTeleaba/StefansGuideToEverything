@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Extra Lay on Hands
 *Paladin Feat (Prerequisite: Level 4+, Lay on Hands Feature)*  
 You gain the following benefits.  

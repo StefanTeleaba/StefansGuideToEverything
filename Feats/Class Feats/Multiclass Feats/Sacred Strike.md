@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Sacred Strike
 *Class Feat (Prerequisite: Level 4+, Channel Divinity Feature, Sneak Attack Feature)*  
 *Your sneak attack is enhanced by your unshakable faith in a good-aligned deity.*  

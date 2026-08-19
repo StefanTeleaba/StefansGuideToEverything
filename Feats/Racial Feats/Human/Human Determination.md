@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Human Determination
 *Racial Feat (Prerequisite: Human, Level 4+)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Estoc (15 GP)
 *Martial Melee Weapon*
 

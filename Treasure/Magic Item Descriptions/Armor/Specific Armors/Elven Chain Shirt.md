@@ -1,5 +1,5 @@
 ### Elven Chain Shirt
-*Homebrew*  
+*Homebrew 5.5e*  
 
 **Price:** 4,200 GP  
 **Property:** Armor  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Hypnotic Pattern
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*  
 

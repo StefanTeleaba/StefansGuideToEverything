@@ -1,5 +1,5 @@
 # Elemental Touched
-*Homebrew*
+*Homebrew 5.5e*
 
 You harbor a wellspring of elemental energy within yourself. This energy is represented by Elemental Energy Points. You have a number of these points equal to two times your level.  
 You can expend these points to fuel certain powers.  

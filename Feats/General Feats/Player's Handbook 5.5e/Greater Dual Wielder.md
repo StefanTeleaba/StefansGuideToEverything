@@ -1,6 +1,6 @@
 # Greater Dual Wielder
 *General Feat (Prerequisite: Improved Dual Wielder Feat, Strength or Dexterity 19+)*
-*Homebrew*
+*Homebrew 5.5e*
 
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.  

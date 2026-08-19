@@ -1,4 +1,4 @@
-*D&D Beyond Drops - August 2026 - Errata*
+*D&D Beyond Drops August 2026 - Errata*
 # Tortoise Shell
 *Level 2 Evocation (Artificer, Druid, Ranger)*
 

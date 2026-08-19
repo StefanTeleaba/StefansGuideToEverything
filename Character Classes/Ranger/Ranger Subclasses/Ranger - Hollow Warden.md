@@ -39,7 +39,7 @@ You become wholly suffused with the wild’s ancient and terrible power, grantin
 
 ---
 
-*Unearthed Arcana 2025 - Horror Subclasses*  
+*Unearthed Arcana 2025: Horror Subclasses*  
 *This subclass was published on May 6th, 2025.*
 
 # Hollow Warden

@@ -1,22 +1,22 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Wizardry
 *Ring, Uncommon*  
 While wearing this ring, the number of level 1 spell slots you have available is doubled.
 
 ---
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Wizardry
 *Ring, Rare*  
 While wearing this ring, the number of level 2 spell slots you have available is doubled.
 
 ---
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Wizardry
 *Ring, Very Rare*  
 While wearing this ring, the number of level 3 spell slots you have available is doubled.
 
 ---
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Wizardry
 *Ring, Legendary*  
 While wearing this ring, the number of level 4 spell slots you have available is doubled.

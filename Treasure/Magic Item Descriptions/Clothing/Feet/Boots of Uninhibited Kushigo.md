@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Boots of Uninhibited Kushigo
 *Wondrous Item, Rare*  
 ***Experienced and Deadly.*** You can add your Wisdom modifier to the damage rolls of your Unarmed Strikes.

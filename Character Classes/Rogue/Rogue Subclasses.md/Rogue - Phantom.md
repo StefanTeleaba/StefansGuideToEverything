@@ -40,7 +40,7 @@ Your association with death has become so close that you gain the following bene
 
 ---
 
-*Unearthed Arcana 2025 - Horror Subclasses*  
+*Unearthed Arcana 2025: Horror Subclasses*  
 *This subclass was published on May 6th, 2025.*
 
 # Phantom

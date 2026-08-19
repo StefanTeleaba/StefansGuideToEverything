@@ -1,4 +1,4 @@
-*D&D Beyond Drops - June 2026*
+*D&D Beyond Drops June 2026*
 # Amulet of Retributive Healing
 *Wondrous Item, Rare (Requires Attunement)*
 

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Headband of Intellect
 *Wondrous Item, Uncommon*  
 While wearing this headband, your Intelligence score increases by 2.

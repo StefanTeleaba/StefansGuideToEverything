@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Warmth
 *Ring, Uncommon*  
 ***Cold Resistance.*** If you take Cold damage while wearing this ring, the ring reduces the damage you take by 10.  

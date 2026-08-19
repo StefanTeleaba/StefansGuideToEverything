@@ -10,4 +10,4 @@ While wearing this hood, you can concentrate on a second ranger spell you cast w
 Whenever you cast *Hunter's Mark*, a spectral hawk appears and flies above your quarry until the spell ends. The hawk uses the *Hawk* stat block, except it has a Fly Speed of 120 feet and is Invisible. When the spell ends, the hawk disappears. The hawk also disappears of it takes any damage. For the duration, you can see through the hawk's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
 ---
-*Homebrew*
+*Homebrew 5.5e*

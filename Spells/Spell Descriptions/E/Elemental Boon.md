@@ -1,4 +1,4 @@
-*Homebrew*, *Divine Favor*
+*Homebrew 5.5e*, *Divine Favor*
 # Elemental Boon
 *Level 1 Transmutation (Ranger)*
 

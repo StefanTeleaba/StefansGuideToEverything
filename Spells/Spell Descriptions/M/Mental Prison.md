@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update, 5.5e p.13*
+*Unearthed Arcana 2025: Psion Update, 5.5e p.13*
 # Mental Prison
 *Level 6 Illusion (Bard, Psion, Sorcerer, Wizard)*
 

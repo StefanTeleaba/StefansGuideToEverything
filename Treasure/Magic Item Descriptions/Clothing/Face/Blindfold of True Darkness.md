@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Blindfold of True Darkness
 *Wondrous Item, Uncommon*
 

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Faithful Steed
 *Paladin Feat (Prerequisite: Level 8+, Faithful Steed Feature)*  
 You gain the following benefits.  

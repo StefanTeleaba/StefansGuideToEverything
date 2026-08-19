@@ -1,5 +1,5 @@
 ## Balagarn's Iron Horn
-*Homebrew*  
+*Homebrew 5.5e*  
 *Level 1 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action  

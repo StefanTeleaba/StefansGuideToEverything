@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Greater Brutal Strike
 *Barbarian Feat (Prerequisite: Level 12+, Brutal Strike Feature)*  
 You gain the following benefits.  

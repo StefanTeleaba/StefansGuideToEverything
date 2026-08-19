@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cat's Eye Headband
 *Wondrous Item, Uncommon*  
 *These beautiful circlets were often adorned with cat's eye agates, gems that, if enchanted, could bestow darkvision.*  

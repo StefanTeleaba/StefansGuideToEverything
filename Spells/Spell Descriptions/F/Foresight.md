@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.276*
-
 # Foresight
 *Level 9 Divination (Bard, Druid, Warlock, Wizard)*
 

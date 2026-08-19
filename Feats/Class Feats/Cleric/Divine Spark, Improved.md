@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Divine Spark
 *Class Feat (Prerequisite: Level 4+, Channel Divinity: Divine Spark Feature)*  
 You gain the following benefits.  

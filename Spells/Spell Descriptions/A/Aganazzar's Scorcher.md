@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Aganazzar's Scorcher
 *Level 2 Evocation (Sorcerer, Wizard)*
 

@@ -41,7 +41,7 @@ You gain mastery over the spirits you call forth. Whenever you roll on the Spiri
 ---
 
 # College of Spirits
-*Unearthed Arcana 2025 - Horror Subclasses*  
+*Unearthed Arcana 2025: Horror Subclasses*  
 *This subclass was published on May 6th, 2025.*  
 
 *Call Forth Spirits from Beyond the Grave*  

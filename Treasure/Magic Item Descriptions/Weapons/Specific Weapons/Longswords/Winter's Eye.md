@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Winter's Eye
 *Weapon (Longsword), Rare*  
 *Winter's Eye has had several continual flame spells cast upon it as a joke. The illusory flames do no damage but sometimes trick enemies into guarding themselves with flame-resistant magic instead of cold.*  

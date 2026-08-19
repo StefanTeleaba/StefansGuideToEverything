@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Elemental Weapon
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 
@@ -17,9 +17,9 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 # Elemental Weapon
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
+**Casting Time:** Action  
+**Range:** Touch  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 hour
 
 A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Murder
 *Wondrous Item, Uncommon*  
 *Each of these burnished metal bracers is adorned with a grinning skull set with onyx stones in its eye sockets.*  

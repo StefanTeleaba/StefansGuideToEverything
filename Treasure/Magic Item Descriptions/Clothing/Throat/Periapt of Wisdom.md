@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Periapt of Wisdom
 *Wondrous Item, Uncommon*  
 While wearing this pendant, your Wisdom score increases by 2.

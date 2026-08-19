@@ -22,7 +22,7 @@
 
 
 ---
-*Homebrew*  
+*Homebrew 5.5e*  
 **Armor**
 | Armor | AC | Max. Dex Bonus | Strength | Stealth | Weight | Cost |
 |-------|:--:|:--------------:|----------|---------|:------:|-----:|

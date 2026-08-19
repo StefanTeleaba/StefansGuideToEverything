@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Prodigy
 *Racial Feat (Prerequisite: Human, Level 4+)*  
 You have a knack for learning new things.  

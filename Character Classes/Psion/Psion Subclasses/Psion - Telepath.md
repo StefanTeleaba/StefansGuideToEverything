@@ -1,7 +1,7 @@
 # Telepath
 *Master Tactics in the Landscape of the Mind*  
 
-*Unearthed Arcana 2025 - Psion Update*  
+*Unearthed Arcana 2025: Psion Update*  
 *This subclass was published on October 2nd, 2025.*  
 
 Telepaths are masters of mind magic. They use their psionic powers for all matters of the mind, whether they bolster the mental defenses of allies or probe the thoughts of others undetected. A telepath can be a bastion of psionic aid or a crafty manipulator.
@@ -42,7 +42,7 @@ In addition, when a creature under the effect of the spell starts its turn, you 
 # Telepath
 *Master Tactics in the Landscape of the Mind*  
 
-*Unearthed Arcana 2025 - The Psion*  
+*Unearthed Arcana 2025: The Psion*  
 *This subclass was published on May 27th, 2025.*  
 
 Telepaths are masters of mind magic. They use their psionic powers for all matters of the mind, whether they bolster the mental defenses of allies or probe the thoughts of others undetected. A telepath can be a bastion of psionic aid or a crafty manipulator.

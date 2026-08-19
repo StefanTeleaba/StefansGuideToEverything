@@ -37,7 +37,7 @@ Your deep connection to this domain renders you a hallowed harbinger of death, g
 ---
 
 # Grave Domain
-*Unearthed Arcana 2025 - Horror Subclasses*  
+*Unearthed Arcana 2025: Horror Subclasses*  
 *This subclass was published on May 6th, 2025.*  
 
 *Embody Deific Forces of Death*

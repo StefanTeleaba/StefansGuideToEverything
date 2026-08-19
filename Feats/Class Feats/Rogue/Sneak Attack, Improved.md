@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Sneak Attack
 *Rogue Feat (Prerequisite: Level 4+, Sneak Attack Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*D&D Beyond Drops - August 2026 - Errata*
+*D&D Beyond Drops August 2026 - Errata*
 # Shifting Combatant
 *General Feat (Prerequisite: Level 4+, Weapon Mastery Feature)*  
 You gain the following benefits.  
@@ -8,7 +8,7 @@ You gain the following benefits.
 
 ---
 
-*D&D Beyond Drops - July 2026*
+*D&D Beyond Drops July 2026*
 # Shifting Combatant
 *General Feat (Prerequisite: Level 4+, Weapon Mastery Feature)*  
 You gain the following benefits.  

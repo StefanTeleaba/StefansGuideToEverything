@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bear Helm
 *Wondrous Item, Rare (Requires Attunement)*  
 *This large helmet is wrapped in the hide of a bear’s head, with metal teeth worked into its visor.*  

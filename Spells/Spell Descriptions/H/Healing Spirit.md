@@ -2,7 +2,7 @@
 # Healing Spirit
 *Level 2 Conjuration (Druid, Ranger)*
 
-**Casting Time:** Bonus action  
+**Casting Time:** Bonus Action  
 **Range:** 60 feet  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute

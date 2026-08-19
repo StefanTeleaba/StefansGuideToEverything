@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Stone of Nightsong
 *Wondrous Item, Legendary (Requires Attunement)*  
 You can use an action to cast one of the following spells from the Stone of Nightsong: *Ceremony*, *Gentle Repose*, *Spare the Dying*, *Speak with Dead*. The spells use your spellcasting ability and spell save DC.  

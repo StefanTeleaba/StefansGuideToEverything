@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Black Chimes
 *Weapon (Flail), Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an extra 1d8 Thunder damage on a hit. The target has the Deafened condition until the end of your next turn.

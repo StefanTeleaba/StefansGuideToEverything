@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Naginata (50 GP)
 *Martial Melee Weapon*  
 **Damage:** 1d10 Slashing  

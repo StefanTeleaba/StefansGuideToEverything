@@ -1,4 +1,4 @@
-*D&D Beyond Drops - July 2026*
+*D&D Beyond Drops July 2026*
 # Tactical Combatant
 *General Feat (Prerequisite: Level 4+, Weapon Mastery Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Critter Friend
 *Racial Feat (Prerequisite: Gnome, Level 4+)*  
 Your friendship with animals mystically deepens. You gain the following benefits.  

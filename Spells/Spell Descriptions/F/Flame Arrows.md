@@ -1,5 +1,4 @@
-*Homebrew*
-
+*Homebrew 5.5e*
 # Flame Arrows
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -15,7 +14,6 @@ You touch a quiver. Until the spell ends, arrows drawn from that quiver deal an 
 ---
 
 *Xanathar's Guide to Everything, p.156*
-
 # Flame Arrows
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 

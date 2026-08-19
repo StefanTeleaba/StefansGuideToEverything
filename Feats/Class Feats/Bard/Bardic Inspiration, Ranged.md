@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Ranged Bardic Inspiration
 *Bard Feat (Prerequisite: Level 4+, Bardic Inspiration Feature)*  
 You gain the following benefits.  

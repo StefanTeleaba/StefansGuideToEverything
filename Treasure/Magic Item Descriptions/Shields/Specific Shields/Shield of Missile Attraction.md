@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Shield of Missile Attraction
 *Shield (Shield), Uncommon*
 
@@ -6,7 +6,7 @@ While holding this Shield, you have Resistance to damage from attacks made with 
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Shield of Missile Attraction
 *Shield (Shield), Rare*
 

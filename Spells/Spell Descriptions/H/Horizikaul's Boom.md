@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Horizikaul's Boom
 *Level 1 Evocation (Sorcerer, Wizard)*
 

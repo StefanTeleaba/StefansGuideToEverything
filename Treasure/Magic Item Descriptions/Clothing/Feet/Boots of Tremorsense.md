@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Boots of Tremorsense
 *Wondrous Item, Uncommon*  
 *These brown leather boots have a reinforced toe of steel with grooves along the soles, crafted to help the wearer pick up vibrations from the surrounding environment.*  

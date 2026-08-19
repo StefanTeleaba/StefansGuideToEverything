@@ -7,4 +7,4 @@ You have Resistance to Fire damage while you wear this armor.
 
 ***Fiery Retort.*** If a creature hits you with a melee attack roll, it takes 5 Fire damage.
 
-*Homebrew*
+*Homebrew 5.5e*

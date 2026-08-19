@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cloak of Protection
 *Wondrous Item, Uncommon*  
 You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.

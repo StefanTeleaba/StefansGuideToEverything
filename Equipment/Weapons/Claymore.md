@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Claymore (50 GP)
 *Martial Melee Weapon*  
 **Damage:** 2d6 Slashing  

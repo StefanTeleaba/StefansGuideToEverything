@@ -1,4 +1,4 @@
-*D&D Beyond Drops - July 2026*
+*D&D Beyond Drops July 2026*
 # Goggles of Foe-Finding
 *Wondrous Item, Rare (Requires Attunement)*
 

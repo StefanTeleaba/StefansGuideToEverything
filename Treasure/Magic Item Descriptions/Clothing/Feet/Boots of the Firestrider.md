@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Boots of the Firestrider
 *Wondrous Item, Rare*  
 *These scaly red dragon hide boots have a heart shaped ruby affixed to the back of each heel.*  

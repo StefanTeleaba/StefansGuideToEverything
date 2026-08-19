@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update 5.5e p.15*
+*Unearthed Arcana 2025: Psion Update 5.5e p.15*
 # Telekinetic Crush
 *Level 3 Transmutation (Psion, Sorcerer, Warlock)*
 
@@ -13,7 +13,7 @@ You create a field of crushing telekinetic force in a 30-foot Cube within range.
 
 ---
 
-*Unearthed Arcana 2025 - The Psion 5.5e p.11*
+*Unearthed Arcana 2025: The Psion 5.5e p.11*
 # Telekinetic Crush
 *Level 3 Transmutation (Psion, Sorcerer, Warlock)*  
 **Casting Time:** Action  

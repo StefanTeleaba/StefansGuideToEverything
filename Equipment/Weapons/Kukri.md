@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Kukri (5 GP)
 *Martial Melee Weapon*  
 **Damage:** 1d4 Slashing  

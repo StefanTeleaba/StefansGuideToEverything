@@ -2,7 +2,7 @@
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a weapon  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** 1 minute  
@@ -17,7 +17,7 @@ The target takes an extra 1d6 Piercing damage from the attack as grasping vines 
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a weapon  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute  

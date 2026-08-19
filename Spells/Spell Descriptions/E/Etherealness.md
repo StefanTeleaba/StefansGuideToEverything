@@ -2,9 +2,9 @@
 # Etherealness
 *Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
+**Casting Time:** Action  
+**Range:** Self  
+**Components:** V, S  
 **Duration:** 8 hours
 
 You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. You remain in the Border Ethereal for the duration. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can't see anything there more than 60 feet away.  

@@ -1,11 +1,11 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cloak of the Fire Snake
 *Wondrous Item, Uncommon*  
 ***Fire Aura.*** At the end of each of your turns, each creature of your choice in a 5-foot Emanation originating from you takes 1d6 Fire damage.
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Cloak of the Salamander
 *Wondrous Item, Rare*  
 You have Resistance to Fire damage while you wear this cloak.  
@@ -13,7 +13,7 @@ You have Resistance to Fire damage while you wear this cloak.
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Cloak of the Inferno Master
 *Wondrous Item, Very Rare*  
 You have Immunity to Fire damage while you wear this cloak.  

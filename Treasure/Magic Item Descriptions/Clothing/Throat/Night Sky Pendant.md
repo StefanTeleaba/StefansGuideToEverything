@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Night Sky Pendant
 *Wondrous Item, Artifact (Requires Attunement)*
 

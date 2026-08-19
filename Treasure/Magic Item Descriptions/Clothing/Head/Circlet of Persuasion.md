@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Persuasion
 *Wondrous Item, Uncommon*  
 *Several sapphires are set along the length of this delicately engraved silver headband.*  
@@ -6,7 +6,7 @@ While you wear this circlet, you have Advantage on Charisma checks.
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Persuasion
 *Wondrous Item, Rare*  
 *Several sapphires are set along the length of this delicately engraved silver headband.*  
@@ -14,7 +14,7 @@ While you wear this circlet, you have Advantage on Charisma checks and you can r
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Persuasion
 *Wondrous Item, Very Rare*  
 *Several sapphires are set along the length of this delicately engraved silver headband.*  

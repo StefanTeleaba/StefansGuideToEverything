@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Greater Smite of Protection
 *Paladin Feat (Prerequisite: Level 16+, Improved Smite of Protection Feat)*  
 You gain the following benefits.  

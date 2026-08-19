@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bastard Sword (20 GP)
 *Martial Melee Weapon*  
 **Damage:** 1d8 Slashing  

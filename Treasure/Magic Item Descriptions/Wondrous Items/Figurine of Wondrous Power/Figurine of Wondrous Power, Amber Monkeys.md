@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Figurine of Wondrous Power, Amber Monkeys
 *Wondrous Item, Rare*
 

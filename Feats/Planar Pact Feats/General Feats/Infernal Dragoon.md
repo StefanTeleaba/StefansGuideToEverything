@@ -1,4 +1,4 @@
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Infernal Dragoon
 *General Feat (Prerequisite: Level 4+, Infernal Pact Feat)*  
 ***Ability Score Increase.*** Increase your Constitution or Charisma score by 1, to a maximum of 20.  

@@ -7,4 +7,4 @@
 
 ***Lightning Bolt.*** As a Magic action, you can cause electricity to erupt from the horn. A stroke of lightning forming a 60-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a DC 15 Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one. Once this property is used, it can't be used again until the next dawn.
 
-*Homebrew*
+*Homebrew 5.5e*

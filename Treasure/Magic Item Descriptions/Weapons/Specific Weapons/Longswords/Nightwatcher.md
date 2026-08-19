@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Nightwatcher
 *Weapon (Longsword), Very Rare*  
 *Nightwatcher is a long sword with a very sharp, black-adamantite blade and a silver-and-ivory pommel set with a large black pearl. The sword's bearer can see at night under an open sky as well as if it were daylight. When planted firmly into the ground, Nightwatcher hums loudly if anyone with intent to harm its wielder approaches.*  

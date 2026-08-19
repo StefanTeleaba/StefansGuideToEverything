@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Lightning Lance
 *Level 4 Evocation (Sorcerer, Wizard)*
 

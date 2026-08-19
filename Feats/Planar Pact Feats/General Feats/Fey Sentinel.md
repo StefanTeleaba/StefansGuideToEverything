@@ -1,4 +1,4 @@
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Fey Sentinel
 *General Feat (Prerequisite: Level 4+, Fey Pact Feat)*  
 You gain the following benefits.  

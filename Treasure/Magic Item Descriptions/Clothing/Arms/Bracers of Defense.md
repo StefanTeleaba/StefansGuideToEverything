@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Defense
 *Wondrous Item, Uncommon*  
 While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.

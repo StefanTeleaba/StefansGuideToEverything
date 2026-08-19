@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Stone of Good Luck
 *Wondrous Item, Uncommon*  
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

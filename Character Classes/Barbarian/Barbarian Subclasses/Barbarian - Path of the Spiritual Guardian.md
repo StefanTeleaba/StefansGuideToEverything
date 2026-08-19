@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Subclasses Update*  
+*Unearthed Arcana 2025: Subclasses Update*  
 *This subclass was published on October 30th, 2025.*
 # Path of the Spiritual Guardian
 *Call on the Spirits for Combat Aid*  

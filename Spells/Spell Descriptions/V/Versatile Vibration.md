@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Versatile Vibration  
 *Level 5 Evocation (Sorcerer, Wizard)*
 

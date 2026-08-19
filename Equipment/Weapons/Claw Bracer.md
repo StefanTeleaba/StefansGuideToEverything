@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Claw Bracer (30 GP)
 *Exotic Melee Weapon*  
 **Damage:** 1d4 Slashing  

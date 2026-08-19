@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Brute
 Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 

@@ -2,7 +2,7 @@
 # Blinding Smite
 *Level 3 Evocation (Paladin)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
 **Components:** V  
 **Duration:** 1 minute  

@@ -1,4 +1,4 @@
-*D&D Beyond Drops - June 2026*
+*D&D Beyond Drops June 2026*
 # Eternal Chalk
 *Wondrous Item, Common*
 

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Gloves of Dexterity
 *Wondrous Item, Uncommon*  
 You gain a +2 bonus to your Dexterity score while you wear these gloves.

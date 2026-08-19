@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Reinforced Mind
 *Specialization Feat (Prerequisites: Level 8+, Mage Slayer)*  
 You gain the following benefits.  

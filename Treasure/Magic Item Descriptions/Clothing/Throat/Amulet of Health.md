@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Amulet of Health
 *Wondrous Item, Uncommon*  
 You gain a +2 bonus to your Constitution score while you wear this amulet.

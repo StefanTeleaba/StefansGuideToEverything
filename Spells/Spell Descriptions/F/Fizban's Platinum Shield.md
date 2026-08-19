@@ -2,9 +2,9 @@
 # Fizban's Platinum Shield
 *Level 6 Abjuration (Sorcerer, Wizard)*
 
-**Casting Time:** Bonus action
-**Range:** 60 feet
-**Components:** V, S, M (a platinum-plated dragon scale, worth at least 500 gp)
+**Casting Time:** Bonus Action  
+**Range:** 60 feet  
+**Components:** V, S, M (a platinum-plated dragon scale, worth at least 500 gp)  
 **Duration:** Concentration, up to 1 minute
 
 You create a field of silvery light that surrounds a creature of your choice within range (you can choose yourself). The field sheds dim light out to 5 feet. While surrounded by the field, a creature gains the following benefits:  

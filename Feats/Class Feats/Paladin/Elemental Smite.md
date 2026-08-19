@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Elemental Smite
 *Paladin Feat (Prerequisite: Level 4+, Paladin's Smite Feature)*  
 You gain the following benefits.  

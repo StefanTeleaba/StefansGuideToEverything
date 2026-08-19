@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Radiance of the Dawn
 *Class Feat (Prerequisite: Level 4+, Channel Divinity: Radiance of the Dawn Feature)*  
 You gain the following benefits.  

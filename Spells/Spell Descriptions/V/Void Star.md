@@ -1,4 +1,4 @@
-*D&D Beyond Drops - August 2026 - Errata*
+*D&D Beyond Drops August 2026 - Errata*
 # Void Star
 *Level 7 Necromancy (Warlock, Wizard)*
 

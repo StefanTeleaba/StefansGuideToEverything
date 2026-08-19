@@ -2,7 +2,7 @@
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a weapon  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous  
@@ -17,7 +17,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 # Hail of Thorns
 *Level 1 Conjuration (Ranger)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Ranged weapon  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Ranged weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous  

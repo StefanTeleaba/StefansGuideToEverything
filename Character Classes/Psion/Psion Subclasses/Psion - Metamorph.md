@@ -1,7 +1,7 @@
 # Metamorph
 *Psychically Sculpt Life and Flesh*
 
-*Unearthed Arcana 2025 - Psion Update*  
+*Unearthed Arcana 2025: Psion Update*  
 *This subclass was published on October 2nd, 2025.*  
 
 Your mastery of psionic powers turns inward. Your own flesh becomes like clay to you, and you mold it into the perfect vessel for your psionic powers. Experience in manipulating your life energy also enables you to adjust the life force of friends and foes.
@@ -55,7 +55,7 @@ Alternatively, when you hit a creature with your Organic Weapon, you can instead
 # Metamorph
 *Psychically Sculpt Life and Flesh*
 
-*Unearthed Arcana 2025 - The Psion*  
+*Unearthed Arcana 2025: The Psion*  
 *This subclass was published on May 27th, 2025.*  
 
 Your mastery of psionic powers turns inward. Your own flesh becomes like clay to you, and you mold it to turn it into the perfect vessel of your psionic powers. Experience in manipulating your life energy also enables you to adjust the life force of friends and foes alike.

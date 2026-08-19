@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Extra Paladin's Smite
 *Paladin Feat (Prerequisite: Level 4+, Paladin's Smite Feature)*  
 You gain the following benefits.  

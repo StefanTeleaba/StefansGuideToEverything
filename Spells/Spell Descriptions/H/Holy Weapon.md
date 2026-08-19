@@ -2,7 +2,7 @@
 # Holy Weapon
 *Level 5 Evocation (Cleric, Paladin)*
 
-**Casting Time:** Bonus action  
+**Casting Time:** Bonus Action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** Concentration, up to 1 hour

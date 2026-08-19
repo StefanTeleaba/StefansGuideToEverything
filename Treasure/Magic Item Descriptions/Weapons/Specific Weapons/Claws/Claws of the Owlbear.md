@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Claws of the Owlbear
 *Weapon (Claw), Rare*  
 *Simple Melee Weapon*  

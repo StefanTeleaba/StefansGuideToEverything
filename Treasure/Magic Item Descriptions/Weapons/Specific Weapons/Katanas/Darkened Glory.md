@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Darkened Glory
 *Weapon (Katana), Rare*
 

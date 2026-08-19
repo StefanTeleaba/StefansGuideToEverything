@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Amaunator's Legacy
 *Weapon (Bastard Sword), Rare*
 

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Skullcap of Eyes
 *Wondrous Item, Rare*  
 *This iron skullcap is wrought to appear as if it were covered in eyes.*  

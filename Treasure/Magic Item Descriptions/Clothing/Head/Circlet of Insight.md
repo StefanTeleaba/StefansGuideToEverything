@@ -1,11 +1,11 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Insight
 *Wondrous Item, Uncommon*  
 While wearing this headband, your Wisdom score increases by 2.
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Insight
 *Wondrous Item, Uncommon (Requires Attunement)*  
 Your Wisdom score is 19 while you wear this circlet. It has no effect on you if your Wisdom is 19 or higher without it.

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Sound of Silence
 *Class Feat (Prerequisite: Level 4+, Bardic Inspiration Feature)*  
 You gain the following benefits.  

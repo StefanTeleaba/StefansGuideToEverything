@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cutlass (50 GP)
 *Martial Melee Weapon*  
 

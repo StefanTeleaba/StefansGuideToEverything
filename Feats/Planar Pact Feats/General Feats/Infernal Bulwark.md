@@ -1,4 +1,4 @@
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Infernal Bulwark
 *General Feat (Prerequisite: Level 4+, Infernal Pact Feat)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025 - Psion Update*  
+*Unearthed Arcana 2025: Psion Update*  
 *This subclass was published on October 2nd, 2025.*
 # Psion
 *A Master of Psionic Power*  
@@ -116,7 +116,7 @@ When you use Sharpened Mind, you can also use a different Psionic Discipline thi
 
 ---
 
-*Unearthed Arcana 2025 - The Psion*  
+*Unearthed Arcana 2025: The Psion*  
 *This subclass was published on May 27th, 2025.*
 # Psion
 *A Master of Psionic Power*  

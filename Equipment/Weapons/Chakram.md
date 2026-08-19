@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Chakram (15 GP)
 *Exotic Melee Weapon*    
 **Damage:** 1d6 Slashing  

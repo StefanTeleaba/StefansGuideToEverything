@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Composite Greatbow (500 GP)
 *Martial Ranged Weapon*
 

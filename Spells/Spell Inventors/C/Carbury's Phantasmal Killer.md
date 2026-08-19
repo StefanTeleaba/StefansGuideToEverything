@@ -1,5 +1,5 @@
 ## Carbury's Phantasmal Killer
-*Homebrew*  
+*Homebrew 5.5e*  
 *Level 4 Illusion (Bard, Wizard)*
 
 **Casting Time:** Action  

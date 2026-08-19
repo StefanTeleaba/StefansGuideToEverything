@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Sabre (100 GP)
 *Martial Melee Weapon*  
 

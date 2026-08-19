@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Extra Sorcery Points
 *Class Feat (Prerequisite: Level 4+, Font of Magic Feature)*  
 You gain the following benefits.  

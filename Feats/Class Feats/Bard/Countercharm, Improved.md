@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Countercharm
 *Paladin Feat (Prerequisite: Level 8+, Countercharm Feature)*  
 You gain the following benefits.  

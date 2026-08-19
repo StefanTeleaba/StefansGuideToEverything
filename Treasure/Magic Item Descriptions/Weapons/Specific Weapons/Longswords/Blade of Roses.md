@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Blade of Roses
 *Weapon (Longsword), Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon and as long as it is within your reach and you are attuned to it, your Charisma score increases by 2.

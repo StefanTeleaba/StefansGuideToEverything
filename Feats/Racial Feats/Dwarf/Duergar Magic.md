@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Duergar Magic
 *Racial Feat (Prerequisite: Level 4+)*  
 Your exposure to the Underdark's magic grants you the following benefits.  

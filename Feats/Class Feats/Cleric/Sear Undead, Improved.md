@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Sear Undead
 *Class Feat (Prerequisite: Level 4+, Sear Undead Feature)*  
 You gain the following benefits.  

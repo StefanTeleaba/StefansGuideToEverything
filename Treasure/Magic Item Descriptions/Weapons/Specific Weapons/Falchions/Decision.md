@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Decision
 *Weapon (Falchion), Very Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an extra 2d6 Fire damage on a hit.

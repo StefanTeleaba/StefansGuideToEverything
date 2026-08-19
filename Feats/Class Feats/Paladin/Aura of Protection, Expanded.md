@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Expanded Aura of Protection
 *Paladin Feat (Prerequisite: Level 8+, Aura of Protection Feature)*  
 You gain the following benefits.  

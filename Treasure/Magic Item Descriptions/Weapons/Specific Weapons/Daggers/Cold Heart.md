@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cold Heart
 *Weapon (Dagger), Legendary*  
 You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an extra 4d4 Acid damage on a hit.

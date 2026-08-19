@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Fade Away
 *Racial Feat (Prerequisite: Gnome, Level 4+)*  
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits.  

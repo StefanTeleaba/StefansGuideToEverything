@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Dueling
 *Wondrous Item, Uncommon*
 
@@ -6,7 +6,7 @@ While wearing these bracers, you have proficiency with all Martial Melee weapons
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Dueling
 *Wondrous Item, Rare*
 
@@ -14,7 +14,7 @@ While wearing these bracers, you have proficiency with all Martial Melee weapons
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Dueling
 *Wondrous Item, Very Rare*
 
@@ -22,7 +22,7 @@ While wearing these bracers, you have proficiency with all Martial Melee weapons
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Bracers of Dueling
 *Wondrous Item, Legendary*
 

@@ -47,4 +47,4 @@ When you score a Critical Hit with this weapon, the target takes an extra 10 Blu
 When you hit an Undead with this magic weapon, that creature takes an extra 2d10 Radiant damage. If the target has 25 Hit Points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature has the Frightened condition until the end of your next turn.
 
 ---
-*Homebrew*
+*Homebrew 5.5e*

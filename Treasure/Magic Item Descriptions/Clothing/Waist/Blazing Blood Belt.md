@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Blazing Blood Belt
 *Wondrous Item, Uncommon*
 

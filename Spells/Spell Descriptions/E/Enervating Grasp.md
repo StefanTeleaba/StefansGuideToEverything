@@ -1,5 +1,4 @@
-*Homebrew*
-
+*Homebrew 5.5e*
 # Enervating Grasp
 *Evocation Cantrip (Sorcerer, Wizard)*
 

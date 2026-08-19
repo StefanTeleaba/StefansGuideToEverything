@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Shatter
 *Level 2 Evocation (Bard, Sorcerer, Wizard)*
 

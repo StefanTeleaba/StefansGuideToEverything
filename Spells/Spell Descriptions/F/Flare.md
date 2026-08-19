@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)
-
 # Flare
 *Evocation Cantrip (Bard, Druid, Sorcerer, Wizard)*
 

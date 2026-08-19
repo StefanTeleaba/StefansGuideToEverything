@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Stonewalker Wraps
 *Wondrous Item, Very Rare*  
 These dusty leather footwraps are stitched with a geographic pattern. While wearing them, you gain the following benefits.  

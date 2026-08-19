@@ -34,7 +34,7 @@ When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits 
 
 ---
 
-*Unearthed Arcana 2025 - Horror Subclasses*  
+*Unearthed Arcana 2025: Horror Subclasses*  
 *This subclass was published on May 6th, 2025.*
 
 # Shadow Sorcery

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Swift Channel Divinity
 *Paladin Feat (Prerequisite: Level 4+, Channel Divinity Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Slippers of Battledancing
 *Wondrous Item, Rare*  
 *These soft, open-toed slippers are made of supple leather and look very comfortable.*  

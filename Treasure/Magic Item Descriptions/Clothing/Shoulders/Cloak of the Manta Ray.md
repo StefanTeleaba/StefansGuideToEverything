@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Cloak of the Manta Ray
 *Wondrous Item, Uncommon*  
 While wearing this cloak, you can breathe underwater, and you have a Swim Speed of 60 feet.

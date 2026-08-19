@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Tactical Master
 *Class Feat (Prerequisite: Level 12+, Tactical Master Feature)*  
 You gain the following benefits.  

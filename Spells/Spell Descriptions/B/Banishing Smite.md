@@ -2,7 +2,7 @@
 # Banishing Smite
 *Level 5 Conjuration (Paladin)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute

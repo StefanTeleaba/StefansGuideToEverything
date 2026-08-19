@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Boar's Ferocity
 *Class Feat (Prerequisites: Level 4+; Wild Shape Feature)*  
 You gain the following benefits.    

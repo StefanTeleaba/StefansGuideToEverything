@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Lodestar
 *Weapon (Bastard Sword), Very Rare (Requires Attunement)*
 

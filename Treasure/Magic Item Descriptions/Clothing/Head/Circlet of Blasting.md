@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Circlet of Blasting
 *Wondrous Item, Uncommon*
 While wearing this circlet, you can project a blast of searing light toward a creature within range. Make a ranged spell attack against the target (+5 to hit). On a hit, it takes 3d8 Radiant damage. This property can't be used again until the next dawn.

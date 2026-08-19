@@ -1,5 +1,5 @@
 ## Aksa's Passwall
-*Homebrew*  
+*Homebrew 5.5e*  
 *Level 5 Transmutation (Wizard)*
 
 **Casting Time:** Action  

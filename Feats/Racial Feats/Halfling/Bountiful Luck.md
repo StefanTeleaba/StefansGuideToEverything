@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Bountiful Luck
 *Racial Feat (Prerequisite: Halfling, Level 4+)*  
 Your people have extraordinary luck, which you have learned to mystically lend to your companions whenever you see them falter. You're not sure how you do it, you just wish it, and it happens. Surely a sign of fortune's favor! You gain the following benefits.  

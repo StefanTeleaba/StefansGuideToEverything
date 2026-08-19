@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Spell Storing
 *Ring, Uncommon*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 3 levels worth of spells at a time.  
@@ -7,7 +7,7 @@ While wearing this ring, you can cast any spell stored in it. The spell uses the
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Spell Storing
 *Ring, Rare*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time.  
@@ -16,7 +16,7 @@ While wearing this ring, you can cast any spell stored in it. The spell uses the
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Spell Storing
 *Ring, Very Rare*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 7 levels worth of spells at a time.  
@@ -25,7 +25,7 @@ While wearing this ring, you can cast any spell stored in it. The spell uses the
 
 ---
 
-*Homebrew*
+*Homebrew 5.5e*
 # Ring of Spell Storing
 *Ring, Legendary*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 9 levels worth of spells at a time.  

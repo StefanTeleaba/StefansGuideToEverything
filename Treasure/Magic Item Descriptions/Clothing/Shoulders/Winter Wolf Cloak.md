@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Winter Wolf Cloak
 *Wondrous Item, Rare*  
 If you take Cold damage while wearing this cloak, the cloak reduces the damage you take by 10. In addition, while wearing this cloak, you and everything you wear and carry are unharmed by temperatures of 0 degrees Fahrenheit or lower.  

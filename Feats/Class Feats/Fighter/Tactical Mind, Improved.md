@@ -1,4 +1,4 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Improved Tactical Mind
 *Class Feat (Prerequisite: Level 4+, Tactical Mind Feature)*  
 You gain the following benefits.  

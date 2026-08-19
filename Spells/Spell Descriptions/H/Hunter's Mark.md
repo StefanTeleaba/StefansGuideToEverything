@@ -2,7 +2,7 @@
 # Hunter's Mark
 *Level 1 Divination (Ranger)*
 
-**Casting Time:** Bonus action  
+**Casting Time:** Bonus Action  
 **Range:** 150 feet  
 **Components:** S  
 **Duration:** Concentration, up to 1 hour  
@@ -18,7 +18,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 # Hunter's Mark
 *Level 1 Divination (Ranger)*
 
-**Casting Time:** Bonus action  
+**Casting Time:** Bonus Action  
 **Range:** 90 feet  
 **Components:** V  
 **Duration:** Concentration, up to 1 hour  

@@ -1,8 +1,8 @@
-*Homebrew*
+*Homebrew 5.5e*
 # Sleep Arrow
 *Level 1 Enchantment (Ranger, Wizard)*
 
-**Casting Time:** Bonus action, which you take immediately after hitting a creature with a Ranged weapon  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Ranged weapon  
 **Range:** Self  
 **Components:** V  
 **Duration:** Instantaneous
