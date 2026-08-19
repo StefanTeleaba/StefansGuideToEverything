@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.265*
-
 # Dominate Monster
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 

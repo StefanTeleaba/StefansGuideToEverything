@@ -12,4 +12,6 @@ Flammable objects in the area that aren't being worn or carried start burning.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
+![Fireball](https://5e.tools/img/spells/XPHB/Fireball.webp)
+
 ---

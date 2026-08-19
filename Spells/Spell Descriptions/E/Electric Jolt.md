@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)
-
 # Electric Jolt
 *Evocation Cantrip (Sorcerer, Wizard)*
 

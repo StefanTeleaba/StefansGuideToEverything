@@ -15,7 +15,7 @@ You hurl three acorns. You can hurl them at one target within range or at severa
 
 *Priest's Spell Compendium Volume I 2e p.12*
 # Acorn Barrage
-(Enchantment)  
+*(Enchantment)*  
 Sphere: Plant  
 Level: 2  
 Range: IO yds.  

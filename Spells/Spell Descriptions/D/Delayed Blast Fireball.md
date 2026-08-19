@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.260*
-
 # Delayed Blast Fireball
 *Level 7 Evocation (Sorcerer, Wizard)*
 

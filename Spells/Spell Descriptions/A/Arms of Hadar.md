@@ -14,5 +14,3 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 ![Arms of Hadar](https://5e.tools/img/spells/XPHB/Armor%20of%20Agathys.webp)
 
 ---
-
-![Arms of Hadar](https://static.wikia.nocookie.net/forgottenrealms/images/a/a9/Arms_of_Hadar_CLB.jpg/revision/latest?cb=20220601121950&format=original)

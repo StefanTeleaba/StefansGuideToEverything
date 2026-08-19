@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Enrage Animal
 *Level 1 Enchantment (Druid, Ranger)*
 

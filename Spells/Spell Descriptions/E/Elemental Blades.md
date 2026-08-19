@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Elemental Blades
 *Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -14,8 +13,7 @@ Choose Acid, Cold, Fire, Lightning, Poison or Thunder. Until the spell ends, you
 
 ---
 
-*Based on Blades of Fire*  
-*Complete Arcane 3.5e p.99*  
 *Spell Compendium 3.5e p.31*
+# Blades of Fire
 
 ---

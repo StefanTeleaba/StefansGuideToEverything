@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Enlarge / Reduce
 *Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -13,12 +12,11 @@ Everything that a targeted creature is wearing and carrying changes size with it
 **Enlarge.** The target's size increases by one category—from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit.  
 **Reduce.** The target's size decreases by one category—from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 
-***Using a Higher-Level Spell Slot.*** You can target one additional creature or object for every 2 spell slot levels above 2.
+***Using a Higher-Level Spell Slot.*** You can target one additional creature or object for each spell slot level above 2.
 
 ---
 
 *Player's Handbook 5.5e p.268*
-
 # Enlarge / Reduce
 *Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 

@@ -1,5 +1,4 @@
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
 
@@ -15,7 +14,6 @@ The target takes an extra 1d6 Piercing damage from the attack as grasping vines 
 ---
 
 *Player's Handbook 5.5e p.268*
-
 # Ensnaring Strike
 *Level 1 Conjuration (Ranger)*
 

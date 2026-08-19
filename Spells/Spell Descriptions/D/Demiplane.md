@@ -1,9 +1,8 @@
 *Player's Handbook 5.5e p.261*
-
 # Demiplane
 *Level 8 Conjuration (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** Action 
+**Casting Time:** Action  
 **Range:** 60 feet  
 **Components:** S  
 **Duration:** 1 hour

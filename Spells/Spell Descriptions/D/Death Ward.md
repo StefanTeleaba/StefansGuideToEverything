@@ -1,9 +1,8 @@
 *Player's Handbook 5.5e p.261*
-
 # Death Ward
 *Level 4 Abjuration (Cleric, Paladin)*
 
-**Casting Time:** Action 
+**Casting Time:** Action  
 **Range:** Touch  
 **Components:** V, S  
 **Duration:** 8 hours

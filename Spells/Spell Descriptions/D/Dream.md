@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Dream
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 
@@ -16,7 +15,6 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 ---
 
 *Player's Handbook 5.5e p.266*
-
 # Dream
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 

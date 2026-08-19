@@ -1,4 +1,4 @@
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Buzzing Bee
 *Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
 

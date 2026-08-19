@@ -1,7 +1,6 @@
 *Player's Handbook 5.5e p.268*
-
 # Enhance Ability
-*Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
+*Level 2 Transmutation (Artificer, Bard, Cleric, Druid, Psion, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
 **Range:** Touch

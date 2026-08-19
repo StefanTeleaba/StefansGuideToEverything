@@ -30,5 +30,3 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 ![Evard's Black Tentacles](https://5e.tools/img/spells/XPHB/Evard's%20Black%20Tentacles.webp)
 
 ---
-
-![Evard's Black Tentacles](https://static.wikia.nocookie.net/forgottenrealms/images/b/b8/Evards-black-tentacles-2e.png/revision/latest?cb=20190116002034)

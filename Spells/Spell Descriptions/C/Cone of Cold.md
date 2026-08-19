@@ -11,8 +11,6 @@ You unleash a blast of cold air. Each creature in a 60-foot Cone originating fro
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
 
-![Cone of Cold](https://5e.tools/img/spells/XPHB/Cone%20of%20Cold.webp)  
-![Cone of Cold](https://static.wikia.nocookie.net/forgottenrealms/images/c/c2/Cone_of_cold_CLB.jpg/revision/latest?cb=20220523232742)  
-
+![Cone of Cold](https://5e.tools/img/spells/XPHB/Cone%20of%20Cold.webp)
 
 ---

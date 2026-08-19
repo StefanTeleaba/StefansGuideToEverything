@@ -1,7 +1,6 @@
 *Player's Handbook 5.5e p.270*
-
 # Expeditious Retreat
-*Level 1 Transmutation (Sorcerer, Warlock, Wizard)*
+*Level 1 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action
 **Range:** Self

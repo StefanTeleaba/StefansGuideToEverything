@@ -1,5 +1,4 @@
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
-
 # Cordon of Arrows
 *Level 2 Transmutation (Ranger)*
 
@@ -17,7 +16,6 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 ---
 
 *Player's Handbook 5.5e p.258*
-
 # Cordon of Arrows
 *Level 2 Transmutation (Ranger)*
 

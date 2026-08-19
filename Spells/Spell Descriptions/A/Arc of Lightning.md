@@ -15,8 +15,6 @@ You create an arc of lightning forming a 100-foot-long, 5-foot-wide Line between
 
 ---
 
-*Miniature’s Handbook 3.5e p.33*  
-*Complete Arcane 3.5e p.97*  
 *Spell Compendium 3.5e p.13*
 # Arc of Lightning
 **Level:** Druid 4, sorcerer/wizard 5, Windstorm 5  
@@ -33,3 +31,6 @@ Both creatures must be in range, and you must be able to target them both (as if
 *Arcane Material Component:* Two small iron rods.
 
 ---
+
+*Miniature’s Handbook 3.5e p.33*  
+*Complete Arcane 3.5e p.97*  

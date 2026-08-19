@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Endure Elements
 *Level 1 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 

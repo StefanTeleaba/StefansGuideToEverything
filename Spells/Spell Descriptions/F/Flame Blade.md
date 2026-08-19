@@ -1,5 +1,4 @@
 *Treantmonk's Temple*
-
 # Flame Blade
 *Level 2 Evocation (Druid, Sorcerer)*
 
@@ -17,7 +16,6 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 ---
 
 *Player's Handbook 5.5e p.275*
-
 # Flame Blade
 *Level 2 Evocation (Druid, Sorcerer)*
 

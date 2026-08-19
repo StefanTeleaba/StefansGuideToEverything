@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.282*
 # Guidance
-*Divination Cantrip (Cleric, Druid)*
+*Divination Cantrip (Artificer, Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:** Touch  

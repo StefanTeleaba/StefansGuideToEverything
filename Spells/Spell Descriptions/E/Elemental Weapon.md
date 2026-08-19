@@ -1,5 +1,4 @@
 *Homebrew*
-
 # Elemental Weapon
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 
@@ -15,7 +14,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 ---
 
 *Player's Handbook 5.5e p.267*
-
 # Elemental Weapon
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 

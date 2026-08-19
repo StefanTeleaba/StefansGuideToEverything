@@ -1,4 +1,4 @@
-*D&D Beyond Drops - August 2026 - Errata*
+*D&D Beyond Drops August 2026 Errata*
 # Astral Flood
 *Level 3 Evocation (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -16,7 +16,7 @@ On a successful save, the target takes half as much damage only.
 
 ---
 
-*D&D Beyond Drops - May 2026*
+*D&D Beyond Drops May 2026*
 # Astral Flood
 *Level 3 Evocation (Bard, Cleric, Sorcerer, Wizard)*
 

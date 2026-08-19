@@ -3,7 +3,7 @@
 # Creation
 *Level 5 Illusion (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 minute 
+**Casting Time:** 1 minute  
 **Range:** 30 feet  
 **Components:** V, S, M (a paintbrush)  
 **Duration:** Special

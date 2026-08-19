@@ -1,9 +1,8 @@
 *Player's Handbook 5.5e p.258*
-
 # Create Undead
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 minute 
+**Casting Time:** 1 minute  
 **Range:** 10 feet  
 **Components:** V, S, M (one 150+ GP black onyx stone for each corpse)  
 **Duration:** Instantaneous

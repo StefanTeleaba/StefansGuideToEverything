@@ -1,5 +1,4 @@
 *Player's Handbook 5.5e p.262*
-
 # Detect Thoughts
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 

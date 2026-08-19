@@ -1,7 +1,6 @@
 *Player's Handbook 5.5e p.270*
-
 # Eyebite
-*Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
+*Level 6 Necromancy (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

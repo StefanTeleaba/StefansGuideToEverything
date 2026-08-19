@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)
-
 # Daze
 *Enchantment Cantrip (Bard, Sorcerer, Wizard)*
 
