@@ -9,10 +9,8 @@
 **Components:** V, S, M (a spiral shell)  
 **Duration:** Instantaneous
 
-A swirling mass of violent water appears in a 30-foot-radius, 5-foot-deep Cylinder centered on a point you can see within range. The point must be on ground or in a body of water. Each creature in that area must make a Strength saving throw.
-
-On a failed save, a creature is pulled 20 feet straight toward the center of the maelstrom, takes 6d10 Bludgeoning damage, and has the effects of the Slow spell until the end of your next turn. On a successful save, a creature is pulled 10 feet straight toward the center and takes half as much damage.
-
+A swirling mass of violent water appears in a 30-foot-radius, 5-foot-deep Cylinder centered on a point you can see within range. The point must be on ground or in a body of water. Each creature in that area must make a Strength saving throw.  
+On a failed save, a creature is pulled 20 feet straight toward the center of the maelstrom, takes 6d10 Bludgeoning damage, and has the effects of the Slow spell until the end of your next turn. On a successful save, a creature is pulled 10 feet straight toward the center and takes half as much damage.  
 Churning waters turn the maelstrom’s area of effect into Difficult Terrain until the end of your next turn.
 
 ---

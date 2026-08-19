@@ -9,4 +9,6 @@
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
+![Lesser Restoration](https://5e.tools/img/spells/XPHB/Lesser%20Restoration.webp)
+
 ---
