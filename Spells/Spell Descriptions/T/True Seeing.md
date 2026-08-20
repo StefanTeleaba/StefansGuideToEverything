@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.336*
 # True Seeing
-*Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
+*Level 6 Divination (Bard, Cleric, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

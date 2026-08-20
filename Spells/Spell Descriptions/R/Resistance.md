@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.312*
 # Resistance
-*Abjuration Cantrip (Cleric, Druid)*
+*Abjuration Cantrip (Artificer, Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:** Touch  

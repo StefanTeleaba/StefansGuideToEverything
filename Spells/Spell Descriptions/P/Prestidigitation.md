@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.307*
 # Prestidigitation
-*Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+*Transmutation Cantrip (Artificer, Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 10 feet  

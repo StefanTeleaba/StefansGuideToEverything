@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.316*
 # Shocking Grasp
-*Evocation Cantrip (Sorcerer, Wizard)*
+*Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

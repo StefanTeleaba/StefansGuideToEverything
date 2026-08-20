@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.331*
 # Telepathy
-*Level 8 Divination (Wizard)*
+*Level 8 Divination (Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Unlimited  

@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.304*
 # Phantasmal Killer
-*Level 4 Illusion (Bard, Wizard)*
+*Level 4 Illusion (Bard, Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

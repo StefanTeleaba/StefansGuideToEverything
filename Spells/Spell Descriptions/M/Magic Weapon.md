@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.295*
 # Magic Weapon
-*Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)*
+*Level 2 Transmutation (Artificer, Paladin, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** Touch  

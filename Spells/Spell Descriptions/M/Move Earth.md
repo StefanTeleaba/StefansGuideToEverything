@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.302*
 # Move Earth
-*Level 6 Transmutation (Druid, Sorcerer, Wizard)*
+*Level 6 Transmutation (Druid, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

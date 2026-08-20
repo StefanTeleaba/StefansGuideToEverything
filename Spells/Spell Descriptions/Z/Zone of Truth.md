@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.343*
 # Zone of Truth
-*Level 2 Enchantment (Bard, Cleric, Paladin)*
+*Level 2 Enchantment (Bard, Cleric, Paladin, Psion)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

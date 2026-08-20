@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.296*
 # Mass Suggestion
-*Level 6 Enchantment (Bard, Sorcerer, Wizard)*
+*Level 6 Enchantment (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

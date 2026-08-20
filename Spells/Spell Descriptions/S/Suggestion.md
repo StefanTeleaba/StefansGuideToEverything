@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.321*
 # Suggestion
-*Level 2 Enchantment (Druid, Ranger, Sorcerer, Wizard)*
+*Level 2 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

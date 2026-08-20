@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.309*
 # Protection from Energy
-*Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
+*Level 3 Abjuration (Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

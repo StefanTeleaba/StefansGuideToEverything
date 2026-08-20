@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *This subclass was published on April 26th, 2026.*  
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)
-
 # Water Bolt
 *Conjuration Cantrip (Druid, Sorcerer, Wizard)*
 

@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.340*
 # Water Breathing
-*Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
+*Level 3 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 30 feet  

@@ -30,7 +30,7 @@ At the end of each of its turns, the Stunned target repeats the save, ending the
 
 *Xanathar's Guide to Everything 5e p.163*
 # Psychic Scream
-*Level 9 Enchantment (Bard, Psion, Sorcerer, Warlock)*
+*Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 90 feet  

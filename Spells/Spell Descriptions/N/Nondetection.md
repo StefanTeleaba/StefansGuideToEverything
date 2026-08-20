@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.302*
 # Nondetection
-*Level 3 Abjuration (Bard, Ranger, Wizard)*
+*Level 3 Abjuration (Bard, Psion, Ranger, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

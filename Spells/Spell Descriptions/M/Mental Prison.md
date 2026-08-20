@@ -1,4 +1,4 @@
-*Unearthed Arcana 2025: Psion Update, 5.5e p.13*
+*Unearthed Arcana 2025: Psion Update 5.5e p.13*
 # Mental Prison
 *Level 6 Illusion (Bard, Psion, Sorcerer, Wizard)*
 
@@ -14,7 +14,7 @@ While Charmed, the target has the Restrained condition and perceives the area ar
 
 *Xanathar's Guide to Everything 5e p.161*
 # Mental Prison
-*Level 6 Illusion (Bard, Psion, Sorcerer, Wizard)*
+*Level 6 Illusion (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

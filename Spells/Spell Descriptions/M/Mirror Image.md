@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.299*
 # Mirror Image
-*Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
+*Level 2 Illusion (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.340*
 # Web
-*Level 2 Conjuration (Sorcerer, Wizard)*
+*Level 2 Conjuration (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

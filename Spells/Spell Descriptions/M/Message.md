@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.298*
 # Message
-*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
+*Transmutation Cantrip (Artificer, Bard, Druid, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

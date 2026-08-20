@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.336*
 # True Strike
-*Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+*Divination Cantrip (Artificer, Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

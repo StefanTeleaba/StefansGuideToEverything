@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.297*
 # Mending
-*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
+*Transmutation Cantrip (Artificer, Bard, Cleric, Druid, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute  
 **Range:** Touch  

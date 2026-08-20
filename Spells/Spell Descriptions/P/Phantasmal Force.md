@@ -1,6 +1,6 @@
 *Homebrew 5.5e*
 # Phantasmal Force
-*Level 2 Illusion (Bard, Wizard)*
+*Level 2 Illusion (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -21,7 +21,7 @@ An affected target can even take damage from the illusion if the phantasm repres
 
 *Player’s Handbook 5.5e p.304*
 # Phantasmal Force
-*Level 2 Illusion (Bard, Wizard)*
+*Level 2 Illusion (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

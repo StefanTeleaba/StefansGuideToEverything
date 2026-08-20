@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.306*
 # Poison Spray
-*Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)*
+*Necromancy Cantrip (Artificer, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

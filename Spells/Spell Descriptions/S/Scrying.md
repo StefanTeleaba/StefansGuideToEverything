@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.313*
 # Scrying
-*Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
+*Level 5 Divination (Bard, Cleric, Druid, Psion, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** Self  

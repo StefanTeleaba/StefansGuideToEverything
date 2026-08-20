@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.312*
 # Rope Trick
-*Level 2 Transmutation (Wizard)*
+*Level 2 Transmutation (Artificer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

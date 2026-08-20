@@ -1,6 +1,6 @@
-*Player's Handbook 5.5e p.302*
+*Player's Handbook 5.5e p.303*
 # Otiluke's Resilient Sphere
-*Level 4 Abjuration (Wizard)*
+*Level 4 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

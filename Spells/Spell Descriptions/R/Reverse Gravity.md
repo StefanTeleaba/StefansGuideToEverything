@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.312*
 # Reverse Gravity
-*Level 7 Transmutation (Druid, Sorcerer, Wizard)*
+*Level 7 Transmutation (Druid, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 100 feet  

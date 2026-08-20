@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.299*
 # Modify Memory
-*Level 5 Enchantment (Bard, Wizard)*
+*Level 5 Enchantment (Bard, Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

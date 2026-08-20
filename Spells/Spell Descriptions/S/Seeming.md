@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.314*
 # Seeming
-*Level 5 Illusion (Bard, Sorcerer, Wizard)*
+*Level 5 Illusion (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

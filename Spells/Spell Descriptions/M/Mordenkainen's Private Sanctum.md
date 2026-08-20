@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.301*
 # Mordenkainen's Private Sanctum
-*Level 4 Abjuration (Wizard)*
+*Level 4 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** 10 minutes  
 **Range:** 120 feet  

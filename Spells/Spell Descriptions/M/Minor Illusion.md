@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.298*
 # Minor Illusion
-*Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+*Illusion Cantrip (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

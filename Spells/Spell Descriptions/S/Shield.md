@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.316*
 # Shield
-*Level 1 Abjuration (Sorcerer, Wizard)*
+*Level 1 Abjuration (Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell  
 **Range:** Self  

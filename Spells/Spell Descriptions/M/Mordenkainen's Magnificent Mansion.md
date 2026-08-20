@@ -13,4 +13,6 @@ You can create any floor plan you like for the dwelling, but it can't exceed 50 
 A staff of 100 near-transparent servants attends all who enter. You determine the appearance of these servants and their attire. They are invulnerable and obey your commands. Each servant can perform tasks that a human could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.  
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
+![Mordenkainen's Magnificent Mansion](https://5e.tools/img/spells/XPHB/Mordenkainen's%20Magnificent%20Mansion.webp)
+
 ---

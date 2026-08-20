@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.305*
 # Plane Shift
-*Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
+*Level 7 Conjuration (Cleric, Druid, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 hour  
 **Range:** 60 feet  

@@ -1,6 +1,6 @@
 *Homebrew 5.5e*, *03*
 # Sleep
-*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
+*Level 1 Enchantment (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -17,7 +17,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 *Homebrew 5.5e*, *02*
 # Sleep
-*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
+*Level 1 Enchantment (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -34,7 +34,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 *Homebrew 5.5e*, *01*
 # Sleep
-*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
+*Level 1 Enchantment (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  
@@ -53,7 +53,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 *Player's Handbook 5.5e p.317*
 # Sleep
-*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
+*Level 1 Enchantment (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

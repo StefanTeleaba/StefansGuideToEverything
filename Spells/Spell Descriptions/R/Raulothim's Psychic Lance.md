@@ -30,7 +30,7 @@ The target must make an Intelligence saving throw. On a failed save, the target 
 
 *Fizban's Treasury of Dragons 5e p.21*
 # Raulothim's Psychic Lance
-*Level 4 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*  
+*Level 4 Enchantment (Bard, Sorcerer, Warlock, Wizard)*  
 **Casting Time:** Action  
 **Range:** 120 feet  
 **Components:** V  

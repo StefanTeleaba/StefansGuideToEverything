@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.315*
 # Shapechange
-*Level 9 Transmutation (Druid, Wizard)*
+*Level 9 Transmutation (Druid, Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
@@ -11,3 +11,7 @@ You shape-shift into another creature for the duration or until you take a Magic
 When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.  
 Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.  
 Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
+
+![Shapechange](https://5e.tools/img/spells/XPHB/Shapechange.webp)
+
+---

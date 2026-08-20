@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.334*
 # Thunderwave
-*Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
+*Level 1 Evocation (Bard, Druid, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

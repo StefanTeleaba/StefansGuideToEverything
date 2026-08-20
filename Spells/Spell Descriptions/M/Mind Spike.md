@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.298*
 # Mind Spike
-*Level 2 Divination (Sorcerer, Warlock, Wizard)*
+*Level 2 Divination (Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

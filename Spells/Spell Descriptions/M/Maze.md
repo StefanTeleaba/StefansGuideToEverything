@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.296*
 # Maze
-*Level 8 Conjuration (Wizard)*
+*Level 8 Conjuration (Psion, Wizard)*
 
 **Casting Time:** Bonus Action  
 **Range:** 60 feet  

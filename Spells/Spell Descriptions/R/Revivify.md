@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.312*
 # Revivify
-*Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)*
+*Level 3 Necromancy (Artificer, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action  
 **Range:** Touch  
@@ -9,6 +9,6 @@
 
 You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 
-![Revivify](https://static.wikia.nocookie.net/forgottenrealms/images/6/6d/Revivify.jpg/revision/latest?cb=20210713135707)
-
 ---
+
+![Revivify](https://static.wikia.nocookie.net/forgottenrealms/images/6/6d/Revivify.jpg/revision/latest?cb=20210713135707)

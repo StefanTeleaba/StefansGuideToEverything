@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.318*
 # Spare the Dying
-*Necromancy Cantrip (Cleric, Druid)*
+*Necromancy Cantrip (Artificer, Cleric, Druid)*
 
 **Casting Time:** Action  
 **Range:** 15 feet  

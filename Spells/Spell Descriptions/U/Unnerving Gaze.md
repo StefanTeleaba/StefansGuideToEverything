@@ -1,5 +1,4 @@
 [*Created by Nardo*](https://www.youtube.com/@nardodd)
-
 # Unnerving Gaze
 *Conjuration Cantrip (Bard, Sorcerer, Wizard)*
 

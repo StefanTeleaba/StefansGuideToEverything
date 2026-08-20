@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.316*
 # Silence
-*Level 2 Illusion (Bard, Cleric, Ranger)*
+*Level 2 Illusion (Bard, Cleric, Psion, Ranger)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 120 feet  

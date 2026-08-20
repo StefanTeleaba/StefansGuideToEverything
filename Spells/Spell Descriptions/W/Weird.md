@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.341*
 # Weird
-*Level 9 Illusion (Warlock, Wizard)*
+*Level 9 Illusion (Psion, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 120 feet  

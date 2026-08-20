@@ -1,6 +1,6 @@
 *Player’s Handbook 5.5e p.306*
 # Power Word Stun
-*Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
+*Level 8 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

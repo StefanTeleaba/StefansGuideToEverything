@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.298*
 # Mind Sliver
-*Enchantment Cantrip (Sorcerer, Warlock, Wizard)*
+*Enchantment Cantrip (Psion, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

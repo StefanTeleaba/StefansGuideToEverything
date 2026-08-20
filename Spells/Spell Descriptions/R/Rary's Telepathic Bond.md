@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.311*
 # Rary's Telepathic Bond
-*Level 5 Divination (Bard, Wizard)*
+*Level 5 Divination (Bard, Psion, Wizard)*
 
 **Casting Time:** Action or Ritual  
 **Range:** 30 feet  

@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.303*
 # Otto's Irresistible Dance
-*Level 6 Enchantment (Bard, Wizard)*
+*Level 6 Enchantment (Bard, Psion, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  

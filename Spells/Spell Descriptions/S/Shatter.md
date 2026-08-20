@@ -18,7 +18,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 *Player's Handbook 5.5e p.316*
 # Shatter
-*Level 2 Evocation (Bard, Sorcerer, Wizard)*
+*Level 2 Evocation (Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 60 feet  

@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.314*
 # See Invisibility
-*Level 2 Divination (Cleric, Paladin)*
+*Level 2 Divination (Artificer, Bard, Psion, Sorcerer, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  

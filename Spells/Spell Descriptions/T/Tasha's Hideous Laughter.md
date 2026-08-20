@@ -1,6 +1,6 @@
 *Player's Handbook 5.5e p.331*
 # Tasha's Hideous Laughter
-*Level 1 Enchantment (Bard, Warlock, Wizard)*
+*Level 1 Enchantment (Bard, Psion, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** 30 feet  
