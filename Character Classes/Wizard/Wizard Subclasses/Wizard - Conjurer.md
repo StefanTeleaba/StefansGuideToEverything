@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*
 # Conjurer
 *Step Across Space and Call Creatures from Thin Air*  
 You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.
@@ -32,8 +32,8 @@ Once you use this feature to modify a spell in this way, you must finish a Long 
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Conjurer
 *Step Across Space and Call Creatures from Thin Air*  
 You consider distance and matter to be flexible guidelines rather than physical laws. Conjurers harness the power of magic that moves creatures instantly through space and summons creatures to fight on their behalf.

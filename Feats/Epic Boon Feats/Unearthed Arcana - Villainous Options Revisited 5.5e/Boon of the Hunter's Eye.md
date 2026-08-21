@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options Revisited*  
-*This subclass was published on June 18th, 2026.*
+*Unearthed Arcana: Villainous Options Revisited*  
+*Published on June 18th, 2026.*
 # Boon of the Hunter's Eye
 *Epic Boon Feat (Prerequisite: Level 19+)*  
 You gain the following benefits.  

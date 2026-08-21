@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Path of the Death Knight
 Death knights are dastards, deserters, and disgraced champions, undead warriors who march toward perdition to fulfill selfish desires and slake their bloodthirst. A death knight’s martial prowess is inextricably tied to their evil nature, but their heinous deeds extend far beyond the battlefield.
 

@@ -2,7 +2,7 @@
 *Warp Space with the Power of Your Mind*  
 
 *Unearthed Arcana 2025: The Psion*  
-*This subclass was published on May 27th, 2025.*  
+*Published on May 27th, 2025.*  
 
 Psi Warpers tune their psionic powers to manipulating the space between objects. Capable of teleporting across the battlefield and creating vacuums in space, a Psi Warper is never in one place for too long.
 

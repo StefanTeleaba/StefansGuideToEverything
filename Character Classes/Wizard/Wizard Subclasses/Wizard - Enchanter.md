@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*
 # Enchanter
 *Entrance and Beguile Others*  
 Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mind-altering magic for selfish ends. Many Enchanters fall somewhere in between.
@@ -34,8 +34,8 @@ You can reliably enchant creatures and alter their memories. You always have the
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Enchanter
 *Entrance and Beguile Others*  
 Your magic clouds or captivates minds. Some Enchanters use their abilities to encourage peace and soften cruelty, while others use their mind-altering magic for selfish ends. Many Enchanters fall somewhere in between.

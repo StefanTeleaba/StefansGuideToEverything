@@ -1,6 +1,6 @@
 # Ancestral Sorcery
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*  
 
 *Bear the Power of a Spellcasting Lineage*  
 Your innate magic comes from a specific ancestor who wielded such awesome magical power that a fragment of their personality guides you. This ancestor grants you guidance and direction as you explore your innate magical abilities. You might be the ancestor’s sole surviving descendant, a reincarnation who bears an eerie resemblance to your ancestor, or a victim of a curse gained from handling your ancestor’s personal effects.  

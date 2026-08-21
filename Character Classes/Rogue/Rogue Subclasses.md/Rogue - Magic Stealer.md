@@ -36,8 +36,8 @@ When you deal damage with Empower Sneak Attack, you can force the target to make
 ---
 
 # Rogue - Magic Stealer
-*Unearthed Arcana - Mystic Subclasses*  
-*This subclass was published on January 15th, 2026.*
+*Unearthed Arcana: Mystic Subclasses*  
+*Published on January 15th, 2026.*
 
 *Steal Magical Power to Empower Yourself*  
 While ordinary thieves are cutting purses and burgling homes, a Magic Stealer is after a much more valuable prize: magic. The Magic Stealer preys on spellcasters, repurposing their magic and eluding divination spells to take magical power at the point of a knife.

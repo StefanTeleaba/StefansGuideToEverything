@@ -2,7 +2,7 @@
 *Mold Psionic Force for Creation and Destruction*  
 
 *Unearthed Arcana 2025: Psion Update*  
-*This subclass was published on October 2nd, 2025.*  
+*Published on October 2nd, 2025.*  
 
 A Psykinetic controls their psionic powers like a malleable force. They bend their telekinetic energies into sturdy barriers and strike with the force of a battering ram.
 
@@ -46,7 +46,7 @@ You can cast Telekinesis without expending a spell slot by instead expending fou
 *Mold Psionic Force for Creation and Destruction*  
 
 *Unearthed Arcana 2025: The Psion*  
-*This subclass was published on May 27th, 2025.*  
+*Published on May 27th, 2025.*  
 
 A Psykinetic controls their psionic powers like a malleable force. They bend their telekinetic energies into sturdy barriers and strike with the force of a battering ram.
 

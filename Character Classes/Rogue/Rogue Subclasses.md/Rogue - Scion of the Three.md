@@ -31,8 +31,8 @@ You gain the following benefits.
 ---
 
 # Scion of the Three
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Become a Gruesome Agent of Malice*  
 A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: Bane, deity of tyranny; Bhaal, deity of violence and murder; and Myrkul, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.  

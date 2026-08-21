@@ -47,8 +47,8 @@ As a Bonus Action, you gain the benefits below for 10 minutes or until you end t
 ---
 
 # Oath of the Noble Genies
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Brandish the Elemental Splendor of Genies*  
 Paladins sworn to the Oath of the Noble Genies revere the forces of the Elemental Planes. Through taking this oath, Paladins draw power from the four different types of genies — dao, masters of earth; djinn, masters of air; efreet, masters of fire; and marids, masters of water — to create splendid and destructive displays of elemental might.  

@@ -1,6 +1,6 @@
 # Primordial Patron
-*Unearthed Arcana - Villainous Options 2*  
-*This subclass was published on April 23rd, 2026.*
+*Unearthed Arcana: Villainous Options 2*  
+*Published on April 23rd, 2026.*
 
 Invoke Scions of Elemental Chaos
 Your pact draws on the Inner Planes, the realms of elemental forces and the building blocks of the multiverse. Warlocks of this pact act as heralds of ancient and destructive scions of air, earth, fire, and water—such as the Elemental Evils. These Warlocks prepare the way for their patrons’ eventual arrival on the Material Plane by creating elemental nodes, areas suffused with energy from the Elemental Planes.  

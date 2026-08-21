@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Arcana Domain
 *Blend Conviction with Arcane Power*  
 Magic suffuses the multiverse and fuels both destruction and creation. Clerics with this domain view magical knowledge not as power to be used in pursuit of personal ends, but as a gift they have the responsibility to share.  

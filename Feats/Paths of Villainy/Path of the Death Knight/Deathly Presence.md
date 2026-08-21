@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Deathly Presence
 *Path of the Death Knight Feat (Prerequisite: Level 8+, Death Knight Initiate Feat)*  
 You gain the following benefits.  

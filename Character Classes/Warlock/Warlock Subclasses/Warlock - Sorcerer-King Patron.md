@@ -1,6 +1,6 @@
 # Sorcerer-King Patron
-*Unearthed Arcana - Apocalyptic Subclasses*  
-*This subclass was published on August 21st, 2025.*  
+*Unearthed Arcana: Apocalyptic Subclasses*  
+*Published on August 21st, 2025.*  
 
 *Herald Tyrannical Might of Monstrous Rulers*  
 Your pact draws from the power of a monstrous, tyrannical force akin to a demigod or an overwhelmingly powerful magic-user. Through your pact, you herald this tyrant’s interests in the world, channeling their influence and mind-bending, psionic power.

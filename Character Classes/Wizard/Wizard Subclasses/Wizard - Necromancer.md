@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*
 # Necromancer
 *Command the Powers of Death and Undeath*  
 You explore the cosmic forces of life, death, and undeath. As a Necromancer, you learn to manipulate the energy that animates all creatures. As you progress, you learn to use magic to drain the life force from a creature and transform its vital energy into magical power. Many see Necromancers as menacing or villainous, though not all Necromancers are evil. Nevertheless, the manipulation of life and death is considered taboo in many societies.
@@ -40,8 +40,8 @@ Abstruse rituals within your spellbook allow you mastery over forces of death. W
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Necromancer
 *Command the Powers of Death and Undeath*  
 You explore the cosmic forces of life, death, and undeath. As a Necromancer, you learn to manipulate the energy that animates all creatures. As you progress, you learn to use magic to drain the life force from a creature, transforming its vital energy into magical power. Many see Necromancers as menacing or villainous, though not all Necromancers are evil. Nevertheless, the manipulation of life and death is considered taboo in many societies.

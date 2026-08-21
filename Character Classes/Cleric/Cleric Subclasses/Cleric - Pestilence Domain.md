@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Pestilence Domain
 *Foment Plague and Rot*  
 Clerics of the Pestilence Domain harness supernatural plague and decay to erode their enemies’ vitality. Though common folk often regard pestilence as a force of rampant destruction, Clerics of this domain wield it with surgical precision.  

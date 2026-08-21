@@ -1,5 +1,5 @@
-*Unearthed Arcana - Fighter*
-*This subclass was published on December 5th, 2016.*
+*Unearthed Arcana: Fighter*
+*Published on December 5th, 2016.*
 *Modified*
 # Sharpshooter
 The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.

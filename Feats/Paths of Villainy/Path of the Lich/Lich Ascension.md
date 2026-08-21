@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Lich Ascension
 *Path of the Lich Feat (Prerequisite: Level 12+, at least two Path of the Lich Feats)*  
 Your path to lichdom is complete. You gain the following benefits.  

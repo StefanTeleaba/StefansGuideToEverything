@@ -45,7 +45,7 @@ Your Form of Dread improves, granting you the following benefits while you are u
 ---
 
 *Unearthed Arcana 2025: Horror Subclasses*  
-*This subclass was published on May 6th, 2025.*
+*Published on May 6th, 2025.*
 
 # Undead Patron
 *Defy Death for Profane Power*  

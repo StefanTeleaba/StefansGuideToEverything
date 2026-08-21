@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options Revisited*  
-*This subclass was published on June 18th, 2026.*
+*Unearthed Arcana: Villainous Options Revisited*  
+*Published on June 18th, 2026.*
 # Hell Knight
 *Inflict Hellish Wounds and Damn Enemies*  
 Hell Knights are the champions of archdevils and other high-ranking fiends of the Nine Hells, such as cambions and night hags. Armed with the techniques of the Nine Hells’ fiercest warriors, Hell Knights inflict infernal wounds and fight with the tenacity of a devil.  
@@ -58,8 +58,8 @@ If the number rolled causes the target to succeed on the D20 Test, you regain an
 
 ---
 
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Hell Knight
 *Inflict Hellish Wounds and Damn Enemies*  
 Hell Knights are the champions of archdevils and other high-ranking fiends of the Nine Hells, such as cambions and night hags. Armed with the techniques of the Nine Hells’ fiercest warriors, Hell Knights inflict infernal wounds and fight with the tenacity of a devil.  

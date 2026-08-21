@@ -1,6 +1,6 @@
 # Oathbreaker
 *Unearthed Arcana 2025: Subclasses Update*  
-*This subclass was published on October 30th, 2025.*  
+*Published on October 30th, 2025.*  
 
 *Obtain Great Power at Any Cost*  
 The power of a Paladin’s oath is so great that it holds a distorted power even when it is violated. When a Paladin betrays the tenets of their oath because of corruption, pride, or thirst for power, they lose the blessing granted by their original oath but sometimes take on the sinister blessing of the Oathbreaker in its place. Oathbreakers use fear and overwhelming power to achieve their goals. While many Oathbreakers are beyond redemption, some Paladins bend this oath to achieve a great and noble deed to atone for their past evils.  

@@ -1,6 +1,6 @@
 # Warrior of Venom
-*Unearthed Arcana - Villainous Options 2*  
-*This subclass was published on April 23rd, 2026.*
+*Unearthed Arcana: Villainous Options 2*  
+*Published on April 23rd, 2026.*
 
 *Channel the Cauldron of Your Own Toxicity*  
 Warriors of Venom pollute their internal reservoirs of power to become poison incarnate. Through years of focus and the study of poison in all its forms, these Monks learn to harness their own toxicity to impair and envenom foes. Contact with a Warrior of Venom—even the slightest touch or a single drop of blood—can be as deadly as a viper’s bite.

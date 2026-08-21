@@ -1,6 +1,6 @@
 # Defiled Sorcery
-*Unearthed Arcana - Apocalyptic Subclasses*  
-*This subclass was published on August 21st, 2025.*  
+*Unearthed Arcana: Apocalyptic Subclasses*  
+*Published on August 21st, 2025.*  
 
 *Siphon Life into Catastrophic Spells*  
 Your innate power siphons life essence from the surrounding world. At your command, creatures grow sick and plants wither to husks. You draw power from the corruption of life itself, draining vitality to fuel destructive magic.

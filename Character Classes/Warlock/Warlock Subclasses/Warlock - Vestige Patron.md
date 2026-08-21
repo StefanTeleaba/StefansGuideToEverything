@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Mystic Subclasses*  
-*This subclass was published on January 15th, 2026.*
+*Unearthed Arcana: Mystic Subclasses*  
+*Published on January 15th, 2026.*
 # Vestige Patron
 *Wield the Remnants of a Dying God’s Power*  
 Your pact draws on the power of a dying god, a being once worshipped by countless followers but now abandoned and forgotten. This dying god, known as a vestige, might have been benevolent, evil, or strange and unknowable, but now it is driven to regain its former power. The vestige needs your help it is willing to share its remaining strength with you.

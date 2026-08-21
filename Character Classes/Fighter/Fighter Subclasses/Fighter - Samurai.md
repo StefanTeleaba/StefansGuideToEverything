@@ -56,7 +56,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 ---
 
 *Unearthed Arcana: Fighter: Martial Archetypes*  
-*This subclass was published on December 5th, 2016.*
+*Published on December 5th, 2016.*
 # Samurai
 
 ## Level 3: Bonus Proficiency

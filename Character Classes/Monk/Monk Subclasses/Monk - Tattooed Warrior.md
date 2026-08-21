@@ -1,6 +1,6 @@
 # Tattooed Warrior
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*  
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*  
 
 *Enhance Martial Arts with Your Magic Tattoos*  
 Drawing from body-marking traditions from across the multiverse, Tattooed Warriors can use arcane power imbued in their magic tattoos. These Monks gain tattoos as they grow in martial prowess and insight. Tattooed Warriors can reshape their tattoos to access a suite of physical and magical effects.
@@ -54,8 +54,8 @@ Additionally, as a Magic action, you can expend 1 Focus Point to fire four rays 
 ---
 
 # Tattooed Warrior
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*  
 
 *Enhance Martial Arts with Your Magic Tattoos*  
 Drawing from diverse body-marking traditions from across the multiverse, Tattooed Warriors can use arcane power imbued in their magic tattoos. These Monks gain tattoos as they grow in martial prowess and insight. Tattooed Warriors can cause their tattoos to change shape to access a versatile suite of physical and magical effects to overcome foes.  

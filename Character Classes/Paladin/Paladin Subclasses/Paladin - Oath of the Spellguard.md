@@ -1,6 +1,6 @@
 # Paladin - Oath of the Spellguard
-*Unearthed Arcana - Mystic Subclasses*  
-*This subclass was published on January 15th, 2026.*
+*Unearthed Arcana: Mystic Subclasses*  
+*Published on January 15th, 2026.*
 
 *Protect Your Allies from Villainous Magic*  
 Paladins who take the Oath of the Spellguard are sworn to battle those who use magic to harm others. They often serve as bodyguards to upstanding mages, but their most important role is protecting allies from devastating magical attacks. Those who swear this oath ensure that villains who misuse magic are brought to justice.  

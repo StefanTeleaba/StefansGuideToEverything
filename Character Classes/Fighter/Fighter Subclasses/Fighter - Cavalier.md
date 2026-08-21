@@ -1,5 +1,5 @@
 *Unearthed Arcana 2025: Subclasses Update*  
-*This subclass was published on October 30th, 2025.*
+*Published on October 30th, 2025.*
 # Cavalier
 *Defend Your Allies on Foot or from a Mount*  
 Cavaliers excel at mounted combat and guard those in their charge, often protecting their superiors and the weak. A Cavalier is equally at home leading a cavalry charge or exchanging repartees at a state dinner.
@@ -96,7 +96,7 @@ Starting at 18th level, you respond to danger with extraordinary vigilance. In c
 ---
 
 *Unearthed Arcana 40 - Revised Class Options*  
-*This subclass was published on June 5th, 2017.*
+*Published on June 5th, 2017.*
 # Cavalier
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
@@ -130,7 +130,7 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 ---
 
 *Unearthed Arcana: Fighter: Martial Archetypes*  
-*This subclass was published on December 5th, 2016.*
+*Published on December 5th, 2016.*
 # Knight
 The Knight is a colossus on the battlefield who can shrug off attacks and protect allies from harm. Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy’s forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.
 
@@ -158,7 +158,7 @@ At 18th level, you respond to danger with extraordinary vigilance. You can use y
 ---
 
 *Unearthed Arcana: Kits of Old*  
-*This subclass was published on January 4th, 2016.*
+*Published on January 4th, 2016.*
 # Cavalier
 The archetypal Cavalier excels at mounted combat. Usually born to nobility and raised in a royal court, a Cavalier is equally at home leading a cavalry charge or exchanging witty repartee at a state dinner.
 

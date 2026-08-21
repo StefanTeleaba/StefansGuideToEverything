@@ -1,5 +1,5 @@
 *Unearthed Arcana 2025: Subclasses Update*  
-*This subclass was published on October 30th, 2025.*
+*Published on October 30th, 2025.*
 # Path of the Storm Herald
 *Wield the Fury of the Storm*  
 Barbarians who follow the Path of the Storm Herald learn to harness their Rage into a mantle of primal magic that swirls around them like a storm. When in their Rage, these Barbarians tap into the elemental forces of nature to create powerful magical effects.

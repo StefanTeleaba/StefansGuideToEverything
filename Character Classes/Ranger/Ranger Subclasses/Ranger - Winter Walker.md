@@ -40,8 +40,8 @@ When you cast Hunter's Mark, you can adopt a ghostly, snowy form. This form last
 ---
 
 # Winter Walker
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Withstand the Horrors of Frigid Wastelands*  
 Winter Walkers hone their craft in the bleak and frozen wilds of places like Icewind Dale. Rimed with ice, these ruthless Rangers hunt the monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves.  

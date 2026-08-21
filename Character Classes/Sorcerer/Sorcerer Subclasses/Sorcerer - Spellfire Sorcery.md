@@ -35,8 +35,8 @@ When you use Innate Sorcery, you can alter it and infuse yourself with the essen
 ---
 
 # Spellfire Sorcery
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Radiate Raw Magic Potential*  
 Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.  

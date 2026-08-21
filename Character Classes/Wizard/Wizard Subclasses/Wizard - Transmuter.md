@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*
 # Transmuter
 *Transform Energy and Matter*  
 You study spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable. Your magic gives you the tools to become a smith at reality’s forge.  
@@ -52,8 +52,8 @@ While you carry your Transmuter’s Stone, you can take a Magic action to consum
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Transmuter
 *Transform Energy and Matter*  
 You study spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable. Your magic gives you the tools to become a smith on reality’s forge.  

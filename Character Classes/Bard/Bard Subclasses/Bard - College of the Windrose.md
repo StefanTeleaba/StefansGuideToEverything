@@ -1,5 +1,5 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
-*This subclass was published on April 26th, 2026.*  
+*Published on April 26th, 2026.*  
 [*Created by murf1e*](https://bio.site/spaghetti0)
 # College of the Windrose
 *Conduct the Wind to Roil or Fly*  

@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options Revisited*  
-*This subclass was published on June 18th, 2026.*
+*Unearthed Arcana: Villainous Options Revisited*  
+*Published on June 18th, 2026.*
 # Demonic Sorcery
 *Summon the Powers of the Abyss*  
 The corruptive magic of demons courses through you, making you a conduit for the infinite layers of the Abyss and their horrors. Your gift might stem from distant demonic ancestry, a fated encounter with a demon that cursed you, or a brush with the dark hunger of the Abyss.  
@@ -50,8 +50,8 @@ Once you use this feature, you can’t do so again until you finish a Long Rest,
 
 ---
 
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Demonic Sorcery
 *Summon the Powers of the Abyss*  
 The corruptive magic of demons courses through you, making you a conduit for the infinite layers of the Abyss and their horrors. Your gift might stem from a distant demonic ancestry, a fated encounter with a demon that cursed you, or a brush with the dark hunger of the Abyss.  

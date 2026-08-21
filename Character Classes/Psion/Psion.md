@@ -1,5 +1,5 @@
 *Unearthed Arcana 2025: Psion Update*  
-*This subclass was published on October 2nd, 2025.*
+*Published on October 2nd, 2025.*
 # Psion
 *A Master of Psionic Power*  
 Psions wield magic and extraordinary powers through the power of thought. They develop their minds as fonts of power that manifest spells and grow stronger over the course of their adventuring careers. You can find everything you need to play one of these psionic powerhouses in the next few sections.
@@ -117,7 +117,7 @@ When you use Sharpened Mind, you can also use a different Psionic Discipline thi
 ---
 
 *Unearthed Arcana 2025: The Psion*  
-*This subclass was published on May 27th, 2025.*
+*Published on May 27th, 2025.*
 # Psion
 *A Master of Psionic Power*  
 Psions weave magic and extraordinary powers through the power of their minds. They develop their minds as fonts of power that manifest spells and grow stronger over the course of their adventuring careers. You can find everything you need to play one of these psionic powerhouses in the next few sections.

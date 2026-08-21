@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options Revisited*  
-*This subclass was published on June 18th, 2026.*
+*Unearthed Arcana: Villainous Options Revisited*  
+*Published on June 18th, 2026.*
 # Circle of the Titan
 *Wreak Colossal Havoc*  
 When civilization violates the natural world—by deforesting ancient groves, polluting sacred waters, or hunting wildlife to the brink of extinction—Druids of the Circle of the Titan intervene. Druids of this order believe that for nature to thrive, society must sometimes fall. To this end, they assume towering, monstrous forms to mete out cataclysmic retribution and forcibly restore the natural order.
@@ -116,8 +116,8 @@ The number of creatures you can have swallowed at a time equals your Wisdom modi
 
 ---
 
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Circle of the Titan
 *Wreak Colossal Havoc*
 When civilization violates the natural world—by deforesting ancient groves, polluting sacred waters, or hunting wildlife to the brink of extinction—Druids of the Circle of the Titan intervene. Druids of this order believe that for nature to thrive, society must sometimes fall. To this end, they assume towering, monstrous forms to mete out cataclysmic retribution and forcibly restore the natural order.

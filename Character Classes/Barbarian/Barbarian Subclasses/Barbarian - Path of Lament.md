@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options 2*  
-*This subclass was published on April 23rd, 2026.*
+*Unearthed Arcana: Villainous Options 2*  
+*Published on April 23rd, 2026.*
 # Path of Lament
 *Transform Bitter Anguish into Supernatural Rage*  
 Barbarians who walk the Path of Lament hone their regrets into deadly weapons and channel their deepest sorrows into rageful action. Propelled by supernatural grief, their fury grants them gifts from beyond the grave.  

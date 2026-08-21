@@ -1,5 +1,5 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
-*This subclass was published on April 26th, 2026.*  
+*Published on April 26th, 2026.*  
 [*Created by Lokhii*](https://bio.site/spaghetti0)
 # Circle of the Beacon
 *Serve as a Light When All Others Go Out*  

@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Mystic Subclasses*  
-*This subclass was published on January 15th, 2026.* 
+*Unearthed Arcana: Mystic Subclasses*  
+*Published on January 15th, 2026.* 
 # Warrior of the Mystic Arts
 *Weave Martial and Mystic Arts*  
 Warriors of the Mystic Arts wield magic to supplement their martial skill. They harness their supernatural focus to enhance their magical and physical abilities.

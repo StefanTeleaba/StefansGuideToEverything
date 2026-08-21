@@ -31,8 +31,8 @@ As a Bonus Action, you magically expand your mind to the future. For 1 hour, you
 ---
 
 # Knowledge Domain
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Unearth Secrets and Master the Mind*  
 The Knowledge Domain values learning and understanding above all. Clerics who tap into this domain study esoteric lore, collect old tomes, delve into the secret places of the earth, and examine the process of the mind itself.  

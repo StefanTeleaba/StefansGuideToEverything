@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Death Knight Initiate
 *Path of the Death Knight Feat (Prerequisite: Level 4+, Weapon Mastery Feature)*  
 You gain the following benefits.  

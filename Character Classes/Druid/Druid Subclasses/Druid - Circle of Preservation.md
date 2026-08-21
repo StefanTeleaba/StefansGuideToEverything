@@ -1,5 +1,5 @@
-*Unearthed Arcana - Apocalyptic Subclasses*  
-*This subclass was published on August 21st, 2025.*
+*Unearthed Arcana: Apocalyptic Subclasses*  
+*Published on August 21st, 2025.*
 # Circle of Preservation
 *Safeguard Nature and Heal the World*  
 Druids of the Circle of Preservation work tirelessly to conserve natural resources and restore places once ruined by greed and exploitation. Through a combination of conservation and restorative magic, Druids of this order shield and spread life across the land. The most powerful members of this order can return vitality to barren fields, transforming wastelands into thriving wildernesses once more.

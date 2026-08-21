@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options Revisited*  
-*This subclass was published on June 18th, 2026.*
+*Unearthed Arcana: Villainous Options Revisited*  
+*Published on June 18th, 2026.*
 # Underhanded
 *Origin Feat*  
 You gain the following benefits.  

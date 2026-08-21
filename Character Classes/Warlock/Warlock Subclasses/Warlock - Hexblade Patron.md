@@ -1,6 +1,6 @@
 # Hexblade Patron
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*  
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*  
 
 *Forge a Pact with a Cursed Blade*  
 You’ve made a pact with a sentient magic weapon and the cursed forces contained within its blade. Such a weapon could be the sword sheathed at your side, or it could be a manifestation of an infamous magic weapon like Blackrazor or the Sword of Kas projecting its power to further its legend. To those willing to follow this weapon’s whims, these inscrutable patrons offer the power to bestow malignant curses, deliver punishing blows, and bolster the wielder.
@@ -53,7 +53,7 @@ The power of your Hexblade’s Curse increases, granting the following benefits.
 
 # Hexblade Patron
 *Unearthed Arcana 2025: Horror Subclasses*  
-*This subclass was published on May 6th, 2025.*  
+*Published on May 6th, 2025.*  
 
 You’ve made a pact with a sentient magic weapon and the cursed forces contained within its blade. Such a weapon could be the sword sheathed at a Warlock’s side, or it could be an infamous magic weapon stored elsewhere, projecting its power across the multiverse to further its cunning plans. To those who are willing to follow this weapon’s whims, these inscrutable patrons offer the power to bestow malignant curses, deliver punishing blows, and bolster the wielder.
 

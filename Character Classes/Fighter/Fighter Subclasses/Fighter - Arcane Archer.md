@@ -3,8 +3,8 @@
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses Update*  
-*This subclass was published on September 18th, 2025.*
+*Unearthed Arcana: Arcane Subclasses Update*  
+*Published on September 18th, 2025.*
 # Arcane Archer
 *Deploy Magical Effects Through Enchanted Ammunition*  
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. The first Arcane Archers stood watch over their communities and used magic-infused arrows to defeat monsters and invaders. Over the centuries, other species have learned this method of blending magical aptitude with archery. These archers have broadened this method’s application to ranged weapons of many kinds and to aspects of adventuring life outside of combat.
@@ -64,8 +64,8 @@ The Arcane Shot options are presented here in alphabetical order.
 
 ---
 
-*Unearthed Arcana - Arcane Subclasses*  
-*This subclass was published on June 26th, 2025.*
+*Unearthed Arcana: Arcane Subclasses*  
+*Published on June 26th, 2025.*
 # Arcane Archer
 *Deploy Magical Effects through Enchanted Ammunition*  
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. The first Arcane Archers stood watch over their communities, keeping a keen eye out for dangers and using magic-infused arrows to defeat monsters and invaders. Over the centuries, other species have learned the elves’ mystical methods of blending arcane aptitude with archery and broadened their application to ranged weapons of many kinds while applying those talents to an adventuring life.  

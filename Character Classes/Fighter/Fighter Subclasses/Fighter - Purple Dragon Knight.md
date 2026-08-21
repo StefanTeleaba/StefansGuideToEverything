@@ -1,5 +1,5 @@
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.* 
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.* 
 # Purple Dragon Knight
 *Herald the Majesty of Amethyst Dragons*  
 The Purple Dragon Knights are paragons of valor and leadership who partner with amethyst dragons. Such knights aspire to protect the innocent and rally fellow adventurers to the causes of justice and freedom. Although the Purple Dragons were originally founded in Cormyr, new recruits are enlisted from any realms where chivalry is in abundance, including the Silver Marches, Damara, and Chessenta.  

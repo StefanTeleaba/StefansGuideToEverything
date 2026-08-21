@@ -1,5 +1,5 @@
-*Unearthed Arcana - Villainous Options*  
-*This subclass was published on April 2nd, 2026.*
+*Unearthed Arcana: Villainous Options*  
+*Published on April 2nd, 2026.*
 # Death Knight Ascension
 *Path of the Death Knight Feat (Prerequisite: Level 12+, two Path of the Death Knight Feats)*  
 Your path to becoming a death knight is complete. You gain the following benefits.  

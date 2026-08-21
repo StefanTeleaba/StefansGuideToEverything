@@ -29,8 +29,8 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 ---
 
-*Unearthed Arcana - Three Subclasses*
-*This subclass was published on January 8th, 2018.*
+*Unearthed Arcana: Three Subclasses*
+*Published on January 8th, 2018.*
 # Brute
 Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 

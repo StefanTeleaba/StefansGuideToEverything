@@ -1,5 +1,5 @@
-*Unearthed Arcana - Sorcerer*  
-*This subclass was published on February 6th, 2017.*  
+*Unearthed Arcana: Sorcerer*  
+*Published on February 6th, 2017.*  
 *Modified*  
 # Phoenix Sorcery
 

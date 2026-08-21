@@ -29,8 +29,8 @@ After you cast a spell that has a casting time of an action, you can make one at
 ---
 
 # Bladesinger
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Wield Sword and Sorcery in Elegant Tandem*  
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.  

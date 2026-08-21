@@ -25,8 +25,8 @@ You become suffused with the might of the moon, improving your Moon's Inspiratio
 ---
 
 # College of the Moon
-*Unearthed Arcana - Forgotten Realms Subclasses*  
-*This subclass was published on January 28th, 2025.*  
+*Unearthed Arcana: Forgotten Realms Subclasses*  
+*Published on January 28th, 2025.*  
 
 *Inspire Allies with Primal Tales*
 The College of the Moon traces its origins to the ancient druidic circles of the Moonshae Isles, who entrusted the first Bards of this tradition with chronicling the stories of the islands and their people. Bards of this college draw from the isles’ Fey magic and the primal power of the moonwells to bolster their allies, protect the natural world, and inspire their bardic works. Such works tend to be based on well-known Moonshae myths such as the whimsy of fairy pranksters, the viciousness of the Beast, and the mysteries of the moonwells.

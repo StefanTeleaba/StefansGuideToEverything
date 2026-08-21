@@ -1,6 +1,6 @@
 # Sea Sorcery
-*Unearthed Arcana - Sorcerer*  
-*This subclass was published on February 6th, 2017.*  
+*Unearthed Arcana: Sorcerer*  
+*Published on February 6th, 2017.*  
 *Modified by Stefan*  
 
 The power of water is the strength of flexibility, resilience, and a relentless nature. Water parts to allow a ship to sail over it or a diver to plunge into it, but their passing leaves no mark. Water flowing down a mountain reaches the sea. It might bend and turn across valleys and down hillsides, but it slowly and steadily returns to the waves. Those whose souls are touched by the power of elemental water command a similar power.  

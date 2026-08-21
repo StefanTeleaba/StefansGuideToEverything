@@ -1,5 +1,5 @@
 *Unearthed Arcana 2025: Subclasses Update*  
-*This subclass was published on October 30th, 2025.*
+*Published on October 30th, 2025.*
 # Path of the Spiritual Guardian
 *Call on the Spirits for Combat Aid*  
 Barbarians who walk the Path of the Spiritual Guardian call upon spirits—whether bestial spirits of nature, spirits of departed ancestors, or spirits of raw elemental power—to guide and protect them. When these Barbarians rage, they contact the realm of the spirits and call on them for aid.

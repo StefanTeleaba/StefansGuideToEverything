@@ -1,6 +1,6 @@
 # Warrior of Intoxication
 *Unearthed Arcana 2025: Subclasses Update*  
-*This subclass was published on October 30th, 2025.*  
+*Published on October 30th, 2025.*  
 
 *Drink Mystic Brews to Overwhelm and Confound Foes*  
 Warriors of Intoxication move with the jerky, unpredictable movements typical of someone who is intoxicated. These Monks sway on unsteady feet to appear incompetent and then prove themselves frustrating to engage. Their apparently erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.  
