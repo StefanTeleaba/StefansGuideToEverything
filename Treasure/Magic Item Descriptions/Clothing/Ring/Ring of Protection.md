@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.294*
+*Dungeon Master's Guide 5.5e 2024 p.294*
 # Ring of Protection
 *Ring, Rare (Requires Attunement)*
 You gain a +1 bonus to Armor Class and saving throws while wearing this ring.

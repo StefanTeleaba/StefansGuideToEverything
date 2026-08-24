@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e p.*
+*Ravenloft: The Horrors Within 5.5e 2026 p.*
 # Spirit Medium
 Through strange rituals and fateful encounters, you've discovered that you bear a unique connection to the spirits of the dead and damned. Your body is a conduit for such spirits, granting you prescient insight from beyond. But these spirits' intentions aren't always innocent, and their gifts come at a haunting cost.
 

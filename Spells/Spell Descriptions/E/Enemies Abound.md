@@ -16,7 +16,7 @@ Each time the target takes damage, it makes another Intelligence saving throw. O
 
 ---
 
-*Xanathar's Guide to Everything 5e p.155*
+*Xanathar's Guide to Everything 5e 2017 p.155*
 # Enemies Abound
 *Level 3 Enchantment (Bard, Psion, Sorcerer, Warlock, Wizard)*  
 **Casting Time:** Action  

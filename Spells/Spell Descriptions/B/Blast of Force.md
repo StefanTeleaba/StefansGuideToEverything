@@ -13,7 +13,7 @@ Make a ranged spell attack against one creature or object in range. On a hit, th
 
 ---
 
-*Spell Compendium 3.5e p.31*
+*Spell Compendium 3.5e 2005 p.31*
 # Blast of Force
 *Evocation [Force]*  
 **Level:** Force 3, sorcerer/wizard 2  

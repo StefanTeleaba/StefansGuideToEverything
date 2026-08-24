@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.295*
+*Player's Handbook 5.5e 2024 p.295*
 # Magic Weapon
 *Level 2 Transmutation (Artificer, Paladin, Ranger, Sorcerer, Wizard)*
 

@@ -13,7 +13,7 @@ You summon an otherworldly being that appears as a loyal steed in an unoccupied 
 
 ---
 
-*Xanathar's Guide to Everything 5e p.156*
+*Xanathar's Guide to Everything 5e 2017 p.156*
 # Find Greater Steed
 *Level 4 Conjuration (Paladin)*
 

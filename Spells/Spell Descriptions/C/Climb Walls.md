@@ -15,4 +15,4 @@ You touch a willing creature. For the duration, climbing don't cost that creatur
 
 ---
 
-*Spell Compendium 3.5e p.47*
+*Spell Compendium 3.5e 2005 p.47*

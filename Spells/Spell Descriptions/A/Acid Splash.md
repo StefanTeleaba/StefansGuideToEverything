@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.239*
+*Player's Handbook 5.5e 2024 p.239*
 # Acid Splash
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
@@ -13,7 +13,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 ---
 
-*Player's Handbook 3.5e p.196*
+*Player's Handbook 3.5e 2003 p.196*
 # Acid Splash
 *Conjuration (Creation) [Acid]*  
 **Level:** Sor/Wiz 0  

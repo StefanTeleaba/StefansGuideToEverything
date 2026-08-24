@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.268*
+*Player's Handbook 5.5e 2024 p.268*
 # Entangle
 *Level 1 Conjuration (Druid, Ranger)*
 

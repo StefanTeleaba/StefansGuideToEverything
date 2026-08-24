@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.244*
+*Dungeon Master's Guide 5.5e 2024 p.244*
 # Cloak of Arachnida
 *Wondrous Item, Very Rare (Requires Attunement)*  
 This fine garment is made of black silk interwoven with faint, silvery threads. While wearing it, you gain the following benefits.  
@@ -11,7 +11,7 @@ This fine garment is made of black silk interwoven with faint, silvery threads. 
 
 ---
 
-*Dungeon Master's Guide 3.5e p.249*
+*Dungeon Master's Guide 3.5e 2003 p.249*
 # Cloak of Arachnida
 This black garment, embroidered with a weblike pattern in silk, gives the wearer the ability to climb as if a spider climb spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by web spells or webs of any sort—she can actually move in webs at half her normal speed. Once per day, the wearer of this cloak can cast web. She also gains a +2 luck bonus on all Fortitude saves against poison from spiders.  
 Faint conjuration and transmutation; CL 6th; Craft Wondrous Item, spider climb, web; Price 14,000 gp; Weight 1 lb. 
@@ -20,7 +20,7 @@ Faint conjuration and transmutation; CL 6th; Craft Wondrous Item, spider climb, 
 
 ---
 
-*Encyclopedia Magica Volume 1 2e p.295*
+*Encyclopedia Magica Volume I 2e p.295*
 # Cloak of Arachnida
 XP Value: 3,000  
 GP Value: 25,000  

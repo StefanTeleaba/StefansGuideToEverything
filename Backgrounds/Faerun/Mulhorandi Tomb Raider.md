@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.33*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.33*
 # Mulhorandi Tomb Raider
 You grew up in a land of living god-kings, and as a child you were told countless stories of ancient empires and buried cities. In these tales, Mulhorand was a land overflowing with forgotten riches—priceless treasures awaiting anyone cunning and brave enough to seek them out. You've taken it upon yourself to explore your homeland's crypts, tombs, and pyramids to reclaim your people's relics.
 

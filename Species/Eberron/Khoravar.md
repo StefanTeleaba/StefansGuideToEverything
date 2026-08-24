@@ -1,4 +1,4 @@
-*Eberron: Forge of the Artificer 5.5e p.36*
+*Eberron: Forge of the Artificer 5.5e 2025 p.36*
 # Khoravar
 Over the course of centuries, those descended from both humans and elves have developed their own communities and traditions in Khorvaire. The rise of House Lyrandar and House Medani has strengthened this identity. Members of these communities call themselves Khoravar, an Elvish term meaning “children of Khorvaire,” as they dislike the term “half-elf.”  
 Many Khoravar espouse the idea of being “the bridge between,” believing they are called to facilitate communication and cooperation between members of different cultures or species. Khoravar who follow this philosophy often become bards, diplomats, mediators, or translators. Others, fascinated by their distant connection to the Fey, seek to build bridges between the Material Plane and the Feywild of Thelanis. These Khoravar often become druids or warlocks with archfey patrons.

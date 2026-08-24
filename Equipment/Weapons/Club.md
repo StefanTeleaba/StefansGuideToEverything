@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.215*
+*Player's Handbook 5.5e 2024 p.215*
 # Club (1 SP)
 *Simple Melee Weapon*  
 **Damage:** 1d4 Bludgeoning  
@@ -10,7 +10,7 @@
 
 ---
 
-*Player's Handbook 3.5e p.*
+*Player's Handbook 3.5e 2003 p.*
 # Club
 *Simple Melee Weapon*  
 **Cost:** -  

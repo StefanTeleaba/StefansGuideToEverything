@@ -5,7 +5,7 @@ While you have the Prone condition, you don’t have Disadvantage due to the Pro
 
 ---
 
-*Complete Warrior 3.5e p.103*
+*Complete Warrior 3.5e 2003 p.103*
 # Prone Attack
 *[Fighter Bonus Feat, General]*  
 You can attack from a prone position without penalty.  

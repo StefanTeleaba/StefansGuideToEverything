@@ -12,7 +12,7 @@ The bee moves with the target, hovering within 3 feet of it as long as the targe
 
 ---
 
-*Spell Compendium 3.5e p.41*
+*Spell Compendium 3.5e 2005 p.41*
 # Buzzing Bee
 *Conjuration (Creation)*  
 **Level:** Sorcerer/wizard 1  

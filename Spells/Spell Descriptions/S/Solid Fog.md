@@ -16,6 +16,6 @@ A creature or object that falls into solid fog is slowed and any damage taken fr
 
 ---
 
-*Player's Handbook 3.5e p.281*
+*Player's Handbook 3.5e 2003 p.281*
 
 ---

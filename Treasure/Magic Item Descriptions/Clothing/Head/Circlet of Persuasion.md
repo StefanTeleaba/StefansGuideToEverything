@@ -22,7 +22,7 @@ While you wear this circlet, you have Advantage on Charisma checks and you can t
 
 ---
 
-*Dungeon Master's Guide 3.5e p.252*
+*Dungeon Master's Guide 3.5e 2003 p.252*
 # Circlet of Persuasion
 This silver headband grants a +3 competence bonus on the wearer’s Charisma-based checks.  
 Faint transmutation; CL 5th; Craft Wondrous Item, eagle’s splendor; Price 4,500 gp.

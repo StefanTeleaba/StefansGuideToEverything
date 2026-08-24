@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.283*
+*Player's Handbook 5.5e 2024 p.283*
 # Hallow
 *Level 5 Abjuration (Cleric)*
 

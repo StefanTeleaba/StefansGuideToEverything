@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.188*
+*Player's Handbook 5.5e 2024 p.188*
 # Dwarf
 Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds ─ Moradin, Reorx, and others ─ that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.  
 Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds ─ especially of the little overcoming the mighty.  

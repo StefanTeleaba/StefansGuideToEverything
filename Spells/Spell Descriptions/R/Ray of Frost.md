@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e p.311*
+*Player’s Handbook 5.5e 2024 p.311*
 # Ray of Frost
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 

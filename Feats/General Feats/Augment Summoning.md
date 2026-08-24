@@ -8,7 +8,7 @@ You gain the following benefits.
 
 ---
 
-*Player's Handbook 3.5e p.89*  
+*Player's Handbook 3.5e 2003 p.89*  
 *Magic of Faerun 3e p.21*  
 *Tome and Blood: A Guidebook to Wizards and Sorcerers 3e p.39*
 # Augment Summoning

@@ -15,7 +15,7 @@ Brilliant sunlight flashes from you in a 60-foot Emanation. Each creature you ch
 
 ---
 
-*Spell Compendium 3.5e p.10*
+*Spell Compendium 3.5e 2005 p.10*
 # Anger of the Noonday Sun
 *Evocation [Light]*  
 **Level:** Druid 6  

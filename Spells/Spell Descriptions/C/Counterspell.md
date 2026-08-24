@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.258*
+*Player's Handbook 5.5e 2024 p.258*
 # Counterspell
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 

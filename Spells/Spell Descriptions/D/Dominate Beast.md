@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.265*
+*Player's Handbook 5.5e 2024 p.265*
 # Dominate Beast
 *Level 4 Enchantment (Druid, Ranger, Sorcerer)*
 

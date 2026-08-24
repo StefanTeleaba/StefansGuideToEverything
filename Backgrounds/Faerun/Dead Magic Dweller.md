@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.28*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.28*
 # Dead Magic Dweller
 The dead magic zones of the Anauroch desert are anathema to spellcasters and monsters that rely on magic—which is exactly why you made your life there. Perhaps you're on the run from Red Wizards, or you ran afoul of a powerful djinni in Calimshan. Whatever the case, you decided that living in Anauroch was your best option. After long months or years, you're stronger, wiser, and armed with hard-earned knowledge of desert medicine and wasteland survival.
 

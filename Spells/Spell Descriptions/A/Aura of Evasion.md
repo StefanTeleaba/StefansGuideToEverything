@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Aura of Evasion
 *Level 7 Abjuration (PLACEHOLDER)*
 
@@ -13,7 +13,7 @@ PLACEHOLDER
 
 ---
 
-*Spell Compendium 3.5e p.18*
+*Spell Compendium 3.5e 2005 p.18*
 # Aura of Evasion
 Abjuration
 **Level:** Cleric 5, sorcerer/wizard 6  

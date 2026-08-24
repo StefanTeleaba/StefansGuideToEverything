@@ -10,4 +10,4 @@ While you have the Petrified condition, you experience the following effects.
 ***Poison Immunity.*** You have Immunity to the Poisoned condition.
 
 
-**Source:** *Player's Handbook 5.5e p.372*
+**Source:** *Player's Handbook 5.5e 2024 p.372*

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.135*
+*Player's Handbook 5.5e 2024 p.135*
 # Soulknife
 *Strike Foes with Psionic Blades*  
 A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
@@ -57,7 +57,7 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 
 ---
 
-*Expanded Psionics Handbook 3.5e p.26*
+*Expanded Psionics Handbook 3.5e 2004 p.26*
 # Soulknife
 A soulknife recognizes his own mind as the most beautiful—and the most deadly—thing in all creation. With this understanding and through extended practice, a soulknife learns to forge his mental strength into a shimmering blade of semisolid psychic energy.  
 Each soulknife’s personal blade, referred to as a mind blade, differs in color and shape according to his personality, mental strength, and even mood. Although no two mind blades look alike, all share the same lethal qualities. Because soulknives turn the power of their minds to such weaponry, they are notorious for their violence.  

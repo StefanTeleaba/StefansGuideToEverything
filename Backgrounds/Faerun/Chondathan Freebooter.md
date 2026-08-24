@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.28*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.28*
 # Chondathan Freebooter
 Though most youths in Chondath accept their four-year term of compulsory military service, you bristled at that authoritarian attempt to control your life. You forsook your nationhood, discarded your given name, and worked as a freebooter with the first ship that would have you. Since then, you've traveled the Vilhon Reach. Though you've never sailed more than a few dozen leagues from land, you make up for it with deep local connections and the breadth of your experiences.
 

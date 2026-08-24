@@ -13,7 +13,7 @@ You enclose yourself in a fluid sheath of acid. Whenever a creature within 5 fee
 
 ---
 
-*Spell Compendium 3.5e p.7*
+*Spell Compendium 3.5e 2005 p.7*
 # Acid Sheath
 Conjuration (Creation) [Acid]  
 **Level:** Sorcerer/wizard 5  

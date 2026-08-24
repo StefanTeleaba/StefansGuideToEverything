@@ -5,7 +5,7 @@ While wearing this circlet, you can project a blast of searing light toward a cr
 
 ---
 
-*Dungeon Master's Guide 5.5e p.240*
+*Dungeon Master's Guide 5.5e 2024 p.240*
 # Circlet of Blasting
 *Wondrous Item, Uncommon*
 While wearing this circlet, you can cast Scorching Ray with it (+5 to hit). The circlet can't cast this spell again until the next dawn.
@@ -14,14 +14,14 @@ While wearing this circlet, you can cast Scorching Ray with it (+5 to hit). The 
 
 ---
 
-*Dungeon Master's Guide 3.5e p.252*
+*Dungeon Master's Guide 3.5e 2003 p.252*
 # Minor Circlet of Blasting
 On command, this simple golden headband projects a blast of searing light (3d8 points of damage) once per day.  
 Faint evocation; CL 6th; Craft Wondrous Item, searing light; Price 6,480 gp.
 
 ---
 
-*Dungeon Master's Guide 3.5e p.252*
+*Dungeon Master's Guide 3.5e 2003 p.252*
 # Major Circlet of Blasting
 On command, this elaborate golden headband projects a blast of searing light (5d8 maximized for 40 points of damage) once per day.  
 Strong evocation; CL 17th; Craft Wondrous Item, Maximize Spell, searing light; Price 23,760 gp.

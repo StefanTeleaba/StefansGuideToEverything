@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.37*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.37*
 # Harper Agent
 *Origin Feat*  
 You gain the following benefits.  

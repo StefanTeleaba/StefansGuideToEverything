@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.235*
+*Dungeon Master's Guide 5.5e 2024 p.235*
 # Belt of Dwarvenkind
 *Wondrous Item, Rare (Requires Attunement)*  
 While wearing this belt, you gain the following benefits:  
@@ -13,7 +13,7 @@ If you aren't a dwarf or duergar, you gain the following additional benefits whi
 
 ---
 
-*Dungeon Master's Guide 3.5e p.248*
+*Dungeon Master's Guide 3.5e 2003 p.248*
 # Belt of Dwarvenkind
 This belt gives the wearer a +4 competence bonus on Charisma checks and Charisma-based skill checks as they relate to dealing with dwarves, a +2 competence bonus on similar checks when dealing with gnomes and halflings, and a -2 competence penalty on similar checks when dealing with anyone else. The wearer can understand, speak, and read Dwarven. If the wearer is not a dwarf, he gains 60-foot darkvision, dwarven stonecunning, a +2 enhancement bonus to Constitution, and a +2 resistance bonus on saves against poison, spells, or spell-like effects.  
 Moderate divination; CL 12th; Craft Wondrous Item, tongues, creator must be a dwarf; Price 14,900 gp; Weight 1 lb.

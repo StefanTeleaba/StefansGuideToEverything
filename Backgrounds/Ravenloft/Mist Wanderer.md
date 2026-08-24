@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e p.*
+*Ravenloft: The Horrors Within 5.5e 2026 p.*
 # Mist Wanderer
 You once knew your home. But one day, the Mists rose and drew you into a Domain of Dread. Ever since, you have wandered between domains, braving the mercurial Mists as you search for a way home. Your time in these cursed realms has changed you, yet you find solace in communities of fellow wanderers throughout the Mists.
 

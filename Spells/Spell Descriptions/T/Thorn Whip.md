@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.333*
+*Player's Handbook 5.5e 2024 p.333*
 # Thorn Whip
 *Transmutation Cantrip (Druid)*
 

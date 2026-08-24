@@ -13,7 +13,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ---
 
-*Player's Handbook 5.5e p.297*
+*Player's Handbook 5.5e 2024 p.297*
 # Melf's Acid Arrow
 *Level 2 Evocation (Wizard)*
 
@@ -42,7 +42,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ---
 
-*Player's Handbook 3.5e p.253*
+*Player's Handbook 3.5e 2003 p.253*
 # Melf's Acid Arrow
 *Conjuration (Creation) [Acid]*  
 **Level:** Sor/Wiz 2  

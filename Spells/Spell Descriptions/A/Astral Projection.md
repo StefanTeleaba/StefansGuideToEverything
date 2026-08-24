@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.243*
+*Player's Handbook 5.5e 2024 p.243*
 # Astral Projection
 *Level 9 Necromancy (Cleric, Psion, Warlock, Wizard)*
 

@@ -5,7 +5,7 @@ While this polished agate is on your person, you gain a +1 bonus to ability chec
 
 ---
 
-*Dungeon Master's Guide 5.5e p.312*
+*Dungeon Master's Guide 5.5e 2024 p.312*
 # Stone of Good Luck
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
@@ -14,7 +14,7 @@ While this polished agate is on your person, you gain a +1 bonus to ability chec
 
 ---
 
-*Dungeon Master's Guide 3.5e p.267*
+*Dungeon Master's Guide 3.5e 2003 p.267*
 # Stone of Good Luck (Luckstone)
 This stone is typically a bit of rough polished agate or some similar mineral. Its possessor gains a +1 luck bonus on saving throws, ability checks, and skill checks.  
 Faint evocation; CL 5th; Craft Wondrous Item, divine favor; Price 20,000 gp. 

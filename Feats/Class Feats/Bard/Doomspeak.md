@@ -8,4 +8,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Adventurer 3.5e p.113*
+*Complete Adventurer 3.5e 2005 p.113*

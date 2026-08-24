@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Lightning Ring
 *Level 8 Evocation (PLACEHOLDER)*
 
@@ -13,7 +13,7 @@ PLACEHOLDER
 
 ---
 
-*Spell Compendium 3.5e p.132*
+*Spell Compendium 3.5e 2005 p.132*
 # Lightning Ring
 Evocation [Electricity]  
 **Level:** Sorcerer/wizard 8  

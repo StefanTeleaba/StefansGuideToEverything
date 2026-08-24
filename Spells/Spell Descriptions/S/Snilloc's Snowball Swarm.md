@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.165*
+*Xanathar's Guide to Everything 5e 2017 p.165*
 # Snilloc's Snowball Swarm
 *Level 2 Evocation (Sorcerer, Wizard)*
 

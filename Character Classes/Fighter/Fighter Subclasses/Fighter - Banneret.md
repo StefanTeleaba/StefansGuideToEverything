@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.19*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.19*
 # Banneret
 *Rally Fellow Heroes with Inspiring Leadership*  
 Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. Many are knights serving in Cormyr, the Silver Marches, Damara, Chessenta, or other lands across Faerûn. They wander the realms as knights errant, taking the fight against evil beyond their kingdom's borders.  

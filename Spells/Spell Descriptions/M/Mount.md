@@ -19,6 +19,6 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 
 ---
 
-*Player's Handbook 3.5e p.256*  
+*Player's Handbook 3.5e 2003 p.256*  
 
 ---

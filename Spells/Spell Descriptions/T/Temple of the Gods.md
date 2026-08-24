@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.167*
+*Xanathar's Guide to Everything 5e 2017 p.167*
 # Temple of the Gods
 *Level 7 Conjuration (Cleric)*
 

@@ -13,4 +13,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 
 
-**Source.** *Dungeon Master's Guide 5.5e p.261*
+**Source.** *Dungeon Master's Guide 5.5e 2024 p.261*

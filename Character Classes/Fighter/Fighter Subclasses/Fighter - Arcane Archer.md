@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Arcane Archer
 
 ---
@@ -227,7 +227,7 @@ The Arcane Shots are presented here in alphabetical order.
 
 ---
 
-*Xanathar's Guide to Everything 5e p.28*
+*Xanathar's Guide to Everything 5e 2017 p.28*
 # Arcane Archer
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of their most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
 
@@ -278,7 +278,7 @@ The psychic damage increases to 4d6 when you reach 18th level in this class.
 
 ---
 
-*Dungeon Master's Guide 3.5e p.176*
+*Dungeon Master's Guide 3.5e 2003 p.176*
 # Arcane Archer
 Master of the elven warbands, the arcane archer is a warrior skilled in using magic to supplement her combat prowess. Beyond the woods, arcane archers gain renown throughout entire kingdoms for their supernatural accuracy with a bow and their ability to imbue their arrows with magic. In a group, they can strike fear into an entire enemy army.  
 Fighters, rangers, paladins, and barbarians become arcane archers to add a little magic to their combat abilities. Conversely, wizards and sorcerers may take this prestige class to add combat capabilities to their repertoire. Monks, clerics, druids, rogues, and bards rarely become arcane archers.  

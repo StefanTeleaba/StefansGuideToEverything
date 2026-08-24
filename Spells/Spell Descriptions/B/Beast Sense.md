@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.245*
+*Player's Handbook 5.5e 2024 p.245*
 # Beast Sense
 *Level 2 Divination (Druid, Ranger)*
 

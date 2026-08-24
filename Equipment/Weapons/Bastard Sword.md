@@ -10,7 +10,7 @@
 
 ---
 
-*Player's Handbook 3.5e p.121*  
+*Player's Handbook 3.5e 2003 p.121*  
 # Bastard Sword
 *Exotic Melee Weapon*  
 **Cost:** 35 GP  

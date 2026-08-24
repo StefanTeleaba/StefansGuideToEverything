@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.153*
+*Xanathar's Guide to Everything 5e 2017 p.153*
 # Danse Macabre
 *Level 5 Necromancy (Warlock, Wizard)*
 

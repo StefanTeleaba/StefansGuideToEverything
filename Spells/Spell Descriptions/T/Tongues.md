@@ -13,7 +13,7 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 ---
 
-*Player’s Handbook 5.5e p.334*
+*Player’s Handbook 5.5e 2024 p.334*
 # Tongues
 *Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.256*
+*Player's Handbook 5.5e 2024 p.256*
 # Contagion
 *Level 5 Necromancy (Cleric, Druid)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.269*
+*Player's Handbook 5.5e 2024 p.269*
 # Enthrall
 *Level 2 Enchantment (Bard, Psion, Warlock)*
 

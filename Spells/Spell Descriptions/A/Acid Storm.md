@@ -15,7 +15,7 @@ Acid rain falls in a 20-foot-radius, 20-foot-high Cylinder centered on a point w
 
 ---
 
-*Spell Compendium 3.5e p.7*
+*Spell Compendium 3.5e 2005 p.7*
 # Acid Storm
 Conjuration (Creation) [Acid]  
 **Level:** Sorcerer/wizard 6  

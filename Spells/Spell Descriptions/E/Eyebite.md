@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.270*
+*Player's Handbook 5.5e 2024 p.270*
 # Eyebite
 *Level 6 Necromancy (Bard, Psion, Sorcerer, Warlock, Wizard)*
 

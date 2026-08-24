@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.162*
+*Xanathar's Guide to Everything 5e 2017 p.162*
 # Mold Earth
 *Transmutation Cantrip (Druid, Sorcerer, Wizard)*
 

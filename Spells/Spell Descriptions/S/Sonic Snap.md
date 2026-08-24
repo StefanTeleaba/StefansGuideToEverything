@@ -15,7 +15,7 @@ You create a brief but loud noise adjacent to a creature you can see within rang
   
 ---
 
-*Spell Compendium 3.5e p.195*
+*Spell Compendium 3.5e 2005 p.195*
 # Sonic Snap
 *Evocation [Sonic]*  
 **Level:** Sorcerer/wizard 0  

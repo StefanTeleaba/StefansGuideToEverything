@@ -1,4 +1,4 @@
-*Astarion's Book of Hungers 5.5e*
+*Astarion's Book of Hungers 5.5e 2025*
 # Bomber
 *General Feat (Prerequisite: Level 4+)*  
 You gain the following benefits.  

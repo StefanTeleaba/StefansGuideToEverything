@@ -11,7 +11,7 @@ This spell allows the caster to copy non-magical text from one source onto blank
 
 ---
 
-*Spell Compendium 3.5e p.9*
+*Spell Compendium 3.5e 2005 p.9*
 # Amanuensis
 *Transmutation*  
 **Level:** Cleric 0, sorcerer/wizard 0  

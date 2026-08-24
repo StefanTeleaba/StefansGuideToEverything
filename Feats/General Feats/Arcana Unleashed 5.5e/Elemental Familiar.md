@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Elemental Familiar
 *General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*  
 You gain the following benefits.  

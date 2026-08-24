@@ -8,4 +8,4 @@ You gain the following *Cunning Strike* option.
 
 ---
 
-*Complete Scoundrel 3.5e p.78*
+*Complete Scoundrel 3.5e 2007 p.78*

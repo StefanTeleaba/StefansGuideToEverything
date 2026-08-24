@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.80*
+*Player's Handbook 5.5e 2024 p.80*
 # Druid
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.  
 Revering nature above all, individual Druids gain their magic from nature, a nature deity, or both, and they typically unite with other Druids to perform rites that mark the passage of the seasons and other natural cycles.  

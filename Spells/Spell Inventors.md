@@ -218,6 +218,13 @@ Smolyn's True Seeing
 Stoca's Fly  
 Stoca's Water Breathing  
 
+**Sylune**  
+Sylune's Absolute Immunity  
+Sylune's Displeasure  
+Sylune's Secret  
+Sylune's Streaking Meteor  
+Sylune's Viper  
+
 **Tasha**  
 Tasha's Bubbling Cauldron  
 Tasha's Hideous Laughter  

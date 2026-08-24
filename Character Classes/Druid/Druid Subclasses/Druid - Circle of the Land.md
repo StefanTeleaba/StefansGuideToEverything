@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.84*
+*Player's Handbook 5.5e 2024 p.84*
 # Circle of the Land
 *Celebrate Connection to the Natural World*  
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.

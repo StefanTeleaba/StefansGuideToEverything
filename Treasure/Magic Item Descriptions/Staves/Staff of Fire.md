@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.307*
+*Dungeon Master's Guide 5.5e 2024 p.307*
 # Staff of Fire
 *Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)*
 
@@ -18,7 +18,7 @@ You have Resistance to Fire damage while you hold this staff.
 
 ---
 
-*Dungeon Master's Guide 3.5e p.244*
+*Dungeon Master's Guide 3.5e 2003 p.244*
 # Staff of Fire
 Crafted from bronzewood with brass bindings, this staff allows use of the following spells:
 - Burning hands (1 charge)

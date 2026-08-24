@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e p.*
+*Ravenloft: The Horrors Within 5.5e 2026 p.*
 
 # Undead Patron
 *Defy Death for Profane Power*  

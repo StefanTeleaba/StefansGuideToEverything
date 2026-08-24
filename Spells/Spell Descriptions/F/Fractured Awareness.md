@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Fractured Awareness
 *Level 7 Divination (PLACEHOLDER)*
 

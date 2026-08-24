@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.56*
+*Player's Handbook 5.5e 2024 p.56*
 # Path of the World Tree
 *Trace the Roots and Branches of the Multiverse*  
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Planes, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.

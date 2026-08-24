@@ -13,7 +13,7 @@ You create two teardrop-shaped darts of flesh-corrosive force. Each dart strikes
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e p.23*
+*Wizard's Spell Compendium Volume I 2e 1996 p.23*
 # Acid Bolt
 *(Evocation)*  
 *(Alchemy)*  
@@ -30,6 +30,6 @@ Any being struck by an acid bolt suffers 4d4 points of damage. Skeletal or nonco
 
 ---
 
-*The Drow of the Underdark, 2e p.52*
+*The Drow of The Underdark 2e 1991 p.52*
 
 ---

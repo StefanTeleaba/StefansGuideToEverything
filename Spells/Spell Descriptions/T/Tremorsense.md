@@ -13,7 +13,7 @@ For the duration, a willing creature you touch has Tremorsense with a range of 3
 
 ---
 
-*Spell Compendium 3.5e p.224*
+*Spell Compendium 3.5e 2005 p.224*
 # Tremorsense
 *Transmutation*  
 **Level:** Ranger 2, sorcerer/wizard 3  

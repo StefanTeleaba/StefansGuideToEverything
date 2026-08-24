@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.281*
+*Player's Handbook 5.5e 2024 p.281*
 # Greater Restoration
 *Level 5 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 

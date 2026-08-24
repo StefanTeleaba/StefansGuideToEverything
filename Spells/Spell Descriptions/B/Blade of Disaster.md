@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.143*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.143*
 # Blade of Disaster
 *Level 9 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -34,7 +34,7 @@ The blade can harmlessly pass through any barrier, including a wall of force.
 
 ---
 
-*Spell Compendium 3.5e p.29*
+*Spell Compendium 3.5e 2005 p.29*
 # Black Blade of Disaster
 *Conjuration (Creation)*  
 **Level:** Sorcerer/wizard 9  

@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.269*
+*Dungeon Master's Guide 5.5e 2024 p.269*
 # Heward's Handy Haversack
 *Wondrous item, Rare*  
 *5 lb.*

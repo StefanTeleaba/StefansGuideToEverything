@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.280*
+*Player's Handbook 5.5e 2024 p.280*
 # Grease
 *Level 1 Conjuration (Sorcerer, Wizard)*
 

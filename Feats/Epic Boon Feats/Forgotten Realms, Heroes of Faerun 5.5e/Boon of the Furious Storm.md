@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.43*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.43*
 # Boon of the Furious Storm
 *Epic Boon Feat (Prerequisites: Level 19+; Spellcasting or Pact Magic Feature)*
 You gain the following benefits.  

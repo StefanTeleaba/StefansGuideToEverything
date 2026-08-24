@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.168*
+*Xanathar's Guide to Everything 5e 2017 p.168*
 # Thunder Step
 *Level 3 Conjuration (Sorcerer, Warlock, Wizard)*
 

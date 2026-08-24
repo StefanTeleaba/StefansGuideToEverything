@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Iron Body
 *Level 8 Transmutation (PLACEHOLDER)*
 
@@ -13,7 +13,7 @@ PLACEHOLDER
 
 ---
 
-*Player's Handbook 3.5e p.245*
+*Player's Handbook 3.5e 2003 p.245*
 # Iron Body
 Transmutation  
 **Level:** Sorcerer 8, Wizard 8, Sha'ir 8, Death Master 8, Urban Druid 8, Earth 8, Mechanus 8, Metal 8, Endurance 9  

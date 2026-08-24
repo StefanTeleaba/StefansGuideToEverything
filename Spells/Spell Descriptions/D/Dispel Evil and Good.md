@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.263*
+*Player's Handbook 5.5e 2024 p.263*
 # Dispel Evil and Good
 *Level 5 Abjuration (Cleric, Paladin)*
 

@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.39*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.39*
 # Harper Teamwork
 *General Feat (Prerequisites: Level 4+, Harper Agent)*  
 You gain the following benefits.  

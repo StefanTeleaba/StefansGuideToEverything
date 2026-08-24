@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.67*
+*Player's Handbook 5.5e 2024 p.67*
 # College of Valor
 *Sing the Deeds of Ancient Heroes*  
 Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn't pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.

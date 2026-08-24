@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.262*
+*Player's Handbook 5.5e 2024 p.262*
 # Dimension Door
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 

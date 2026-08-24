@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.34*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.34*
 # Purple Dragon Squire
 You've pledged your life to the safety of Cormyr and sought admission to that realm's order of elite warriors: the Purple Dragon Knights. But before you have the chance to join the ranks officially, you must first serve as a knight's squire. You've found a liege willing to take you on and teach you the order's ways. Will you uphold the Purple Dragon Knights' ideals of glory, honor, and strength and prove yourself worthy of knighthood?
 

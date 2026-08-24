@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.246*
+*Player's Handbook 5.5e 2024 p.246*
 # Bestow Curse
 *Level 3 Necromancy (Bard, Cleric, Psion, Wizard)*
 

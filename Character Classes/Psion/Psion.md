@@ -239,7 +239,7 @@ When you take the Study action, you can expend one Psionic Energy Die, roll it, 
 
 ---
 
-*Expanded Psionics Handbook 3.5e p.19*
+*Expanded Psionics Handbook 3.5e 2004 p.19*
 # Psion
 The striking fist or flashing sword pales beside a psion’s focused stare. Psionic powers arise from a regimen of strict mental discipline developed over months and years of self scrutiny and subconscious discovery. Those who overcome their personal demons, fears, and other pitfalls of intense self-reflection learn to call upon an internal reservoir of psionic power.  
 Psions depend on a continual study of their own minds to discover an ever wider range of mental powers. They meditate on memories and the nature of memory itself, debate with their own fragment personalities, and delve into the dark recesses of their minds’ convoluted corridors. “Know thyself” is not just a saying for a psion—it’s the road to power.  

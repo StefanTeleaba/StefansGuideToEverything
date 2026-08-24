@@ -29,7 +29,7 @@ When you take damage, you can take a Reaction to give yourself Resistance to tha
 
 ---
 
-*Player's Handbook 5.5e*  
+*Player's Handbook 5.5e 2024*  
 # Hunter
 *Protect Nature and People from Destruction*  
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.

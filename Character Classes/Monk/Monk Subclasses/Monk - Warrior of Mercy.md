@@ -1,5 +1,5 @@
 # Warrior of Mercy
-*Player's Handbook 5.5e*  
+*Player's Handbook 5.5e 2024*  
 
 *Manipulate Forces of Life and Death*  
 Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.

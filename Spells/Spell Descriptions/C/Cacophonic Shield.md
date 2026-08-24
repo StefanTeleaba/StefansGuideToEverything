@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.143*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.143*
 # Cacophonic Shield
 *Level 3 Evocation (Bard, Sorcerer, Wizard)*
 

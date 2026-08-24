@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.170*
+*Xanathar's Guide to Everything 5e 2017 p.170*
 # Whirlwind
 *Level 7 Evocation (Druid, Sorcerer, Wizard)*
 

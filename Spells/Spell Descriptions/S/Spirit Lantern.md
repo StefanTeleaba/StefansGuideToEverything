@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Spirit Lantern
 *Level 5 Necromancy (Artificer, Cleric, Warlock, Wizard)*
 

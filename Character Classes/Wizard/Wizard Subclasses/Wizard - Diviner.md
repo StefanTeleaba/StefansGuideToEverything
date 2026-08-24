@@ -1,5 +1,5 @@
 # Diviner
-*Player's Handbook 5.5e*  
+*Player's Handbook 5.5e 2024*  
 
 *Learn the Secrets of the Multiverse*  
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to mas- ter spells of discernment, remote viewing, supernat- ural knowledge, and foresight.

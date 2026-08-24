@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.128*
+*Player's Handbook 5.5e 2024 p.128*
 # Rogue
 Rogues rely on cunning, stealth and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.  
 In combat, Rogues prioritize subtle strikes over brute strength. They would rather make one precise strike than wear an opponent down with a barrage of blows.  
@@ -180,7 +180,7 @@ You can make a rogue quickly by following these suggestions. First, Dexterity sh
 
 ---
 
-*Player's Handbook 3.5e p.49*
+*Player's Handbook 3.5e 2003 p.49*
 # Rogue
 Rogues have little in common with one another. Some are stealthy thieves. Others are silver-tongued tricksters. Still others are scouts, infiltrators, spies, diplomats, or thugs. What they do share is versatility, adaptability, and resourcefulness. In general, rogues are skilled at getting what others don’t want them to get: entrance into a locked treasure vault, safe passage past a deadly trap, secret battle plans, a guard’s trust, or some random person’s pocket money.  
 **Adventures:** Rogues adventure for the same reason they do most other things: to get what they can get. Some are after loot; others want experience. Some crave fame; others seek infamy. Quite a few also enjoy a challenge. Figuring out how to thwart a trap or avoid an alarm is great fun for many rogues.  

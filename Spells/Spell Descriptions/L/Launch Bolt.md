@@ -15,6 +15,6 @@ You fling a bolt as if fired from a crossbow at a target that you can see within
 
 ---
 
-*Spell Compendium 3.5e p.130*
+*Spell Compendium 3.5e 2005 p.130*
 
 ---

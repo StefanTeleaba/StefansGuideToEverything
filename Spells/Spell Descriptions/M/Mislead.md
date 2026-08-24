@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.299*
+*Player's Handbook 5.5e 2024 p.299*
 # Mislead
 *Level 5 Illusion (Bard, Psion, Warlock, Wizard)*
 

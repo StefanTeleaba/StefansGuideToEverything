@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.170*
+*Xanathar's Guide to Everything 5e 2017 p.170*
 # Watery Sphere
 *Level 4 Conjuration (Druid, Sorcerer, Wizard)*
 

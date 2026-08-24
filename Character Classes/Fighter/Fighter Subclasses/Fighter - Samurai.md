@@ -28,7 +28,7 @@ Your fighting spirit can delay the grasp of death. If you are reduced to 0 Hit P
 
 ---
 
-*Xanathar's Guide to Everything 5e p.31*
+*Xanathar's Guide to Everything 5e 2017 p.31*
 # Samurai
 The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai’s resolve is nearly unbreakable, and the enemies in a samurai’s path have two choices: yield or die fighting.
 

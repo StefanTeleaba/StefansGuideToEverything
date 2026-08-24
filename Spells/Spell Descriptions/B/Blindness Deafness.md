@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.248*
+*Player's Handbook 5.5e 2024 p.248*
 # Blindness / Deafness
 *Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
 

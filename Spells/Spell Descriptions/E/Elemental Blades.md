@@ -13,7 +13,7 @@ Choose Acid, Cold, Fire, Lightning, Poison or Thunder. Until the spell ends, you
 
 ---
 
-*Spell Compendium 3.5e p.31*
+*Spell Compendium 3.5e 2005 p.31*
 # Blades of Fire
 
 ---

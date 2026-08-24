@@ -15,6 +15,6 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 
 ---
 
-*Player's Handbook 3.5e p.208*  
+*Player's Handbook 3.5e 2003 p.208*  
 
 ---

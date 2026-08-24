@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.247*
+*Player's Handbook 5.5e 2024 p.247*
 # Blinding Smite
 *Level 3 Evocation (Paladin)*
 

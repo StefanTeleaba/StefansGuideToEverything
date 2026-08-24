@@ -13,7 +13,7 @@ You touch a quiver. Until the spell ends, arrows drawn from that quiver deal an 
 
 ---
 
-*Xanathar's Guide to Everything, p.156*
+*Xanathar's Guide to Everything 5e 2017 p.156*
 # Flame Arrows
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 

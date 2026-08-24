@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.40*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.40*
 # Order's Resilience
 *General Feat (Prerequisites: Level 4+, Tyro of the Gauntlet)*  
 You gain the following benefits.  

@@ -63,7 +63,7 @@ You respond to danger with extraordinary vigilance. In combat, you get a special
 
 ---
 
-*Xanathar's Guide to Everything 5e p.30*
+*Xanathar's Guide to Everything 5e 2017 p.30*
 # Cavalier
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 

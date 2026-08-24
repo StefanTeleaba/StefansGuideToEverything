@@ -27,7 +27,7 @@
 
 ---
 
-*Arms and Equipment Guide 3.5e p.6*
+*Arms and Equipment Guide 3.5e 2003 p.6*
 # Chakram
 *Exotic Ranged Weapon*
 **Cost:** 15 GP  

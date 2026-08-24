@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.150*
+*Xanathar's Guide to Everything 5e 2017 p.150*
 # Catapult
 *Level 1 Transmutation (Artificer, Sorcerer, Wizard)*
 

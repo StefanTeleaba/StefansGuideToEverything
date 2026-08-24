@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.160*
+*Xanathar's Guide to Everything 5e 2017 p.160*
 # Life Transference
 *Level 3 Necromancy (Cleric, Wizard)*
 

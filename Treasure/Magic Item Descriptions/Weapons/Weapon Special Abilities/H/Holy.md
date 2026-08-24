@@ -13,7 +13,7 @@
 
 ---
 
-*Encyclopedia Magica Volume 4 2e p.1375*
+*Encyclopedia Magica Volume IV 2e p.1375*
 
 # Holy
 **XP Value:** 5,000  

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.215*
+*Player's Handbook 5.5e 2024 p.215*
 # Glaive (20 GP)
 *Martial Melee Weapon*
 

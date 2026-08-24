@@ -15,6 +15,6 @@ You touch one willing creature. For the duration, the creature's Strength, Const
 
 ---
 
-*Spell Compendium 3.5e p.72*
+*Spell Compendium 3.5e 2005 p.72*
 
 ---

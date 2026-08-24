@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.319*
+*Player's Handbook 5.5e 2024 p.319*
 # Spirit Guardians
 *Level 3 Conjuration (Cleric)*
 

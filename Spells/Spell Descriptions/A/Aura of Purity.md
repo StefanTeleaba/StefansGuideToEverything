@@ -13,7 +13,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 ---
 
-*Player's Handbook 5.5e p.244*
+*Player's Handbook 5.5e 2024 p.244*
 # Aura of Purity
 *Level 4 Abjuration (Cleric, Paladin)*
 

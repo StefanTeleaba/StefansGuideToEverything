@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.170*
+*Xanathar's Guide to Everything 5e 2017 p.170*
 # Wall of Light
 *Level 5 Evocation (Sorcerer, Warlock, Wizard)*
 

@@ -1,4 +1,4 @@
-*Ebberon: Forge of the Artificer 5.5e p.112*
+*Eberron: Forge of the Artificer 5.5e 2025 p.112*
 # Repulsion Shield
 *Shield (Shield), Uncommon*
 

@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.142*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.142*
 # Backlash
 *Level 4 Abjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -14,7 +14,7 @@ If the triggering damage was from a creature within range, you can force the cre
 
 ---
 
-*Spell Compendium 3.5e p.23*
+*Spell Compendium 3.5e 2005 p.23*
 # Backlash
 *Transmutation*  
 **Level:** Sorcerer/wizard 4  
@@ -29,3 +29,22 @@ If the triggering damage was from a creature within range, you can force the cre
 The first time the target creature attempts to cast a spell or use a spelllike ability, the magic of that spell backfires. The spell is expended, and the creature takes 1d6 points of damage per level of the spell being cast. This discharge ends the spell.
 
 ---
+
+*The Drow of The Underdark 2e 1991 p.52*
+# Backlash
+*(Necromancy)*  
+**Range:** Touch  
+**Components:** V,S  
+**Duration:** Special  
+**Casting Time:** 4  
+**Area of Effect:** One spellcaster  
+**Saving Throw:** Neg.  
+This little-known spell is a weaker version of the death link spell (detailed in the Forgotten Realms Adventures source- book). It affects only priests, wizards, and other beings who cast spells (as opposed to those who exercise spell-like natural powers requiring neither study nor material components). If cast on non-spellcasters, it is wasted (unless they are under the effects of an imbue with spell ability spell).  
+The backlash spell leaves only a faint dweomer, waiting inactive for later trig gering. It cannot be removed by a dispel magic, but will be ended by a remove curse or more powerful spell.  
+An emplaced backlash takes effect only when the victim first employs an offensive spell that fails-i.e., interrupted or incorrect spellcasting, a successful saving throw, or a target's magic resistance or immunity. Consequently, this spell's effects may occur hours or years after its casting.  
+The backlash causes the spell to work with full effect on the caster of the failed spell. It negates any saving throws or immunities that would normally apply.  
+A backlash only works once. Any number of these spells may be placed on a single spellcaster, only one will take effect at a time, the earliest-placed being triggered first. Rumors persist of certain drow wizards who have developed fifth-level backlash spells that last for a random number (probably 2-5) of spell failures. Other types may be triggered only by certain sorts of spells (schools, levels, or involving particular elements, such as flight/air or fire).
+
+---
+
+*The Magister 1e 1988 p.17*

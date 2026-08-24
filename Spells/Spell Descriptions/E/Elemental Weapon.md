@@ -13,7 +13,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 ---
 
-*Player's Handbook 5.5e p.267*
+*Player's Handbook 5.5e 2024 p.267*
 # Elemental Weapon
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 

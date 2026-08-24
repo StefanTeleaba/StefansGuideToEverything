@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.276*
+*Player's Handbook 5.5e 2024 p.276*
 
 # Fog Cloud
 *Level 1 Conjuration (Druid, Ranger)*

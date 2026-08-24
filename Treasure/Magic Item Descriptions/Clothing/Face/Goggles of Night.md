@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e p.265*
+*Dungeon Master's Guide 5.5e 2024 p.265*
 # Goggles of Night
 *Wondrous Item, Uncommon*  
 While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.
@@ -21,7 +21,7 @@ While wearing these dark lenses, you have Darkvision out to 180 feet. If you alr
 
 ---
 
-*Dungeon Master's Guide 3.5e p.257*
+*Dungeon Master's Guide 3.5e 2003 p.257*
 # Goggles of Night
 The lenses of this item are made of dark crystal. Even though the lenses are opaque, when placed over the eyes of the wearer they enable him to see normally and also grant him 60-foot darkvision. Both lenses must be worn for the magic to be effective.  
 Faint transmutation; CL 3rd; Craft Wondrous Item, darkvision; Price 12,000 gp.

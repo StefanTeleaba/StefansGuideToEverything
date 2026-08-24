@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.271*
+*Player's Handbook 5.5e 2024 p.271*
 # Fabricate
 *Level 4 Transmutation (Artificer, Wizard)*
 

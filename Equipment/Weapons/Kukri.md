@@ -26,7 +26,7 @@
 
 ---
 
-*Player's Handbook 3.5e p.121*  
+*Player's Handbook 3.5e 2003 p.121*  
 # Kukri
 *Martial Melee Weapon*
 **Cost:** 8 GP  

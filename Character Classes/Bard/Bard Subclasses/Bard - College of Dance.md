@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.64*
+*Player's Handbook 5.5e 2024 p.64*
 # College of Dance
 *Move in Harmony with the Cosmos*  
 Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.

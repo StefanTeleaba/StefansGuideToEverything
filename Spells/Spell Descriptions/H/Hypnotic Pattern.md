@@ -14,7 +14,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ---
 
-*Player's Handbook 5.5e p.287*
+*Player's Handbook 5.5e 2024 p.287*
 # Hypnotic Pattern
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*  
 

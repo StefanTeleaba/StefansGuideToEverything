@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.290*
+*Player's Handbook 5.5e 2024 p.290*
 # Legend Lore
 *Level 5 Divination (Bard, Cleric, Wizard)*
 

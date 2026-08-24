@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e p.143*
+*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.143*
 # Deryan's Helpful Homunculi
 *Level 2 Conjuration (Cleric, Wizard)*
 

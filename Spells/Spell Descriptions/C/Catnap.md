@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.151*
+*Xanathar's Guide to Everything 5e 2017 p.151*
 # Catnap
 *Level 3 Enchantment (Artificer, Bard, Sorcerer, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.267*
+*Player's Handbook 5.5e 2024 p.267*
 # Earthquake
 *Level 8 Transmutation (Cleric, Druid, Sorcerer)*
 

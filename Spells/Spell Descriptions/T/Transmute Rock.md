@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.169*
+*Xanathar's Guide to Everything 5e 2017 p.169*
 # Transmute Rock
 *Level 5 Transmutation (Artificer, Druid, Wizard)*
 

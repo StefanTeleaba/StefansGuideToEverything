@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.258*
+*Player's Handbook 5.5e 2024 p.258*
 # Create or Destroy Water
 *Level 1 Transmutation (Cleric, Druid)*
 

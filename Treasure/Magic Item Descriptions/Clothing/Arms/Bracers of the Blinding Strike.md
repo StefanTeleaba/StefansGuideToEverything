@@ -23,7 +23,7 @@
 
 ---
 
-*Maagic of Faerun 3.5e p.155*
+*Magic of Faerun 3.5e 2001 p.155*
 # Bracers of the Blinding Strike
 These bracers of armor +6 give the wearer the benefits of the Improved Initiative feat and allow him an extra attack every round at his highest bonus as if he were using a speed weapon.  
 Caster Level: 12th; Prerequisites: Craft Wondrous Item, haste, mage armor; Market Price: 102,000 gp; Weight: 1 lb.  
@@ -34,7 +34,7 @@ When making a full attack action, the wielder of a speed weapon may make one ext
 
 ---
 
-*The Drow of the Underdark 2e p.76*
+*The Drow of The Underdark 2e 1991 p.76*
 # Bracers of the Blinding Strike
 These items appear as a pair of wrist or arm guards. They radiate magic, and if worn by non-warriors, function as bracers of defense, AC4 (detailed in the DMG).  
 In the hands of a fighter, the deadly potential of these bracers is realized. Å being of any warrior class (including multi-classed characters) will benefit from two additional powers: these bracers add +1 to all initiative rolls, and thrice a day the wearer can employ the "blinding strike" power, which doubles his or her attacks in the round in which the bracers are activated. XP Value: 4,000 Suggested GP Value: 20,000

@@ -15,7 +15,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ---
 
-*Spell Compendium 3.5e p.39*
+*Spell Compendium 3.5e 2005 p.39*
 # Briar Web
 *Transmutation*  
 **Level:** Druid 2, ranger 2  

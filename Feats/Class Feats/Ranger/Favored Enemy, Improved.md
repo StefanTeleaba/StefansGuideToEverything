@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Warrior 3.5e p.101*
+*Complete Warrior 3.5e 2003 p.101*

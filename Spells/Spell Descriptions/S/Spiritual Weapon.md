@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.319*
+*Player's Handbook 5.5e 2024 p.319*
 # Spiritual Weapon
 *Level 2 Evocation (Cleric)*
 

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Distorted Distance
 *Level 4 Illusion (Placeholder)*
 
@@ -13,7 +13,7 @@ Placeholder
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e p.258*
+*Wizard's Spell Compendium Volume I 2e 1996 p.258*
 # Distance Distortion
 (Alteration)  
 (Earth, Dimension)  

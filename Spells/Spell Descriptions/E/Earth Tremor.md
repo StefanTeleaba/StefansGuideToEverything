@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.155*
+*Xanathar's Guide to Everything 5e 2017 p.155*
 # Earth Tremor
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 

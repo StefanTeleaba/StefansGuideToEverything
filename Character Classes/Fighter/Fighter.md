@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.90* 
+*Player's Handbook 5.5e 2024 p.90* 
 # Fighter
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.  
 Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants.
@@ -245,7 +245,7 @@ You can make a fighter quickly by following these suggestions. First, make Stren
 
 ---
 
-*Player's Handbook 3.5e p.37*
+*Player's Handbook 3.5e 2003 p.37*
 # Fighter
 The questing knight, the conquering overlord, the king’s champion, the elite foot soldier, the hardened mercenary, and the bandit king— all are fighters. Fighters can be stalwart defenders of those in need, cruel marauders, or gutsy adventurers. Some are among the land’s best souls, willing to face death for the greater good. Others are among the worst, with no qualms about killing for private gain, or even for sport. Fighters who are not actively adventuring may be soldiers, guards, bodyguards, champions, or criminal en forcers. An adventuring fighter might call himself a warrior, a mercenary, a thug, or simply an adventurer.  
 **Adventures:** Most fighters see adventures, raids, and dangerous missions as their jobs. Some have patrons who pay them regularly. Others prefer to live like prospectors, taking great risks in hopes of the big haul. Some fighters are more civic-minded and use their combat skills to protect endangered people who cannot defend themselves. Whatever their initial motivations, however, fighters often wind up living for the thrill of combat and adventure.  

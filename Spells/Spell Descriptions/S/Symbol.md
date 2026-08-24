@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e p.329*
+*Player's Handbook 5.5e 2024 p.329*
 # Symbol
 *Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
 

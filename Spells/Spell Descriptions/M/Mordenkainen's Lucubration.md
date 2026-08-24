@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e 2026 p.*
 # Mordenkainen's Lucubration
 *Level 5 Divination (Wizard)*
 
@@ -14,7 +14,7 @@ cast with a level 6-7 spell slot) or level 4 (if cast with a level 8+ spell slot
 
 ---
 
-*Wizard's Spell Compendium Volume III 2e p.596*
+*Wizard's Spell Compendium Volume III 2e 1998 p.596*
 # Mordenkainen's Lucubration
 (Alteration)  
 (Mentalism)  

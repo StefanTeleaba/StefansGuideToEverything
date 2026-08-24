@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e p.157*
+*Xanathar's Guide to Everything 5e 2017 p.157*
 # Holy Weapon
 *Level 5 Evocation (Cleric, Paladin)*
 

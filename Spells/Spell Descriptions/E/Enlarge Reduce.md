@@ -16,7 +16,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ---
 
-*Player's Handbook 5.5e p.268*
+*Player's Handbook 5.5e 2024 p.268*
 # Enlarge / Reduce
 *Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 

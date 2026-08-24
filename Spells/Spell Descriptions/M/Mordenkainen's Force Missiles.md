@@ -13,6 +13,6 @@ You create two powerful missiles of magical force. Each missile strikes a creatu
 
 ---
 
-*Wizard's Spell Compendium Volume Three 2e p.959*
+*Wizard's Spell Compendium Volume III 2e 1998 p.959*
 
 ---

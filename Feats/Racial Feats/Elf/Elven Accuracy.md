@@ -7,7 +7,7 @@ You gain the following benefits.
 
 ---
 
-*Xanathar's Guide to Everything 5e p.74*
+*Xanathar's Guide to Everything 5e 2017 p.74*
 # Elven Accuracy
 *Prerequisite: Elf or Half-Elf*  
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:

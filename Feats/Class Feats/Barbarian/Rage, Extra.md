@@ -8,7 +8,7 @@ You gain the following benefits.
 
 ---
 
-*Complete Warrior 3.5e p.98*
+*Complete Warrior 3.5e 2003 p.98*
 # Extra Rage
 You may rage more frequently than normal.  
 **Prerequisites:** Rage or frenzy ability.  
