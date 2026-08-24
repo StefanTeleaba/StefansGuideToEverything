@@ -9,9 +9,9 @@
 
 Acid rain falls in a 20-foot-radius, 20-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes 12d6 Acid damage on a failed save or half as much damage on a successful one.
 
-***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The damage increases by 2d6 for each spell slot level above 6.
 
-***Using a Higher-Level Spell Slot.*** The radius increases by 5 feet for each spell slot level above 6.
+***Using a Higher-Level Spell Slot.*** The radius increases by 10 feet for each spell slot level above 6.
 
 ---
 
