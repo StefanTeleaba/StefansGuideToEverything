@@ -8,4 +8,4 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests until 
 
 ---
 
-*Complete Warrior 3.5e 2003 p.106*
+*Complete Warrior 3.5e p.106*

@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.166*
+*Xanathar's Guide to Everything 5e p.166*
 # Storm Sphere
 *Level 4 Evocation (Sorcerer, Wizard)*
 

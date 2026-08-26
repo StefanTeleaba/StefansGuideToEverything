@@ -5,6 +5,6 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.156*
+*Magic Item Compendium 3.5e p.156*
 
 *Thin veins of light shine through tiny cracks in this ceramic bead.*

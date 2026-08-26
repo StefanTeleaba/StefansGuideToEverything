@@ -13,7 +13,7 @@ You unleash a blast of high pitched sound. One creature that you can see within 
 
 ---
 
-*Magic of Faerun 3.5e 2001 p.101*
+*Magic of Faerun 3.5e p.101*
 # Horizikaul's Boom
 *Evocation [Sonic]*  
 **Level:** Sor/Wiz 1  

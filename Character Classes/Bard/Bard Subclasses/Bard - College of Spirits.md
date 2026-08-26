@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e 2026 p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 # College of Spirits
 *Call Forth Spirits from Beyond the Grave*
 Bards of the College of Spirits conjure legendary spirits to change the world. But such entities are capricious, and what a Bard summons isn’t always entirely under their control.
@@ -37,6 +37,8 @@ Whenever you cast the spell, you can modify it so the spirits also guard against
 
 ## Level 14: Mystical Connection
 You gain mastery over the spirits you call forth. Whenever you roll on the Spirits from Beyond table, you can roll the die twice and choose which of the two effects to bestow. If you roll the same number on both dice, you can instead choose any effect on the table.
+
+![College of Spirits](https://5e.tools/img/classes/RHW/College%20of%20Spirits%20Bard.webp)
 
 ---
 

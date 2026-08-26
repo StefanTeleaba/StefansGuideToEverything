@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.282*
+*Player's Handbook 5.5e p.282*
 # Gust of Wind
 *Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)*
 

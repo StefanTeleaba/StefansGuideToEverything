@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.39*
+*Forgotten Realms: Heroes of Faerun 5.5e p.39*
 # Enclave Magic
 *General Feat (Prerequisites: Level 4+, Emerald Enclave Fledgling)*  
 You gain the following benefits.  

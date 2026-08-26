@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.55*
+*Player's Handbook 5.5e p.55*
 # Path of the Wild Heart
 *Walk in Community with the Animal World*  
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.

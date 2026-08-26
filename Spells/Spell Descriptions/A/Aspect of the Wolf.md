@@ -21,7 +21,7 @@ You assume the form of a Wolf. The spell ends if you have the Incapacitated cond
 
 ---
 
-*Spell Compendium 3.5e 2005 p.16*
+*Spell Compendium 3.5e p.16*
 # Aspect of the Wolf
 *Transmutation*  
 **Level:** Druid 1, ranger 1  

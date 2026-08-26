@@ -13,7 +13,7 @@ Choose a willing creature who can see or hear you. That creature can immediately
 
 ---
 
-*Spell Compendium 3.5e 2005 p.193*
+*Spell Compendium 3.5e p.193*
 # Snake's Swiftness
 *Transmutation*  
 **Level:** Druid 1, sorcerer/wizard 2  

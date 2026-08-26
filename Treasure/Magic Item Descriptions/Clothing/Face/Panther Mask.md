@@ -5,7 +5,7 @@ Your Speed increases by 10 feet while you aren't wearing medium or heavy armor. 
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.116*
+*Magic Item Compendium 3.5e p.116*
 # Panther Mask
 **Price (Item Level):** 2,700 gp (7th)  
 **Body Slot:** Face  

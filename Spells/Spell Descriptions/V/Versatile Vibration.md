@@ -16,10 +16,10 @@ Until the spell ends, you can take a Magic action to maintain and reposition the
 
 ---
 
-*Spell Compendium 3.5e 2005 p.195*  
+*Spell Compendium 3.5e p.195*  
 
 ---
 
-*Magic of Faerun 3.5e 2001 p.101*
+*Magic of Faerun 3.5e p.101*
 
 ---

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.86*
+*Player's Handbook 5.5e p.86*
 # Circle of the Moon
 *Adopt Animal Forms to Guard the Wilds*  
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.  

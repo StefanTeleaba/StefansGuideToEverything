@@ -13,6 +13,6 @@ When you hit a creature marked by your Hunter's Mark that is at least one size l
 
 ---
 
-*Spell Compendium 3.5e 2005 p.90*
+*Spell Compendium 3.5e p.90*
 
 ---

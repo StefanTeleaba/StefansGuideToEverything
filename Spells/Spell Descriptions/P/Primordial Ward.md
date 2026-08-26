@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.163*
+*Xanathar's Guide to Everything 5e p.163*
 # Primordial Ward
 *Level 6 Abjuration (Druid)*
 

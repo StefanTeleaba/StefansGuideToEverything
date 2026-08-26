@@ -12,7 +12,7 @@ You learn the general nature of the danger posed by a trap you sense as well as 
 
 ---
 
-*Player's Handbook 5.5e 2024 p.272*
+*Player's Handbook 5.5e p.272*
 # Find Traps
 *Level 2 Divination (Cleric, Druid, Ranger)*
 

@@ -13,7 +13,7 @@ You hurl the weapon used in the spell's casting toward a creature within range. 
 
 ---
 
-*Spell Compendium 3.5e 2005 p.238*
+*Spell Compendium 3.5e p.238*
 # Whirling Blade
 *Transmutation*  
 **Level:** Bard 2, sorcerer/wizard 2  

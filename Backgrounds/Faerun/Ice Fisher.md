@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.31*
+*Forgotten Realms: Heroes of Faerun 5.5e p.31*
 # Ice Fisher
 You come from a proud line of ice fishers out of Ten-Towns in Icewind Dale. Catching knucklehead trout isn't the most glorious trade in the North, but it's an honest living. You've trained your senses for the slightest tug on the line, wrestled big trout out of ice-covered lakes, and gutted enough knucklehead trout to feed your village many times over. These experiences have toughened your body and mind for a life of adventuring.
 

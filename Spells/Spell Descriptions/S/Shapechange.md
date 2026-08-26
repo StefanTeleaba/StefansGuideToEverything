@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.315*
+*Player's Handbook 5.5e p.315*
 # Shapechange
 *Level 9 Transmutation (Druid, Psion, Wizard)*
 

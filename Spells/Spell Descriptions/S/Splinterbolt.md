@@ -13,7 +13,7 @@ You hurl a wooden splinter. Make a ranged spell attack. On a hit the target take
 
 ---
 
-*Spell Compendium 3.5e 2005 p.203*
+*Spell Compendium 3.5e p.203*
 # Splinterbolt
 *Conjuration (Creation)*  
 **Level:** Druid 2  

@@ -11,7 +11,7 @@ For the duration, you have Advantage on any Wisdom (Perception or Survival) chec
 
 ---
 
-*Spell Compendium 3.5e 2005 p.34*
+*Spell Compendium 3.5e p.34*
 # Bloodhound
 *Divination*  
 **Level:** Ranger 1  

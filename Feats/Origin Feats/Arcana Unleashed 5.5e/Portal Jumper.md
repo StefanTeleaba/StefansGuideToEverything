@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e 2026 p.*
+*Arcana Unleashed 5.5e p.*
 # Portal Jumper
 *Origin Feat*  
 You gain the following benefits.  

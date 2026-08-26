@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.137*
+*Player's Handbook 5.5e p.137*
 # Thief
 *Hunt for Treasure as a Classic Adventurer*  
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.

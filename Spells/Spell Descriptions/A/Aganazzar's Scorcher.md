@@ -15,7 +15,7 @@ A jet of roaring flame forming a 30-foot-long, 5-foot-wide Line bursts from your
 
 ---
 
-*Xanathar's Guide to Everything 5e 2017 p.150*  
+*Xanathar's Guide to Everything 5e p.150*  
 # Aganazzar's Scorcher
 *Level 2 Evocation (Sorcerer, Wizard)*  
 **Casting Time:** Action  
@@ -27,7 +27,7 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 
 ---
 
-*Forgotten Realms Campaign Setting 3e 2001 p.66*
+*Forgotten Realms Campaign Setting 3e p.66*
 # Aganazzar's Scorcher
 *Evocation [Fire]*  
 **Level:** Sor/Wiz 2  
@@ -43,7 +43,7 @@ A jet of roaring flame bursts from your outstretched hand, scorching any creatur
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e 1996 p.26*
+*Wizard's Spell Compendium Volume I 2e p.26*
 # Aganazzar's Scorcher
 *(Evocation)*  
 *(Fire)*  

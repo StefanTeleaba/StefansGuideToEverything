@@ -1,5 +1,5 @@
 # Oath of Glory
-*Player's Handbook 5.5e 2024*  
+*Player's Handbook 5.5e*  
 
 *Strive for the Heights of Heroism*  
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.  

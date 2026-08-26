@@ -6,7 +6,7 @@ When you hit a creature with an attack roll using a weapon, an Unarmed Strike, o
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.206*
+*Magic Item Compendium 3.5e p.206*
 # Bracers of Lightning
 **Price (Item Level):** 11,000 gp (13th)  
 **Body Slot:** Arms  
@@ -26,7 +26,7 @@ Moderate evocation; CL 8th; Craft Magic Arms and Armor, call lightning or lightn
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.205*
+*Magic Item Compendium 3.5e p.205*
 # Rainment of the Stormwalker
 
 ---

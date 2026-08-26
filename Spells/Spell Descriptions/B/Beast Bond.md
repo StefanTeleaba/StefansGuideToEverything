@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.150*
+*Xanathar's Guide to Everything 5e p.150*
 # Beast Bond
 *Level 1 Divination (Druid, Ranger)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.288*
+*Player's Handbook 5.5e p.288*
 # Incendiary Cloud
 *Level 8 Conjuration (Druid, Sorcerer, Wizard)*
 

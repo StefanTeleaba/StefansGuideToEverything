@@ -1,19 +1,17 @@
-*Arcana Unleashed 5.5e 2026 p.*
+*Arcana Unleashed 5.5e p.35*
 # Aura of Evasion
-*Level 7 Abjuration (PLACEHOLDER)*
+*Level 7 Abjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Self  
-**Components:** V  
+**Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-PLACEHOLDER
-
-***Using a Higher-Level Spell Slot.*** PLACEHOLDER
+An aura of alacrity radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Advantage on Dexterity saving throws. When an affected creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it takes no damage if it succeeds on the save and only half damage if it fails. A creature with the Incapacitated condition doesn't gain any benefit from being in the aura.
 
 ---
 
-*Spell Compendium 3.5e 2005 p.18*
+*Spell Compendium 3.5e p.18*
 # Aura of Evasion
 Abjuration
 **Level:** Cleric 5, sorcerer/wizard 6  

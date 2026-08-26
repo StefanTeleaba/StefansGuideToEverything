@@ -5,7 +5,7 @@
 While wearing this mask, you have Advantage on saving throws to avoid or end the Poisoned condition, and you have Resistance to Poison damage.
 
 ---
-*Magic Item Compendium 3.5e 2007 p.116*
+*Magic Item Compendium 3.5e p.116*
 # Mask of Sweet Air
 **Price (Item Level):** 2,000 gp (6th)
 **Body Slot:** Face

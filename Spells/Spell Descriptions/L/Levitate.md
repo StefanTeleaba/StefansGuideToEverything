@@ -21,7 +21,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ---
 
-*Player's Handbook 5.5e 2024 p.291*
+*Player's Handbook 5.5e p.291*
 # Levitate
 *Level 2 Transmutation (Sorcerer, Wizard)*
 

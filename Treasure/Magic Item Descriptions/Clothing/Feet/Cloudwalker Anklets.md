@@ -5,7 +5,7 @@ While you wear these anklets, you can tread on air as if walking on solid ground
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.206*
+*Magic Item Compendium 3.5e p.206*
 # Cloudwalker Anklets
 **Price (Item Level):** 50,000 gp (18th)  
 **Body Slot:** Feet  
@@ -21,7 +21,7 @@ A druid benefits from wearing this item even while in wild shape.
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.205*
+*Magic Item Compendium 3.5e p.205*
 # Rainment of the Stormwalker
 
 ---

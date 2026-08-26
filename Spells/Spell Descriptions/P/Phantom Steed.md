@@ -15,7 +15,7 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 
 ---
 
-*Player’s Handbook 5.5e 2024 p.304*
+*Player’s Handbook 5.5e p.304*
 # Phantom Steed
 *Level 3 Illusion (Wizard)*
 

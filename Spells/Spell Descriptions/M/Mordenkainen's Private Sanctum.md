@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.301*
+*Player's Handbook 5.5e p.301*
 # Mordenkainen's Private Sanctum
 *Level 4 Abjuration (Artificer, Wizard)*
 

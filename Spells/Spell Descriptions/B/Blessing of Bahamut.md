@@ -13,7 +13,7 @@ An opalescent glow surrounds one willing creature you touch. For the duration, a
 
 ---
 
-*Spell Compendium 3.5e 2005 p.31*
+*Spell Compendium 3.5e p.31*
 # Blessing of Bahamut
 *Abjuration [Good]*  
 **Level:** Paladin 3  

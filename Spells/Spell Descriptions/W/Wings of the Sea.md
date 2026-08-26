@@ -13,7 +13,7 @@ You gain a Swim Speed equal to your Speed. If you already have a Swim Speed, it 
 
 ---
 
-*Spell Compendium 3.5e 2005 p.240*
+*Spell Compendium 3.5e p.240*
 # Wings of the Sea
 *Transmutation*  
 **Level:** Cleric 1, druid 1, ranger 1, sorcerer/wizard 1  

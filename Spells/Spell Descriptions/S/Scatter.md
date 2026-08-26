@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.164*
+*Xanathar's Guide to Everything 5e p.164*
 # Scatter
 *Level 6 Conjuration (Sorcerer, Warlock, Wizard)*
 

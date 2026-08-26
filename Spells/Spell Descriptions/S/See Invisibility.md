@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.314*
+*Player's Handbook 5.5e p.314*
 # See Invisibility
 *Level 2 Divination (Artificer, Bard, Psion, Sorcerer, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.336*
+*Player’s Handbook 5.5e p.336*
 # True Seeing
 *Level 6 Divination (Bard, Cleric, Psion, Sorcerer, Warlock, Wizard)*
 

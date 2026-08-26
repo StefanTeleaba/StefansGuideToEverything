@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.161*
+*Xanathar's Guide to Everything 5e p.161*
 # Melf's Minute Meteors
 *Level 3 Evocation (Sorcerer, Wizard)*
 

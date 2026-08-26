@@ -7,4 +7,4 @@ You gain the following benefits.
 
 ---
 
-*Complete Scoundrel 3.5e 2007 p.80*
+*Complete Scoundrel 3.5e p.80*

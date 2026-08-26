@@ -10,7 +10,7 @@ While wearing this cloak, you gain the following benefits.
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.206*
+*Magic Item Compendium 3.5e p.206*
 # Robe of Thunder
 **Price (Item Level):** 38,000 gp (17th)  
 **Body Slot:** Body  
@@ -27,7 +27,7 @@ A druid benefits from wearing this item and can activate it even while in wild s
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.205*
+*Magic Item Compendium 3.5e p.205*
 # Rainment of the Stormwalker
 To wear the raiment of the stormwalker is to become the storm. With it, you can travel on the thunderclouds and strike at foes like lightning. Cloaked in clouds, booming like thunder, and crackling with electricity, you become a tempest.  
 The raiment of the stormwalker works best in the hands of a monk, druid, or other character who enters melee but prefers not to wear armor. In particular, a druid should consider the items of this set, as its powers are available while in wild shape. However, a character of any class should consider collecting at least two pieces of the set to gain some of the raiment’s lesser collection benefi ts and the abilities of the desired items.  

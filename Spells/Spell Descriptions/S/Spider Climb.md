@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.319*
+*Player's Handbook 5.5e p.319*
 # Spider Climb
 *Level 2 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 

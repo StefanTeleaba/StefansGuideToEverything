@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.279*
+*Player's Handbook 5.5e p.279*
 # Glibness
 *Level 8 Enchantment (Bard, Psion, Warlock)*
 

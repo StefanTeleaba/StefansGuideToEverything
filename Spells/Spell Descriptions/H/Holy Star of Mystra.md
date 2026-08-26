@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.145*
+*Forgotten Realms: Heroes of Faerun 5.5e p.145*
 # Holy Star of Mystra
 *Level 8 Evocation (Cleric, Wizard)*
 

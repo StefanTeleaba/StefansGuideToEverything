@@ -15,7 +15,7 @@ For the duration, you have a Climb Speed equal to your Speed, you have a +10 bon
 
 ---
 
-*Spell Compendium 3.5e 2005 p.38*
+*Spell Compendium 3.5e p.38*
 # Branch to Branch
 *Transmutation*  
 **Level:** Druid 1, ranger 1  

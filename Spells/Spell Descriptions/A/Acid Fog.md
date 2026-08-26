@@ -17,6 +17,6 @@ Each creature that starts its turn in the Sphere must succeed on a Constitution 
 
 ---
 
-*Player's Handbook 3.5e 2003 p.196*
+*Player's Handbook 3.5e p.196*
 
 ---

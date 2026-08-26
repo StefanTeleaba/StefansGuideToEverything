@@ -14,7 +14,7 @@ The wearer can also jump as if wearing boots of striding and springing, but the 
 
 ---
 
-*Arms and Equipment Guide 3.5e 2003 p.132*
+*Arms and Equipment Guide 3.5e p.132*
 # Gloves of Brachiation
 These tight leather gloves allow the wearer to travel from branch to branch using only her arms, as a monkey or gibbon would. As long as she is at medium encumbrance or less, the wearer can move at her full speed through the tree canopy. The wearer also gains a +10 circumstance bonus on Jump checks as long as she is aboveground (leaping from tree branch to tree branch, for example).
 Caster Level: 3rd; Prerequisites: Craft Wondrous Item, cat’s grace; Market Price: 4,000 gp; Weight: —.

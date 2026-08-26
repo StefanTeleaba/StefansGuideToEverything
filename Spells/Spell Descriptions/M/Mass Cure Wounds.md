@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.296*
+*Player's Handbook 5.5e p.296*
 # Mass Cure Wounds
 *Level 5 Abjuration (Bard, Cleric, Druid)*
 

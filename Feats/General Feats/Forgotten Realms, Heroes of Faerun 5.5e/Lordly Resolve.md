@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.40*
+*Forgotten Realms: Heroes of Faerun 5.5e p.40*
 # Lordly Resolve
 *General Feat (Prerequisites: Level 4+, Lords' Alliance Agent)*  
 You gain the following benefits.  

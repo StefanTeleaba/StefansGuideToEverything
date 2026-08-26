@@ -6,7 +6,7 @@ While you’re wearing these goggles, your ranged attacks with weapons ignore Ha
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.108*
+*Magic Item Compendium 3.5e p.108*
 # Goggles of Foe-Finding
 **Price (Item Level):** 2,500 gp (7th)  
 **Body Slot:** Face  

@@ -16,4 +16,4 @@ You can don or doff this item as a Magic action.
 
 
 
-**Source:** *Magic Item Compendium 3.5e 2007 p.170*
+**Source:** *Magic Item Compendium 3.5e p.170*

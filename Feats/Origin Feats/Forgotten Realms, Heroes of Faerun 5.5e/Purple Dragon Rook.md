@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.38*
+*Forgotten Realms: Heroes of Faerun 5.5e p.38*
 # Purple Dragon Rook
 *Origin Feat*
 You gain the following benefits.  

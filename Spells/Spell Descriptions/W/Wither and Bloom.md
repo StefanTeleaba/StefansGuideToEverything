@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e 2026 p.*
+*Arcana Unleashed 5.5e p.35*
 # Wither and Bloom
 *Level 2 Necromancy (Druid, Sorcerer, Wizard)*
 

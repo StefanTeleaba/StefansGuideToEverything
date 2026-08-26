@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e 2026 p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 # Shadow Sorcery
 *Bend Doom and Darkness to Your Will*  
 Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.

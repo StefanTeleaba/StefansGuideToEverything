@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.40*
+*Forgotten Realms: Heroes of Faerun 5.5e p.40*
 # Mythal Touched
 *General Feat (Prerequisite: Level 4+)*
 You gain the following benefits.  

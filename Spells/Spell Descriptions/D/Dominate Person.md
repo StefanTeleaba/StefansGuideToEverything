@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.266*
+*Player's Handbook 5.5e p.266*
 # Dominate Person
 *Level 5 Enchantment (Bard, Sorcerer, Wizard)*
 

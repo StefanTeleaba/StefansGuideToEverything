@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.240*
+*Player's Handbook 5.5e p.240*
 # Animal Shapes
 *Level 8 Transmutation (Druid)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.343*
+*Player's Handbook 5.5e p.343*
 # Wrathful Smite
 *Level 1 Necromancy (Paladin)*
 

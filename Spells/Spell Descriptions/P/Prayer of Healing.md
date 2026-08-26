@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.307*
+*Player’s Handbook 5.5e p.307*
 # Prayer of Healing
 *Level 2 Abjuration (Cleric, Paladin)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.321*
+*Player's Handbook 5.5e p.321*
 # Storm of Vengeance
 *Level 9 Conjuration (Druid)*
 

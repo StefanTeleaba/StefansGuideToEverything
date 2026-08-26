@@ -13,7 +13,7 @@ You create a deep resonant vibration that can shake creatures off their feet. Ea
 
 ---
 
-*Spell Compendium 3.5e 2005 p.126*
+*Spell Compendium 3.5e p.126*
 # Ironthunder Horn
 *Transmutation [Sonic]*  
 **Level:** Bard 1, sorcerer/wizard 2  

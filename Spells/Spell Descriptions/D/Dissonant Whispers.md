@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.264*
+*Player's Handbook 5.5e p.264*
 # Dissonant Whispers
 *Level 1 Enchantment (Bard, Psion)*
 

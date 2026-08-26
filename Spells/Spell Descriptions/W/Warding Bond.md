@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.340*
+*Player's Handbook 5.5e p.340*
 # Warding Bond
 *Level 2 Abjuration (Cleric, Paladin)*
 

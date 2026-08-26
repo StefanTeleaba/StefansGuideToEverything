@@ -15,7 +15,7 @@ You create an arc of lightning forming a 100-foot-long, 5-foot-wide Line between
 
 ---
 
-*Spell Compendium 3.5e 2005 p.13*
+*Spell Compendium 3.5e p.13*
 # Arc of Lightning
 **Level:** Druid 4, sorcerer/wizard 5, Windstorm 5  
 **Components:** V, S, M/DF  

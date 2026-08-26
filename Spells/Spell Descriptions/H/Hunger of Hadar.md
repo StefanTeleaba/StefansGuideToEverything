@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.286* 
+*Player's Handbook 5.5e p.286* 
 # Hunger of Hadar
 *Level 3 Conjuration (Warlock)*
 

@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e 2024 p.234*
+*Dungeon Master's Guide 5.5e p.234*
 # Bag of Holding
 *Wondrous item, Uncommon*  
 *5 lb.*  
@@ -11,7 +11,7 @@ Placing a Bag of Holding inside an extradimensional space created by a Heward's 
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.248*
+*Dungeon Master's Guide 3.5e p.248*
 # Bag of Holding
 
 This appears to be a common cloth sack about 2 feet by 4 feet in size. The bag of holding opens into a nondimensional space: Its inside is larger than its outside dimensions. Regardless of what is put into the bag, it weighs a fixed amount. This weight, and the limits in weight and volume of the bag’s contents, depend on the bag’s type, as shown on the table below.

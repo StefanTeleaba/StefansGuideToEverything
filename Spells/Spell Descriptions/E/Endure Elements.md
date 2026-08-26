@@ -13,6 +13,6 @@ For the duration, a willing creature you touch is unharmed by temperatures of 0 
 
 ---
 
-*Player's Handbook 3.5e 2003 p.226*
+*Player's Handbook 3.5e p.226*
 
 ---

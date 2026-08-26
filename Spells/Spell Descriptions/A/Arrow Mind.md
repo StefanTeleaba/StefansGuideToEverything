@@ -13,7 +13,7 @@ When you cast the spell, you can make one ranged attack against the provoking cr
 
 ---
 
-*Spell Compendium 3.5e 2005 p.15*
+*Spell Compendium 3.5e p.15*
 # Arrow Mind
 *Divination*  
 **Level:** Ranger 1, sorcerer/wizard 1  

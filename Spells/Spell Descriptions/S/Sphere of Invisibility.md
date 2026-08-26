@@ -13,6 +13,6 @@ You radiate a concealing aura in a 10-foot Emanation for the duration. While in 
 
 ---
 
-*Player's Handbook 3.5e 2003 p.245*
+*Player's Handbook 3.5e p.245*
 
 ---

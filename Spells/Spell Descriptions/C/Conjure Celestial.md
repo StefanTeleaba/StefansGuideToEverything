@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.254*
+*Player’s Handbook 5.5e p.254*
 # Conjure Celestial
 *Level 7 Conjuration (Cleric)*
 

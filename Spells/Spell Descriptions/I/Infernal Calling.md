@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.158*
+*Xanathar's Guide to Everything 5e p.158*
 # Infernal Calling
 *Level 5 Conjuration (Warlock, Wizard)*
 

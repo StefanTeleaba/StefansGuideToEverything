@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e 2024 p.275*
+*Dungeon Master's Guide 5.5e p.275*
 # Javelin of Lightning
 *Weapon (Javelin), Uncommon*  
 Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.  
@@ -24,7 +24,7 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.258*
+*Dungeon Master's Guide 3.5e p.258*
 # Javelin of Lightning
 This javelin becomes a 5d6 lightning bolt when thrown (Reflex DC 14 half). It is consumed in the attack.  
 Faint evocation; CL 5th; Craft Magic Arms and Armor, lightning bolt; Price 1,500 gp; Cost 750 gp + 30 XP.

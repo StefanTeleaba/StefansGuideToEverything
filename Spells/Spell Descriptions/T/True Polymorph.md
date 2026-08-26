@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.335*
+*Player’s Handbook 5.5e p.335*
 # True Polymorph
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 

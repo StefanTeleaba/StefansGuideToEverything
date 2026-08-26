@@ -1,5 +1,5 @@
 # Magic Items by Body Slot
-*Dungeon Master's Guide 5.5e 2024*  
+*Dungeon Master's Guide 5.5e*  
 
 ## **Face**
 *Goggles, Lenses, Masks, Spectacles, Third Eyes*

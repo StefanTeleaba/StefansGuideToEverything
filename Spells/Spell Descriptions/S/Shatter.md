@@ -16,7 +16,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 ---
 
-*Player's Handbook 5.5e 2024 p.316*
+*Player's Handbook 5.5e p.316*
 # Shatter
 *Level 2 Evocation (Bard, Psion, Sorcerer, Wizard)*
 

@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e 2026 p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 # Haunted One
 You are haunted by the events of your past. Whether it was a lone terrible incident or an accumulation of painful moments, you bear the unshakable weight of what happened to you. You've tried to bury it and run away from it, to no avail; it can't be slain with a sword or banished via magic. Nevertheless, you persist.
 

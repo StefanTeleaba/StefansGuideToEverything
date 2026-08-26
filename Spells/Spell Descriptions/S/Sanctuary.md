@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.313*
+*Player’s Handbook 5.5e p.313*
 # Sanctuary
 *Level 1 Abjuration (Artificer, Cleric, Psion)*
 

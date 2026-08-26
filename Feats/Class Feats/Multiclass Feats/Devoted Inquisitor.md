@@ -7,4 +7,4 @@
 
 ---
 
-*Complete Adventurer 3.5e 2005 p.107*
+*Complete Adventurer 3.5e p.107*

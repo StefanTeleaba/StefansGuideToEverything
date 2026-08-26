@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.239*
+*Player's Handbook 5.5e p.239*
 # Animal Friendship
 *Level 1 Enchantment (Bard, Druid, Ranger)*
 

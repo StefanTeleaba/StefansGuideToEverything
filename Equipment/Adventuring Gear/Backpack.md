@@ -4,4 +4,4 @@
 
 A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.
 
-**Source:** *Player's Handbook 5.5e 2024 p.224*
+**Source:** *Player's Handbook 5.5e p.224*

@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e 2024 p.286*
+*Dungeon Master's Guide 5.5e p.286*
 # Portable Hole
 *Wondrous item, Rare*  
 
@@ -14,7 +14,7 @@ Placing a Portable Hole inside an extradimensional space created by a Bag of Hol
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.264*
+*Dungeon Master's Guide 3.5e p.264*
 # Portable Hole
 A portable hole is a circle of cloth spun from the webs of a phase spider interwoven with strands of ether and beams of starlight. When opened fully, a portable hole is 6 feet in diameter, but it can be folded up to be as small as a pocket handkerchief. When spread upon any surface, it causes an extradimensional space 10 feet deep to come into being. This hole can be picked up from inside or out by simply taking hold of the edges of the cloth and folding it up. Either way, the entrance disappears, but anything inside the hole remains.
 

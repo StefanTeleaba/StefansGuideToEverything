@@ -8,7 +8,7 @@ While wearing this pendant, you gain the following benefits.
 
 ---
 
-*Dungeon Master's Guide 5.5e 2024 p.284*
+*Dungeon Master's Guide 5.5e p.284*
 # Periapt of Wound Closure
 *Wondrous Item, Uncommon (Requires Attunement)*
 
@@ -20,7 +20,7 @@ While wearing this pendant, you gain the following benefits.
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.264*
+*Dungeon Master's Guide 3.5e p.264*
 # Periapt of Wound Closure
 This stone is bright red and dangles on a gold chain. The wearer of this periapt automatically becomes stable if his hit points drop to between -1 and -9 inclusive. The periapt doubles the wearer’s normal rate of healing or allows normal healing of wounds that would not do so normally. Hit point damage that involves bleeding is negated for the wearer of the periapt, but he is still susceptible to damage from bleeding that causes Constitution loss, such as that dealt by a wounding weapon.  
 Moderate conjuration; CL 10th; Craft Wondrous Item, heal; Price 15,000 gp.

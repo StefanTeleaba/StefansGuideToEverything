@@ -10,7 +10,7 @@
 
 
 ---
-*Magic Item Compendium 3.5e 2007*
+*Magic Item Compendium 3.5e*
 
 # Arcane Thieves' Tools
 

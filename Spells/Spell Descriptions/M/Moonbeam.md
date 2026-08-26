@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.300*
+*Player's Handbook 5.5e p.300*
 # Moonbeam
 *Level 2 Evocation (Druid)*
 

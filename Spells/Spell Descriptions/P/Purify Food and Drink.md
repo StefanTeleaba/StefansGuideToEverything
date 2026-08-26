@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.310*
+*Player’s Handbook 5.5e p.310*
 # Purify Food and Drink
 *Level 1 Transmutation (Artificer, Cleric, Druid, Paladin)*
 

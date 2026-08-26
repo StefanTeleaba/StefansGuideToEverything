@@ -1,4 +1,4 @@
-*Eberron: Forge of the Artificer 5.5e 2025 p.34*
+*Eberron: Forge of the Artificer 5.5e p.34*
 # Changeling
 With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face may reveal an aspect of their soul.  
 The first changelings in the multiverse appeared in the Feywild, and the wondrous, mutable essence of that plane lingers in changelings today - even in those who have never set foot in the fey realm.  

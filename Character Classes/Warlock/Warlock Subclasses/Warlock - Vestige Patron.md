@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e 2026 p.*
+*Arcana Unleashed 5.5e p.13*
 # Vestige Patron
 
 ---
@@ -63,5 +63,14 @@ In addition, when you drop to 0 Hit Points while within the aura, you instead ch
 ## Level 14: Semblance of Life
 Your Vestige Companion continues to grow in strength, and with your assistance, it can briefly adopt a more powerful form. Depending on the vestige’s type, you can cast one of the following spells while the vestige is within 90 feet of you without expending a spell slot or needing Material components: Summon Celestial (Celestial vestige), Summon Fiend (Fiend vestige), or Summon Undead (Undead vestige). When you cast the spell with this feature, the vestige becomes the summoned creature. Its game statistics are replaced by the summoned creature’s stat block, the spell’s level is equal to half your Warlock level (round down; maximum level 9), and the spell’s duration is 1 minute. When the spell ends, the vestige returns to its previous form.  
 Once you have cast the spell in this way, you can’t do so again until you finish a Long Rest.
+
+---
+
+*Tome of Magic 3.5e p.9*
+# The Binder
+*“I call upon you, Amon, the Void before the Altar. Render unto me your sight and your breath, for I stand before your seal and possess your talisman.” — Morden, dwarf binder, calling upon a vestige to make a pact.*  
+Between mortality and godhood, beyond life and undeath, souls exist in a place both forgotten and inaccessible. Mortals too strong-willed to pass into the afterlife, dead outsiders too powerful to be absorbed into their planes, the dreams of slain deities put to rest eons before the current age—these are the beings called vestiges. A seal forms the door between these beings and reality, and knowledge is the key to opening it.  
+Only the binder possesses that key, because only he knows the vestiges’ special seals and the rituals by which they can be called from the void beyond reality. By drawing their seals and speaking the words of power, he summons these strange entities, bargains with them, and binds them to his service.  
+*...*
 
 ---

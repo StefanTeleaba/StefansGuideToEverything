@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.161*
+*Xanathar's Guide to Everything 5e p.161*
 # Maximilian's Earthen Grasp
 *Level 2 Transmutation (Sorcerer, Wizard)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.251*
+*Player's Handbook 5.5e p.251*
 # Cloud of Daggers
 *Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 

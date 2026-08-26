@@ -13,7 +13,7 @@ For the duration, sound is amplified in a 20-foot-radius Sphere centered on a po
 
 ---
 
-*Spell Compendium 3.5e 2005 p.10*
+*Spell Compendium 3.5e p.10*
 # Amplify
 *Transmutation [Sonic]*  
 **Level:** Bard 1

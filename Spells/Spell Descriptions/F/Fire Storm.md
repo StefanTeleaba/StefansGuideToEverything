@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.275*
+*Player's Handbook 5.5e p.275*
 # Fire Storm
 *Level 7 Evocation (Cleric, Druid, Sorcerer)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.303*
+*Player's Handbook 5.5e p.303*
 # Otiluke's Resilient Sphere
 *Level 4 Abjuration (Artificer, Wizard)*
 

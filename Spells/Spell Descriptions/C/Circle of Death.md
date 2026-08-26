@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.250*
+*Player's Handbook 5.5e p.250*
 # Circle of Death
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 

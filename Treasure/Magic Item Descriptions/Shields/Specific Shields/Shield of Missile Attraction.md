@@ -14,7 +14,7 @@ While holding this Shield, you have a +1 bonus to Armor Class, in addition to th
 
 ---
 
-*Dungeon Master's Guide 5.5e 2024 p.304*
+*Dungeon Master's Guide 5.5e p.304*
 # Shield of Missile Attraction
 *Shield (Shield), Rare (Requires Attunement)*
 

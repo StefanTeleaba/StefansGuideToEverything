@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e 2026 p.*  
+*Ravenloft: The Horrors Within 5.5e p.*  
 # Survivor
 *Origin Feat*  
 You gain the following benefits.  

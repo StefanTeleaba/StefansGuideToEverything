@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e 2024 p.254*
+*Dungeon Master's Guide 5.5e p.254*
 # Dread Helm
 *Wondrous Item, Common*  
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.

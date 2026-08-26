@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.280*
+*Player's Handbook 5.5e p.280*
 # Grasping Vine
 *Level 4 Conjuration (Druid, Ranger)*
 

@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.309*
+*Player’s Handbook 5.5e p.309*
 # Protection from Evil and Good
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 

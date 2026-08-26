@@ -6,7 +6,7 @@ The ring has 5 charges and regains all expended charges daily at dawn. You can e
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.206*
+*Magic Item Compendium 3.5e p.206*
 # Stormfire Ring
 **Price (Item Level):** 4,000 gp (8th)  
 **Body Slot:** Ring  
@@ -22,7 +22,7 @@ A druid can activate this item even while in wild shape.
 
 ---
 
-*Magic Item Compendium 3.5e 2007 p.205*
+*Magic Item Compendium 3.5e p.205*
 # Rainment of the Stormwalker
 
 ---

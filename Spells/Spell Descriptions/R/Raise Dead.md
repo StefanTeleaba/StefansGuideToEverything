@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.310*
+*Player's Handbook 5.5e p.310*
 # Raise Dead
 *Level 5 Necromancy (Bard, Cleric, Paladin)*
 

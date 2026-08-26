@@ -12,7 +12,7 @@ While Charmed, the target has the Restrained condition and perceives the area ar
 
 ---
 
-*Xanathar's Guide to Everything 5e 2017 p.161*
+*Xanathar's Guide to Everything 5e p.161*
 # Mental Prison
 *Level 6 Illusion (Sorcerer, Warlock, Wizard)*
 

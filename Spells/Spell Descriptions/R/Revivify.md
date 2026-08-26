@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.312*
+*Player's Handbook 5.5e p.312*
 # Revivify
 *Level 3 Necromancy (Artificer, Cleric, Druid, Paladin, Ranger)*
 

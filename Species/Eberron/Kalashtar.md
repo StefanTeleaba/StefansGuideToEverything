@@ -1,4 +1,4 @@
-*Eberron: Forge of the Artificer 5.5e 2025 p.35*
+*Eberron: Forge of the Artificer 5.5e p.35*
 # Kalashtar
 Kalashtar (pronounced kal-ASH-tar) are created from the union of humanity and renegade spirits called quori from the plane of dreams. Kalashtar appear human, but their spiritual connection affects them in a variety of ways. They have symmetrical, slightly angular features, and their eyes often glow when they are concentrating or expressing strong emotions.  
 Kalashtar can’t communicate directly with their quori spirits. Rather, kalashtar might experience them as a source of instinct and inspiration, drawing on the spirits’ memories when the kalashtar sleep. This connection grants kalashtar minor psionic abilities, as well as protection from psionic attacks.

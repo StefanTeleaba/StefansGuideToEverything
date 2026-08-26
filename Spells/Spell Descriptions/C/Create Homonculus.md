@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.152*
+*Xanathar's Guide to Everything 5e p.152*
 # Create Homunculus
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 

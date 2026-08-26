@@ -4,7 +4,7 @@
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.224*
+*Dungeon Master's Guide 3.5e p.224*
 # Disruption
 
 **Price:** +2 Bonus  

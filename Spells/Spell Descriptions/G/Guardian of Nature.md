@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.157*
+*Xanathar's Guide to Everything 5e p.157*
 # Guardian of Nature
 *Level 4 Transmutation (Druid, Ranger)*
 

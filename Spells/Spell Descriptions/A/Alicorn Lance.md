@@ -17,7 +17,7 @@ You hurl a silver, etereal alicorn toward a creature within range. Make a ranged
 
 ---
 
-*Priest's Spell Compendium Volume I 2e 1999 p.20*
+*Priest's Spell Compendium Volume I 2e p.20*
 # Alicorn Lance
 (Invocation/Evocation)  
 Sphere: Combat  

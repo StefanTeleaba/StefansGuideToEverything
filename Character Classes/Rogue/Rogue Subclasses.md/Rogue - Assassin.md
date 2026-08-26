@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.134*
+*Player's Handbook 5.5e p.134*
 # Assassin
 *Practice the Grim Art of Death*  
 An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.

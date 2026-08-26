@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.219*
+*Player's Handbook 5.5e p.219*
 # Chain Mail
 *Heavy Armor*  
 

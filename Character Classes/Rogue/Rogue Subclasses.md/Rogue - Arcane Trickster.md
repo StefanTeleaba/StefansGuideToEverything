@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.132*
+*Player's Handbook 5.5e p.132*
 # Arcane Trickster
 *Enhance Stealth with Arcane Spells*  
 Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.

@@ -1,4 +1,4 @@
-*Astarion's Book of Hungers 5.5e 2025 p.7*
+*Astarion's Book of Hungers 5.5e p.7*
 # Vampire Survivor
 You witnessed or survived a vampire attack. You might have been directly involved in this confrontation, or perhaps you were frozen in terror by what you saw. Regardless, you remain vigilant for monster attacks and pride yourself on being ready for anything. No vampire will catch you or your allies by surprise again.
 

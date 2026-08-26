@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.152*
+*Xanathar's Guide to Everything 5e p.152*
 # Crown of Stars
 *Level 7 Evocation (Sorcerer, Warlock, Wizard)*
 

@@ -15,7 +15,7 @@ A shimmering field surrounds a creature of your choice within range, granting it
 
 ---
 
-*Player's Handbook 5.5e 2024 p.316*
+*Player's Handbook 5.5e p.316*
 # Shield of Faith
 *Level 1 Abjuration (Cleric, Paladin)*
 

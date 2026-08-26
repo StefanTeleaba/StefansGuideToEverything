@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.261*
+*Player's Handbook 5.5e p.261*
 # Death Ward
 *Level 4 Abjuration (Cleric, Paladin)*
 

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.54*
+*Player's Handbook 5.5e p.54*
 # Path of the Berserker
 *Channel Rage into Violent Fury*   
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.

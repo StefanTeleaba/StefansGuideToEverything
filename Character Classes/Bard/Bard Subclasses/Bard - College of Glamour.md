@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.65* 
+*Player's Handbook 5.5e p.65* 
 # College of Glamour
 *Weave Beguiling Fey Magic*  
 The College of Glamour traces its origins to the beguiling magic of the Feywild. Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard-hearted listeners.

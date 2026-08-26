@@ -15,7 +15,7 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 ---
 
-*Player's Handbook 5.5e 2024 p.270*
+*Player's Handbook 5.5e p.270*
 # Evard's Black Tentacles
 *Level 4 Conjuration (Wizard)*
 

@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.142*
+*Forgotten Realms: Heroes of Faerun 5.5e p.142*
 # Alustriel's Mooncloak
 *Level 5 Abjuration (Bard, Druid, Ranger, Wizard)*
 

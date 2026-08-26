@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.202*
+*Player's Handbook 5.5e p.202*
 # Tavern Brawler
 *Origin Feat*  
 You gain the following benefits.  

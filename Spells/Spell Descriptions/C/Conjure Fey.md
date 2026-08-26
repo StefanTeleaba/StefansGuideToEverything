@@ -1,4 +1,4 @@
-*Player’s Handbook 5.5e 2024 p.255*
+*Player’s Handbook 5.5e p.255*
 # Conjure Fey
 *Level 6 Conjuration (Druid)*
 

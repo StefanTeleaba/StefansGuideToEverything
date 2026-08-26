@@ -1,19 +1,20 @@
-*Arcana Unleashed 5.5e 2026 p.*
+*Arcana Unleashed 5.5e p.35*
 # Distorted Distance
-*Level 4 Illusion (Placeholder)*
+*Level 4 Illusion (Artificer, Bard, Warlock, Wizard)*
 
 **Casting Time:** Action  
-**Range:** Self  
-**Components:** V  
-**Duration:** Concentration, up to 1 minute
+**Range:** 120 feet  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
 
-Placeholder
-
-***Using a Higher-Level Spell Slot.*** Placeholder
+You create an illusory spatial dilation that fills a 60-foot-radius Sphere centered on a point within range. For each creature you can see in the Sphere, you can choose one of the following effects for it:  
+**Dizzying Elongation.** The creature makes an Intelligence saving throw. On a failed save, the creature takes 2d10 Psychic damage, and the Sphere is Difficult Terrain for it until the end of its turn.  
+**Shortened Space.** The creature's Speed increases by 20 feet until the end of its next turn.  
+Until the spell ends, whenever a creature enters the Sphere or ends its turn there, you can choose for it to receive one of these effects. A creature can be affected by this spell only once per turn.
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e 1996 p.258*
+*Wizard's Spell Compendium Volume I 2e p.258*
 # Distance Distortion
 (Alteration)  
 (Earth, Dimension)  

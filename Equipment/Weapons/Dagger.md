@@ -11,7 +11,7 @@
 
 ---
 
-*Player's Handbook 5.5e 2024 p.215*
+*Player's Handbook 5.5e p.215*
 # Dagger (2 GP)
 *Simple Melee Weapon*  
 **Damage:** 1d4 Piercing  

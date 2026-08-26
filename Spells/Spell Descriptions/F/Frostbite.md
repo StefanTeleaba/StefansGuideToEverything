@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.156*
+*Xanathar's Guide to Everything 5e p.156*
 # Frostbite
 *Evocation Cantrip (Bard, Druid)*
 

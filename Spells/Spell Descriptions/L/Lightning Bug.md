@@ -15,7 +15,7 @@ You create a dart of electrical energy that strikes a creature of your choice th
 
 ---
 
-*Wizard's Spell Compendium Volume II 2e 1998 p.516*
+*Wizard's Spell Compendium Volume II 2e p.516*
 
 ---
 

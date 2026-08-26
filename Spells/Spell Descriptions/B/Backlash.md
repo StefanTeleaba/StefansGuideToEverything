@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.142*
+*Forgotten Realms: Heroes of Faerun 5.5e p.142*
 # Backlash
 *Level 4 Abjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -14,7 +14,7 @@ If the triggering damage was from a creature within range, you can force the cre
 
 ---
 
-*Spell Compendium 3.5e 2005 p.23*
+*Spell Compendium 3.5e p.23*
 # Backlash
 *Transmutation*  
 **Level:** Sorcerer/wizard 4  
@@ -30,7 +30,7 @@ The first time the target creature attempts to cast a spell or use a spelllike a
 
 ---
 
-*The Drow of The Underdark 2e 1991 p.52*
+*The Drow of The Underdark 2e p.52*
 # Backlash
 *(Necromancy)*  
 **Range:** Touch  

@@ -17,7 +17,7 @@ You launch a ramlike wedge of force. Make a ranged spell attack against one crea
 
 ---
 
-*Dungeon Master's Guide 5.5e 2024 p.294*
+*Dungeon Master's Guide 5.5e p.294*
 # Ring of the Ram
 *Ring, Rare (Requires Attunement)*
 This ring has 3 charges and regains 1d3 expended charges daily at dawn. While wearing the ring, you can take a Magic action to expend 1 to 3 charges to make a ranged spell attack against one creature you can see within 60 feet of yourself. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 Force damage and is pushed 5 feet away from you.  

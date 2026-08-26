@@ -1,5 +1,5 @@
 # Illusionist
-*Player's Handbook 5.5e 2024*  
+*Player's Handbook 5.5e*  
 
 *Weave Subtle Spells of Deception*
 You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.

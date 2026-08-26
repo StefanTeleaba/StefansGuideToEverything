@@ -1,4 +1,4 @@
-*Astarion's Book of Hungers 5.5e 2025 p.6*
+*Astarion's Book of Hungers 5.5e p.6*
 # Vampire Devotee
 You were in service to a vampire or a small group of vampires lairing together. The Undead drank your blood more times than you can count. You might have served willingly, perhaps with aspirations of one day becoming a vampire yourself. Or you might have been magically charmed and retain only a few muddled memories of your time as a vampire familiar. In either case, your time in the vampire den is over.
 

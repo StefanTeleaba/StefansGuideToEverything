@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.249*
+*Player's Handbook 5.5e p.249*
 # Calm Emotions
 *Level 2 Enchantment (Bard, Cleric, Psion)*
 

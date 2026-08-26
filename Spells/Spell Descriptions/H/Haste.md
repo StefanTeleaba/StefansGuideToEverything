@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.284*
+*Player's Handbook 5.5e p.284*
 # Haste
 *Level 3 Transmutation (Sorcerer, Wizard)*  
 

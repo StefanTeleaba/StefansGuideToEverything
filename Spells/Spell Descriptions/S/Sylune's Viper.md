@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.147*
+*Forgotten Realms: Heroes of Faerun 5.5e p.147*
 # Sylune's Viper
 *Level 3 Conjuration (Druid, Wizard)*
 
@@ -16,7 +16,7 @@ While the spell is active, you gain the following benefits:
 
 ---
 
-*Wizard's Spell Compendium Volume IV 2e 1998 p.914*
+*Wizard's Spell Compendium Volume IV 2e p.914*
 # Sylune's Viper
 *(Alteration)*  
 **Level:** 3  

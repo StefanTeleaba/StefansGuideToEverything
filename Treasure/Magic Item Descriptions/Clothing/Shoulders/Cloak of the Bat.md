@@ -1,4 +1,4 @@
-*Dungeon Master's Guide 5.5e 2024 p.245*
+*Dungeon Master's Guide 5.5e p.245*
 # Cloak of the Bat
 *Wondrous Item, Rare (Requires Attunement)*  
 While wearing this cloak, you have Advantage on Dexterity (Stealth) checks. In an area of Dim Light or Darkness, you can grip the edges of the cloak and use it to gain a Fly Speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in Dim Light or Darkness, you lose this Fly Speed.  

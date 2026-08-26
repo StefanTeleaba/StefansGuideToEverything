@@ -1,4 +1,4 @@
-*Homebrew 5.5e*
+*Player's Handbook 5.5e p.322*
 # Summon Beast
 *Level 2 Conjuration (Druid, Ranger)*
 
@@ -16,20 +16,20 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 *Small Beast, Neutral*  
 
 **AC** 11 + the spell's level  
-**HP** 20 (Air only) or 30 (Land and Water only) + 10 for each spell level above 2  
-**Speed** 30 ft.; Climb 30 ft. (Land only); Fly 60 ft. (Air only); Swim 30 ft. (Water only)
+**HP** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2  
+**Speed** 30 ft., Climb 30 ft. (Land only), Fly 60 ft. (Air only), Swim 30 ft. (Water only)
 
-|       |   |MOD|SAVE|
-|  ---  |---|---|--- |
-|**STR**|18 |+4 | +4 |
-|**DEX**|11 |+0 | +0 |
-|**CON**|16 |+3 | +3 |
-|**INT**|4  |-3 | -3 |
-|**WIS**|14 |+2 | +2 |
-|**CHA**|5  |-3 | -3 |
+|         |    | MOD | SAVE |
+|:-------:|:--:|:---:|:----:|
+| **STR** | 18 | +4  | +4   |
+| **DEX** | 11 | +0  | +0   |
+| **CON** | 16 | +3  | +3   |
+| **INT** | 4  | -3  | -3   |
+| **WIS** | 14 | +2  | +2   |
+| **CHA** | 5  | -3  | -3   |
 
-**Senses** Darkvision 60 ft., Passive Perception 12  
-**Languages** understands the languages you know  
+**Senses** Darkvision 60 ft.; Passive Perception 12  
+**Languages** Understands the languages you know  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 **Traits**  
@@ -39,10 +39,8 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Actions**  
 ***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell's level (round down).  
-***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell's level Piercing damage.
+***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 plus the spell's level Piercing damage.
 
----
-
-*Player's Handbook 5.5e 2024 p.322*
+![Bestial Spirit](https://5e.tools/img/bestiary/XPHB/Bestial%20Spirit.webp)
 
 ---

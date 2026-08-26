@@ -1,4 +1,4 @@
-*Forgotten Realms: Heroes of Faerun 5.5e 2025 p.41*
+*Forgotten Realms: Heroes of Faerun 5.5e p.41*
 # Spellfire Adept
 *General Feat (Prerequisites: Level 4+, Spellfire Spark or Spellcasting or Pact Magic Features)*  
 You gain the following benefits.  

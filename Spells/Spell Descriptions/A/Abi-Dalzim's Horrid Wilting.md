@@ -12,7 +12,7 @@ Nonmagical plants in the area that aren’t creatures, such as trees and shrubs,
 
 ---
 
-*Xanathar's Guide to Everything 5e 2017 p.150*
+*Xanathar's Guide to Everything 5e p.150*
 # Abi-Dalzim's Horrid Wilting
 *Level 8 Necromancy (Psion, Sorcerer, Wizard)*
 
@@ -27,7 +27,7 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 ---
 
-*Player's Handbook 3.5e 2003 p.242*
+*Player's Handbook 3.5e p.242*
 # Horrid Wilting
 *Necromancy*  
 **Level:** Sor/Wiz 8, Water 8  
@@ -43,7 +43,7 @@ This spell evaporates moisture from the body of each subject living creature, de
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e 1996 p.20*
+*Wizard's Spell Compendium Volume I 2e p.20*
 # Abi-Dalzim's Horrid Wilting
 *(Alteration, Necromancy)*  
 *(Water)*  

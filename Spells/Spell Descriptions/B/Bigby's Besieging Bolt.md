@@ -14,7 +14,7 @@ Until the spell ends, you can take a Magic action to launch a new bolt of force.
 
 ---
 
-*Wizard's Spell Compendium Volume I 2e 1996 p.80*
+*Wizard's Spell Compendium Volume I 2e p.80*
 # Bigby's Besieging Bolt
 *(Evocation)*  
 **Level:** 6  

@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.96* 
+*Player's Handbook 5.5e p.96* 
 # Eldritch Knight
 *Support Combat Skills with Arcane Magic*  
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.

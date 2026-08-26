@@ -1,4 +1,4 @@
-*Xanathar's Guide to Everything 5e 2017 p.154*
+*Xanathar's Guide to Everything 5e p.154*
 # Earthbind
 *Level 2 Transmutation (Druid, Sorcerer, Warlock, Wizard)*
 

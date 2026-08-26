@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.298*
+*Player's Handbook 5.5e p.298*
 # Minor Illusion
 *Illusion Cantrip (Bard, Psion, Sorcerer, Warlock, Wizard)*
 

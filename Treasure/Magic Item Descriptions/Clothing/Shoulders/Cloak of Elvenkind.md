@@ -5,7 +5,7 @@ While you wear this cloak, Wisdom (Perception) checks made to perceive you have 
 
 ---
 
-*Dungeon Master's Guide 5.5e 2024 p.244*
+*Dungeon Master's Guide 5.5e p.244*
 # Cloak of Elvenkind
 *Wondrous Item, Uncommon (Requires Attunement)*  
 While you wear this cloak, Wisdom (Perception) checks made to perceive you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks.
@@ -14,7 +14,7 @@ While you wear this cloak, Wisdom (Perception) checks made to perceive you have 
 
 ---
 
-*Dungeon Master's Guide 3.5e 2003 p.253*
+*Dungeon Master's Guide 3.5e p.253*
 # Cloak of Elvenkind
 This cloak of neutral gray cloth is indistinguishable from an ordinary cloak of the same color. However, when worn with the hood drawn up around the head, it gives the wearer a +5 competence bonus on Hide checks.  
 Faint illusion; CL 3rd; Craft Wondrous Item, invisibility, creator must be an elf; Price 2,500 gp; Weight 1 lb.

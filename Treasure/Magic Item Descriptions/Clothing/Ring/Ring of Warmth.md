@@ -6,7 +6,7 @@
 
 ---
 
-*Dungeon Master's Guide 5.5e 2024 p.296*
+*Dungeon Master's Guide 5.5e p.296*
 # Ring of Warmth
 *Ring, Uncommon (Requires Attunement)*  
 If you take Cold damage while wearing this ring, the ring reduces the damage you take by 2d8.  

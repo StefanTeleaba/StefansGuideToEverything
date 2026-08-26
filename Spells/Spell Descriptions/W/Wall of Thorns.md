@@ -1,4 +1,4 @@
-*Player's Handbook 5.5e 2024 p.339*
+*Player's Handbook 5.5e p.339*
 # Wall of Thorns
 *Level 6 Conjuration (Druid)*
 

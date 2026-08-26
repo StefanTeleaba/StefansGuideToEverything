@@ -1,4 +1,4 @@
-*Ravenloft: The Horrors Within 5.5e 2026 p.*
+*Ravenloft: The Horrors Within 5.5e p.*
 # Grave Domain
 *Embody Deific Forces of Death*  
 The Grave Domain concerns itself with the boundary between life and death. To those who tap into this domain’s power, death is a natural and inevitable part of the multiverse. Such Clerics seek to destroy undead and shepherd spirits.  
