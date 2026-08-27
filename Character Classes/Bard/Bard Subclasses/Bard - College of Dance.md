@@ -20,3 +20,7 @@ When you roll Initiative, you can expend one use of your Bardic Inspiration if y
 ## Level 14: Leading Evasion
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.  
 You can't use this feature if you have the Incapacitated condition.
+
+![College of Dance](https://5e.tools/img/classes/XPHB/Dance%20Bard.webp)
+
+---

@@ -1,0 +1,89 @@
+*PerfectlyCircularSeal*  
+*Shades the Mothman*  
+*Spaghetti0 Homebrew*
+# College of Creation
+*Use the World’s Song to manifest your own Creations*  
+Bards believe the cosmos is a work of art—the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation. The bards of the College of Creation draw on that primeval song through dance, music, and poetry, and their teachers share this lesson: “Before the sun and the moon, there was the Song, and its music awoke the first dawn. Its melodies so delighted the stones and trees that some of them gained a voice of their own. And now they sing too. Learn the Song, students, and you too can teach the mountains to sing and dance.”  
+Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat—the greatest of dragons—as two of the song’s first singers.
+
+## Level 3: Mote of Poteintial
+Whenever you give a creature a Bardic Inspiration die, you can utter a note from the Song of Creation to create a Tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.  
+When the creature uses the Bardic Inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:  
+***Ability Check.*** When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can roll the Bardic Inspiration die again and choose which roll to use, as the mote pops and emits colorful, harmless sparks for a moment.  
+***Attack Roll.*** Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll against a target, the mote thunderously shatters. The target and each creature of your choice that you can see within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take Thunder damage equal to the number rolled on the Bardic Inspiration die.  
+***Saving Throw.*** Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the mote vanishes with the sound of soft music, causing the creature to gain Temporary Hit Points equal to the number rolled on the Bardic Inspiration die plus your Charisma modifier (minimum of 1 Temporary Hit Point).
+
+## Level 3: Performance of Creation
+As a Magic action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 20 times your bard level, and the item must be Medium or smaller. The item glimmers softly, and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your Charisma modifier (minimum 1 hour). For examples of items you can create, see the equipment chapter of the Player’s Handbook.  
+Once you create an item with this feature, you can’t do so again until you finish a Long Rest, unless you expend a spell slot of level 2 or higher to use this feature again. You can have only one item created by this feature at a time; if you take this action and already have an item from this feature, the first one immediately vanishes.  
+The size of the item you can create with this feature increases by one size category when you reach level 6 (Large) and level 14 (Huge).
+
+## Level 6: Animating Performance
+As a Magic action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn’t being worn or carried. The animated item uses the Dancing Item stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 Hit Points, or until you die.  
+In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can Move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you have the Incapacitated condition, the item can take any action of its choice, not just Dodge.  
+When you use your Bardic Inspiration feature, you can command the item as part of the same Bonus Action you use for Bardic Inspiration. Once you animate an item with this feature, you can’t do so again until you finish a Long Rest, unless you expend a spell slot of level 3 or higher to restore your use of it (no action required). You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
+
+## Level 14: Creative Crescendo
+When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be Small or Tiny.  
+You are no longer limited by gp value when creating items with Performance of Creation.
+
+### Dancing Item
+*Large or smaller Construct*  
+
+**AC** 16 (natural armor)  
+**HP** 10 plus five times your Bard level  
+**Speed** 30 ft., Fly 30 ft. (Hover)
+
+|         |    | MOD | SAVE |
+|:-------:|:--:|:---:|:----:|
+| **STR** | 18 | +4  | +4   |
+| **DEX** | 14 | +2  | +2   |
+| **CON** | 16 | +3  | +3   |
+| **INT** | 4  | -3  | -3   |
+| **WIS** | 10 | +0  | +0   |
+| **CHA** | 6  | -2  | -2   |
+
+**Resistances** Poison, Psychic  
+**Condition Immunities** Charmed, Exhaustion, Poisoned, Frightened  
+**Senses** Darkvision 60 ft.; Passive Perception 10  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)
+
+**Traits**  
+***Immutable Form.*** The item is immune to any spell or effect that would alter its form.  
+***Irrepressible Dance.*** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the Speed of that creature by 10 feet until the end of the turn, provided the item isn’t Incapacitated.
+
+**Actions**  
+***Force-Empowered Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + your Charisma modifier Force damage.
+
+---
+
+*Tasha's Cauldron of Everything 5e p.27*
+# College of Creation
+Bards believe the cosmos is a work of art—the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation. The bards of the College of Creation draw on that primeval song through dance, music, and poetry, and their teachers share this lesson:  
+"Before the sun and the moon, there was the Song, and its music awoke the first dawn. Its melodies so delighted the stones and trees that some of them gained a voice of their own. And now they sing too. Learn the Song, students, and you too can teach the mountains to sing and dance."  
+Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat-the greatest of dragons-as two of the song's first singers.
+
+## Level 3: Mote of Potential
+Whenever you give a creature a Bardic Inspiration die, you can utter a note from the Song of Creation to create a Tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable, and it lasts until the Bardic Inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.  
+When the creature uses the Bardic Inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:  
+***Ability Check.*** When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can roll the Bardic Inspiration die again and choose which roll to use, as the mote pops and emits colorful, harmless sparks for a moment.  
+***Attack Roll.*** Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll against a target, the mote thunderously shatters. The target and each creature of your choice that you can see within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.  
+***Saving Throw.*** Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the mote vanishes with the sound of soft music, causing the creature to gain temporary hit points equal to the number rolled on the Bardic Inspiration die plus your Charisma modifier (minimum of 1 temporary hit point).
+
+## Level 3: Performance of Creation
+As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can't be more than 20 times your bard level, and the item must be Medium or smaller. The item glimmers softly, and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see the equipment chapter of the Player's Handbook.  
+Once you create an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.  
+The size of the item you can create with this feature increases by one size category when you reach 6th level (Large) and 14th level (Huge).
+
+## Level 6: Animating Performance
+As an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the Dancing Item stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.  
+In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just Dodge.  
+When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.  
+Once you animate an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
+
+## Level 14: Creative Crescendo
+When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be Small or Tiny.  
+You are no longer limited by gp value when creating items with Performance of Creation.
+
+---

@@ -25,3 +25,10 @@ You gain the ability to weave dark magic into your words and tap into a creature
 On a failed saving throw, the target has the Charmed condition for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.  
 The charmed creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend. When the effect ends, the creature has no understanding of why it held you in such fear.  
 Once you use this feature, you can’t use it again until you finish a Long Rest.
+
+---
+
+*Xanathar's Guide to Everything 5e p.16*
+# College of Whispers
+
+---

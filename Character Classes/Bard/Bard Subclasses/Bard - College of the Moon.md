@@ -22,12 +22,13 @@ You become suffused with the might of the moon, improving your Moon's Inspiratio
 ***Shadow of the New Moon.*** When you use Inspired Eclipse, the creature who received the Bardic Inspiration die can also have the Invisible condition and immediately take a Reaction to teleport up to 30 feet to an unoccupied space it can see. The creature remains Invisible until the start of its next turn.  
 ***Vibrance of the Full Moon.*** When you use Lunar Vitality, you can roll 1d6 and use the number rolled in place of expending a Bardic Inspiration die.
 
+![College of the Moon](https://5e.tools/img/classes/FRHoF/Moon%20Bard.webp)
+
 ---
 
-# College of the Moon
 *Unearthed Arcana: Forgotten Realms Subclasses*  
-*Published on January 28th, 2025.*  
-
+*Published on January 28th, 2025.*
+# College of the Moon
 *Inspire Allies with Primal Tales*
 The College of the Moon traces its origins to the ancient druidic circles of the Moonshae Isles, who entrusted the first Bards of this tradition with chronicling the stories of the islands and their people. Bards of this college draw from the isles’ Fey magic and the primal power of the moonwells to bolster their allies, protect the natural world, and inspire their bardic works. Such works tend to be based on well-known Moonshae myths such as the whimsy of fairy pranksters, the viciousness of the Beast, and the mysteries of the moonwells.
 
@@ -48,3 +49,5 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 ## Level 14: Bolstered Folktales
 The power of your Moonshae Folktales improves. When you use your Tale of Life or Tale of Mirth, you can roll 1d6 and use the number rolled in place of expending a Bardic Inspiration die, and when you use your Tale of Gloam, you can also teleport up to 30 feet to an unoccupied space you can see as part of that Bonus Action.
+
+---

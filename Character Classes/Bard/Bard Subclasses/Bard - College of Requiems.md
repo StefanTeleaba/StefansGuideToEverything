@@ -19,3 +19,5 @@ When an Undead creature under your control expends a Bardic Inspiration die on a
 ## Level 14: Dual Death
 When you cast a Necromancy spell that targets only one creature, you can have it target a second creature within range.  
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending one use of your Bardic Inspiration dice (no action required).
+
+---

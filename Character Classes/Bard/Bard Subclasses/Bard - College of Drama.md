@@ -26,3 +26,5 @@ When you cast Disguise Self using your One Life, Many Roles feature, you can tar
 ## Level 14: Grand Finale
 You gain the ability to deliver a stirring performance that spurs your companions to mighty deeds. As a Magic action, choose up to two other creatures within 60 feet that can see or hear you. Each of the chosen creatures can immediately take an action this turn.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

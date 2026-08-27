@@ -15,3 +15,12 @@ You always have the chosen spells prepared, and whenever you gain a Bard level, 
 
 ## Level 14: Peerless Skill
 When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.
+
+![College of Lore](https://5e.tools/img/classes/XPHB/Lore%20Bard.webp)
+
+---
+
+*Player's Handbook 5e p.54*
+# College of Lore
+
+---

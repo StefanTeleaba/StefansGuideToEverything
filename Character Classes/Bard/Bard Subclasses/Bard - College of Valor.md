@@ -18,3 +18,12 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 ## Level 14: Battle Magic
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
+
+![College of Valor](https://5e.tools/img/classes/XPHB/Valor%20Bard.webp)
+
+---
+
+*Player's Handbook 5e p.55*
+# College of Valor
+
+---

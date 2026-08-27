@@ -18,3 +18,5 @@ Starting at 6th level, you excel at inspiring and directing soldiers in battle. 
 ## Level 14: Master Commander
 Starting at 14th level, you unflaggingly maintain the spirits and discipline of your unit. During your turn, you can use Countercharm as a bonus action. When you start a Countercharm performance, if any creature that gains its benefit is currently charmed or frightened, it can immediately make another saving throw against the effect that imposed the condition.  
 In addition, when a creature that gains the benefit of your Countercharm performance makes an ability check or saving throw, it can roll a d4 and add the number rolled to the ability check or saving throw.
+
+---

@@ -42,10 +42,9 @@ You gain mastery over the spirits you call forth. Whenever you roll on the Spiri
 
 ---
 
-# College of Spirits
 *Unearthed Arcana 2025: Horror Subclasses*  
-*Published on May 6th, 2025.*  
-
+*Published on May 6th, 2025.*
+# College of Spirits
 *Call Forth Spirits from Beyond the Grave*  
 Using occult trappings, Bards of the College of Spirits conjure legendary and long-dead spirits to change the world once more. But such entities are capricious, and what a Bard summons isn’t always entirely under their control.
 
@@ -85,9 +84,14 @@ You gain mastery over the spirits you call forth. Whenever you roll on the Spiri
 
 ---
 
-# College of Spirits
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
+*Spaghetti0 Homebrew*
+# College of Spirits
 
+---
+
+*Van Richten's Guide to Ravenloft 5e p.28*
+# College of Spirits
+
+---

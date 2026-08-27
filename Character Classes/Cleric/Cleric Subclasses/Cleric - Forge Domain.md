@@ -29,3 +29,10 @@ Your mastery of the forge grants you special abilities. You have Resistance to F
 
 ## Level 17: Saint of Forge and Fire
 Your blessed affinity with fire and metal becomes more powerful. You have Immunity to Fire damage and while wearing metal armor, you have Resistance to Bludgeoning, Piercing, and Slashing damage.
+
+---
+
+*Xanathar's Guide to Everything 5e p.18*
+# Forge Domain
+
+---

@@ -34,12 +34,13 @@ Your deep connection to this domain renders you a hallowed harbinger of death, g
 ***Enhanced Necromancy.*** When you cast a spell of level 5 or lower from the Necromancy school that targets one creature, or when you cast a spell from the Grave Domain Spells table, you can expend a use of Channel Divinity to target a second creature within the spell’s range. If the spell requires costly or consumed Material components, you must provide Material components for each target.  
 ***Keeper of Souls.*** When an enemy dies within 60 feet of you, you or one creature you can see within 60 feet of yourself regains Hit Points equal to twice your Cleric level. You can’t use this feature if you have the Incapacitated condition. Once you use this feature, you can’t use it again until you finish a Short or Long Rest, unless you expend a level 6+ spell slot (no action required) to restore your use of it.
 
+![Grave Domain](https://5e.tools/img/classes/RHW/Grave%20Domain%20Cleric.webp)
+
 ---
 
-# Grave Domain
 *Unearthed Arcana 2025: Horror Subclasses*  
-*Published on May 6th, 2025.*  
-
+*Published on May 6th, 2025.*
+# Grave Domain
 *Embody Deific Forces of Death*
 The Grave Domain concerns itself with the boundary between life and death. To those who tap into this domain’s power, death is a foundational, natural, and inevitable part of the multiverse. Such Clerics seek to destroy Undead and strive to shepherd spirits to the afterlife (whether those spirits want to go or not).  
 The magic of this domain also allows these Clerics to stave off death for a time, particularly for those who still have some great work to accomplish in the world. But this is merely a delay of death, not a denial of it, for the grave will always claim its due.
@@ -75,18 +76,16 @@ Your deep connection to this domain renders you a hallowed harbinger of death, g
 
 ---
 
-# Grave Domain
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Grave Domain
 Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature’s death, though they refuse to use such magic to extend a creature’s lifespan beyond its mortal limits.
 
 ## Level 3: Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Grave Domain Spells table, you thereafter always have the listed spells prepared.
 
-### Grave Domain Spells
+**Grave Domain Spells**
 | Cleric Level | Spells                                               |
 |:------------:|------------------------------------------------------|
 | 3            | Bane, False Life, Gentle Repose, Ray of Enfeeblement |
@@ -107,3 +106,10 @@ You gain the ability to impede death’s progress. As a Reaction when you or an 
 
 ## Level 17: Keeper of Souls
 You can seize a trace of vitality from a parting soul and use it to heal the living. When a creature you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the creature’s number of Hit Dice. You can use this feature only if you don’t have the Incapacitated condition. Once you use it, you can't do so again until the start of your next turn.
+
+---
+
+*Xanathar's Guide to Everything 5e p.19*
+# Grave Domain
+
+---

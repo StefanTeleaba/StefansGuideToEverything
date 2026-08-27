@@ -50,3 +50,7 @@ When you roll Initiative, you regain expended uses of Bardic Inspiration until y
 
 ## Level 20: Words of Creation
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the Power Word Heal and Power Word Kill spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+
+![Bard](https://5e.tools/img/classes/XPHB/Bard.webp)
+
+---

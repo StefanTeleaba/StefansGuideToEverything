@@ -38,3 +38,5 @@ Additionally, your thoughts can't be read by telepathy or other means unless you
 
 ## Level 17: Sing the Song that Ends the World
 When a creature fails a Wisdom saving throw against your Prophecy of Doom feature, you can deal 10d10 Psychic damage to it. Once a creature takes damage in this way, it is immune to this effect for 10 minutes, after which it can be affected again.
+
+---

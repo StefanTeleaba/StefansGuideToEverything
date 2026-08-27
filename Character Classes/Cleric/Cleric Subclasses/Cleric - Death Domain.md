@@ -26,3 +26,10 @@ Your ability to channel negative energy becomes more potent. Necrotic damage dea
 
 ## Level 17: Improved Reaper
 When you cast a Necromancy spell that is level 5 or lower that targets only one creature, the spell can instead target two creatures within range and within 15 feet of each other. If the spell consumes its material components, you must provide them for both targets.
+
+---
+
+*Dungeon Master's Guide 5e p.96*
+# Death Domain
+
+---

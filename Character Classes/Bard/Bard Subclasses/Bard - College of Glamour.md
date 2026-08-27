@@ -20,3 +20,12 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 ## Level 14: Unbreakable Majesty
 As a Bonus Action, you can assume a magically majestic presence for 1 minute or until you have the Incapacitated condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.  
 Once you assume this majestic presence, you can't do so again until you finish a Short or Long Rest.
+
+![College of Glamour](https://5e.tools/img/classes/XPHB/Glamour%20Bard.webp)
+
+---
+
+*Xanathar's Guide to Everything 5e p.14*
+# College of Glamour
+
+---

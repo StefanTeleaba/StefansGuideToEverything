@@ -48,3 +48,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 ## Level 20: Greater Divine Intervention
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose Wish when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
+
+![Cleric](https://5e.tools/img/classes/XPHB/Cleric.webp)
+
+---

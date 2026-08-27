@@ -36,3 +36,5 @@ You can use your Channel Divinity to twist a creature's fate. As a Bonus Action,
 
 ## Level 17: Life Beyond Death
 When you or an ally within 120 feet of you is about to make a Death Saving Throw, you can expend a spell slot (no action required) to heal the target a number of Hit Points equal to ten times the level of the spell slot expended.
+
+---

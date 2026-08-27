@@ -34,3 +34,5 @@ When you take a Short Rest, you can shower your party with the congratulations o
 ***Firework Strike.*** Once before finishing a Long Rest, when the creature hits a target with an attack, it can subject the target to concentrated party energy, dealing an additional 4d10 Radiant damage and the target must succeed on a Constitution saving throw against your spell save DC or have the Blinded condition until the end of its next turn.  
 ***Spell Recovery.*** It rolls 1d6 and regains one expended spell slot of a level up to the number rolled.  
 Once you use this feature, you can’t use it again until you finish a Long Rest.
+
+---
