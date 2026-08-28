@@ -1,6 +1,5 @@
-# Sanguine Thief
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Sanguine Thief
 *Eliminate Your Prey with Blood Magic*  
 In dark alleyways across Etharis, deals are made in coin and blood, but a few enterprising Rogues have posed the question: "Why not both?" Sanguine Thieves are assassins who harness the power of Sangromancy to fuel their abilities, finding new and innovative ways to utilize the blood they see all too frequently in their line of work.  
 Sanguine Thieves learn to draw upon the vitae of their victims, extending their ability to use blood magic beyond the limits of their own vitality. When cornered, Sanguine Thieves can unleash this power in a hail of crimson darts or fade before a foe's blade, leaving nothing behind but a red mist.
@@ -38,3 +37,5 @@ Once you use this feature, you can't do so again until you finish a Short or Lon
 ## Level 17: Bloody Exit
 When a creature hits you with an attack roll, you can take a Reaction and spend 5 Hit Dice or Sangromancy Dice to turn into bloody mist. The attack automatically misses you, you can teleport up to 30 feet to an unoccupied space you can see, and you regain your normal form. As part of this Reaction, you can make an attack with a Melee weapon immediately after you teleport. On a hit, this attack deals an extra 5d8 Necrotic damage to the target.  
 Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+
+---

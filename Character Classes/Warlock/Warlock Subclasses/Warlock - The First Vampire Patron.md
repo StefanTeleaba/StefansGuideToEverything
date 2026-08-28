@@ -1,6 +1,5 @@
-# The First Vampire Patron
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# The First Vampire Patron
 *Wield the Power of Undeath*  
 You have made a pact with a powerful vampire cursed by the gods or born as a creature of the night. Hundreds of haunted beings serve this vampire, so why enter a pact with you? Because you can act in the light of day unhindered? To cull weaker vampires?
 
@@ -38,3 +37,5 @@ As a Bonus Action, you gain the following benefits for 1 minute:
 - When you use your Drain Life feature, you can deal an extra 1d8 Necrotic damage without expending a spell slot.
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

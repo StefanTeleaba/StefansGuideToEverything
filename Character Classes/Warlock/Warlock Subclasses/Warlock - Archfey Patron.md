@@ -1,14 +1,14 @@
+*Player's Handbook 5.5e p.159*
 # Archfey Patron
-*Player's Handbook 5.5e*  
-
 *Bargain with Whimsical Fey*  
 Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
 
 ## Level 3: Archfey Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.
-### Archfey Spells
+
+**Archfey Spells**
 | Warlock Level | Spells                                                          |
-|---------------|-----------------------------------------------------------------|
+|:-------------:|-----------------------------------------------------------------|
 | 3             | Calm Emotions, Faerie Fire, Misty Step, Phantasmal Force, Sleep |
 | 5             | Blink, Plant Growth                                             |
 | 7             | Dominate Beast, Greater Invisibility                            |
@@ -32,3 +32,7 @@ In addition, immediately after a creature you can see hits you with an attack ro
 
 ## Level 14: Bewitching Magic
 Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast Misty Step as part of the same action and without expending a spell slot.
+
+![Archfey Patron](https://5e.tools/img/classes/XPHB/Archfey%20Warlock.webp)
+
+---

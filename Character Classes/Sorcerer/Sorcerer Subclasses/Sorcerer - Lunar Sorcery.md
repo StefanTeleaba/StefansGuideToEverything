@@ -1,9 +1,7 @@
-# Lunar Sorcery
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Lunar Sorcery
 On many worlds, the moon is a revered celestial body with magical properties. On Krynn, the gods of magic are associated with the world’s three moons. On the world of Toril, the god Selûne uses the light of the moon to battle darkness. On Eberron, scholars of the Draconic Prophecy decipher ancient secrets from the waxing and waning of that world’s twelve moons.  
 You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells—perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.
 
@@ -11,7 +9,7 @@ You or someone from your lineage has been exposed to the concentrated magic of t
 Whenever you finish a Long Rest, you can choose what Lunar Phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon.  
 Your connection to your current Lunar Phase ensures you have certain spells ready; when you reach a Sorcerer level specified in the Lunar Spells table, you thereafter always have the spells listed under the column of your current Lunar Phase prepared.
 
-### Lunar Spells
+**Lunar Spells**
 | Sorcerer Level | Full Moon Spells           | New Moon Spells                      | Crescent Moon Spells    |
 |:--------------:|----------------------------|--------------------------------------|-------------------------|
 | 3              | Lesser Restoration, Shield | Blindness/ Deafness, Ray of Sickness | Alter Self, Color Spray |
@@ -47,3 +45,5 @@ As a Bonus Action, you can tap into a special power of your current Lunar Embodi
 ***New Moon.*** You momentarily emanate gloom. Each creature of your choice 30 foot Emanation from you must succeed on a Dexterity saving throw against your spell save DC or take 3d10 Necrotic damage and have its Speed reduced to 0 until the end of its next turn. In addition, you have the Invisible condition until the end of your next turn, or until immediately after you make an attack roll or cast a spell.  
 ***Crescent Moon.*** You can magically Teleport to an unoccupied space you can see within 60 feet of yourself. You can bring along one willing creature you can see within 5 feet of yourself. That creature Teleports to an unoccupied space of your choice that you can see within 5 feet of your destination space. In addition, you and that creature have Resistance to all damage until the start of your next turn.  
 Once you use one of these benefits, you can’t use that benefit again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again.
+
+---

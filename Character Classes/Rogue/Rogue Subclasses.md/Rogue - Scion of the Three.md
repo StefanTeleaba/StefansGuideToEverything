@@ -28,12 +28,13 @@ You gain the following benefits.
 ***Cutthroat.*** You regain one expended use of Bloodthirst when you finish a Short Rest.  
 ***Murderous Intent.*** When you roll for your Sneak Attack damage, you can treat a roll of a 1 or 2 on the die as a 3.
 
+![Scion of the Three](https://5e.tools/img/classes/FRHoF/Scion%20of%20the%20Three%20Rogue.webp)
+
 ---
 
-# Scion of the Three
 *Unearthed Arcana: Forgotten Realms Subclasses*  
-*Published on January 28th, 2025.*  
-
+*Published on January 28th, 2025.*
+# Scion of the Three
 *Become a Gruesome Agent of Malice*  
 A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: Bane, deity of tyranny; Bhaal, deity of violence and murder; and Myrkul, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.  
 Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to Bane, Bhaal, and Myrkul often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
@@ -63,7 +64,5 @@ Damage dealt by this aura ignores Resistance. The aura is inactive while you hav
 You gain the following benefits.  
 ***Battle Tyrant.*** You have Advantage on attack rolls against any creature with the Frightened condition.  
 ***Murderous Intent.*** When you roll for your Sneak Attack damage, you can treat a roll of a 1 or 2 on the die as a 3.
-
-![Scion of the Three](https://5e.tools/img/classes/FRHoF/Scion%20of%20the%20Three%20Rogue.webp)
 
 ---

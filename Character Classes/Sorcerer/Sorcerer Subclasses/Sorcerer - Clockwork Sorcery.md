@@ -1,14 +1,14 @@
+*Player's Handbook 5.5e p.146*
 # Clockwork Sorcery
-*Player's Handbook 5.5e*  
-
 *Channel Cosmic Forces of Order*  
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
 
 ## Level 3: Clockwork Spells
 When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.
-#### Clockwork Spells
+
+**Clockwork Spells**
 | Sorcerer Level | Spells                                                        |
-|----------------|---------------------------------------------------------------|
+|:--------------:|---------------------------------------------------------------|
 | 3              | Aid, Alarm, Lesser Restoration, Protection from Evil and Good |
 | 5              | Dispel Magic, Protection from Energy                          |
 | 7              | Freedom of Movement, Summon Construct                         |
@@ -31,3 +31,7 @@ You momentarily summon spirits of order to expunge disorder around you. As a Mag
 ***Heal.*** The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.  
 ***Repair.*** Any damaged objects entirely in the Cube are repaired instantly.  
 ***Dispel.*** Every spell of level 6 and lower ends on creatures and objects of your choice in the Cube.
+
+![Clockwork Sorcery](https://5e.tools/img/classes/XPHB/Clockwork%20Sorcerer.webp)
+
+---

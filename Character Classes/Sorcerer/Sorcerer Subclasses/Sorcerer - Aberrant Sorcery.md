@@ -1,15 +1,15 @@
+*Player's Handbook 5.5e p.145*
 # Aberrant Sorcery
-*Player's Handbook 5.5e*  
-
 *Wield Unnatural Psionic Power*  
 An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?  
 Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.
 
 ## Level 3: Psionic Spells
 When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.
-#### Psionic Spells
+
+**Psionic Spells**
 | Sorcerer Level | Spells                                                                         |
-|----------------|--------------------------------------------------------------------------------|
+|:--------------:|--------------------------------------------------------------------------------|
 | 3              | Arms of Hadar, Calm Emotions, Detect Thoughts, Dissonant Whispers, Mind Sliver |
 | 5              | Hunger of Hadar, Sending                                                       |
 | 7              | Evard's Black Tentacles, Summon Aberration                                     |
@@ -17,7 +17,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 ## Level 3: Telepathic Speech
 You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.  
-The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.s
+The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.
 
 ## Level 6: Psionic Sorcery
 When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
@@ -35,3 +35,7 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 ## Level 18: Warping Implosion
 You can unleash a space-warping anomaly. As a Magic action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an un- occupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.  
 Once you use this feature, you can't do so again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+
+![Abberant Sorcery](https://5e.tools/img/classes/XPHB/Aberrant%20Sorcerer.webp)
+
+---

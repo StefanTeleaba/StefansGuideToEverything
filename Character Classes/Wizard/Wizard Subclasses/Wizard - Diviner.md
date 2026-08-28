@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.173* 
 # Diviner
-*Player's Handbook 5.5e*  
-
 *Learn the Secrets of the Multiverse*  
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to mas- ter spells of discernment, remote viewing, supernat- ural knowledge, and foresight.
 
@@ -22,3 +21,7 @@ You can increase your powers of perception. As a Bonus Action, choose one of the
 
 ## Level 14: Greater Portent
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
+
+![Diviner](https://5e.tools/img/classes/XPHB/Diviner%20Wizard.webp)
+
+---

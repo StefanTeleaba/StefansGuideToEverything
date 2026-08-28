@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.149*
 # Wild Magic Sorcery
-*Player's Handbook 5.5e*  
-
 *Unleash Chaotic Magic*  
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.
 
@@ -21,3 +20,7 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 ## Level 18: Tamed Surge
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.  
 Once you use this feature, you can't do so again until you finish a Long Rest.
+
+![Wild Magic Sorcery](https://5e.tools/img/classes/XPHB/Wild%20Magic%20Sorcerer.webp)
+
+---

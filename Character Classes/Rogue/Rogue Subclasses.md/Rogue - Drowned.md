@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *Published on April 26th, 2026.*  
 [*Created by Joe Bushi*](https://bio.site/spaghetti0)
-
 # Drowned
 *Death is just Deeper Water.*  
 Not everything that drowns stays dead. Some return not as ghosts, but as something colder and more deliberate. The Drowned move through the world like a current: patient, purposeful, and impossible to stop. Where they walk, the air tastes of brine and the temperature drops a degree, and creatures with good instincts feel the sudden, irrational urge to look behind them. The sea gave them back for a reason, and they intend to see that reason through — whatever it costs, whoever stands in the way.

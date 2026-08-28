@@ -1,6 +1,5 @@
-# Highway Rider
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Highway Rider
 *A Steed Makes the Best Partner in Crime*  
 Stalking the backroads, the Highway Rider strikes fear into the heart of every traveler and penny-pinching merchant. They run down their prize astride a swift and loyal steed—and then make a quick getaway.
 
@@ -27,3 +26,5 @@ You gain proficiency in Constitution saving throws. In addition, when you are su
 
 ## Level 17: Desperado
 When you are reduced to 0 Hit Points and not killed outright, you can use your Hair Trigger feature immediately before you fall Unconscious.
+
+---

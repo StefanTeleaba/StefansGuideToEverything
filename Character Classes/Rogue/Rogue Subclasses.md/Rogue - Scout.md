@@ -1,9 +1,7 @@
-# Scout
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Scout
 You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts assume as they range the world.
 
 ## Level 3: Skirmisher
@@ -23,3 +21,5 @@ You excel at leading ambushes and acting first in a fight. You have Advantage on
 
 ## Level 17: Sudden Strike
 You can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a Bonus Action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can’t use your Sneak Attack against the same target more than once in a turn.
+
+---

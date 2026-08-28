@@ -105,3 +105,5 @@ Your Abyssal powers reach their full potential. You gain the following benefits.
 
 ## Level 18: Fiendish Servant
 You can cast *Summon Fiend* without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest. When you cast it in this way, you must choose Demon for the summoned Fiend’s type.
+
+---

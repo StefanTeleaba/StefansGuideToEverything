@@ -2,7 +2,6 @@
 *Published on February 6th, 2017.*  
 *Modified*  
 # Phoenix Sorcery
-
 Your power draws from the immortal flame that fuels the legendary phoenix. You or your ancestors perhaps rendered a phoenix a great service, or you were born in its presence. Whatever the cause, a shard of the phoenix’s power dwells within you.  
 That power is a mixed blessing. Like the mythical creature, you can invoke fiery energy and gain the ability to cheat death itself. This power comes at a cost. The fire within you seethes, demanding to be unleashed. You sometimes find yourself absentmindedly feeding fires. You can’t bear to allow a fire to sputter out. You feel most comfortable while holding a lit torch or sitting in front of a campfire.  
 More importantly, this gift comes with no special protection from fire. You are as vulnerable as any other creature to fiery magic, including your own. Phoenix sorcerers can use their powers to pull themselves back from the brink of death, and all too often their own, rash nature or reliance on destructive magic is what puts them there in the first place.  
@@ -41,3 +40,5 @@ You finally master the spark of fire that dances within you. When you activate y
 - You have a Fly Speed of 60 feet.
 - You have Resistance to all damage.
 - If you use your Phoenix Spark feature, each creature of your choice that is within 30 feet of you instead takes Fire damage equal to three times your Sorcerer level.
+
+---

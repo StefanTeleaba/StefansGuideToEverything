@@ -1,6 +1,5 @@
-# Hellbinder
 [*Created by PerfectlyCircularSeal*](https://bio.site/spaghetti0)
-
+# Hellbinder
 *You Made A Deal A Devil Couldn’t Refuse*  
 You have learned the art of the devilish deals. Through infernal means, you have recruited a true devil as your right hand in all manner of antics. Channeling the power of the Nine Hells, you use any means necessary to get what you want.
 
@@ -59,16 +58,16 @@ You place your infernal clauses on whoever you hurt. You gain the following Cunn
 **Languages** Common, Infernal  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
-**Devious Duo.** While you are within 15 feet of your Devilish Subordinate you can add 1d4 to the result of any ability check you make using Charisma.  
-**Tutelage.** The devil shares all of your skill and saving throw profi ciencies.
+**Traits**  
+***Devious Duo.*** While you are within 15 feet of your Devilish Subordinate you can add 1d4 to the result of any ability check you make using Charisma.  
+***Tutelage.*** The devil shares all of your skill and saving throw profi ciencies.
 
-#### Actions
-**Brand.** *Melee Attack Roll:* PB plus your Charisma modifier, reach 5 ft. *Hit:* 1d6 + 3 + your Charisma modifier Fire, Piercing or Poison damage (your choice each time it makes the attack).  
-**Shape-Shift.** The devil shape-shifts to resemble a Small or Medium Humanoid (your choice of species), or it returns to its true form. Its statistics are the same in each form.
+**Actions**  
+***Brand.*** *Melee Attack Roll:* PB plus your Charisma modifier, reach 5 ft. *Hit:* 1d6 + 3 + your Charisma modifier Fire, Piercing or Poison damage (your choice each time it makes the attack).  
+***Shape-Shift.*** The devil shape-shifts to resemble a Small or Medium Humanoid (your choice of species), or it returns to its true form. Its statistics are the same in each form.
 
-#### Bonus Actions
-**Infernal Toolset.** The devil teleports one item of your choice that you are holding or have on your person into its hands, provided it is on the same plane of existence as you. After 10 minutes, the item reappears in an unoccupied space within 5 feet of you.  
-**Sly Action.** The devil takes the Dash, Disengage, or Hide action (your choice).
+**Bonus Actions**  
+***Infernal Toolset.*** The devil teleports one item of your choice that you are holding or have on your person into its hands, provided it is on the same plane of existence as you. After 10 minutes, the item reappears in an unoccupied space within 5 feet of you.  
+***Sly Action.*** The devil takes the Dash, Disengage, or Hide action (your choice).
 
 ---

@@ -1,9 +1,7 @@
-# Mastermind
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Mastermind
 Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.
 
 ## Level 3: Master of Intrigue
@@ -30,3 +28,5 @@ Your keen mind is not easily influenced.
 ***Mastery Over Mind.*** You have Advantage on Charisma, Intelligence and Wisdom saving throws. If you succeed on a saving throw using one of these abilities, you can cause the creature that forced you to make the saving throw to take Psychic damage equal to your Rogue level. Once you deal this damage, you cannot do so again until the start of your next turn.  
 ***False Thoughts.*** Your thoughts can't be read by Telepathy or other means, unless you allow it. You can present false thoughts to a creature attempting to read your mind.  
 ***Hidden Truth.*** No matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
+
+---

@@ -1,8 +1,6 @@
-# Shadow Stalker
 *Cthulhu by Torchlight 5.5e*
-
-*“Some folk keep to the shadows. I bring them with me wherever I go.” — Kulden*
-
+# Shadow Stalker
+*“Some folk keep to the shadows. I bring them with me wherever I go.” — Kulden*  
 *Rogues are at home in the shadows, slipping into the darkness to evade their enemies, strike down unsuspecting foes, or carry off great treasures. Some Rogues feel a strange presence when they slip into the darkness, whispers at the edge of their hearing.*  
 *These Rogues hear the call of the shadow, and they are fated to become bound. The darkness can sense a void in a creature's heart, a yearning that can never be filled. Or perhaps it can. The shadows reach out with a simple offer: yield something of your past and open a path to a future where your empty heart is filled. Those who hear this offer are doomed to accept it, and they are doomed to regret it. Yet, the shadow chooses its partners carefully, knowing that those marked for its bargain can't resist.*
 
@@ -27,3 +25,5 @@ Your Shadowy Reflection gains the ability to become a deadly clone of you. As a 
 For 1 hour, your Shadowy Reflection becomes substantial, and you can have it take the Attack, Hide, or Utilize action by controlling it with your Shadowy Reflection feature. Its Attack action uses your game statistics, including class features, feats, and weapons. It vanishes when reduced to 0 Hit Points.  
 When you make an attack roll against a creature within 5 feet of the duplicate, the attack roll has Advantage.  
 Once you use this feature, you can't do so again until you finish a Long Rest.
+
+---

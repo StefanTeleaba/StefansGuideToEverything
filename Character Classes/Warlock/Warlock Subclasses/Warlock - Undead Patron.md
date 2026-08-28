@@ -1,5 +1,4 @@
 *Ravenloft: The Horrors Within 5.5e p.*
-
 # Undead Patron
 *Defy Death for Profane Power*  
 You’ve made a pact with a creature that defies the cycle of life and death: a powerful lich, a vampire, or another entity of undeath. Having once been mortal, these ancient patrons know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge and other secrets with those who work their will among the living.
@@ -42,11 +41,12 @@ Your Form of Dread improves, granting you the following benefits while you are u
 ***Ghostly Flight.*** You have a Fly Speed equal to your Speed and can hover. You can move through creatures and objects as if they were Difficult Terrain, but you take 1d10 Force damage if you end your turn inside a creature or an object.  
 ***Profane Casting.*** Whenever you cast a Warlock spell from the Conjuration or Necromancy school, you cast it without any Verbal, Somatic, or Material components, except Material components that are costly or consumed.
 
+![Undead Patron](https://5e.tools/img/classes/RHW/Undead%20Patron%20Warlock.webp)
+
 ---
 
 *Unearthed Arcana 2025: Horror Subclasses*  
 *Published on May 6th, 2025.*
-
 # Undead Patron
 *Defy Death for Profane Power*  
 You’ve made a pact with a creature that defies the cycle of life and death: a powerful lich, vampire, or other entity of undeath. Having once been mortal themselves, these ancient patrons know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.
@@ -90,7 +90,6 @@ Your Form of Dread improves, granting you the following benefits while you are u
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*
-
 # Undead Patron
 You’ve made a pact with a deathless being, a creature that defies the cycle and life and death, forsaking its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life’s hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.  
 Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bloody-Handed, the githyanki lich-queen Vlaakith, the dracolich Dragotha, the undead pharaoh Ankhtepot, and the elusive Darklord, Azalin Rex.
@@ -98,7 +97,7 @@ Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bl
 ## Level 3: Patron Spells
 The magic of your otherworldly patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Undead Spells table, you thereafter always have the listed spells prepared.
 
-### Undead Spells
+**Undead Spells**
 | Warlock Level | Spells                                                 |
 |:-------------:|--------------------------------------------------------|
 | 3             | Bane, Blindness/Deafness, False Life, Phantasmal Force |

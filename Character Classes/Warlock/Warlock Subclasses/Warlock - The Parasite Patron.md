@@ -1,6 +1,5 @@
-# The Parasite Patron
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# The Parasite Patron
 *Become One with a Cosmic Being*  
 Your patron is a cosmic parasite, draining the vitality of entire peoples and worlds. Upon forging a pact with such a patron, you become host to one of its nascent offspring. As you grow in power, the boundary between your identity and the parasitic larva within blurs.
 
@@ -30,3 +29,5 @@ When you die, a larval parasite bursts from your corpse. You control the parasit
 On each of the creature's subsequent turns, it can use its action to make a Constitution saving throw against your Warlock spell save DC. If the creature succeeds, the parasite is ejected from its body and into an unoccupied space of the creature's choice within 5 feet of it. If the parasite is burrowed inside the creature when the creature's turn ends, the creature takes Necrotic damage equal to twice your Warlock level. If this damage reduces the creature to 0 Hit Points, it immediately dies, the parasite disappears, and you take over the body of the Humanoid as if you had been targeted by the Reincarnate spell and rolled the species the Humanoid had been.  
 If you are returned to life, such as by the Revivify spell, your parasite immediately disappears.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

@@ -1,14 +1,14 @@
+*Player's Handbook 5.5e p.162*
 # Great Old One Patron
-*Player's Handbook 5.5e*  
-
 *Unearth Forbidden Lore of Ineffable Beings*  
 When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
 
 ## Level 3: Great Old One Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.
-### Great Old One Spells
+
+**Great Old One Spells**
 | Warlock Level | Spells                                                                          |
-|---------------|---------------------------------------------------------------------------------|
+|:-------------:|---------------------------------------------------------------------------------|
 | 3             | Detect Thoughts, Dissonant Whispers, Phantasmal Force, Tasha's Hideous Laughter |
 | 5             | Clairvoyance, Hunger of Hadar                                                   |
 | 7             | Confusion, Summon Aberration                                                    |
@@ -34,3 +34,7 @@ Your thoughts can't be read by telepathy or other means unless you allow it. You
 ## Level 14: Create Thrall
 When you cast Summon Aberration, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.  
 In addition, the first time each turn the Aberration hits a creature under the effect of your Hex, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+
+![Great Old One Patron](https://5e.tools/img/classes/XPHB/Great%20Old%20One%20Warlock.webp)
+
+---

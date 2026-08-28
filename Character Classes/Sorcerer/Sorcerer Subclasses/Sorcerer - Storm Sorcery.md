@@ -1,16 +1,14 @@
-# Storm Sorcery
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Storm Sorcery
 Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as vaati or djinn. Whatever the case, the magic of the storm permeates your being.  
 Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.
 
 ## Level 3: Storm Magic
 Your connection to the storm ensures you always have certain spells ready; when you reach a Sorcerer level specified in the Storm Spells table, you thereafter always have the listed spells prepared.
 
-### Storm Spells
+**Storm Spells**
 | Sorcerer Level | Spells                                             |
 |:--------------:|----------------------------------------------------|
 | 3              | Fog Cloud, Gust of Wind, Thunderwave, Warding Wind |
@@ -41,3 +39,5 @@ Whenever you use your Storm Within feature, you can spend 2 Sorcery Points to ga
 The storm inside of you becomes more powerful.  
 ***One with the Storm.*** You have immunity to Lightning and Thunder damage and you have a Fly Speed of 60 feet.  
 ***Blessing of the Tempest.*** As a Magic action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
+
+---

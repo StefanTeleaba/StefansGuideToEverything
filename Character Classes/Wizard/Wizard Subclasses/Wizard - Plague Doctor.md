@@ -1,6 +1,5 @@
-# Plague Doctor
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Plague Doctor
 *Plague Your Enemies with Magical Concoctions*  
 Blending spellcasting with science, you distill your magic into concoctions that harm or heal. Plague Doctors often wear grotesque masks protecting them from their toxic ingredients. Many fearfully regard the mask as a sign of pestilence, making Plague Doctors a source of both hope and trepidation.
 
@@ -30,3 +29,5 @@ Being persistently exposed to the deadliest ailments known has given you some sm
 ## Level 14: Medicinal Master
 When Good Medicine restores Hit Points to a creature, that creature regains 2d8 additional Hit Points.  
 When Bad Medicine deals Acid damage to a creature, that creature takes 2d8 extra Acid damage. Additionally, target creatures have Disadvantage on their saving throw.
+
+---

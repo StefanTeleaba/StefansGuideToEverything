@@ -1,3 +1,28 @@
+*Spaghetti0*
+# Guardian of Nature
+*Level 4 Transmutation (Druid, Ranger)*
+
+**Casting Time:** Bonus Action  
+**Range:** Self  
+**Components:** V  
+**Duration:** Concentration, up to 1 minute
+
+A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.
+
+**Primal Beast.** Bestial fur covers your body, your facial features become feral, and you gain the following benefits.
+- Your Speed increases by 10 feet, and the distance you can jump with a Standing High or Long Jump increases to 20 feet, unless it was already higher.
+- You have Darkvision with a range of 120 feet.
+- You make Strength- and Wisdom-based attack rolls with Advantage.
+- Your melee attacks deal an extra 1d6 Force damage on a hit.
+
+**Great Tree.** Your skin appears barky, leaves sprout from your hair, and you gain the following benefits.
+- You gain 15 Temporary Hit Points.
+- You make Constitution saving throws with Advantage.
+- You make Dexterity- and Wisdom-based attack rolls with advantage.
+- While you are on the ground, the ground within 15 feet of you is Difficult Terrain for your enemies.
+
+---
+
 *Xanathar's Guide to Everything 5e p.157*
 # Guardian of Nature
 *Level 4 Transmutation (Druid, Ranger)*

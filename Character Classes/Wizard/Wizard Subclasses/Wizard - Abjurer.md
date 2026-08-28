@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.172*
 # Abjurer
-*Player's Handbook 5.5e*  
-
 *Shield Companions and Banish Foes*  
 Your study of magic is focused on spells that block, banish, or protect-ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.
 
@@ -22,3 +21,7 @@ When you cast either spell with a spell slot, that slot isn't expended if the sp
 
 ## Level 14: Spell Resistance
 You have Advantage on saving throws against spells, and you have Resistance to the damage of spells.
+
+![Abjurer](https://5e.tools/img/classes/XPHB/Abjurer%20Wizard.webp)
+
+---

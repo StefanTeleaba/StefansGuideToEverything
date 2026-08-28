@@ -1,8 +1,6 @@
-# Arachnoid Stalker
 *Valda's Spire of Secrets: Player Pack*
-
-*Sling Webs and Crawl Walls*
-
+# Arachnoid Stalker
+*Sling Webs and Crawl Walls*  
 *A life-changing event, such as being cursed by a drider or being bitten by a dangerously transmuted arachnid, has imbued you with the abilities of a spider. This transformation might have left you physically unchanged, or you may have developed a half-dozen eyes, lanky and hairy limbs, or a set of inhuman mandibles. Whatever the side effects, you can now produce deadly poison and ropes of silken web from your palms, and even scale walls with your fingertips.*
 
 ## Level 3: Webbing
@@ -27,3 +25,5 @@ When you make a saving throw and take damage, you can take a Reaction to use you
 ## Level 17: Paralytic Venom
 You gain the following Cunning Strike option.  
 ***Paralyze (Cost: 4d6).*** When you deal Poison damage with your Venomous Strike, the target must succeed on a Constitution saving throw or have the Paralyzed condition until the end of your next turn.
+
+---

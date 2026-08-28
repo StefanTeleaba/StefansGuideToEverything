@@ -1,8 +1,6 @@
-# Exalted Assembly of the Feline Court
 *Cthulhu by Torchlight 5.5e*
-
-*“If man could be crossed with a cat, it would improve man but deteriorate the cat.” — Mark Twain*
-
+# Exalted Assembly of the Feline Court
+*“If man could be crossed with a cat, it would improve man but deteriorate the cat.” — Mark Twain*  
 *The entities of the Cthulhu Mythos have many enemies. Not all who learn of these terrible creatures fall victim to their promises of forbidden power. Across the cosmos, a grand conspiracy consisting of the most unlikely of creatures.*  
 *A court of intelligent house cats seek to protect the world from the Mythos. Hailing from across planes, worlds, and planets, they use magic and manipulation to ensure that their centuries of work domesticating humans remains uninterrupted. For all their skill at providing food, warmth, and shelter, humans are all too prone to corruption, meddling in powers far beyond their grasp. All it takes is one fool with a forbidden book and generations of work crumbles as yet another human civilization falls to dust.*  
 *The Exalted Assembly of the Feline Court coordinates efforts to sustain and protect their servants. They forge magical pact with those who show the right mix of cunning, bravery, and etiquette.*
@@ -48,3 +46,5 @@ You regain all expended lives when you finish a Long Rest.
 ## Level 14: Summon the Courtiers
 Having served the Feline Assembly with grace, tact, and good taste, you have earned their favor. When you take damage from a creature that is within 60 feet of you, you can take a Reaction to call upon the Assembly's wrath. A horde of hissing, spectral cats emerges from the planar firmament and descends upon the creature that damaged you. That creature takes 5d10 Force damage and has the Blinded and Prone conditions until the end of your next turn.  
 Once you use this feature, you can't use it again until you finish a Long Rest unless you spend a Pact Magic spell slot (no action required) to restore your use of it.
+
+---

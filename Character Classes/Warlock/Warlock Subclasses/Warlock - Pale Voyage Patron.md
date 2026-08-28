@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *Published on April 26th, 2026.*  
 [*Created by Joe Bushi*](https://bio.site/spaghetti0)
-
 # Pale Voyage Patron
 *A Soul Lined with Seasalt*  
 Your pact draws on the deep waters and the dead tides, the realms of the unmoored and the unclaimed. You have bargained with a ghost shipan ancient, crewless vessel that sails beyond every chart and every known current, older than any navy and answerable to nothing. You are its agent on shore. Its aims are not evil in the way of demons or devils; it does not hunger for your corruption or your destruction- instead, it yearns for a captain worthy enough to command it, and will test your mettle every step of the way.

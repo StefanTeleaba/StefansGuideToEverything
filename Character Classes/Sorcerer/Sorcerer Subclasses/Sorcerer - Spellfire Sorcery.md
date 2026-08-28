@@ -1,6 +1,5 @@
+*Forgotten Realms: Heroes of Faerun 5.5e p.24*
 # Spellfire Sorcery
-*Forgotten Realms: Heroes of Faerun 5.5e*
-
 *Wield Raw Magic*  
 Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.  
 Wielders of spellfire tend to have a penchant for wandering. Many travel between cosmopolitan settlements, such as those along the Sword Coast, and wield their magic in service of the common good. Others realize their own strange powers by roaming equally strange lands, from the magic-blasted wastes of the desert of Anauroch to the god-touched wilds of the Old Empires. Wherever they go in the Realms, spellfire Sorcerers are courted by factions with interests in the arcane arts, such as the Harpers, Cult of the Dragon, and Red Wizards.
@@ -32,12 +31,13 @@ When you use Innate Sorcery, you can alter it and infuse yourself with the essen
 ***Flight.*** You gain a Fly Speed of 60 feet and can hover.  
 ***Spell Avoidance.*** When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the Incapacitated condition.
 
+![Spellfire Sorcery](https://5e.tools/img/classes/FRHoF/Spellfire%20Sorcerer.webp)
+
 ---
 
-# Spellfire Sorcery
 *Unearthed Arcana: Forgotten Realms Subclasses*  
-*Published on January 28th, 2025.*  
-
+*Published on January 28th, 2025.*
+# Spellfire Sorcery
 *Radiate Raw Magic Potential*  
 Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.  
 Wielders of spellfire tend to be adventurous souls with penchants for wandering. Many travel between cosmopolitan settlements, such as those along the Sword Coast, and wield their magic in service of the common good. Others prioritize the realization of their own strange powers by roaming equally strange lands, from the magic-blasted wastes of the Anauroch Desert to the god-touched wilds of the Old Empires. Wherever they go in the Realms, spellfire Sorcerers are often courted by factions with interests in the arcane arts, such as the Harpers and the Cult of the Dragon.
@@ -70,3 +70,5 @@ As a Bonus Action, you gain the following benefits for 1 minute. Once you use th
 ***Burning Life Force.*** Once per turn when you are hit by an attack roll, you can expend a number of Hit Dice, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice and reduce the amount of damage from that attack equal to the total rolled plus your Sorcerer level.  
 ***Flight.*** You gain a Fly Speed of 60 feet and can hover.  
 ***Spell Avoidance.*** When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the Incapacitated condition.
+
+---

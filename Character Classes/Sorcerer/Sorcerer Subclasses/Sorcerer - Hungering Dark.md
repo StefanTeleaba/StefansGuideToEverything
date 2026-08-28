@@ -1,11 +1,9 @@
-# Hungering Dark
 *Cthulhu by Torchlight 5.5e*
-
-*“When you tell us to fear the dark, it isn't to protect us, but to keep us under control.” — Veldeth, Scion of Midnight*
-
-*When Sorcerers first manifest their abilities, they sometimes describe the experience as a slumbering portion of their identity awakening, a sudden understanding of their true nature.*  
-*Other Sorcerers aren't so fortunate. The magic within claws at their souls and pushes at their mind. It is like a hungry beast, always ravenous, never satisfied despite desperate efforts. These poor spellcasters are living gateways to a realm of darkness and gloom, a place said to serve as the source of all undead.*  
-*Sorcerers of the Hungering Dark are conflicted victims of their own power. They wield mighty spells, but, by using their magic, they create a bridge that allows horrid creatures to step into this world, even if for only a moment.*
+# Hungering Dark
+“When you tell us to fear the dark, it isn't to protect us, but to keep us under control.” — Veldeth, Scion of Midnight  
+When Sorcerers first manifest their abilities, they sometimes describe the experience as a slumbering portion of their identity awakening, a sudden understanding of their true nature.  
+Other Sorcerers aren't so fortunate. The magic within claws at their souls and pushes at their mind. It is like a hungry beast, always ravenous, never satisfied despite desperate efforts. These poor spellcasters are living gateways to a realm of darkness and gloom, a place said to serve as the source of all undead.  
+Sorcerers of the Hungering Dark are conflicted victims of their own power. They wield mighty spells, but, by using their magic, they create a bridge that allows horrid creatures to step into this world, even if for only a moment.
 
 ## Level 3: Innate Darkness Spells
 When you reach a Sorcerer level specified in the Innate Darkness Spells table, you thereafter always have the listed spells prepared.  
@@ -28,3 +26,5 @@ When you cast any spell from your Innate Darkness feature that creates an area o
 
 ## Level 18: One with Darkness
 The darkness within you roils with hunger and transforms you. You exist in a shadowy state between reality and darkness. On your turn, you have the Invisible condition and can't be perceived by Truesight or Blindsight. You can teleport up to 30 feet to an unoccupied space you can see but only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
+
+---

@@ -1,8 +1,7 @@
-# Sea Sorcery
 *Unearthed Arcana: Sorcerer*  
 *Published on February 6th, 2017.*  
-*Modified by Stefan*  
-
+*Modified*  
+# Sea Sorcery
 The power of water is the strength of flexibility, resilience, and a relentless nature. Water parts to allow a ship to sail over it or a diver to plunge into it, but their passing leaves no mark. Water flowing down a mountain reaches the sea. It might bend and turn across valleys and down hillsides, but it slowly and steadily returns to the waves. Those whose souls are touched by the power of elemental water command a similar power.  
 Your heritage ties to powerful creatures of the sea, such as nereids, the lords of the merfolk, and elemental powers. Like a river, you feel the call of the ocean. The call is ever present in your heart, and you are never completely at peace until you are near the sea.
 
@@ -41,3 +40,5 @@ Your being is altered by the power of the sea. You gain the following benefits.
 - Forgoing food and drink doesn't give you levels of Exhaustion.  
 - Any Critical Hit against you becomes a normal hit.  
 - You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
+
+---

@@ -1,6 +1,5 @@
-# Apocalypse Sorcery
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Apocalypse Sorcery
 *Hasten or Stall the End of the World*  
 Apocalypse Sorcerers have seen the shape of things to come. They may have visions of the Great Beast ushering in the end of Etharis or dreams of Gormadraug waking and devouring the land.  
 These prophecies besiege Apocalypse Sorcerers, plaguing and empowering in equal measure. Some find relief in putting these revelations into writing, producing texts that read as incoherent but slowly seep into the mind as sensible, even inevitable. When the apocalypse-bringer is freed to travel across Etharis unburdened, undoing the works of gods and men, magic will swell and pool, ripe for the taking. This sign of the end is also their gift.
@@ -38,3 +37,5 @@ The end of Etharis is a time when magic is unbound and magical powers long hidde
 ## Level 18: The End is Nigh
 You loudly proclaim what will come to pass when the world ends. As a Magic action, you describe the end of days. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw against your spell save DC. On a failed save, a creature takes 6d6 Psychic damage and 6d6 Force damage and has the Frightened condition for 1 minute. On a successful save, the creature takes half as much damage only. A Frightened creature can repeat the saving throw at the end of each of its turns, ending the Frightened condition on a successful save. If this damage reduces a creature to 0 Hit Points, the creature can be revived only by a True Resurrection or a Wish spell.  
 Once you use this feature, you can't do so again until you finish a Long Rest unless you spend 6 Sorcery Points (no action required) to restore your use of it.
+
+---

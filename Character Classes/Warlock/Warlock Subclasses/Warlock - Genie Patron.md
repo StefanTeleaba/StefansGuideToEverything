@@ -1,12 +1,10 @@
-# Genie Patron 
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Genie Patron
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
-### Genie Kind
+**Genie Kind**  
 You choose your patron’s kind or determine it randomly, using the Genie Kind table.
 
 | d4  |   Kind  | Element | Damage Type |
@@ -20,7 +18,7 @@ You choose your patron’s kind or determine it randomly, using the Genie Kind t
 The magic of your otherworldly patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Genie Spells table, you thereafter always have the listed spells prepared. You prepare the spells in the Genie Spells column and the column appropriate to your patron’s Genie Kind. In addition, the Wish spell is added to the Warlock spell list for you. 
 
 | Spell Level | Genie Spells                           | Dao Spells              | Djinni Spells             | Efreeti Spells               | Marid Spells    |
-|-------------|----------------------------------------|-------------------------|---------------------------|------------------------------|-----------------|
+|:-----------:|----------------------------------------|-------------------------|---------------------------|------------------------------|-----------------|
 | 3           | Detect Evil and Good, Phantasmal Force | Sanctuary, Spike Growth | Gust of Wind, Thunderwave | Burning Hands, Scorching Ray | Blur, Fog Cloud |
 | 5           | Create Food and Water                  | Meld into Stone         | Wind Wall                 | Fireball                     | Sleet Storm     |
 | 7           | Summon Elemental                       | Stone Shape             | Greater Invisibility      | Fire Shield                  | Control Water   |
@@ -44,3 +42,10 @@ As a Bonus Action, you can eject any number of creatures from the vessel, and ev
 ## Level 14: Limited Wish
 You entreat your patron to grant you a small wish. As a Magic action, you can speak your desire to your Genie’s Vessel, requesting the effect of one spell that is level 6 or lower and has a casting time of an action. The spell can be from any class’s spell list, and you don’t need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.  
 Once you use this feature, you can’t use it again until you finish a Long Rest.
+
+---
+
+*Tasha's Cauldron of Everything 5e p.73*
+# The Genie
+
+---

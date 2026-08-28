@@ -1,16 +1,15 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Sonic Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*  
-
 *Control Vibrations and Manipulate Sound*  
 Your innate magic stems from the power of sound and vibrations. You or someone from your lineage may have drawn this power from the chaotic noise of Limbo, or perhaps your ancestor was the chosen of a god of Thunder.  
 Whatever the case, you are gifted with powers to create great thunderous booms, and to manipulate vibrations to confuse the mind, break down objects and negate sound entirely.
 
 ## Level 3: Sonic Magic
 When you reach a Sorcerer level specified in the Sonic Spells table, you thereafter always have the listed spells prepared.
-### Sonic Spells
+
+**Sonic Spells**
 | Sorcerer Level | Spells                                                         |
-|----------------|----------------------------------------------------------------|
+|:--------------:|----------------------------------------------------------------|
 | 3              | Dissonant Whispers, Shatter, Silence, Thaumaturgy, Thunderwave |
 | 5              | Sending, Thunder Step                                          |
 | 7              | Confusion, Freedom of Movement                                 |
@@ -40,3 +39,5 @@ Your Resonant Soul feature improves, granting you the following benefits while y
 ***Echosense.*** Your Tremorsense now extends through air, and its range increases to 60 feet.  
 ***Sound Immunity.*** You have Immunity to Thunder Damage and to the Deafened condition.  
 ***Sonic Explosion.*** The size of the Emanation of your Sonic Boom increases to 20 feet, and the damage increases by an amount equal to half your Sorcerer level (round up).
+
+---

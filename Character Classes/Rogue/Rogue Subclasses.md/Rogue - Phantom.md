@@ -42,7 +42,6 @@ Your association with death has become so close that you gain the following bene
 
 *Unearthed Arcana 2025: Horror Subclasses*  
 *Published on May 6th, 2025.*
-
 # Phantom
 *Embrace Death and Wield Ghostly Power*
 Some Rogues walk along the veil between life and death, shepherding opponents to the grave and slipping through the world as undetectable as a spirit. In these pursuits, a Rogue might discover a mystical connection to death itself. Such an individual becomes immersed in negative energy, infusing their strikes with deathly energy and stealing knowledge from souls who have passed on. Thieves’ guilds value Rogues of this persuasion as highly effective information gatherers and spies.
@@ -84,7 +83,6 @@ Your association with death has become so close that you gain the following bene
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*
-
 # Phantom
 Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.  
 Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.  

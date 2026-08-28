@@ -1,6 +1,5 @@
-# Misfortune Bringer
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Misfortune Bringer
 *Curse Those You're About to Strike*  
 You've matched your penchant for illicit activities with the ability to mark your enemies for mishap and misfortune. Whether you were imbued with magic by spending time among the Fey or you learned the art of cursing from a long line of hedge Wizards, you are a Misfortune Bringer. Although not universal, many Misfortune Bringers possess heterochromia iridum—eyes of two different colors—and they use only one when glaring at targets they intend to curse.
 
@@ -25,3 +24,5 @@ You can take a Magic action and spend 3 Jinx Points to cast Bestow Curse.
 
 ## Level 17: Improved Steal Luck
 You can use your Steal Luck feature three times, and you regain all expended uses when you finish a Long Rest.
+
+---

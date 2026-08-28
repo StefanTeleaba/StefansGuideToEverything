@@ -1,8 +1,6 @@
-# Future You Patron
 *Valda's Spire of Secrets: Player Pack*
-
-*Manipulate Time with Help from the Future*
-
+# Future You Patron
+*Manipulate Time with Help from the Future*  
 *Your patron is you in a decades-distant future. Perhaps your future self found an artifact of great power connecting them to the past, which they must now lead you to discover, or perhaps they were taught the mystic arts by their future self long ago, a cycle you will have to continue someday. Your future self has forgotten the fine details of some things and outright refuses to tell you about things you "can't know yet," but nevertheless offers compelling insight and guidance. You're not quite sure what your future self is planning for your future (and for their past), but one thing is certain—they need you alive.*
 
 ## Level 3: Future You Spells
@@ -42,3 +40,5 @@ You have Advantage on Initiative rolls and Resistance to all damage on the first
 ## Level 14: Grandfather Paradox
 As a Magic action, you can goad a creature within 60 feet of you that can see or hear you into causing a paradox. The creature must make an Intelligence saving throw against your spell save DC. On a failed save, the creature takes 10d6 Psychic damage and has the Stunned condition for 1 minute as it is locked between opposing timelines. On a successful save, the target takes half as much damage only. The Stunned creature repeats the save at the end of each of its turns, ending the condition on itself on a success.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

@@ -1,3 +1,4 @@
+*Player's Handbook 5.5e p.152*
 # Warlock
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.  
 Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.  
@@ -177,5 +178,6 @@ You can cast Speak with Dead without expending a spell slot.
 *Prerequisite: Level 15+ Warlock*  
 You have Truesight with a range of 30 feet.
 
-![Warlock](https://5e.tools/img/book/XPHB/177-07-003.arcane-focus.webp)  
-*A Warlock channels magic through an Arcane Focus*  
+![Warlock](https://5e.tools/img/classes/XPHB/Warlock.webp)
+
+---

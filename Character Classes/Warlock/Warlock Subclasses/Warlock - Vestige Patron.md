@@ -37,13 +37,13 @@ Whenever you finish a Long Rest, you can summon the vestige in a new form, which
 **Languages** Speaks the languages you know  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
+**Traits**  
 ***Pact Bond.*** Add your Proficiency Bonus to any ability check or saving throw the vestige makes.
 
-#### Actions
+**Actions**  
 ***Vestige’s Strike.*** *Melee or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 60 ft. Hit: 1d6 + 3 plus your Charisma modifier Fire (Fiend), Necrotic (Undead), or Radiant (Celestial) damage.
 
-#### Bonus Actions
+**Bonus Actions**  
 ***Divine Power (1/Day).*** Your vestige manifests a remnant of its divine power in one of the following ways, based on its form:  
 **Cursed Invocation (Undead Only).** The vestige places a curse on a creature you can see within 30 feet of the vestige for 1 minute. While cursed, the target has Disadvantage on attack rolls against you and the vestige.  
 **Fiendish Swap (Fiend Only).** If you and the vestige are within 60 feet of each other, you both teleport, swapping places.  

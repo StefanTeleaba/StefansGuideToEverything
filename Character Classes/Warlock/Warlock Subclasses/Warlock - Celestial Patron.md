@@ -1,14 +1,14 @@
+*Player's Handbook 5.5e p.160*
 # Celestial Patron
-*Player's Handbook 5.5e*  
-
 *Call on the Power of the Heavens*  
 Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
 
 ## Level 3: Celestial Spells
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.
-### Celestial Spells
+
+**Celestial Spells**
 | Warlock Level | Spells                                                                  |
-|---------------|-------------------------------------------------------------------------|
+|:-------------:|-------------------------------------------------------------------------|
 | 3             | Aid, Cure Wounds, Guiding Bolt, Lesser Restoration, Light, Sacred Flame |
 | 5             | Daylight, Revivify                                                      |
 | 7             | Guardian of Faith, Wall of Fire                                         |
@@ -27,3 +27,7 @@ You gain Temporary Hit Points whenever you use your Magical Cunning feature or f
 ## Level 14: Searing Vengeance
 When you or an ally within 60 feet of you is about to make a Death Saving Throw, you can unleash radiant energy to save the creature. The creature regains Hit Points equal to half its Hit Point maximum and can end the Prone condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+![Celestial Patron](https://5e.tools/img/classes/XPHB/Celestial%20Warlock.webp)
+
+---

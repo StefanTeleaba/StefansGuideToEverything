@@ -1,7 +1,6 @@
-# Defiled Sorcery
 *Unearthed Arcana: Apocalyptic Subclasses*  
-*Published on August 21st, 2025.*  
-
+*Published on August 21st, 2025.*
+# Defiled Sorcery
 *Siphon Life into Catastrophic Spells*  
 Your innate power siphons life essence from the surrounding world. At your command, creatures grow sick and plants wither to husks. You draw power from the corruption of life itself, draining vitality to fuel destructive magic.
 
@@ -36,3 +35,5 @@ When you use your Innate Sorcery, an aura of defiling magic fills a 15-foot Eman
 You’ve perfected your ability to control and channel defiling magic, granting you the following benefits.  
 ***Fouled Soul.*** You have Immunity to the Poisoned and Exhaustion conditions.  
 ***Furthered Defilement.*** The size of your Withering Aura increases to a 30-foot Emanation. In addition, enemies can’t regain Hit Points while in your aura.
+
+---

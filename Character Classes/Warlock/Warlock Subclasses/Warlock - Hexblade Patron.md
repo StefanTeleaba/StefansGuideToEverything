@@ -1,7 +1,6 @@
-# Hexblade Patron
 *Unearthed Arcana: Arcane Subclasses*  
-*Published on June 26th, 2025.*  
-
+*Published on June 26th, 2025.*
+# Hexblade Patron
 *Forge a Pact with a Cursed Blade*  
 You’ve made a pact with a sentient magic weapon and the cursed forces contained within its blade. Such a weapon could be the sword sheathed at your side, or it could be a manifestation of an infamous magic weapon like Blackrazor or the Sword of Kas projecting its power to further its legend. To those willing to follow this weapon’s whims, these inscrutable patrons offer the power to bestow malignant curses, deliver punishing blows, and bolster the wielder.
 
@@ -51,10 +50,9 @@ The power of your Hexblade’s Curse increases, granting the following benefits.
 
 ---
 
-# Hexblade Patron
 *Unearthed Arcana 2025: Horror Subclasses*  
-*Published on May 6th, 2025.*  
-
+*Published on May 6th, 2025.*
+# Hexblade Patron
 You’ve made a pact with a sentient magic weapon and the cursed forces contained within its blade. Such a weapon could be the sword sheathed at a Warlock’s side, or it could be an infamous magic weapon stored elsewhere, projecting its power across the multiverse to further its cunning plans. To those who are willing to follow this weapon’s whims, these inscrutable patrons offer the power to bestow malignant curses, deliver punishing blows, and bolster the wielder.
 
 ## Level 3: Hexblade Spells
@@ -92,19 +90,17 @@ Your patron’s accursed might flows even more strongly through you, granting th
 
 ---
 
-# Hexblade Patron
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Hexblade Patron
 You have made your pact with a mysterious entity from the Shadowfell – a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.  
 Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
 
 ## Level 3: Patron Spells
 The magic of your otherworldly patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Hexblade Spells table, you thereafter always have the listed spells prepared.
 
-### Hexblade Spells
+**Hexblade Spells**
 | Warlock Level | Spells                          |
 |:-------------:|---------------------------------|
 | 3             | Blur, Shadow Blade, Hex, Shield |
@@ -157,8 +153,10 @@ Your Hexblade’s Curse becomes more debilitating. When you curse a creature wit
 **Languages** Understands all languages it knew in life but can't speak  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
-**Incorporeal Movement.** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+**Traits**  
+***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-#### Actions
-**Life Drain.** *Melee Spell Attack:* +4, reach 5 ft., *Hit:* 10 (3d6) Necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its Hit Point Maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a Long Rest. The target dies if this effect reduces its Hit Point maximum to 0.
+**Actions**  
+***Life Drain.*** *Melee Spell Attack:* +4, reach 5 ft., *Hit:* 10 (3d6) Necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its Hit Point Maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a Long Rest. The target dies if this effect reduces its Hit Point maximum to 0.
+
+---

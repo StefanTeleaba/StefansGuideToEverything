@@ -1,7 +1,6 @@
-# Primordial Patron
 *Unearthed Arcana: Villainous Options 2*  
 *Published on April 23rd, 2026.*
-
+# Primordial Patron
 Invoke Scions of Elemental Chaos
 Your pact draws on the Inner Planes, the realms of elemental forces and the building blocks of the multiverse. Warlocks of this pact act as heralds of ancient and destructive scions of air, earth, fire, and water—such as the Elemental Evils. These Warlocks prepare the way for their patrons’ eventual arrival on the Material Plane by creating elemental nodes, areas suffused with energy from the Elemental Planes.  
 When you choose this subclass, choose an element from the Primordial Patrons table, which suggests potential patrons and determines the damage type for certain subclass features.
@@ -27,7 +26,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 **Elemental Spells**
 | Warlock Level | Primordial Spells | Air Spells | Earth Spells | Fire Spells | Water Spells |
-|---------------|-------------------|------------|--------------|-------------|--------------|
+|:-------------:|-------------------|------------|--------------|-------------|--------------|
 | 3 | Chromatic Orb, Darkvision | Feather Fall, Shatter | Entangle, Knock | Burning Hands, Heat Metal | Alter Self, Ice Knife |
 | 5 | Elemental Weapon | Fly | Plant Growth | Fireball | Water Walk |
 | 7 | Summon Elemental (the spirit’s element matches your chosen element) | Freedom of Movement |Vitriolic Sphere | Wall of Fire | Control Water |
@@ -60,3 +59,5 @@ Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder. Whenever you cast
 **Elemental Transmutation**  
 *Prerequisite: Level 2+ Warlock*  
 Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder. Once per turn, whenever you deal damage of any of the above types, you can deal the chosen damage type instead.
+
+---

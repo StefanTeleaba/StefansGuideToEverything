@@ -29,3 +29,5 @@ You gain the ability to magically steal the knowledge of how to cast a spell fro
 Once you steal a spell with this feature, you can't use this feature again until you finish a Long Rest.
 
 ![Arcane Trickster](https://5e.tools/img/classes/XPHB/Arcane%20Trickster%20Rogue.webp)
+
+---

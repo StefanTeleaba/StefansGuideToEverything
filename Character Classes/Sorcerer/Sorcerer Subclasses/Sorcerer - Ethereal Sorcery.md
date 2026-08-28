@@ -1,13 +1,12 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Ethereal Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*  
-
 *Master the Material and the Ethereal Planes*  
 Ethereal Sorcerers are beings split between two words: the corporeal world of the living and the Border Ethereal superimposed over it. The souls of these Sorcerers have been drawn across the two planes, perhaps by drawing lineage from some sort of ethereal being, or maybe resulting from some sort of arcane mishap. In any case, you are constantly flitting between these two worlds, perhaps not entirely willingly.
 
 ## Level 3: Ethereal Magic
 When you reach a Sorcerer level specified in the Ethereal Spells table, you thereafter always have the listed spells prepared.
-### Ethereal Spells
+
+**Ethereal Spells**
 | Sorcerer Level | Spells                                                   |
 |:--------------:|----------------------------------------------------------|
 | 3              | Invisibility, Mage Armor, See Invisibility, Silent Image |
@@ -37,3 +36,5 @@ When you activate your Innate Sorcery feature, your body shifts to and from the 
 
 ## Level 18: Being of Two Planes
 When you cast Etherealness, in addition to stepping into the Ethereal Plane yourself, you can target a number of willing creatures up to your Charisma modifier (minimum of one extra creature) to also be affected by the spell. Other affected creatures can use a Magic action to end the spell’s effect on themselves before the spell ends, but if you take an Action to dismiss the spell, it ends on all affected creatures.
+
+---

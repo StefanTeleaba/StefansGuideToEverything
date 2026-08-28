@@ -1,7 +1,5 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Calamitous Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*  
-
 *Channel Calamity and Cause Devastation*  
 When cataclysms occur, whether magical, artificial or natural, a huge amount of energy is drawn and expended, usually in a devastating and spectacular show of destructive power. On occasion, some of this destructive energy runs awry and gets stored, or trapped, within an individual.  
 Calamitous Sorcerers gain influence over the destructive powers that impacted their origin, and are known to wreak havoc and destruction. Whatever the circumstances of their origin, these sorcerers carry the consequences of this calamitous event with them, having fundamentally shaped who they have become.
@@ -23,3 +21,5 @@ If the triggering damage is reduced to zero, the creature that created the effec
 You gain the harrowing ability to emulate the calamity that acts as the source of your power. While your Innate Sorcery feature is active, you gain the following benefits:  
 ***Inescapable Wrath.*** When you cast a Calamitous spell, you can change its damage type to Force, allowing you to affect otherwise Immune targets with it. You can still use your Explosive Spells feature when you do so.  
 ***Overwhelming Destruction.*** When you cast a Calamitous spell with a spell slot of a higher level than the spell, you can add 1d8 per slot level above the spell’s level to one of the spell’s damage rolls.
+
+---

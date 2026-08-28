@@ -1,6 +1,5 @@
-# Wretched Bloodline Sorcery
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Wretched Bloodline Sorcery
 *Wield Your Curse Like a Weapon*  
 With every promise whispered to a fairy, every contract signed with a devil, and every pact made with the dead, there's a chance someone doesn't keep their end of the bargain. The vengeance of immortal beings lasts much longer than one lifetime, and the lingering magic of these curses can affect the mortal's descendants.  
 These inherited magical afflictions may manifest as a plague, deformity, or aversion to the sun. In such families, children may be born who learn to master the latent magic within their inherited curses, turning their banes into personal boons—these sorcerers are known collectively as the Wretched.
@@ -34,3 +33,5 @@ Once you use Terrifying Visage, you can't use it again until you finish a Long R
 Your magic has become powerful enough that you can call and command a servant of those who cursed you. Choose one of the following creatures based on the choice you made with your Blood Ties feature: Lamia or Troll (Fey only), Barbed Devil, Incubus, or Succubus (Fiend only), Ghost or Wraith (Undead only).  
 You can take a Magic action and spend 5 Sorcery Points to summon your chosen creature. The creature appears in an unoccupied space you can see within 60 feet. It disappears when it drops to 0 Hit Points, you use this feature to summon another creature, or after 10 minutes have passed.  
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+
+---

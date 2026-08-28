@@ -1,6 +1,5 @@
-# Haunted Sorcery
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Haunted Sorcery
 *Commune with the Dead*  
 Unlike other Sorcerers, the circumstances of your birth were mundane and you have no arcane inheritance passed down from strange ancestors. Instead, you gained your sorcerous powers after you survived an experience that left you near death. Since that experience, you've had a preternatural sense for danger and a ghostly companion that either can't, or won't, leave you alone. Some Haunted, as Sorcerers who share your origin are called, develop cordial relationships with their phantom, while others find their spectral companion to be a relentless nuisance.
 
@@ -43,3 +42,5 @@ Once you use this feature, you can't do so again until you finish a Short or Lon
 ## Level 18: Become Death
 You can transmute your physical form into a spectral one when near death. When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead and gain Temporary Hit Points equal to half your Hit Point maximum. At the start of each of your turns, you lose 10 Temporary Hit Points and creatures of your choice within 30 feet of you take 10 Necrotic damage. While you have Temporary Hit Points granted by this feature, you have Resistance to all damage, a Fly Speed of 30 feet, can Hover, and you can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.  
 Once you use this feature, you can't do so again until you finish a Long Rest.
+
+---

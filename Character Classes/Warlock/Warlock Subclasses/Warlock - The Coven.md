@@ -1,6 +1,5 @@
-# The Coven
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# The Coven
 *Curse and Befuddle with Hag Magic*  
 Hags dwell in the deep places of Etharis, from the primordial forests of Valika to the putrid streets of Liesecht. These creatures, though rarely benevolent, are willing to bargain with mortals in exchange for furthering their own capricious goals.  
 Warlocks often find themselves with a single Hag as a sponsor. Should this Hag have a coven, it can lead to the peculiar situation of Warlock agents acting against other Hags or their Warlocks within the coven. But such is the politics of the Realm of Faerie.

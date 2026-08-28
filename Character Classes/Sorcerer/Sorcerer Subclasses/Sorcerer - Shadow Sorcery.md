@@ -36,7 +36,6 @@ When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits 
 
 *Unearthed Arcana 2025: Horror Subclasses*  
 *Published on May 6th, 2025.*
-
 # Shadow Sorcery
 *Bend Darkness and Doom to Your Will*  
 Your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to the Shadowfell’s sinister energy and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe with ease.
@@ -71,12 +70,10 @@ As a Bonus Action, you adopt a shadowy form, gaining the benefits below for 1 mi
 
 ---
 
-# Shadow Sorcery
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Shadow Sorcery
 You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.  
 The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
 
@@ -133,11 +130,13 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 **Languages** understands the languages you speak 
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
-**Incorporeal.** The Hound can move through other creatures and objects as if they were difficult terrain. It takes 5 force damage if it ends its turn inside an object.  
-**Tunnel Vision.** The Hound automatically knows the target's location, can always see it, and the target is unable to be Hidden from it. The Hound can only use its action to attack the target. The hound can make Opportunity Attacks, but only against the target.  
-**Hound’s Curse.** While the Hound is within 5 feet of the target, the target has Disadvantage on saving throws against any spell you cast.  
-**Pack Tactics.** The Hound has Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't Incapacitated.
+**Traits**  
+***Incorporeal.*** The Hound can move through other creatures and objects as if they were difficult terrain. It takes 5 force damage if it ends its turn inside an object.  
+***Tunnel Vision.*** The Hound automatically knows the target's location, can always see it, and the target is unable to be Hidden from it. The Hound can only use its action to attack the target. The hound can make Opportunity Attacks, but only against the target.  
+***Hound’s Curse.*** While the Hound is within 5 feet of the target, the target has Disadvantage on saving throws against any spell you cast.  
+***Pack Tactics.*** The Hound has Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't Incapacitated.
 
-#### Actions
-**Bite.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 2d6 plus your Charisma modifier Necrotic damage.
+**Actions**  
+***Bite.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 2d6 plus your Charisma modifier Necrotic damage.
+
+---

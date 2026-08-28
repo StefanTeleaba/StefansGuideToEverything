@@ -1,6 +1,5 @@
+*Forgotten Realms: Heroes of Faerun 5.5e p.26*
 # Bladesinger
-*Forgotten Realms: Heroes of Faerun 5.5e*
-
 *Wield Weapon and Wizardry in Elegant Tandem*  
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life—a glorious dance accompanied by a singing blade.  
 Bladesinging is associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms, such as Myth Drannor, or from non-elven societies that share land and history with elves, such as the Silver Marches. Wherever they hail from, Bladesingers take their talents all across the Realms to help common people and perform heroic deeds. Most communities greet the arrival of a Bladesinger as a good omen.
@@ -26,12 +25,13 @@ When you take damage while your Bladesong is active, you can take a Reaction to 
 ## Level 14: Song of Victory
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
 
+![Bladesinger](https://5e.tools/img/classes/FRHoF/Bladesinger%20Wizard.webp)
+
 ---
 
-# Bladesinger
 *Unearthed Arcana: Forgotten Realms Subclasses*  
-*Published on January 28th, 2025.*  
-
+*Published on January 28th, 2025.*
+# Bladesinger
 *Wield Sword and Sorcery in Elegant Tandem*  
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.  
 Bladesinging is strongly associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms, such as Cormanthyr, or from non-elven societies that share land and history with elves, such as the Silver Marches. Wherever they hail from, Bladesingers are known for taking their talents all across the Realms in order to help common people and perform heroic deeds. Few communities greet the arrival of a Bladesinger as anything but a good omen.
@@ -55,3 +55,5 @@ When you take damage while your Bladesong is active, you can take a Reaction to 
 
 ## Level 14: Song of Victory
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
+
+---

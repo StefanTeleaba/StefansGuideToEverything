@@ -1,7 +1,6 @@
-# Ancestral Sorcery
 *Unearthed Arcana: Arcane Subclasses*  
-*Published on June 26th, 2025.*  
-
+*Published on June 26th, 2025.*
+# Ancestral Sorcery
 *Bear the Power of a Spellcasting Lineage*  
 Your innate magic comes from a specific ancestor who wielded such awesome magical power that a fragment of their personality guides you. This ancestor grants you guidance and direction as you explore your innate magical abilities. You might be the ancestor’s sole surviving descendant, a reincarnation who bears an eerie resemblance to your ancestor, or a victim of a curse gained from handling your ancestor’s personal effects.  
 
@@ -14,11 +13,11 @@ When you reach the Sorcerer level specified in the Ancestral Spells table, you t
 
 **Lineage Spells**
 | Sorcerer Level | Spells |
-|:------------:|--------|
-| 3            | Command, Guidance, Locate Object, Protection from Evil and Good, Resistance, Spiritual Weapon |
-| 5            | Magic Circle, Spirit Guardians |
-| 7            | Divination, Locate Creature |
-| 9            | Legend Lore, Yolande’s Regal Presence |
+|:--------------:|--------|
+| 3              | Command, Guidance, Locate Object, Protection from Evil and Good, Resistance, Spiritual Weapon |
+| 5              | Magic Circle, Spirit Guardians |
+| 7              | Divination, Locate Creature |
+| 9              | Legend Lore, Yolande’s Regal Presence |
 
 ## Level 3: Visage of the Ancestor
 Choose the form your ancestor takes, which might resemble the ancestor in life or a symbolic creature. While your Innate Sorcery feature is active, this form appears in a spectral haze around you, and you have Advantage on any ability check you make as part of the Influence action.
@@ -35,3 +34,5 @@ Your deep connection with your ancestor steadies you. Taking damage can’t brea
 
 ## Level 18: Ancestor's Ward
 Your ancestor’s protection redirects harmful magic away from you. While your Innate Sorcery feature is active, you gain Advantage on saving throws against spells. Once during your use of Innate Sorcery, when you fail a saving throw against a spell, you can choose to succeed instead.
+
+---

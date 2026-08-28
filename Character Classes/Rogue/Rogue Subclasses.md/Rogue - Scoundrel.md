@@ -1,7 +1,5 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Scoundrel
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*  
-
 *Stack the Odds and Escape the Consequences*  
 Swindling, sweet talking and sneaky, you convice your marks that you are, in fact, extraordinarily lucky. Of course, the less they know about your loaded dice and the ace up your sleeve, the better.  
 Scoundrels are Rogues known by the public for their con-artistry and by the authorities for their elusiveness. Despite their percieved self-interest, they work best as part of a team. With partners at their side, they seamlessly plan and improvise schemes, splitting their winnings and encouraging tight teamwork.
@@ -28,3 +26,5 @@ You have become extraordinarily difficult to pin down. The Restrained condition 
 
 ## Level 17: Tag-Team Attack
 When you take the Help action to give your Partner in Crime Advantage on an attack roll, or vice versa, if the attack hits, the target takes an additional 3d6 damage of the attack’s type, and the target has Disadvantage on attacks against both of you until the start of your next turn.
+
+---

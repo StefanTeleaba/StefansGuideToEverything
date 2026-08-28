@@ -1,6 +1,5 @@
-# Sangromancer
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Sangromancer
 *Spill Blood for Power*  
 You study an uncommon school of magic known as Sangromancy or blood magic. Despite its dark reputation, there's nothing inherently evil about the practice of Sangromancy, though its demands on its practitioners are gruesome. As a Sangromancer, your chosen magic demands more than knowledge: it demands sacrifice. Other Wizards may view you with skepticism or even outright hostility, but none can deny the potency of your art.
 
@@ -20,3 +19,5 @@ Once on each of your turns when you deal damage to one or more creatures with a 
 ## Level 14: Red Renewal
 When you finish a Short Rest, you regain expended Hit Point Dice and Sangromancy Dice equal to half your Wizard level.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

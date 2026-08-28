@@ -1,6 +1,6 @@
-# Ranger
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
 *[Treantmonk's Temple](https://youtu.be/e2PLoXLJFnc?si=B4n5_ZW3ZNHqq145)*
+# Ranger
 
 ## Level 1: Spellcasting
 You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class's description.  

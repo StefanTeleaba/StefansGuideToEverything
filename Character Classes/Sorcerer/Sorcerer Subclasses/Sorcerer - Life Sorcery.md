@@ -1,7 +1,5 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Life Sorcery
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*  
-
 *Summon a Lifelong Companion*  
 The power to create life is typically one reserved by the gods, and even then, only of certain stations. But occasionally, following unintended divine intervention or perhaps a cosmic accident, a mortal individual is instilled with life-creating magic. These sorcerers carry a spark of Life, and are able to harness this magic to heal wounds, restore life to the lifeless, and to create new life, whole cloth from nothingness. When such a sorcerer casts a summoning spell, they have great latitude to form their creation into strange and unique forms, limited only by their magical prowess and their creativity.
 
@@ -11,7 +9,7 @@ In addition, whenever you gain a level in this class, you can replace the Summon
 
 **Life Spells**
 | Sorcerer Level | Spells                                    |
-|----------------|-------------------------------------------|
+|:--------------:|-------------------------------------------|
 | 3              | Aid, Cure Wounds, Goodberry, Summon Beast |
 | 5              | Revivify, Summon Fey                      |
 | 7              | Aura of Life, Grasping Vine               |
@@ -36,3 +34,5 @@ Whenever you use your Custom Creations feature to augment a creature you summon,
 ## Level 18: Life Giver
 When a creature within 60 feet of you that you can see takes damage that would reduce it to 0 Hit Points, you can take a Reaction to spare that creature with the magic that flows through your body. The creature suffers no effects of being reduced to 0 Hit Points, and immediately regains Hit Points up to half its Hit Point Total.  
 Once you use this feature, you can’t use it again until you finish a Long Rest, unless you spend 7 Sorcery Points to restore its use (no action required).
+
+---

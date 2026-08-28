@@ -41,3 +41,5 @@ When an allied creature within range of your Stand Behind Me feature is forced t
 Your dedication to your allies transcends mortal limits—you are everywhere at once, an omnipresent guardian who never fails to intercede when danger strikes.  
 Allied creatures within range of your Stand Behind Me feature have half cover.  
 As a Bonus Action, you can grant an ally within range of your Stand Behind Me feature the effects of the Dodge action until the start of their next turn.
+
+---

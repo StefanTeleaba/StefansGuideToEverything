@@ -1,7 +1,6 @@
-# Sorcerer-King Patron
 *Unearthed Arcana: Apocalyptic Subclasses*  
-*Published on August 21st, 2025.*  
-
+*Published on August 21st, 2025.*
+# Sorcerer-King Patron
 *Herald Tyrannical Might of Monstrous Rulers*  
 Your pact draws from the power of a monstrous, tyrannical force akin to a demigod or an overwhelmingly powerful magic-user. Through your pact, you herald this tyrant’s interests in the world, channeling their influence and mind-bending, psionic power.
 
@@ -34,3 +33,5 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 
 ## Level 14: Absolute Tyranny
 You wield your patron’s tyrannical might with absolute conviction. Whenever you cast Command, you can target one additional creature within the spell’s range. Additionally, a creature Frightened by you automatically fails its saving throw against any Command you cast.
+
+---

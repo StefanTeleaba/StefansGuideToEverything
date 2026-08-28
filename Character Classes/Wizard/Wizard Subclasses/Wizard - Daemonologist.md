@@ -1,6 +1,5 @@
-# Daemonologist
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Daemonologist
 *Steal Scraps of Divine and Infernal Power*  
 Through theological study, or perhaps an induction into a secretive cabal, Daemonologists have learned to cast divine magic without the need for faith or bargains. Their spellbooks are scribed with prayer fragments and blasphemous hymns, enabling them to siphon scraps of power from both Arch Seraphs and Arch Daemons. From their heretical research, they've come to believe such otherworldly beings are two sides of the same divine kin.  
 Daemonology is rarely practiced. If the nature of their abilities is discovered, they risk being persecuted not only by superstitious folk but also by celestial and infernal powers.
@@ -19,7 +18,7 @@ Each time you finish a Long Rest, choose whether you are siphoning power from Ar
 
 **Arch Seraph**  
 | Wizard Level | Spells                       |
-|--------------|------------------------------|
+|:------------:|------------------------------|
 | 3            | Aid, Bless, Word of Radiance |
 | 5            | Revivify                     |
 | 7            | Guardian of Faith            |
@@ -51,3 +50,5 @@ You use the powers at your command to call forth warring celestials and infernal
 Each creature in the Sphere must make a Charisma saving throw against your spell save DC. On a failed save, a creature takes 4d10 Necrotic damage, 4d10 Radiant damage, and has the Blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.  
 As part of the same action, you can change the power you are siphoning from, and you also regain 1 Wizard spell slot of your choice of 5th level or lower.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

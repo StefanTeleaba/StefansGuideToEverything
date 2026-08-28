@@ -1,7 +1,6 @@
 *Unearthed Arrabbiata: Into the Open Sea*  
 *Published on April 26th, 2026.*  
 [*Created by bored_ethan*](https://bio.site/spaghetti0)
-
 # Stowaway
 *“The most dangerous passenger is the one you didn't know you had.”*  
 Whether it’s the hold of a ship, shadow of a giant, or the folds of a noble’s cloak, the Stowaway finds safety in the spaces others ignore.
