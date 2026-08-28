@@ -1,9 +1,7 @@
+*Unearthed Arcana 2025: Psion Update*  
+*Published on October 2nd, 2025.*
 # Psykinetic
 *Mold Psionic Force for Creation and Destruction*  
-
-*Unearthed Arcana 2025: Psion Update*  
-*Published on October 2nd, 2025.*  
-
 A Psykinetic controls their psionic powers like a malleable force. They bend their telekinetic energies into sturdy barriers and strike with the force of a battering ram.
 
 ## Level 3: Psykinetic Spells
@@ -42,12 +40,10 @@ You can cast Telekinesis without expending a spell slot by instead expending fou
 
 ---
 
+*Unearthed Arcana 2025: The Psion*  
+*Published on May 27th, 2025.*
 # Psykinetic
 *Mold Psionic Force for Creation and Destruction*  
-
-*Unearthed Arcana 2025: The Psion*  
-*Published on May 27th, 2025.*  
-
 A Psykinetic controls their psionic powers like a malleable force. They bend their telekinetic energies into sturdy barriers and strike with the force of a battering ram.
 
 ## Level 3: Psykinetic Spells
@@ -78,3 +74,5 @@ When you cast Telekinetic Crush, you can expend one Psionic Energy Die to modify
 
 ## Level 14: Heightened Telekinesis
 When you cast Telekinesis, you can expend four Psionic Energy Dice to modify the spell so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting, and you can target Gargantuan creatures and objects.
+
+---

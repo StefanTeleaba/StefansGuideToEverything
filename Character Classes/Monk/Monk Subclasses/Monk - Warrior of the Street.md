@@ -1,8 +1,6 @@
-# Warrior of the Street
 *Valda's Spire of Secrets: Player Pack 5.5e*
-
-*Strike with Combos and Special Moves*
-
+# Warrior of the Street
+*Strike with Combos and Special Moves*  
 *"Street fighting" is an urban discipline founded on necessity, whose blindingly fast, unique brand of martial arts has been honed and perfected in back-alley brawls and tournaments alike. Monks who adopt this relatively new technique place comparatively little value on spiritual enlightenment and inner focus; the thrill of split-second timing, rapid combos, and decisive knock-outs drive them to become the best combatants in the world*
 
 ## Level 3: Combo
@@ -23,3 +21,5 @@ On your turn, you can expend 1 Focus Point to gain a Fly Speed equal to your Spe
 ## Level 17: K.O.
 Once per turn when you hit a creature with an Unarmed Strike, you can attempt to knock the target out. The target takes extra Force damage equal to three rolls of your Martial Arts die. If the target has 100 Hit Points or fewer after you deal damage with the Unarmed Strike, it has the Unconscious condition for 10 minutes.  
 Once you use this feature, you can't use it again until you finish a Short or Long Rest. You can also restore your use of it by expending 5 Focus Points (no action required).
+
+---

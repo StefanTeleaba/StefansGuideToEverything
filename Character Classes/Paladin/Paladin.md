@@ -1,3 +1,4 @@
+*Player's Handbook 5.5e p.108*
 # Paladin
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.  
 Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.  
@@ -62,7 +63,11 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 ## Level 18: Aura Expansion
 Your Aura of Protection is now a 30-foot Emanation.
 
-### Breaking your Oath
+**Breaking Your Oath**
 A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.  
 A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.  
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+
+![Paladin](https://5e.tools/img/classes/XPHB/Paladin.webp)
+
+---

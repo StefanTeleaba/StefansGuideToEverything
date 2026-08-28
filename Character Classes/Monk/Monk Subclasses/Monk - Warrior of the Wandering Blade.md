@@ -1,6 +1,5 @@
-# Warrior of the Wandering Blade
 [*Created by Spaghetti0*](https://bio.site/spaghetti0)
-
+# Warrior of the Wandering Blade
 Attack in Tandem with a Floating Weapon Warriors of the Wandering Blade learn to invest part of their own spirit into non-living objects, granting them powers to learn more about those objects and animate them with spiritual energy. These Monks use this power to bond with weapons, which they telekinetically wield with finesse and grace, forming a double-threat on the battlefield.
 
 ## Level 3: Object Affinity
@@ -27,3 +26,5 @@ When you reach Monk level 17, the Fly Speed increases to be equal to your Speed.
 
 ## Level 17: Destructive Trajectory
 As a Magic action while your Spirit Weapon is floating, you can expend 5 Focus Points to cause it to fly in a destructive path you describe that is no more than 60 feet long. If you are balancing on the weapon, you move along with it, and do not provoke Opportunity Attacks. Each creature within 5 feet of the weapon’s path must make a Dexterity saving throw. A creature takes 5d12 damage of the weapon’s type on a failed save, or half as much on a successful one.
+
+---

@@ -1,9 +1,7 @@
+*Unearthed Arcana 2025: Psion Update*  
+*Published on October 2nd, 2025.*
 # Metamorph
 *Psychically Sculpt Life and Flesh*
-
-*Unearthed Arcana 2025: Psion Update*  
-*Published on October 2nd, 2025.*  
-
 Your mastery of psionic powers turns inward. Your own flesh becomes like clay to you, and you mold it into the perfect vessel for your psionic powers. Experience in manipulating your life energy also enables you to adjust the life force of friends and foes.
 
 ## Level 3: Metamorph Spells
@@ -52,12 +50,10 @@ Alternatively, when you hit a creature with your Organic Weapon, you can instead
 
 ---
 
+*Unearthed Arcana 2025: The Psion*  
+*Published on May 27th, 2025.*
 # Metamorph
 *Psychically Sculpt Life and Flesh*
-
-*Unearthed Arcana 2025: The Psion*  
-*Published on May 27th, 2025.*  
-
 Your mastery of psionic powers turns inward. Your own flesh becomes like clay to you, and you mold it to turn it into the perfect vessel of your psionic powers. Experience in manipulating your life energy also enables you to adjust the life force of friends and foes alike.
 
 ## Level 3: Metamorph Spells
@@ -99,3 +95,5 @@ When you use Extend Limbs, the duration increases to 10 minutes and you gain one
 
 ## Level 14: Life-Bending Weapons
 Once per turn when you hit a creature with your Organic Weapon, you can expend one Psionic Energy Die and roll it. Each creature of your choice in a 10-foot Emanation originating from you regains Hit Points equal to the number rolled plus your Intelligence modifier. Additionally, one creature of your choice in that area takes Necrotic damage equal to the number rolled.
+
+---

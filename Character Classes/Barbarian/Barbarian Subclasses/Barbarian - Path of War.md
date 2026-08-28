@@ -18,3 +18,5 @@ When you strike an enemy with a melee weapon Attack or an Unarmed Strike while y
 ## Level 14: Warlord
 Your mere presence brings on the tide of war.  
 ***Tide of War.*** When using Warcry, you can target up to two creatures. The creatures can immediately move up to their speed and make a melee weapon Attack or an Unarmed Strike against a target you select within their reach. You can also target unwilling creatures with this feature, possibly forcing enemies to attack each other. You can do so once and recover all expended uses at the end of a Long Rest. You can also recover one expended use by consuming a Rage use (no action required).
+
+---

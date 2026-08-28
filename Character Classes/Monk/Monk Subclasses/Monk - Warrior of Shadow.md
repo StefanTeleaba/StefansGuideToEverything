@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e*
 # Warrior of Shadow
-*Player's Handbook 5.5e*  
-
 *Harness Shadow Power for Stealth and Subterfuge*  
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.
 
@@ -21,3 +20,5 @@ As a Magic action while entirely within Dim Light or Darkness, you can expend 3 
 ***Invisibility.*** You have the Invisible condition.  
 ***Partially Incorporeal.*** You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.  
 ***Shadow Flurry.*** You can use your Flurry of Blows without expending any Focus Points.
+
+---

@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Path of the Unsated
 *Stalk and Cause Terror to Your Victims*  
 You are the cause of that shiver that runs down a person’s spine when nothing appears to be there - that feeling of being watched, or more accurately, hunted. Barbarians of this path embrace dark powers over fear, gained from unnerving otherwordly sources that few dare name, and even fewer seek willingly.
@@ -28,3 +27,5 @@ While your Rage is active you become an embodiment of fear itself, unknowable an
 ***Fear Immunity.*** You have Immunity to the Frightened Condition.  
 ***Curse Improvement.*** When a creature fails its saving throw against your Curse of Victimhood, you can apply two effects to it, instead of one.  
 ***Cursed Strike.*** The Psychic damage you deal with Curse of Victimhood increases to 1d12.
+
+---

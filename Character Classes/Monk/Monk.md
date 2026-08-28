@@ -1,3 +1,4 @@
+*Player's Handbook 5.5e p.100*
 # Monk
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.  
 Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery.  
@@ -81,3 +82,7 @@ At the start of your turn, you can expend 3 Focus Points to bolster yourself aga
 
 ## Level 20: Body and Mind
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+
+![Monk](https://5e.tools/img/classes/XPHB/Monk.webp)
+
+---

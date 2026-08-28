@@ -1,9 +1,7 @@
+*Unearthed Arcana 2025: The Psion*  
+*Published on May 27th, 2025.*
 # Psi Warper
 *Warp Space with the Power of Your Mind*  
-
-*Unearthed Arcana 2025: The Psion*  
-*Published on May 27th, 2025.*  
-
 Psi Warpers tune their psionic powers to manipulating the space between objects. Capable of teleporting across the battlefield and creating vacuums in space, a Psi Warper is never in one place for too long.
 
 ## Level 3: Psi Warper Spells
@@ -35,3 +33,5 @@ When a creature you can see makes an attack roll against you, you can take a Rea
 
 ## Level 14: Mass Teleportation
 As a Magic action, you expend four Psionic Energy Dice and choose Huge or smaller creatures within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is teleported to an unoccupied space you can see within 150 feet of you. An unwilling creature that succeeds on a Wisdom saving throw against your spell save DC is unaffected.
+
+---

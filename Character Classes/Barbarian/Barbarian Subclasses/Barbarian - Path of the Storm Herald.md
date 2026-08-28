@@ -56,3 +56,5 @@ The power of your Storm Aura grows mightier, lashing out at your foes.
 ***Desert.*** Immediately after a creature within the Emanation hits you with an attack, you can use your Reaction to force that creature to make a Dexterity save. On a failed save, the creature takes Fire damage equal to your Barbarian level.  
 ***Sea.*** When you hit a creature within the Emanation with an attack, you can use your Reaction to force that creature to make a Strength save. On a failed save, the creature takes an extra 2d6 Cold damage and has the Prone condition.  
 ***Tundra.*** Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Emanation. That creature must succeed on a Strength save, or has its Speed reduced to 0 until the start of your next turn.
+
+---

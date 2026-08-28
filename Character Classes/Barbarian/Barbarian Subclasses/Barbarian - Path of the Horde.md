@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Path of the Horde
 Barbarians of the Path of the Horde develop their power by forming strong bonds with their comrades, and by exclusively attacking in groups. Their connection to their horde results in a mystical link, allowing the group to freely share tactics, resiliences and skills.
 
@@ -17,3 +16,5 @@ You can direct your fury into your horde, causing your allies to strike. When yo
 
 ## Level 14: Horde's Surge
 When one of your allies within 30 feet of you reduces a hostile creature to 0 Hit Points, you can immediately use your Reaction to make a weapon attack.
+
+---

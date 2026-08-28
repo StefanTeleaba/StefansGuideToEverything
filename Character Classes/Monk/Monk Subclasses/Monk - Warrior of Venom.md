@@ -1,7 +1,6 @@
-# Warrior of Venom
 *Unearthed Arcana: Villainous Options 2*  
 *Published on April 23rd, 2026.*
-
+# Warrior of Venom
 *Channel the Cauldron of Your Own Toxicity*  
 Warriors of Venom pollute their internal reservoirs of power to become poison incarnate. Through years of focus and the study of poison in all its forms, these Monks learn to harness their own toxicity to impair and envenom foes. Contact with a Warrior of Venom—even the slightest touch or a single drop of blood—can be as deadly as a viper’s bite.
 
@@ -29,3 +28,5 @@ Enemies draw your toxic blood at their own peril. Whenever a creature hits you w
 
 ## Level 17: Hallucinogenic Breath
 When you take the Attack action on your turn, you can expend 2 Focus Points and replace one of your attacks with an exhalation of hallucinogenic vapors at one creature you can see within 30 feet. The target must make a Constitution saving throw. On a failed save, the target takes Poison damage equal to three rolls of your Martial Arts die and has the Frightened condition for 1 minute or until the target takes damage. While Frightened, the target takes the Dash action and moves away from you by the safest route on each of its turns unless there is nowhere to move. On a successful save, a creature takes half as much damage only.
+
+---

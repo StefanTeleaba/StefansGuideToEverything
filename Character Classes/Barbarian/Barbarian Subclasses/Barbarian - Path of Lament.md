@@ -7,7 +7,7 @@ A Barbarian may choose the Path of Lament, but more often the path is thrust on 
 
 **Path of Lament Origins**
 | 1d6 | Your Rage Stems from the Time...              |
-|-----|-----------------------------------------------|
+|:---:|-----------------------------------------------|
 | 1   | A lost loved one rose as an undead monster.   |
 | 2   | Enemies slew your animal companion.           |
 | 3   | You (and you alone) escaped brutal captors.   |
@@ -36,3 +36,5 @@ When you activate your Rage, you can empower yourself with undeath. You gain the
 ***Immunities.*** You have Immunity to the Charmed and Frightened conditions. If you’re Charmed or Frightened when you empower yourself, the condition ends on you. In addition, you can’t gain Exhaustion levels.  
 ***Life-Draining Strike.*** When a creature fails its saving throw against your Horrifying Strike, the creature takes 2d10 Necrotic damage. You regain Hit Points equal to the Necrotic damage dealt.  
 ***Undead.*** Your creature type is Undead.
+
+---

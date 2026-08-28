@@ -1,6 +1,5 @@
-# Warrior of the Leaden Crown
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Warrior of the Leaden Crown
 *Harness the Will to Resist*  
 In contrast to the esoteric ideals of other orders, Warriors of the Leaden Crown have practical aims: the self-governance of all people. These Monks see history as a series of clashes between groups of powerful beings where Humanoids are at best collateral damage and at worst disposable pawns. To break this cycle of dependence and destruction, Warriors of the Leaden Crown master mental abilities to fight against the otherworldly powers of the multiverse and protect Humanoid sovereignty.  
 One component of this plan involves training to do battle with powerful planar foes. The other equally important component is ensuring that Humanoid societies are prepared to overthrow those already dominating them. To that end, these Monks seek political positions that place them in or near decision-making roles where they can influence others to fight back against Arch Seraphs, Arch Daemons, and Primordials.
@@ -20,3 +19,5 @@ Each time you hit a creature with an Unarmed Strike, it gains a Pressure Point. 
 
 ## Level 17: Psionic Mastery
 After much training, you have mastered the psionic disciplines necessary to defend mortals from planar threats. As a Magic action, you can spend 5 Focus Points to cast Dispel Evil and Good, Hold Monster, Telekinesis, or Wall of Force. Wisdom is your spellcasting ability for these spells, and you can cast them without Material components.
+
+---

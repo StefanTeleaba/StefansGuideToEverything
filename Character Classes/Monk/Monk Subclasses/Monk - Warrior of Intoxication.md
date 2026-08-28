@@ -1,7 +1,6 @@
-# Warrior of Intoxication
 *Unearthed Arcana 2025: Subclasses Update*  
-*Published on October 30th, 2025.*  
-
+*Published on October 30th, 2025.*
+# Warrior of Intoxication
 *Drink Mystic Brews to Overwhelm and Confound Foes*  
 Warriors of Intoxication move with the jerky, unpredictable movements typical of someone who is intoxicated. These Monks sway on unsteady feet to appear incompetent and then prove themselves frustrating to engage. Their apparently erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.  
 Warriors of Intoxication often enjoy playing the fool to bring gladness to the downtrodden or to teach humility to the arrogant, but these Monks are maddening, masterful foes in battle.
@@ -38,7 +37,6 @@ You make an overwhelming number of attacks against a group of enemies. When you 
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*
-
 # Drunken Warrior
 *Weave and Sway out of the Way of Attacks*  
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master’s erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.  
@@ -59,3 +57,5 @@ You always seem to get a lucky bounce at the right moment. When you make a D20 T
 
 ## Level 17: Intixicated Frenzy
 You gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it. Each target can only be hit by a maximum of three Flurry of Blows attacks.
+
+---

@@ -38,3 +38,5 @@ Additionally, you can now pick from the following options while benefitting from
 - You have immunity to psychic damage.
 - You cannot be Charmed, Frightened, or Possessed.
 - You can replace two of your other current benefits with a single Bonus Action.
+
+---

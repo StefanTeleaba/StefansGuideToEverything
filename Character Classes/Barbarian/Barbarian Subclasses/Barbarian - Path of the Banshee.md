@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.2*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Path of the Banshee
 *Scream with Undead Fury*  
 Banshees are woeful undead, terrorizing all that dare come venture near with its deadly wail. You have somehow taken on the terrible traits of a Banshee, whether through training, an encounter with a banshee you survived or some other origin. Barbarians of this path embody physical characteristics of the Banshee: pale skin, gaunt features and moments of translucency.
@@ -30,3 +29,5 @@ Your Banshee’s Scream has become more powerful. You can now choose to cause th
 You can now choose which Banshee’s Scream option to use each time you use the Bonus Action to screech. Additionally, you have learned to channel the Banshee’s most dreadful and dangerous ability: its Wail. You learn the following additional Banshee’s Scream option:  
 ***Wail.*** Each creature in the area must make a Constitution saving throw or take 8d6 Psychic damage, taking half as much damage on a success. If this effect reduces the creature’s Hit Points to fewer than your Barbarian level, it instead drops to 0 Hit Points.  
 Once you use this Banshee’s Scream option, you can’t use it again until you finish a Long Rest.
+
+---

@@ -1,6 +1,5 @@
-# Warrior of Regret
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Warrior of Regret
 *Atone for Past Mistakes*  
 No one is born intent on bringing evil into this world, yet many lives are transformed by the suffering inflicted upon them. Warriors of Regret are haunted by the shadows of evil deeds done.  
 Through training and reflection, Warriors of Regret accept their past can't be erased. Instead, they focus on forging remorse and grief into a weapon against their foes. Though their misdeeds follow their every step, Warriors of Regret are not powerless to atone for them.
@@ -21,3 +20,5 @@ You can expend 3 Focus Points to release your pent-up guilt in a crushing wave t
 
 ## Level 17: Relive the Past
 Your Shade of Regret now lasts for 10 minutes. After using Flurry of Blows, your Shade can make one additional Unarmed Strike as per Shade Strike. You can also use the Stunning Strike feature through the Shade Strike.
+
+---

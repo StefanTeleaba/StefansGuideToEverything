@@ -1,8 +1,6 @@
-# Warrior of Cosmic Balance
 *Cthulhu by Torchlight 5.5e*
-
-*“When the cosmos spins out of alignment, my job is to kick it back into place. Literally.” — Sheresa, Acolyte of the Vast*
-
+# Warrior of Cosmic Balance
+*“When the cosmos spins out of alignment, my job is to kick it back into place. Literally.” — Sheresa, Acolyte of the Vast*  
 *Warriors of the Cosmic Balance watch the mystic paths of the world, the dimensional portals and arcane gates. And where eldrtich horrors seek to intrude upon the world, these warriors stand waiting. They are trained to use their inner power to purge even the strongest afflictions, and their merest touch can send the mightiest abominations back to the horrid pits that spawned them.*
 
 ## Level 3: Guardian of the Way Technique
@@ -25,3 +23,5 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 ## Level 17: Ward the Profane
 Once per turn when you hit a creature with an Unarmed Strike, you can expend 3 Focus Points to cast Banishment targeting that creature. Wisdom is your spellcasting ability for it.
+
+---

@@ -35,3 +35,5 @@ Your Rage is empowered by the overwhelming emotions of the unquiet dead. Your Fi
 ***Hate.*** While your Rage is active, your attacks with weapons and Unarmed Strikes score a Critical Hit on a roll of 19 or 20 on the d20.  
 ***Jealousy.*** Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to summon spectral assailants to Grapple the creature. The creature makes a Strength or Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failure, the creature has the Grappled condition until the end of its turn. On a successful save, the creature is not Grappled; however, each foot of movement costs 1 extra foot for that creature until the end of its turn.  
 ***Terror.*** Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to make that creature terrified until the start of its next turn. A terrified creature's Speed is halved and Opportunity Attacks against it have Advantage.
+
+---

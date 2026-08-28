@@ -21,3 +21,5 @@ While your Rage is not active, you can take the Disengage or Help action as a Bo
 ## Level 14: Better Half
 When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead, and you gain Temporary Hit Points equal to half your Hit Point maximum. In addition, if your Rage is active, your Rage ends. If your Rage was not active, you immediately activate your Rage (even if you have no remaining uses of your Rage). If any of these Temporary Hit Points remain after 1 minute, they vanish.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

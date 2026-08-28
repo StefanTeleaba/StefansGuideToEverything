@@ -1,6 +1,5 @@
-# Warrior of Pride
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Warrior of Pride
 *Prove Your Superiority*  
 Monks who become Warriors of Pride value themselves above all. These monks focus on mastering their form, ego, and their destructive power. They display monastic aesthetics publicly with the intention of gaining the respect and admiration of "lesser beings."  
 The prideful traditions of this order include adorning themselves with jewelry, hiding their scars, and commanding respect from those who would oppose them.
@@ -31,3 +30,5 @@ Whenever you start your turn with 0 Hit Point, you must expend 1 Focus Point to 
 
 ## Level 17: Egotistical
 Injuries to your pride enrage you. You are considered Bloodied if your current Hit Points are below your Hit Point maximum.
+
+---

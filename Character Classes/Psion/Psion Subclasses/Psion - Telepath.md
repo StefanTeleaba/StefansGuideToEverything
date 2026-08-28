@@ -1,9 +1,7 @@
+*Unearthed Arcana 2025: Psion Update*  
+*Published on October 2nd, 2025.*
 # Telepath
 *Master Tactics in the Landscape of the Mind*  
-
-*Unearthed Arcana 2025: Psion Update*  
-*Published on October 2nd, 2025.*  
-
 Telepaths are masters of mind magic. They use their psionic powers for all matters of the mind, whether they bolster the mental defenses of allies or probe the thoughts of others undetected. A telepath can be a bastion of psionic aid or a crafty manipulator.
 
 ## Level 3: Mind Infiltrator
@@ -39,12 +37,10 @@ In addition, when a creature under the effect of the spell starts its turn, you 
 
 ---
 
+*Unearthed Arcana 2025: The Psion*  
+*Published on May 27th, 2025.*
 # Telepath
 *Master Tactics in the Landscape of the Mind*  
-
-*Unearthed Arcana 2025: The Psion*  
-*Published on May 27th, 2025.*  
-
 Telepaths are masters of mind magic. They use their psionic powers for all matters of the mind, whether they bolster the mental defenses of allies or probe the thoughts of others undetected. A telepath can be a bastion of psionic aid or a crafty manipulator.
 
 ## Level 3: Telepath Spells
@@ -77,3 +73,5 @@ You have Telepathy out to 30 feet. When you or a creature you can see within ran
 ## Level 14: Scramble Minds
 When you cast Confusion, you can expend four Psionic Energy Dice to modify the spell so that the radius of the spell's Sphere becomes 30 feet.  
 In addition, creatures under the effect of the spell roll two d10s, and you choose which roll determines their behavior on their turns.
+
+---

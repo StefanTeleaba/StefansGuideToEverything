@@ -37,7 +37,7 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 
 **Origin of the Beast**  
 | 1d4 | Origin                                                                                   |
-|-----|------------------------------------------------------------------------------------------|
+|:---:|------------------------------------------------------------------------------------------|
 | 1   | One of your parents is a lycanthrope, and you've inherited some of their curse.          |
 | 2   | You are descended from an archdruid and inherited the ability to partially change shape. |
 | 3   | A fey spirit gifted you with the ability to adopt different bestial aspects.             |

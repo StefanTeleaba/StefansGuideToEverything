@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.1*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Path of Extreme Focus
 *Be Focussed, Precise and Intentional*  
 Barbarians of the Path of Extreme Focus are often raised in environments under threat of psionic monsters, such as mind flayers or aboleths. They train in mental disciplines which allow them to fortify their minds against these threats. When they rage, instead of channeling emotion, these barbarians channel determination and focus, sharpening their senses and permitting greater control of their movements.
@@ -23,3 +22,5 @@ You can end a condition in this way a number of times equal to your Constitution
 ## Level 14: Perfected Mind
 You have perfected your control over your mind, making it impenetrable to your foes and allowing you to focus on multiple things at once. While your Rage is active, you no longer have to choose between your Focussed Rage options, and simultaneously gain the benefits of all three.  
 In addition, while your Rage is active you gain the benefits of the Mind Blank spell.
+
+---

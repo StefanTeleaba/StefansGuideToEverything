@@ -29,3 +29,5 @@ armor.
 ***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the Prone condi- tion when you hit it with a melee attack.
 
 ![Path of the Wild Heart](https://5e.tools/img/classes/XPHB/Wild%20Heart%20Barbarian.webp)
+
+---
