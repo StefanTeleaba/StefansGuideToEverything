@@ -12,3 +12,7 @@ A shield with this ability attracts ranged weapons to it. It has a deflection bo
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, entropic shield; Price +1 bonus.
 
 ---
+
+![Regal Arrow-Catching Shield](https://5e.tools/img/book/AU/069-05-012.regal-arrow-catching-shield.webp)
+
+---

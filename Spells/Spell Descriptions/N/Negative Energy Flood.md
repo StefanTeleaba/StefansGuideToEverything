@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.42*
 # Negative Energy Flood
 *Level 5 Necromancy (Warlock, Wizard)*
 

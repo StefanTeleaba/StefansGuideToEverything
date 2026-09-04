@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.38*
 # Dueling Ground
 *Level 2 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -13,5 +13,7 @@ If a target drops to 0 Hit Points while in the dueling ground, the target is Sta
 When only one target remains in the dueling ground, runes matching those on the ground around the Sphere briefly flash around the remaining target's head like a crown.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional willing creature for each spell slot level above 2.
+
+![Dueling Ground](https://5e.tools/img/spells/AU/Dueling%20Ground.webp)
 
 ---

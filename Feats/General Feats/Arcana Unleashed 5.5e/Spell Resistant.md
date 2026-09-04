@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.31*
 # Spell Resistant
 *General Feat (Prerequisite: Level 4+)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.45*
 # Vision of Elapsing Eons
 *Level 9 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 

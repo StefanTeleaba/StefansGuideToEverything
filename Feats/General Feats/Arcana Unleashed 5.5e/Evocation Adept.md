@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.30*
 # Evocation Adept
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.40*
 # Grave Ground
 *Level 5 Necromancy (Cleric, Warlock, Wizard)*
 

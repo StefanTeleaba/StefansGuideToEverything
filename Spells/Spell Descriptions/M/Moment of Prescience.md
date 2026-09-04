@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.42*
 # Moment of Prescience
 *Level 8 Divination (Wizard)*
 

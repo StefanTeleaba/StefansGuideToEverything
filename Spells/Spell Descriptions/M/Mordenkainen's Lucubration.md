@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.42*
 # Mordenkainen's Lucubration
 *Level 5 Divination (Wizard)*
 

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.45*
 # Zone of Amicability
 *Level 4 Enchantment (Bard, Warlock)*
 

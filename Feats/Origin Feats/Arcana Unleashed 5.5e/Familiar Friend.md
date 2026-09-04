@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.27*
 # Familiar Friend
 *Origin Feat*  
 You gain the following benefits.  

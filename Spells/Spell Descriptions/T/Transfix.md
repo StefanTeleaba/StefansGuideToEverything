@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.44*
 # Transfix
 *Level 7 Enchantment (Bard, Warlock, Wizard)*
 

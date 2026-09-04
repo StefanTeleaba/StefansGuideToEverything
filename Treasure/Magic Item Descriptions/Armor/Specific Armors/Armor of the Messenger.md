@@ -1,6 +1,6 @@
+*Homebrew 5.5e*
 # Armor of the Messenger
-*Armor (Studded Leather Armor), Rare*
-
+*Generic Variant, Rare*  
 You gain a +1 bonus to Armor Class while you wear this armor.  
 ***Spells.***
 - At Will: Message  
@@ -8,4 +8,4 @@ You gain a +1 bonus to Armor Class while you wear this armor.
 - 1/Day: Phantom Steed  
 - 1/Day: Sending
 
-*Homebrew 5.5e*  
+---

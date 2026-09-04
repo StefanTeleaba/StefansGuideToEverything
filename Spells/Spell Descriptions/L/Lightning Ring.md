@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.41*
 # Lightning Ring
 *Level 8 Evocation (Druid, Sorcerer, Warlock, Wizard)*
 

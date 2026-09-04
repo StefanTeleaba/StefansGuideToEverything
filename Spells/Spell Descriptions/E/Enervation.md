@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.38*
 # Enervation
 *Level 5 Necromancy (Sorcerer, Warlock, Wizard)*
 

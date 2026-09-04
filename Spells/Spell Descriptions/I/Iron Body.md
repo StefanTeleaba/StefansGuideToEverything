@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.41*
 # Iron Body
 *Level 8 Transmutation (Sorcerer, Warlock, Wizard)*
 

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.44*
 # Uncertain Footing
 *Level 2 Illusion (Artificer, Bard, Warlock, Wizard)*
 

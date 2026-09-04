@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.40*
 # Inflict Doubt
 *Level 3 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 

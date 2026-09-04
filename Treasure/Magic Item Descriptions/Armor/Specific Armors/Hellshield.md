@@ -1,15 +1,12 @@
-# Hellshield
 *Dragon Magazine 275, p.89*
-
+# Hellshield
 **Associated Spell:** Detect Thoughts, Protection from Energy  
 **Attunement:** 1 Hour  
 **Aura:** Strong Abjuration  
 **Body Slot:** Body  
 **Price:** 25,000 GP  
-**Weight:** 65 lb.
-
-*Hellshield was crafted to allow a paladin to bring the war against the fiends to their home ground.*
-
+**Weight:** 65 lb.  
+*Hellshield was crafted to allow a paladin to bring the war against the fiends to their home ground.*  
 You have a +3 bonus to AC while wearing this armor.  
 ***Temperate.*** You are unharmed by temperatures of 0 degrees Fahrenheit or lower, and 100 degrees Fahrenheit or higher.  
 ***Reduction.*** If you take Cold or Fire damage while wearing this armor, the armor reduces the damage you take by 25.  

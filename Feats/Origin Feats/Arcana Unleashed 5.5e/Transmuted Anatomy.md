@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.28*
 # Transmuted Anatomy
 *Origin Feat*  
 You gain the following benefits.  

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.40*
 # Fractured Awareness
 *Level 7 Divination (Bard, Sorcerer, Warlock, Wizard)*
 

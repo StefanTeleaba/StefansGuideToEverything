@@ -27,6 +27,8 @@ Once you use this Reaction, you can’t do so again until you finish a Long Rest
 You can make a creature unaware of your magical influence. When you cast an Enchantment spell that imposes the Charmed condition using a spell slot, you can choose one creature targeted by the spell. That creature remains unaware of being Charmed by you.  
 In addition, once before the spell ends, you can take a Magic action to force the chosen creature to make an Intelligence saving throw against your spell save DC. On a failed save, you can make the creature lose a number of hours of its memories equal to 1 plus your Intelligence modifier (minimum of 1 hour lost). You can make the creature forget less time, and the amount of time can't exceed the duration of your Enchantment spell.
 
+![Enchanter](https://5e.tools/img/classes/AU/Enchanter%20Wizard.webp)
+
 ---
 
 *Unearthed Arcana: Arcane Subclasses Update*  

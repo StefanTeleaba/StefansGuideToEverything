@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.42*
 # Power Word Pain
 *Level 7 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 

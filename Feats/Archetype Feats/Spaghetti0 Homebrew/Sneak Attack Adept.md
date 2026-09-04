@@ -5,3 +5,5 @@ You gain the following benefits.
 ***Ability Score Increase.*** Increase your Dexterity or Intelligence score by 1, to a maximum of 20.  
 ***Sneak Attack.*** You gain the Sneak Attack feature from the Rogue class. Your Number of Sneak Attack dice is equal to half your Proficiency Bonus (round down).  
 If you have any levels in Rogue, these dice are added to your normal Sneak Attack dice.
+
+---

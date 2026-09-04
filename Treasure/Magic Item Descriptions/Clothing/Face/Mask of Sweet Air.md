@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Mask of Sweet Air
-*Wondrous Item, Uncommon*
-
+*Wondrous Item, Uncommon*  
 While wearing this mask, you have Advantage on saving throws to avoid or end the Poisoned condition, and you have Resistance to Poison damage.
 
 ---

@@ -24,6 +24,8 @@ Taking damage can’t break your Concentration on Conjuration spells.
 When you use a spell slot to cast a Conjuration spell that summons a spirit whose stat block is included in the spell description, such as Summon Aberration, you can modify the spell to summon two creatures with the spell instead of one. Each creature is of the same kind, uses the stat block and rules denoted by the spell, and manifests in a different unoccupied space of your choice within the spell's range, but the summoned creatures' Hit Point maximums and current Hit Points are halved. If you lose Concentration on the spell, both creatures disappear.  
 Once you use this feature to modify a spell in this way, you must finish a Long Rest before you can do so again. You can also restore your use of it by expending a level 5+ spell slot (no action required).
 
+![Conjurer](https://5e.tools/img/classes/AU/Conjurer%20Wizard.webp)
+
 ---
 
 *Unearthed Arcana: Arcane Subclasses Update*  

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.45*
 # Waves of Exhaustion
 *Level 5 Necromancy (Sorcerer, Warlock, Wizard)*
 

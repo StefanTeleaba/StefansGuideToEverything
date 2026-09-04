@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.31*
 # Magical Connoisseur
 *General Feat (Prerequisite: Level 4+, Magic Initiate Feat)*  
 You gain the following benefits.  

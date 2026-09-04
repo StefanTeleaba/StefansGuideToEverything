@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.39*
 # Entrancing Mirrors
 *Level 8 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 

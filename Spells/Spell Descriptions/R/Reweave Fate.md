@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.42*
 # Reweave Fate
 *Level 7 Divination (Bard, Cleric, Warlock, Wizard)*
 

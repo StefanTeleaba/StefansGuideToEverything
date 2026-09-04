@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.37*
 # Catnap
 *Level 3 Enchantment (Artificer, Bard, Sorcerer, Wizard)*
 

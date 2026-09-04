@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.38*
 # Distorted Distance
 *Level 4 Illusion (Artificer, Bard, Warlock, Wizard)*
 

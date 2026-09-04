@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Slippers of Battledancing
 *Wondrous Item, Rare*  
-*These soft, open-toed slippers are made of supple leather and look very comfortable.*  
 ***Agile Movement.*** While wearing these boots, your Speed increases by 10 feet and you gain a +5 bonus to Dexterity (Acrobatics) checks and Charisma (Performance) checks made to dance.  
 ***Battledance.*** If you have proficiency in Charisma (Performance) checks, you gain a +2 bonus to Initiative rolls and Opportunity Attacks have Disadvantage against you.  
 ***Dancing Damage.*** If you move at least 10 feet before hitting a target with a melee attack roll, you can use your Charisma modifier instead of your Strength or Dexterity modifier for attack and damage rolls until the start of your next turn.

@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.33*
 # Warlike Familiar
 *General Feat (Prerequisite: Level 4+, Familiar Friend Feat)*  
 You gain the following benefits.  

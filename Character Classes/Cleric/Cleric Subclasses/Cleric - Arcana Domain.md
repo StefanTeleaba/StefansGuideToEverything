@@ -31,6 +31,8 @@ Once you use this feature, you can't use it again until you finish a Short or Lo
 ## Level 17: Magical Mastery
 You learn four Wizard spells, one from each of levels 6, 7, 8, and 9. You thereafter always have those spells prepared. Whenever you gain a Cleric level, you can replace one of these spells with another Wizard spell of the same level.
 
+![Arcana Domain](https://5e.tools/img/classes/AU/Arcana%20Domain%20Cleric.webp)
+
 ---
 
 *Unearthed Arcana: Arcane Subclasses*  

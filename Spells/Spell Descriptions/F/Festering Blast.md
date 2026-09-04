@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.35*
+*Arcana Unleashed 5.5e p.39*
 # Festering Blast
 *Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 

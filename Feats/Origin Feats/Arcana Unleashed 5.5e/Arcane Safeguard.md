@@ -1,4 +1,4 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.27*
 # Arcane Safeguard
 *Origin Feat*  
 You gain the following benefits.  

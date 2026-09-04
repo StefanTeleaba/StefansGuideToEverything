@@ -3,7 +3,7 @@
 *Level 1 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action  
-**Range:** 30 feet  
+**Range:** 60 feet  
 **Components:** V, S  
 **Duration:** 1 minute
 
