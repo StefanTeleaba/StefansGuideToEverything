@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Fatal Touch
 *Weapon (Bastard Sword), Legendary*  
 You gain a +5 bonus to attack rolls and damage rolls made with this magic weapon.  

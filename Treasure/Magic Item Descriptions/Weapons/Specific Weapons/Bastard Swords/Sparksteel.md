@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Sparksteel
-*Weapon (Bastard Sword), Uncommon*
-
+*Weapon (Bastard Sword), Uncommon*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. This weapon deals an extra 1d10 Lightning damage on a hit.
 
 ---

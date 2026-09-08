@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Ever-Watchful, Vindicator
 *Weapon (Bastard Sword), Legendary*  
 You gain a +4 bonus to attack rolls and damage rolls made with this magic weapon.  
