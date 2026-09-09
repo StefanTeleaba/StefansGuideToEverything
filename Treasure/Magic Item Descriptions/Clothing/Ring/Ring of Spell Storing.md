@@ -5,31 +5,14 @@ This ring stores spells cast into it, holding them until the attuned wearer uses
 Any creature can cast a spell of level 1 through 3 into the ring by touching the ring as the spell is cast. The spell has no effect other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.  
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
----
-
-*Homebrew 5.5e*
-# Ring of Spell Storing
 *Ring, Rare*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time.  
 Any creature can cast a spell of level 1 through 5 into the ring by touching the ring as the spell is cast. The spell has no effect other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.  
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
----
-
-*Homebrew 5.5e*
-# Ring of Spell Storing
 *Ring, Very Rare*  
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 7 levels worth of spells at a time.  
 Any creature can cast a spell of level 1 through 7 into the ring by touching the ring as the spell is cast. The spell has no effect other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.  
-While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
-
----
-
-*Homebrew 5.5e*
-# Ring of Spell Storing
-*Ring, Legendary*  
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 9 levels worth of spells at a time.  
-Any creature can cast a spell of level 1 through 9 into the ring by touching the ring as the spell is cast. The spell has no effect other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.  
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
 ---
@@ -62,9 +45,6 @@ Faint evocation; CL 5th; Forge Ring, imbue with spell ability; Price 18,000 gp.
 As the minor ring of spell storing, except it holds up to five levels of spells.  
 Moderate evocation; CL 9th; Forge Ring, imbue with spell ability; Price 50,000 gp.
 
----
-
-*Dungeon Master's Guide 3.5e p.233*
 # Ring of Major Spell Storing
 As the minor ring of spell storing, except it holds up to ten levels of spells.  
 Strong evocation; CL 17th; Forge Ring, imbue with spell ability; Price 200,000 gp.

@@ -6,3 +6,5 @@ You can magically produce sticky, silken spider webs from the bracers as a Bonus
 ***Manipulate Objects.*** You can use a line of web to manipulate an object that isn't being worn or carried within 30 feet. For example, you can pull an object to your hand, close a door, or snatch a Small or smaller object weighing less than 10 pounds.  
 ***Create Rope.*** You create a 60-foot-long Rope of web and anchor it to a point you choose.  
 ***Web Spell.*** You cast Web without a spell slot as a part of the Bonus Action used for this feature (DC 15). When you cast it using this feature, the webs fill a 5-foot Cube, and the spell's duration becomes 1 minute. The bracers can't cast this spell again until the next dawn.
+
+---

@@ -5,7 +5,7 @@
 ***Speed Burst.*** In addition, these boots have 3 charges, which are renewed each day at dawn. As a Bonus Action, you can spend 1 or more of these charges to gain a bonus to your speed until the start of your next turn.
 
 | Expended Charges | Speed Bonus |
-| ---------------- | ----------- |
+|:----------------:|-------------|
 | 1 charge         | +10 feet    |
 | 2 charges        | +15 feet    |
 | 3 charges        | +20 feet    |
@@ -13,6 +13,7 @@
 ---
 
 *Magic Item Compendium, p.67*  
+# Acrobat Boots
 **Price:** 900 GP  
 **Body Slot:** Feet  
 **Aura:** Faint Transmutation  
@@ -23,7 +24,7 @@
 ***Speed Burst.*** In addition, these boots have 3 charges, which are renewed each day at dawn. As a Bonus Action, you can spend 1 or more of these charges to gain a bonus to your speed until the start of your next turn.
 
 | Expended Charges | Speed Bonus |
-| ---------------- | ----------- |
+|:----------------:|-------------|
 | 1 charge         | +10 feet    |
 | 2 charges        | +15 feet    |
 | 3 charges        | +20 feet    |

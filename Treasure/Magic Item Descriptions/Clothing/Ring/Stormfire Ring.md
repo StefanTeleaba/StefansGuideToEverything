@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Stormfire Ring
-*Wondrous Item, Rare (Requires Attunement)*
-
+*Wondrous Item, Rare (Requires Attunement)*  
 The ring has 5 charges and regains all expended charges daily at dawn. You can expend 1 charge to cast *Faerie Fire* from the ring (DC 13). Creatures affected by the spell also take 1d6 Lightning or Thunder damage (your choice). At the start of each creature's turns until the spell ends, the target takes 1d6 Lightning or Thunder damage (your choice) and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends on that creature.
 
 ---

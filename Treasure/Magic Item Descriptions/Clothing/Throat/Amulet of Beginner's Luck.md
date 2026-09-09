@@ -1,7 +1,9 @@
+*Homebrew 5.5e*
 # Amulet of Beginner's Luck
-*Wondrous Item, Common*
-
+*Wondrous Item, Common*  
 While wearing this amulet, when you make skill check using a skill you aren't proficient with and roll a 1 or 2 on the d20, you can reroll the die. You must use the new roll. Once this property has been used, it can't be used again until the next dawn.
+
+---
 
 *The Griffon's Saddlebag*
 

@@ -2,16 +2,10 @@
 *Wondrous Item, Uncommon*  
 When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a +2 bonus to the damage.
 
----
-
-# Armbands of Might
 *Wondrous Item, Rare*  
 While wearing these armbands, you have Advantage on Strength checks and Strength saving throws.  
 When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a +4 bonus to the damage.
 
----
-
-# Armbands of Might
 *Wondrous Item, Very Rare*  
 While wearing these armbands, you have Advantage on Strength checks and Strength saving throws and you gain a +5 bonus to Strength checks.  
 When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a +6 bonus to the damage.

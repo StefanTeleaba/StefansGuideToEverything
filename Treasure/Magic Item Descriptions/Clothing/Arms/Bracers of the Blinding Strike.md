@@ -4,18 +4,10 @@
 ***Defense.*** While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Initiative.*** You gain +2 bonus to your Initiative rolls if you don't have the Incapacitated condition.
 
----
-
-*Homebrew 5.5e*
-# Bracers of the Blinding Strike
 *Wondrous Item, Rare*  
 ***Defense.*** While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Initiative.*** You gain +4 bonus to your Initiative rolls if you don't have the Incapacitated condition.
 
----
-
-*Homebrew 5.5e*
-# Bracers of the Blinding Strike
 *Wondrous Item, Very Rare*  
 ***Defense.*** While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.  
 ***Improved Initiative.*** You gain +4 bonus to your Initiative rolls if you don't have the Incapacitated condition.  

@@ -3,10 +3,6 @@
 *Wondrous Item, Uncommon*  
 While wearing these gauntlets, your Strength score increases by 2.
 
----
-
-*Homebrew 5.5e*
-# Gauntlets of Ogre Power
 *Wondrous Item, Rare*  
 While wearing these gauntlets, your Strength score increases by 2, you have Advantage on Strength checks and you count as one size larger when determining your carrying capacity.
 

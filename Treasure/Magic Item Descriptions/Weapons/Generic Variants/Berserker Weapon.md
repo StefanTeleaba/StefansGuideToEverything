@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Berserker Weapon
 *Weapon (Any Melee Weapon), Uncommon*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. This bonus increases to +2 while your Rage is active.

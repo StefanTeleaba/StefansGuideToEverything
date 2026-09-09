@@ -1,23 +1,22 @@
+*Homebrew 5.5e*
+# Goggles of Night
+*Wondrous Item, Uncommon*  
+While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.
+
+*Wondrous Item, Rare*  
+While wearing these dark lenses, you have Darkvision out to 120 feet. If you already have Darkvision, wearing the goggles increases its range by 120 feet. Within this range, you can see in Darkness as if it were Bright Light. You still discern colors in that Darkness only as shades of gray.
+
+*Wondrous Item, Very Rare*  
+While wearing these dark lenses, you have Darkvision out to 180 feet. If you already have Darkvision, wearing the goggles increases its range by 180 feet. Within this range, you can see in Darkness as if it were Bright Light. You still discern colors in that Darkness only as shades of gray.
+
+---
+
 *Dungeon Master's Guide 5.5e p.265*
 # Goggles of Night
 *Wondrous Item, Uncommon*  
 While wearing these dark lenses, you have Darkvision out to 60 feet. If you already have Darkvision, wearing the goggles increases its range by 60 feet.
 
 ![Goggles of Night](https://5e.tools/img/items/XDMG/Goggles%20of%20Night.webp)
-
----
-
-*Homebrew 5.5e*
-# Goggles of Night
-*Wondrous Item, Rare*  
-While wearing these dark lenses, you have Darkvision out to 120 feet. If you already have Darkvision, wearing the goggles increases its range by 120 feet. Within this range, you can see in Darkness as if it were Bright Light. You still discern colors in that Darkness only as shades of gray.
-
----
-
-*Homebrew 5.5e*
-# Goggles of Night
-*Wondrous Item, Very Rare*  
-While wearing these dark lenses, you have Darkvision out to 180 feet. If you already have Darkvision, wearing the goggles increases its range by 180 feet. Within this range, you can see in Darkness as if it were Bright Light. You still discern colors in that Darkness only as shades of gray.
 
 ---
 

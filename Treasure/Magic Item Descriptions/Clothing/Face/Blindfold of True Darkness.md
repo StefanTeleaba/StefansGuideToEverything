@@ -1,9 +1,6 @@
 *Homebrew 5.5e*
 # Blindfold of True Darkness
-*Wondrous Item, Uncommon*
-
-*This black, silky piece of cloth is completely opaque when held up to the light.*
-
+*Wondrous Item, Uncommon*  
 While wearing this blindfold, you have the *Blinded* condition but you gain *Blindsight* with a range of 30 feet. If you already have *Blindsight*, wearing the blindfold increases its range by 30 feet.
 
 ---

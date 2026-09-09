@@ -30,4 +30,5 @@ You have Advantage and a +5 bonus on Initiative rolls.
 During the first round of each combat, you have Advantage on attack rolls against any creature that hasn't taken a turn. If you hit any target during that round, the target takes an extra 1d10 damage of the weapon's type.
 
 ---
+
 *Dungeons & Dragons Online: Shadowfell Conspiracy*

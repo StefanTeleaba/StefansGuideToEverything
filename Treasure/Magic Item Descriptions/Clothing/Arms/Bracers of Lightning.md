@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Bracers of Lightning
-*Wondrous Item, Rare (Requires Attunement)*
-
+*Wondrous Item, Rare (Requires Attunement)*  
 When you hit a creature with an attack roll using a weapon, an Unarmed Strike, or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d6 Lightning or Thunder damage (choose when you hit).
 
 ---

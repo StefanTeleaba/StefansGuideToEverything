@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Ring of Mystic Fire
 *Ring, Rare (Requires Attunement)*
 When you cast a spell that deals fire damage, increase the spell's effective level by 1.

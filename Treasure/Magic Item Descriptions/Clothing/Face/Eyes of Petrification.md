@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Eyes of Petrification
-*Wondrous Item, Rare*
-
+*Wondrous Item, Rare*  
 These crystal lenses fit over the eyes. They have 3 charges and regain 1d3 expended charges daily at dawn. While wearing them, you can take a Magic action to expend 1 charge and attempt to turn creatures that you can see within range into stone. Each creature in a 30-foot Cone must succeed on a Constitution saving throw or have the Restrained condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Petrified condition instead of the Restrained condition.
 
 ---

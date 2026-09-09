@@ -3,10 +3,6 @@
 *Weapon (Dagger), Uncommon*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
----
-
-*Homebrew 5.5e*
-# Applebane
 *Weapon (Dagger), Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 When you hit a Plant creature with this weapon, the weapon deals one additional die of damage.  

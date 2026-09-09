@@ -19,9 +19,6 @@ While wearing this circlet, you can cast Scorching Ray with it (+5 to hit). The 
 On command, this simple golden headband projects a blast of searing light (3d8 points of damage) once per day.  
 Faint evocation; CL 6th; Craft Wondrous Item, searing light; Price 6,480 gp.
 
----
-
-*Dungeon Master's Guide 3.5e p.252*
 # Major Circlet of Blasting
 On command, this elaborate golden headband projects a blast of searing light (5d8 maximized for 40 points of damage) once per day.  
 Strong evocation; CL 17th; Craft Wondrous Item, Maximize Spell, searing light; Price 23,760 gp.
