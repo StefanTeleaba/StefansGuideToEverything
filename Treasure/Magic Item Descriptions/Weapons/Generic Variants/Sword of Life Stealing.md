@@ -8,7 +8,7 @@ When you attack a creature with this weapon and score a Critical Hit, that targe
 
 *Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword), Very Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-This magic weapon deals an extra 1d6 Necrotic damage to any creature it hits if it isn’t a Construct or an Undead. In addition, when you score a Critical Hit, that target takes an extra 3d6 Necrotic damage. When you hit a creature, you you regain Hit Points equal to the amount of Necrotic damage dealt.
+Any creature you hit with the weapon takes an extra 1d6 Necrotic damage if it isn’t a Construct or an Undead, and you regain Hit Points equal to the amount of Necrotic damage dealt. In addition, when you score a Critical Hit, that target takes an extra 3d6 Necrotic damage.
 
 ---
 
