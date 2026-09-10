@@ -1,16 +1,16 @@
 *Homebrew 5.5e*
 # Axe of Grounding
-*Weapon (Battleaxe), Uncommon*  
+*Weapon (Handaxe, Battleaxe, or Greataxe), Uncommon*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 If you take Lightning damage while the axe is on your person, the axe absorbs some of it. The damage you take is reduced by 10. For 1 minute after it has absorbed Lightning damage, this weapon deals an additional 1d8 Lightning damage on a Critical Hit.
 
-*Weapon (Battleaxe), Rare*  
+*Weapon (Handaxe, Battleaxe, or Greataxe), Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
-If you take Lightning damage while the axe is on your person, the axe absorbs some of it. The damage you take is reduced by 10. For 1 minute after it has absorbed Lightning damage, this weapon deals an additional 1d8 Lightning damage on a Hit.
+If you take Lightning damage while the axe is on your person, the axe absorbs some of it. The damage you take is reduced by 20. For 1 minute after it has absorbed Lightning damage, this weapon deals an additional 1d8 Lightning damage on a Hit.
 
-*Weapon (Battleaxe), Very Rare*  
+*Weapon (Handaxe, Battleaxe, or Greataxe), Very Rare*  
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-You have Resistance to Lightning damage and if you take Lightning damage while the axe is on your person, the axe absorbs some of it. The damage you take is reduced by 10. For 1 hour after it has absorbed Lightning damage, this weapon deals an additional 1d8 Lightning damage on a Hit.
+You have Resistance to Lightning damage and if you take Lightning damage while the axe is on your person, the axe absorbs some of it. The damage you take is reduced by 30. For 1 hour after it has absorbed Lightning damage, this weapon deals an additional 1d8 Lightning damage on a Hit.
 
 ---
 

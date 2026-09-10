@@ -11,6 +11,6 @@ While the weapon hovers, you can take a Bonus Action to cause it to fly up to 60
 When you call the sword back (no action required), it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 60 feet away from it.  
 
 ---
-*Faiths and Pantheons, p.25*
 
+*Faiths and Pantheons, p.25*  
 *The Moonsword was the weapon wielded by Eilistraee, the drow goddess of moonlight and swordwork.*

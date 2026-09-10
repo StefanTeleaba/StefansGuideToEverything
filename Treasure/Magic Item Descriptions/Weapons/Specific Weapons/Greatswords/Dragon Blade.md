@@ -1,4 +1,4 @@
-*Homebrew 02*
+*Homebrew 5.5e*
 # Dragon Blade
 *Weapon (Greatsword), Very Rare*
 

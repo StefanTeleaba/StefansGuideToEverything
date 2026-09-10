@@ -1,10 +1,18 @@
+*Homebrew 5.5e*
 # Blackguard's Sword
-*Weapon (Longsword), Rare*
+*Weapon (Greatsword or Longsword), Uncommon*  
+This weapon deals an additional 1d8 Necrotic damage on a Hit.  
+***Dazing Smite.*** Immediately after you cast Divine Smite, the target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.
 
+*Weapon (Greatsword or Longsword), Rare*  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+This weapon deals an additional 1d8 Necrotic damage on a Hit.  
+***Dazing Smite.*** Immediately after you cast Divine Smite, the target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.
+
+*Weapon (Greatsword or Longsword), Very Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 This weapon deals an additional 1d8 Necrotic damage on a Hit.  
-***Dazing Smite.*** Immediately after you cast Divine Smite, the target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.  
-
+***Dazing Smite.*** Immediately after you cast Divine Smite, the target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn.
 
 ---
 
