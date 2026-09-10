@@ -61,7 +61,6 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 ***Utilize:*** Discern what a glass object held in the past 24 hours (DC 15)  
 ***Craft:*** Glass Bottle, Magnifying Glass, Spyglass, Vial
 
-
 **Jeweler's Tools (25 GP)**  
 ***Ability:*** Intelligence
 ***Weight:*** 2 lb.
@@ -429,17 +428,6 @@ If you are crafting an item, the spirits function as a single assistant for your
 You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.  
 Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot Cube or eight connected 5-foot Cubes) given a sufficient quantity of material. If you're working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a 5-foot Cube). The quality of any fabricated objects is based on the quality of the raw materials.  
 Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of Artisan's Tools used to craft such objects.
-
-*Eberron: Forge of the Artificer 5.5e p.21*  
-[**Homunculus Servant**](https://5e.tools/spells.html#homunculus%20servant_efa)  
-*Level 2 Conjuration (Artificer)*  
-**Casting Time:** 1 hour or Ritual  
-**Range:** 10 feet  
-**Components:** V, S, M (a gem worth 100+ GP)  
-**Duration:** Instantaneous  
-You summon a special homunculus in an unoccupied space within range. This creature uses the [Homunculus Servant](https://5e.tools/bestiary.html#homunculus%20servant_efa) stat block. If you already have a homunculus from this spell, the homunculus is replaced by the new one. You determine the homunculus's appearance, such as a mechanical-looking bird, winged vial, or miniature animate cauldron.  
-**Combat.** The homunculus is an ally to you and your allies. In combat, it shares your Initiative count, but it takes its turn immediately after yours. It obeys your commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.  
-***Using a Higher-Level Spell Slot.*** Use the spell slot's level for the spell's level in the stat block.
 
 ---
 
