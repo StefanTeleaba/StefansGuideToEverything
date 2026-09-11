@@ -1,10 +1,10 @@
 *Homebrew 5.5e*
 # Gauntlets of Ogre Power
 *Wondrous Item, Uncommon*  
-While wearing these gauntlets, your Strength score increases by 2.
+Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.
 
 *Wondrous Item, Rare*  
-While wearing these gauntlets, your Strength score increases by 2, you have Advantage on Strength checks and you count as one size larger when determining your carrying capacity.
+Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them. In addition, you have Advantage on Strength checks and you count as one size larger when determining your carrying capacity.
 
 ---
 

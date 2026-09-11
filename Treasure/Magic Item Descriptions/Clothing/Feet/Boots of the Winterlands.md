@@ -1,3 +1,17 @@
+*Homebrew 5.5e*
+# Boots of the Winterlands
+*Wondrous Item, Uncommon*  
+These furred boots are snug and feel warm. While wearing them, you gain the following benefits.  
+***Cold Resistance.*** You have Resistance to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.  
+***Winter Strider.*** You ignore Difficult Terrain created by ice or snow.
+
+*Wondrous Item, Rare*  
+These furred boots are snug and feel warm. While wearing them, you gain the following benefits.  
+***Cold Resistance.*** You have Immunity to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.  
+***Winter Strider.*** You ignore Difficult Terrain created by ice or snow.
+
+---
+
 *Dungeon Master's Guide 5.5e p.240*
 # Boots of the Winterlands
 *Wondrous Item, Uncommon (Requires Attunement)*  

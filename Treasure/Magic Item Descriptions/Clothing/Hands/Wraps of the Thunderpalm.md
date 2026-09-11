@@ -2,7 +2,7 @@
 # Wraps of the Thunderpalm
 *Wondrous Item, Rare*  
 ***Booming Blows.*** Your Unarmed Strikes deal an additional die of Thunder damage.  
-***Spell.*** 1/Day: Thunderwave (Level 3)
+***Spell.*** 1/Day: *Thunderwave* (Level 3)
 
 ---
 

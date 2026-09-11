@@ -1,6 +1,6 @@
 *Dungeon Master's Guide 5.5e p.239*
 # Boots of Elvenkind
-*Wondrous Item, Uncommon*  d
+*Wondrous Item, Uncommon*  
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have Advantage on Dexterity (Stealth) checks.
 
 ![Boots of Elvenkind](https://5e.tools/img/items/XDMG/Boots%20of%20Elvenkind.webp)

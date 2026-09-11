@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Amulet of Health
 *Wondrous Item, Uncommon*  
-You gain a +2 bonus to your Constitution score while you wear this amulet.
+While wearing this amulet, your Constitution increases by 2, to a maximum of 22.
+
+*Wondrous Item, Rare*  
+While wearing this amulet, your Constitution increases by 4, to a maximum of 24.
+
+*Wondrous Item, Very Rare*  
+While wearing this amulet, your Constitution increases by 6, to a maximum of 26.
 
 ---
 *Dungeon Master's Guide 5.5e p.228*

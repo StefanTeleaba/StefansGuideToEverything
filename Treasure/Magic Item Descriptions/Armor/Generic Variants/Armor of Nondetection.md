@@ -1,12 +1,12 @@
 *Homebrew 5.5e*
 # Armor of Nondetection
-*Generic Variant, Uncommon*  
+*Armor (Any Light, Medium, or Heavy), Uncommon*  
 You are hidden from Divination spells. You can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
-*Generic Variant, Rare*  
+*Armor (Any Light, Medium, or Heavy), Rare*  
 You have a +1 bonus to AC while wearing this armor. You are hidden from Divination spells. You can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
-*Generic Variant, Very Rare*  
+*Armor (Any Light, Medium, or Heavy), Very Rare*  
 You have a +2 bonus to AC while wearing this armor. You are hidden from Divination spells. You can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
 ---

@@ -1,8 +1,7 @@
 *Homebrew 5.5e*
 # Blindhelm
-*Wondrous Item, Uncommon*
-
-While wearing this helmet, you gain *Blindsight* with a range of 5 feet. If you already have *Blindsight*, wearing the helmet increases its range by 5 feet. You have *Advantage* on saving throws against Gaze attacks. 
+*Wondrous Item, Uncommon*  
+While wearing this helmet, you gain Blindsight with a range of 5 feet. If you already have Blindsight, wearing the helmet increases its range by 5 feet. You have Advantage on saving throws against Gaze attacks. 
 
 ---
 

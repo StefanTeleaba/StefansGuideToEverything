@@ -1,3 +1,6 @@
+
+---
+
 *Complete Warrior, p.134*
 # Armor of the Unending Hunt
 **Associated Spell:** Restoration  

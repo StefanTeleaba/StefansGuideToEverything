@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Headband of Intellect
 *Wondrous Item, Uncommon*  
-While wearing this headband, your Intelligence score increases by 2.
+While wearing this headband, your Intelligence score increases by 2, to a maximum of 20.
+
+*Wondrous Item, Rare*  
+While wearing this headband, your Intelligence score increases by 4, to a maximum of 22.
+
+*Wondrous Item, Very Rare*  
+While wearing this headband, your Intelligence score increases by 6, to a maximum of 24.
 
 ---
 

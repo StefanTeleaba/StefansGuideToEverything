@@ -1,7 +1,5 @@
 # Platinum Helm
-*Wondrous Item, Rare*  
-
-*This scaled metal helm covers the entire face. A pair of large, fully spread dragon wings is attached at the temples.*
+*Wondrous Item, Rare*
 
 *Worn by a Creature of Lawful Good, Neutral Good or Lawful Neutral Alignment:*  
 ***Frightened Immunity.*** You have Immunity to the Frightened condition.
@@ -12,9 +10,8 @@
 *Worn by a Follower of Bahamut of Level 15+:*  
 ***Blindsense.*** You gain Blindsense with a range of 60 feet. If you already have Blindsense when you gain this feature, its range increases by 60 feet.
 
-
-
 ---
+
 *Magic Item Compendium 3.5e p.119*  
 
 **Price (Item Level):** 5,000 gp (9th)  

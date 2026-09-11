@@ -1,3 +1,6 @@
+
+---
+
 *Dragon Magazine 323, p.87*
 # Armor of Thror
 **Associated Spell:** Lightning Bolt  

@@ -1,22 +1,13 @@
 *Homebrew 5.5e*
 # Belt of Fortitude
-*Wondrous Item, Uncommon*
+*Wondrous Item, Uncommon*  
+While wearing this belt, your Consitution score increases by 2, to a maximum of 22.
 
-While wearing this belt, your Consitution score increases by 2.
+*Wondrous Item, Rare*  
+While wearing this belt, your Consitution score increases by 4, to a maximum of 24.
 
----
-
-# Belt of Fortitude
-*Wondrous Item, Rare*
-
-While wearing this belt, your Consitution score increases by 4.
-
----
-
-# Belt of Fortitude
-*Wondrous Item, Very Rare*
-
-While wearing this belt, your Consitution score increases by 6.
+*Wondrous Item, Very Rare*  
+While wearing this belt, your Consitution score increases by 6, to a maximum of 26.
 
 ---
 

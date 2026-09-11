@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Skullcap of Eyes
-*Wondrous Item, Rare*  
-*This iron skullcap is wrought to appear as if it were covered in eyes.*  
+*Wondrous Item, Rare*   
 While you wear this helm, you have Advantage on Wisdom (Perception) checks that rely on sight and can not be flanked.
 
 ---

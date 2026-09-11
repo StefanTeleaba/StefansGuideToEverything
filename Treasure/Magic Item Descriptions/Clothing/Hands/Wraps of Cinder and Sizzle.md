@@ -2,7 +2,7 @@
 # Wraps of Cinder and Sizzle
 *Wondrous Item, Uncommon*  
 ***Dragonfire Fists.*** Your Unarmed Strikes deal an additional die of Fire damage.  
-***Spell.*** 1/Day: Scorching Ray (Level 3)
+***Spell.*** 1/Day: *Scorching Ray* (Level 3)
 
 ---
 

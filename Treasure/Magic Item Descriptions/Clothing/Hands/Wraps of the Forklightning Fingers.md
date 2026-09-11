@@ -2,7 +2,7 @@
 # Wraps of the Forklightning Fingers
 *Wondrous Item, Rare*  
 ***Booming Blows.*** Your Unarmed Strikes deal an additional die of Lightning damage.  
-***Spell.*** 1/Day: Lightning Bolt
+***Spell.*** 1/Day: *Lightning Bolt*
 
 ---
 

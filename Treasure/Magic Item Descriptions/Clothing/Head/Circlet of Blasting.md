@@ -3,12 +3,27 @@
 *Wondrous Item, Uncommon*
 While wearing this circlet, you can project a blast of searing light toward a creature within range. Make a ranged spell attack against the target (+5 to hit). On a hit, it takes 3d8 Radiant damage. This property can't be used again until the next dawn.
 
+*Wondrous Item, Rare*
+While wearing this circlet, you can project a blast of searing light toward a creature within range. Make a ranged spell attack against the target (+9 to hit). On a hit, it takes 6d8 Radiant damage. This property can't be used again until the next dawn.
+
+*Wondrous Item, Very Rare*
+While wearing this circlet, you can project a blast of searing light toward a creature within range. Make a ranged spell attack against the target (+10 to hit). On a hit, it takes 10d8 Radiant damage. This property can't be used again until the next dawn.
+
+*Wondrous Item, Uncommon*
+While wearing this circlet, you can cast *Scorching Ray* with it (+5 to hit). The circlet can't cast this spell again until the next dawn.
+
+*Wondrous Item, Rare*
+While wearing this circlet, you can cast *Scorching Ray* with it (Level 5, +9 to hit). The circlet can't cast this spell again until the next dawn.
+
+*Wondrous Item, Very Rare*
+While wearing this circlet, you can cast *Scorching Ray* with it (Level 8, +10 to hit). The circlet can't cast this spell again until the next dawn.
+
 ---
 
 *Dungeon Master's Guide 5.5e p.240*
 # Circlet of Blasting
 *Wondrous Item, Uncommon*
-While wearing this circlet, you can cast Scorching Ray with it (+5 to hit). The circlet can't cast this spell again until the next dawn.
+While wearing this circlet, you can cast *Scorching Ray* with it (+5 to hit). The circlet can't cast this spell again until the next dawn.
 
 ![Circlet of Blasting](https://5e.tools/img/items/XDMG/Circlet%20of%20Blasting.webp)
 

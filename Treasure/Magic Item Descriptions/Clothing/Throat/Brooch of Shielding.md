@@ -1,7 +1,10 @@
 *Homebrew 5.5e*
 # Brooch of Shielding
 *Wondrous Item, Uncommon*  
-While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the Magic Missile spell.
+While wearing this brooch, you have Resistance to Force damage, and you have Immunity to damage from the *Magic Missile* spell.
+
+*Wondrous Item, Rare*  
+While wearing this brooch, you have Immunity to Force damage.
 
 ---
 

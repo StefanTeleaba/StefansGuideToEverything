@@ -1,10 +1,8 @@
 *Homebrew 5.5e*
 # Angelhelm
-*Wondrous Item, Rare (Requires Attunement by a Good Creature)*
-
-While wearing the helm, whenever you deal damage with a melee weapon or an Unarmed Strike, it can deal your choice of Radiant damage or its normal damage type.
-
-You can use the Angelhelm to cast one of the following spells: Cure Wounds (Level 5), Dispel Evil and Good (Evil only), Protection from Energy. Once the Angelhelm has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+*Wondrous Item, Rare (Requires Attunement by a Good Creature)*  
+While wearing the helm, whenever you deal damage with a melee weapon or an Unarmed Strike, it can deal your choice of Radiant damage or its normal damage type.  
+You can use the Angelhelm to cast one of the following spells: *Cure Wounds* (Level 5), *Dispel Evil and Good* (Evil only), *Protection from Energy*. Once the Angelhelm has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
 ---
 *Magic Item Compendium, p.71*

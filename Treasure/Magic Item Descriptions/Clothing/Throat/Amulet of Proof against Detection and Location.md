@@ -3,6 +3,9 @@
 *Wondrous Item, Uncommon*  
 While wearing this amulet, you can't be targeted by Divination spells or perceived through magical scrying sensors unless you allow it.
 
+*Wondrous Item, Very Rare (Requires Attunement)*  
+While wearing this amulet, you have Immunity to Psychic damage and the Charmed condition. You are also unaffected by anything that would sense your emotions or alignment, read your thoughts, or magically detect your location, and no spell—not even *Wish*—can gather information about you, observe you remotely, or control your mind.
+
 ---
 
 *Dungeon Master's Guide 5.5e p.228*

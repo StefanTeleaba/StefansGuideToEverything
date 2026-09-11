@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Cloak of Charisma
 *Wondrous Item, Uncommon*  
-While wearing this cloak, your Charisma score increases by 2.
+While wearing this cloak, your Charisma score increases by 2, to a mazimum of 22.
+
+*Wondrous Item, Rare*  
+While wearing this cloak, your Charisma score increases by 4, to a mazimum of 24.
+
+*Wondrous Item, Very Rare*  
+While wearing this cloak, your Charisma score increases by 6, to a mazimum of 26.
 
 *Wondrous Item, Uncommon (Requires Attunement)*  
 Your Charisma score is 19 while you wear this cloak. It has no effect on you if your Charisma is 19 or higher without it.

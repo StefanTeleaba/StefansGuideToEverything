@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Gloves of Dexterity
 *Wondrous Item, Uncommon*  
-You gain a +2 bonus to your Dexterity score while you wear these gloves.
+While wearing these gloves, your Dexterity increases by 2, to a maximum of 22.
+
+*Wondrous Item, Rare*  
+While wearing these gloves, your Dexterity increases by 4, to a maximum of 24.
+
+*Wondrous Item, Very Rare*  
+While wearing these gloves, your Dexterity increases by 6, to a maximum of 26.
 
 ---
 

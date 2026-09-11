@@ -1,3 +1,30 @@
+*Homebrew 5.5e*
+# Belt of Hill Giant Strength
+*Wondrous Item, Uncommon*  
+While wearing this belt, your Strength score increases by 2, to a maximum of 20.
+
+# Belt of Frost Giant Strength
+*Wondrous Item, Uncommon (Requires Attunement)*  
+While wearing this belt, your Strength score increases by 2, to a maximum of 22.
+
+# Belt of Stone Giant Strength
+*Wondrous Item, Rare (Requires Attunement)*  
+While wearing this belt, your Strength score increases by 4, to a maximum of 24.
+
+# Belt of Fire Giant Strength
+*Wondrous Item, Very Rare (Requires Attunement)*  
+While wearing this belt, your Strength score increases by 6, to a maximum of 26.
+
+# Belt of Cloud Giant Strength
+*Wondrous Item, Very Rare (Requires Attunement)*  
+While wearing this belt, your Strength score increases by 8, to a maximum of 28.
+
+# Belt of Storm Giant Strength
+*Wondrous Item, Legendary (Requires Attunement)*  
+While wearing this belt, your Strength score increases by 10, to a maximum of 30.
+
+---
+
 ### Belt of Giant Strength
 
 **Price:** Varies  
