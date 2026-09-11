@@ -1,7 +1,14 @@
 *Homebrew 5.5e*
 # Answerer
+*Weapon (Longsword), Uncommon*  
+When you take damage from a creature, you can take a Reaction to make an attack against that creature using this weapon and you have Advantage on attack rolls against that creature until the end of your next turn.
+
 *Weapon (Longsword), Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+When you take damage from a creature, you can take a Reaction to make an attack against that creature using this weapon and you have Advantage on attack rolls against that creature until the end of your next turn.
+
+*Weapon (Longsword), Very Rare*  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 When you take damage from a creature, you can take a Reaction to make an attack against that creature using this weapon and you have Advantage on attack rolls against that creature until the end of your next turn.
 
 ---

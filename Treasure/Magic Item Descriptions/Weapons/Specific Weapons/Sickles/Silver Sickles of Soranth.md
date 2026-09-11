@@ -12,11 +12,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with these magic weapo
 ***Two-Weapon Fighting.*** You gain the benefits of the *Two-Weapon Fighting* feat while wielding both these sickles.
 ***Dual Wielding.*** You gain the benefits of the *Dual Wielder* feat while wielding both these sickles.
 
-**Source:** *Dragons of Faerun 3.5e p.123*
-
-
-
 ---
+
+*Dragons of Faerun 3.5e p.123*
+
 The silver sickles of Soranth are the legendary weapons of a fallen
 hierophant of Mielikki.
 Lore: Characters can gain the following pieces of information

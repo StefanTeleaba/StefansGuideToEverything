@@ -1,5 +1,12 @@
+*Homebrew 5.5e*
 # Fiendish Moon
-*Weapon (Sickle), Very Rare*
+*Weapon (Sickle), Uncommon*  
+Any creature you hit with the weapon takes an extra 1d6 Necrotic damage if it isn’t a Construct or an Undead, and you regain Hit Points equal to the amount of Necrotic damage dealt.
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-***Vampiric.*** You deal an additional 1d6 Necrotic damage on a Hit. You gain the same number of HP as the amount of Necrotic damage you deal.
+*Weapon (Sickle), Rare*  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, any creature you hit with the weapon takes an extra 1d6 Necrotic damage if it isn’t a Construct or an Undead, and you regain Hit Points equal to the amount of Necrotic damage dealt.
+
+*Weapon (Sickle), Very Rare*  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, any creature you hit with the weapon takes an extra 1d6 Necrotic damage if it isn’t a Construct or an Undead, and you regain Hit Points equal to the amount of Necrotic damage dealt.
+
+---

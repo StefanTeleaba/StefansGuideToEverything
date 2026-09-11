@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Carrion War Pick
 *Weapon (War Pick), Uncommon*
 
@@ -5,4 +6,6 @@
 
 When you hit a creature with this weapon, the weapon deals an extra 1d10 Necrotic damage to the target if it's missing any of its Hit Points. Furthermore, when you reduce a Small or larger enemy to 0 Hit Points with this weapon, you gain 1d10 Temporary Hit Points.
 
-**Source.** *The Griffon's Saddlebag*
+---
+
+*The Griffon's Saddlebag*
