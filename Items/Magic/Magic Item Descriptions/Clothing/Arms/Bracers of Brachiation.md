@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Bracers of Brachiation
-*Wondrous Item, Uncommon*
-
+*Wondrous Item, Uncommon*  
 While wearing these bracers, you have a Climb Speed equal to your Speed, and you can jump up to 30 feet by spending only 10 feet of movement as long as you are brachiating.
 
 ---
@@ -18,3 +17,5 @@ The wearer can also jump as if wearing boots of striding and springing, but the 
 # Gloves of Brachiation
 These tight leather gloves allow the wearer to travel from branch to branch using only her arms, as a monkey or gibbon would. As long as she is at medium encumbrance or less, the wearer can move at her full speed through the tree canopy. The wearer also gains a +10 circumstance bonus on Jump checks as long as she is aboveground (leaping from tree branch to tree branch, for example).
 Caster Level: 3rd; Prerequisites: Craft Wondrous Item, cat’s grace; Market Price: 4,000 gp; Weight: —.
+
+---

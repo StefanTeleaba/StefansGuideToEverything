@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Armbands of Might
 *Wondrous Item, Uncommon*  
 When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a +2 bonus to the damage.
@@ -11,6 +12,7 @@ While wearing these armbands, you have Advantage on Strength checks and Strength
 When you make an attack using Strength — with either a weapon or an Unarmed Strike — and deal damage to the target, you gain a +6 bonus to the damage.
 
 ---
+
 *Magic Item Compendium, p.72*  
 **Price (Item Level):** 4,100 gp (9th)
 **Body Slot:** Arms
