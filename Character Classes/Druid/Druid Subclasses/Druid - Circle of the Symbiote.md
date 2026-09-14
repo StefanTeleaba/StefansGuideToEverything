@@ -17,7 +17,6 @@
 
 ## Level 3: Circle of the Symbiote Spells
 When you reach a Druid level specified in the Circle of the Symbiote Spells table, you thereafter always have the listed spells prepared.  
-
 **Circle of the Symbiote Spells**
 | Druid Level | Circle Spells                |
 |:-----------:|------------------------------|
@@ -40,3 +39,5 @@ While you are in mortal peril, your symbiote can attempt to move you to safety. 
 ## Level 14: Surge of Sustenance
 As a Magic action, you can expend one use of Wild Shape to grant the benefits of finishing a Short Rest to yourself or a creature you touch.  
 Once you use this feature, you can't use it again until you finish a Long Rest.
+
+---

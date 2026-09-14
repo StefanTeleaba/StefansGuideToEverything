@@ -1,6 +1,5 @@
-# Occultist Guild
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Occultist Guild
 *Hunt Mages and Magical Adversaries*  
 In Etharis, there are those who fear magic, and those who seek to understand it. Monster Hunters from the Occultist Guild know folk from both sides are equally dangerous. An Occultist investigates the arcane, the supernatural, and the uncanny, while avoiding the influence of superstition or ideology. Despite their reputation as mage hunters, Occultists don't burn their enemies at the stake—Occultists put them to the sword, as that's what swords are for. Knowledge and magic give Occultists an edge over their mystical adversaries. Their spells are used to detect and defend against dangerous arcana, and, above all, magic is used to destroy monsters that can't be harmed by steel.
 
@@ -36,3 +35,5 @@ Additionally, you always have the Counterspell spell prepared. You can cast Coun
 
 ## Level 18: Arcane Response
 You have learned to anticipate your enemies well enough to rapidly cast spells in response to their attacks. When you use Studied Response, you can cast a spell. The spell must have a casting time of an action and must target only that creature.
+
+---

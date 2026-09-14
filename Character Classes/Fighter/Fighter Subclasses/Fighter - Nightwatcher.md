@@ -28,3 +28,5 @@ When you make an Initiative roll, you can treat a d20 roll of 9 or lower as a 10
 
 ## Level 18: Beat Down
 Immediately after you miss a creature under the effect of your Size Up feature with an attack roll, you can take a Bonus Action or Reaction to make a melee attack against that creature if it's within range. You have Advantage on the new attack roll against that creature.
+
+---

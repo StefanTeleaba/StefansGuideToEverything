@@ -26,3 +26,10 @@ When you deal Lightning or Thunder damage to a Large or smaller creature, you ca
 
 ## Level 17: Stormborn
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your Speed.
+
+---
+
+*Player's Handbook 5e p.62*
+# Tempest Domain
+
+---

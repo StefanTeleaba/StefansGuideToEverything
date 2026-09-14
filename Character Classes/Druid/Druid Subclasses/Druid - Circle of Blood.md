@@ -4,8 +4,7 @@
 The Circle of Blood is a keeper of the old ways. They remember how ancient Druids performed sacrificial rituals under a blood-red moon to appease the uncaring forces of nature. These Druids trade blood for life in a delicate balance to bolster their allies and destroy their enemies.
 
 ## Level 3: Circle of Blood Spells
-When you reach a Druid level specified in the Circle of Blood Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Druid level specified in the Circle of Blood Spells table, you thereafter always have the listed spells prepared.  
 **Circle of Blood Spells**  
 | Druid Level | Spells                                    |
 |:-----------:|-------------------------------------------|
@@ -32,3 +31,5 @@ While your Blood Moon is active, you gain the following benefits:
 ## Level 14: Exsanguinate
 When you use your Blood Boon, you regain spent Hit Dice equal to half your Druid level and give Temporary Hit Points equal to twice your Druid level to a number of creatures up to your Wisdom modifier (minimum of one creature) that you can see within 60 feet of yourself.  
 Once you use this feature, you can't do so again until you finish a Long Rest.
+
+---

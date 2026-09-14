@@ -1,6 +1,4 @@
-*Unearthed Arcana: Gothic Heroes*
-*Published on April 4th, 2016.*
-*Modified*
+*Homebrew 5.5e*
 # Monster Hunter
 As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror.
 
@@ -38,5 +36,11 @@ The maneuvers are presented here in alphabetical order.
 ***Sharpened Senses.*** When you make a Wisdom (Insight or Perception) check, you can expend one Superiority Die and add that die to the ability check.
 
 ***Superior Willpower.*** When you make an Intelligence, a Wisdom, or a Charisma saving throw, you can expend one Superiority Die and add that die to the roll. You can do so after seeing the roll but before any of the roll's effects occur.
+
+---
+
+*Unearthed Arcana: Gothic Heroes*
+*Published on April 4th, 2016.*
+# Monster Hunter
 
 ---

@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Kinetic Knight
 Kinetic Knights channel evocation magic into their weapons to manipulate the potential energy within, and release that energy to cause their weaponry to erupt in highly destructive explosions. Whether you studied the arcane to attain this power or were simply born with it, your explosive powers are a force to be reckoned with.
 
@@ -31,3 +30,5 @@ Also, if you have no remaining uses of Kinetic Charge, you can now use your Bonu
 ## Level 18: Kinetic Detonation
 As a Magic action, you can touch one Tiny non-magical object you are carrying, such as a piece of ammunition, a playing card or a dart, and flood it with kinetic energy, making it extremely volatile. The object erupts in a violent explosion after 1 hour, or when you stop Concentrating on it, as if Concentrating on a spell. When it explodes, each creature within 30 feet of the object must succeed on a Dexterity saving throw against your Kinetic DC or take 8d8 Force damage and has the Prone condition. On a success, a creature takes half as much damage and is not Prone.  
 Once you use this feature, you can’t use it again until you finish a Long Rest, or until you expend 3 uses of your Kinetic Charge to use it again.
+
+---

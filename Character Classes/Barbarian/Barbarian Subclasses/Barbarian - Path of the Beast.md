@@ -2,8 +2,16 @@
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*
 # Path of the Beast
+*Transform to Gain Savage Bestial Traits*
 Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.  
-Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.
+Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.  
+**Origin of the Beast**  
+| 1d4 | Origin                                                                                   |
+|:---:|------------------------------------------------------------------------------------------|
+| 1   | One of your parents is a lycanthrope, and you've inherited some of their curse.          |
+| 2   | You are descended from an archdruid and inherited the ability to partially change shape. |
+| 3   | A fey spirit gifted you with the ability to adopt different bestial aspects.             |
+| 4   | An ancient animal spirit dwells within you, allowing you to walk this path.              |
 
 ## Level 3: Form of the Beast
 While your Rage is active, the bestial power within you manifests into a natural weapon, which counts as a Simple Melee Weapon for you. You choose the weapon’s form each time you enter your Rage, and you can use its Mastery property:  
@@ -33,8 +41,7 @@ The beast within you grows so powerful that you can spread its ferocity to other
 *Tasha's Cauldron of Everything 5e p.24*
 # Path of the Beast
 Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.  
-Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.
-
+Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.  
 **Origin of the Beast**  
 | 1d4 | Origin                                                                                   |
 |:---:|------------------------------------------------------------------------------------------|

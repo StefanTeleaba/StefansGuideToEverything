@@ -1,6 +1,5 @@
-# Carver Guild
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Carver Guild
 *Slay Monsters Fearlessly and Recklessly*  
 Since the beginning of time, the brave glared into danger's ferocious eyes and fought monsters. Those who survived were the ones smart enough to arm themselves properly and know precisely where to strike—or those who knew when to flee and return with a new plan.  
 Members of the Carver Guild are the Monster Hunters typically called upon when immediate danger threatens a settlement and there is no army or militia available. Carvers stride unflinchingly toward death, armed with years of training and the knowledge passed down from those before them.
@@ -23,3 +22,5 @@ Your strikes have become even deadlier. The extra damage of your Close Quarters 
 
 ## Level 18: Controlled Footwork
 You are such an effective combatant that you are always in control and never off balance. You can take a Reaction twice in a round instead of once.
+
+---

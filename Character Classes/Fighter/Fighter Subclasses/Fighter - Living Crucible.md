@@ -28,3 +28,5 @@ When you end the Poisoned condition on yourself in this way, you can choose to g
 
 ## Level 18: Living Catalyst
 When you finish a Long Rest, you can replace one compound you know with another one.
+
+---

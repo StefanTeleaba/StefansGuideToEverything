@@ -1,6 +1,5 @@
-# Devourer Guild
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Devourer Guild
 *Gain Power by Consuming Monster Flesh*  
 Folk in Etharis don't always speak highly of Monster Hunters, and many consider them to be just as depraved and inhuman as the evils they vanquish. Many of the appalling tales about Monster Hunters can be attributed, directly or indirectly, to the Devourer Guild, who are accused of being monstrous cannibals.  
 The truth is barely any better. Devourers have spent their days consuming the flesh and blood of the monsters they slay, and, over time, their metabolism has changed to tolerate this disgusting practice. Devourers adopt mutations shortly after consuming their prey.
@@ -41,3 +40,5 @@ A creature other than you can consume 1 decoction without adverse effects. A cre
 
 ## Level 18: Acquired Taste
 Your hunger for monster portions has increased to the point of being insatiable. You can now consume 1 additional portion safely. Additionally, for 1 minute when you consume a portion, you have Advantage, on attack rolls made as part of a Reaction.
+
+---

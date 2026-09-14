@@ -1,7 +1,6 @@
-# Oathbreaker
 *Unearthed Arcana 2025: Subclasses Update*  
-*Published on October 30th, 2025.*  
-
+*Published on October 30th, 2025.*
+# Oathbreaker
 *Obtain Great Power at Any Cost*  
 The power of a Paladin’s oath is so great that it holds a distorted power even when it is violated. When a Paladin betrays the tenets of their oath because of corruption, pride, or thirst for power, they lose the blessing granted by their original oath but sometimes take on the sinister blessing of the Oathbreaker in its place. Oathbreakers use fear and overwhelming power to achieve their goals. While many Oathbreakers are beyond redemption, some Paladins bend this oath to achieve a great and noble deed to atone for their past evils.  
 At the DM’s discretion, a Paladin of any level who violates the tenets of their oath can lose the benefits granted by their original subclass and gain the features of the Oathbreaker subclass instead. Alternatively, a Paladin can choose this subclass at level 3 based on the character’s backstory of falling from grace.  
@@ -39,3 +38,5 @@ As a Bonus Action, you can imbue your Aura of Protection with unholy gloom, gran
 ***Darkness.*** Magical Darkness fills your Aura of Protection. You and allies in your Aura of Protection can see within this magical Darkness.  
 ***Fear.*** Whenever a creature with the Frightened condition starts its turn in your Aura of Protection, that creature takes 4d10 Psychic damage.  
 ***Shadow Strike.*** As a Bonus Action, you can make a melee spell attack, shaping the gloom exuding from you into a blade that targets one creature in your Aura of Protection. On a hit, the attack deals Necrotic damage equal to 3d10 plus your Charisma modifier.
+
+---

@@ -32,3 +32,5 @@ You have mastered the ability to hasten the inevitable slide toward entropy. You
 ***Enhanced Ruinous Smite.*** Until the end of your next turn, any creature affected by your Ruinous Smite suffers a Critical Hit on a roll of 19-20 on the d20.  
 ***Improved Inexorable Onslaught.*** While your Ruin Incarnate feature is active, you can attack with a weapon or an Unarmed Strike three times instead of once whenever you take the Attack action on your turn.  
 ***World Breaker.*** You regain your use of your Shake the Earth feature when you finish a Short or Long Rest.
+
+---

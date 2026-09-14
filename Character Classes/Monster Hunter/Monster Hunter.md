@@ -1,6 +1,5 @@
+*Grim Hollow: Player's Guide 2024 5.5e*
 # Monster Hunter
-*Grim Hollow: Player's Guide 2024 5.5e*  
-
 Monster Hunters are skilled professionals, specializing in identifying, tracking, and slaying monsters that threaten the lives and the livelihoods of the people of Etharis.  
 Each Monster Hunter trains in a different method for these tasks. Some hunters don heavy armor and carry shields to protect against crushing jaws and scything claws, others deploy cunning traps to keep a safe distance from the horrors they hunt, some assume the traits and powers of their enemies to better slay them, and others dabble in magic to supplement martial prowess with arcane wrath.
 
@@ -105,3 +104,5 @@ When you use Studied Response, choose a Friendly creature that can see or hear y
 You gain the ability to strike mortal blows against the creatures you have studied.  
 Your attack rolls with weapons and Unarmed Strikes against creature types in your Monster Grimoire can now score a Critical Hit on a roll of 18 through 20 on the d20. When you score a Critical Hit against a creature type in your Monster Grimoire, the creature must make a Constitution saving throw. The DC equals the damage taken, up to a maximum DC of 30. On a failed save, the creature drops to 0 Hit Points. On a successful save, the creature takes the attack's normal damage.  
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+---

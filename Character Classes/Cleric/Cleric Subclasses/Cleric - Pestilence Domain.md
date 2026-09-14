@@ -11,8 +11,7 @@ You gain the following benefits.
 ***Rot and Fester.*** Damage from your Cleric spells and Cleric features ignores Resistance to Necrotic and Poison damage. Additionally, when you cast a Cleric spell or use a Cleric feature that deals either Necrotic or Poison damage, you can change that damage to the other type.
 
 ## Level 3: Pestilence Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Pestilence Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Pestilence Domain Spells table, you thereafter always have the listed spells prepared.  
 **Pestilence Domain Spells**
 | Cleric Level | Prepared Spells                                                                         |
 |:------------:|-----------------------------------------------------------------------------------------|
@@ -24,8 +23,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 ## Level 3: Plague Blessing
 As a Magic action, you can present your Holy Symbol and expend a use of Channel Divinity to manifest a 5-foot Emanation of withering plague that surrounds you or one willing creature you touch for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the Incapacitated condition.  
 Each creature of your choice that starts its turn in the Emanation must succeed on a Constitution saving throw against your spell save DC or gain 1 Exhaustion level. This feature can’t increase a creature’s Exhaustion level higher than a level equal to your Wisdom modifier (minimum of 1 Exhaustion level). For example, if you have a Wisdom score of 16, this feature can’t increase a creature’s Exhaustion level higher than 3.  
-The plague spread by this feature manifests with a specific symptom. Choose it from the Plague Symptoms table or determine it randomly.
-
+The plague spread by this feature manifests with a specific symptom. Choose it from the Plague Symptoms table or determine it randomly.  
 **Plague Symptoms**
 | 1d6 | While Infected, a Creature...                              |
 |:---:|------------------------------------------------------------|
@@ -51,3 +49,5 @@ As a Bonus Action, you can shape-shift into a Medium swarm of Tiny pests, such a
 ***Plague Bites.*** Whenever you enter an enemy’s space, that creature takes damage equal to your Wisdom modifier; the damage is Necrotic, Piercing, or Poison (your choice). A creature also takes this damage when it enters your space or ends its turn there. A creature takes this damage only once per turn.  
 You revert to your true form after 10 minutes, if you choose to end the transformation (no action required), if you have the Incapacitated condition, or if you die.  
 Once you use this feature, you can’t use it again until you finish a Long Rest unless you expend a level 5+ spell slot (no action required) to restore your use of it.
+
+---

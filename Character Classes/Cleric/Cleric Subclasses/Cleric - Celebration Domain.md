@@ -4,8 +4,8 @@
 Celebrations may not be essential for survival, but they are paramount to living: this is the ethos carried by clerics of the Celebration Domain and the deities they worship. Clerics of this domain are renowned for their exuberant parties and banquets, which are open to all that wish to celebrate. They are also infamous for an abundance of holy days throughout the calendar year, supplying them ample opportunities to be festive.
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Celebtration Domain Spells table, you thereafter always the listed spells prepared.
-### Celebration Domain Spells
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Celebtration Domain Spells table, you thereafter always the listed spells prepared.  
+**Celebration Domain Spells**
 | Cleric Level | Spells                                                               |
 |:------------:|----------------------------------------------------------------------|
 | 3            | Charm Person, Enhance Ability, Magic Mouth, Tasha’s Hideous Laughter |

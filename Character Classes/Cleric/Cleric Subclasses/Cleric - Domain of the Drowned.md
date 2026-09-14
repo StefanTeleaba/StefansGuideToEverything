@@ -6,8 +6,7 @@
 Once a sailor, a pirate, perhaps a captain, or a simple passenger. The sea took you, purified you in its cold womb, and from its salt and waves you were reborn. Now you dispense its gifts and its wrath to anyone you meet.
 
 ## Level 3: Drowned Domain Spells
-When you reach a Cleric level specified in the Drowned Domain Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Cleric level specified in the Drowned Domain Spells table, you thereafter always have the listed spells prepared.  
 **Drowned Domain Spells**  
 | Cleric Level | Spells                                                |
 |:------------:|-------------------------------------------------------|

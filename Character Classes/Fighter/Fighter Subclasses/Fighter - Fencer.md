@@ -44,3 +44,5 @@ You are at the peak of your combat abilities.
 At the start of your turn, while you are in a Challenge, you regain two Duel Dice.  
 When rolling initiative, you recover one expended use of Challenge.  
 You can expend a number of DD equal to double your proficiency bonus until the start of your next turn.
+
+---

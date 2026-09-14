@@ -90,3 +90,5 @@ You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 Your mastery of mutation has made you an apex predator, granting you the following benefits.  
 ***Evolved Attacks.*** Once per turn, you can deal an extra 2d10 Force damage to a target you hit with a Wild Shape form's attack.  
 ***Mutate Beasts.*** As a Magic action, you can touch a Beast and expend a spell slot, causing the target to mutate. You gain Mutation Points equal to the slot's level, which you must immediately spend on Mutations for the Beast. Unspent Mutation Points are lost. Mutations remain until the Beast is targeted by this feature again. A Remove Curse, Greater Restoration or similar magic ends the Mutations.
+
+---

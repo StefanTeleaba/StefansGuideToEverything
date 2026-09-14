@@ -5,9 +5,8 @@ The Inquisition Domain reflects the order of the multiverse and the rejection of
 Since arcane magic is strong enough to challenge the gods, divine beings of this domain, such as the Arch Seraph Empyreus, demand magic-using mortals be kept in check. Most zealots root out all arcanists, while some strike fragile truces when complete removal isn't feasible.
 
 ## Level 3: Inquisition Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Inquisition Domain Spells table, you thereafter always have the listed spells prepared.
-
-**Inquisition Domain Spells**  
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Inquisition Domain Spells table, you thereafter always have the listed spells prepared.  
+**Inquisition Domain Spells**
 | Cleric Level | Spells                      |
 |:------------:|-----------------------------|
 | 3            | See Invisibility, Silence   |

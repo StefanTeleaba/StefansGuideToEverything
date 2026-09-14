@@ -1,6 +1,4 @@
-*Unearthed Arcana: Fighter*
-*Published on December 5th, 2016.*
-*Modified*
+*Homebrew 5.5e*
 # Sharpshooter
 The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.
 
@@ -27,3 +25,11 @@ You learn to trade accuracy for swift strikes. Once per turn, if you make an att
 
 ## Level 18: Snap Shot
 During the first round of each combat, if you take the Attack action and make a ranged attack with a weapon, you can make an additional ranged attack as part of the same action.
+
+---
+
+*Unearthed Arcana: Fighter*
+*Published on December 5th, 2016.*
+# Sharpshooter
+
+---

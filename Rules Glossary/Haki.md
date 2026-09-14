@@ -1,6 +1,5 @@
-# Haki
 *Homebrew 5.5e*
-
+# Haki
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Haki Dice.
 
 ## Level 3: Haki
@@ -18,6 +17,7 @@ Once per turn, when you use a maneuver, you can roll 1d8 and use the number roll
 Your Haki Die becomes a d12.
 
 ---
+
 **Observation Haki**  
 ***Parry.*** When a creature hits you with an attack, you can take a Reaction to add one Haki Die to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against attacks until the start of your next turn.  
 ***Perceptive.*** You gain Proficiency in the Insight, Investigation, and Perception skills.  
@@ -56,3 +56,5 @@ The size of the Emanation equals 10 feet times your Proficiency Bonus.
 ***Observation Killing.*** You can't be targeted by Divination spells or perceived through magical scrying sensors. You are also unaffected by anything that would sense your emotions or alignment, read your thoughts, or magically detect your location, and no spell - not even *Wish* - can gather information about you, observe you remotely, or control your mind.  
 ***Overpowering Presence.*** If a target fails its saving throw against your Intimidating Presence and it has Hit Points equal to twice your level or fewer, it has the *Unconscious* condition instead of the *Stunned* condition.  
 ***Unshakeable Will.*** Your willpower can keep you fighting despite grievous wounds. If you drop to 0 Hit Points and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your level. Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
+
+---

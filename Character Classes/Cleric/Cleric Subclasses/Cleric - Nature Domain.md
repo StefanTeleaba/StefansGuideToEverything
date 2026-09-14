@@ -5,8 +5,7 @@
 Gods of nature are as varied as the natural world itself; from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, Chislev, Balinor, and Pan) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Nature Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Nature Domain Spells table, you thereafter always have the listed spells prepared.  
 **Nature Domain Spells**
 | Cleric Level | Spells                                                            |
 |:------------:|-------------------------------------------------------------------|
@@ -33,4 +32,11 @@ You can call on nature to aid you in battle. When you start casting Summon Beast
 ***No Concentration.*** The spell does not require you to Concentrate on it. You can dismiss the spell as a Bonus Action.  
 ***Two Beasts.*** The spell summons two Bestial Spirits instead of one. The two beasts do not need to be of the same type and you can command them independently. If you are Incapacitated, the Beasts take their turns as normal and act to defend you.  
 ***Elemental Damage.*** When the Beasts hit with an attack, you can change the damage type to Acid, Cold, Fire, Lightning or Thunder (you choose when they deal damage).  
-Once you cast the spell in this way, you cannot do so again until you finish a Long Rest. 
+Once you cast the spell in this way, you cannot do so again until you finish a Long Rest.
+
+---
+
+*Player's Handbook 5e p.61*
+# Nature Domain
+
+---

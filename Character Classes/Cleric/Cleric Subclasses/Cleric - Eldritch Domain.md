@@ -4,8 +4,7 @@
 Even the most benevolent divine beings operate outside the bounds of mortal comprehension. These eldritch forces sing a siren song that calls to mortal worshippers through lucid dreams and terrible whispers. The Eldritch Domain empowers the followers of the unknown and distant forces of chaos, divine entities of eldritch oblivion, and dead gods.
 
 ## Level 3: Eldritch Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Eldritch Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Eldritch Domain Spells table, you thereafter always have the listed spells prepared.  
 **Eldritch Domain Spells**  
 | Cleric Level | Spells                                                     |
 |:------------:|------------------------------------------------------------|

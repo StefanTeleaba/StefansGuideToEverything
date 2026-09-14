@@ -29,3 +29,5 @@ When you're subjected to an effect that allows you to make a Strength, Dexterity
 Your dungeoneering expertise gives you the following benefits.  
 ***Peerless Heroism.*** Once per turn when you make a D20 Test, you can expend Heroic Inspiration to turn the roll into a 20, instead of rerolling the d20.  
 ***Double Inspiration.*** You can have two instances of Heroic Inspiration at one time. You can use only one Heroic Inspiration per roll.
+
+---

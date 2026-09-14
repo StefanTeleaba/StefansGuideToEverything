@@ -1,11 +1,8 @@
 *Dungeon Master's Guide 5.5e p.307*
 # Staff of Fire
-*Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)*
-
-You have Resistance to Fire damage while you hold this staff.
-
+*Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)*  
+You have Resistance to Fire damage while you hold this staff.  
 ***Spells.*** The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
-
 | Spell         | Charge Cost |
 |---------------|:-----------:|
 | Burning Hands | 1           |

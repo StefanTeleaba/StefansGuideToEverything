@@ -1,7 +1,5 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Oath of Heroism
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v2.0*  
-
 *With Great Power...*  
 Paladins that take the Oath of Heroism bind themselves specifically and emphatically to the protection of the innocent and those in need. They are known for their ideals of leadership and bravery, and have a reputation of being self-sacrificing to a fault when an innocent’s life is in the balance. Stories of heroic paladins line the annals of history, told by those whose lives they saved.  
 These paladins share the following tenets:  
@@ -13,7 +11,7 @@ These paladins share the following tenets:
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Heroism Spells table, you thereafter always have the listed spells prepared.
 **Oath of Heroism Spells**  
 | Paladin Level | Spells                                |
-|---------------|---------------------------------------|
+|:-------------:|---------------------------------------|
 | 3rd           | Healing Word, Heroism                 |
 | 5th           | Calm Emotions, Warding Bond           |
 | 9th           | Mass Healing Word, Revivify           |
@@ -38,3 +36,5 @@ Your boundless heroism shines in your finest hour, and no peril can outmatch you
 ***Diversion.*** When a hostile creature starts its turn inside your Aura of Protection, it must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on attacks against your allies (not including yourself) until the start of its next turn.  
 ***Font of Health.*** You gain an additional pool of Hit Points for your Lay on Hands feature containing 50 Hit Points. Any remaining Hit Points from the pool vanish when this feature ends.  
 ***Resistance.*** You have Resistance to Bludgeoning, Piercing and Slashing damage.
+
+---

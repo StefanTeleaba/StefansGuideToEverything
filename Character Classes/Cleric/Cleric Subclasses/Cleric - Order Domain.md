@@ -6,8 +6,7 @@ The Order Domain represents discipline, as well as devotion to the laws that gov
 Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. In this manner, law weaves a web of obligations that create order and security in a chaotic multiverse.
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Order Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Order Domain Spells table, you thereafter always have the listed spells prepared.  
 **Order Domain Spells**
 | Cleric Level | Spells                                       |
 |:------------:|----------------------------------------------|
@@ -28,4 +27,11 @@ If you cast a spell of the Enchantment school of level 1 or higher, you can chan
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
 
 ## Level 17: Order’s Wrath
-Enemies you designate for destruction wilt under the combined efforts of you and your allies. When you use your Voice of Authority feature to allow an ally to make an attack, you empower that attack with the power of law. If the attack hits, it deals an extra 2d10 Psychic damage. 
+Enemies you designate for destruction wilt under the combined efforts of you and your allies. When you use your Voice of Authority feature to allow an ally to make an attack, you empower that attack with the power of law. If the attack hits, it deals an extra 2d10 Psychic damage.
+
+---
+
+*Tasha's Cauldron of Everything 5e p.31*
+# Order Domain
+
+---

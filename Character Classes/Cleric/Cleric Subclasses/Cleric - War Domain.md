@@ -26,3 +26,7 @@ You can expend a use of your Channel Divinity to cast Shield of Faith or Spiritu
 
 ## Level 17: Avatar of Battle
 You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
+
+![War Domain](https://5e.tools/img/classes/XPHB/War%20Cleric.webp)
+
+---

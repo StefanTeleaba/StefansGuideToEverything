@@ -6,8 +6,7 @@ Changeable as the moon, a Druid of this circle might prowl as a great cat one ni
 
 ## Level 3: Circle of the Moon Spells
 When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.  
-In addition, you can cast the spells from this feature while you're in a Wild Shape form.
-
+In addition, you can cast the spells from this feature while you're in a Wild Shape form.  
 **Circle of the Moon Spells**
 | Druid Level | Prepared Spells                    |
 |:-----------:|------------------------------------|
@@ -35,3 +34,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 The power of the moon suffuses you, granting you the following benefits.  
 ***Improved Lunar Radiance.*** Once per turn, you can deal an extra 2d10 Radiant damage to a target you hit with a Wild Shape form's attack.  
 ***Shared Moonlight.*** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
+
+![Circle of the Moon](https://5e.tools/img/classes/XPHB/Moon%20Druid.webp)
+
+---

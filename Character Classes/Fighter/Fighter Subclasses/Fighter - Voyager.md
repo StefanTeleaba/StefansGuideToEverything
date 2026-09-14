@@ -29,3 +29,5 @@ Your Trusty Companion is now a 10-foot Emanation and you and any ally within the
 
 ## Level 18: Valor
 You truly bring out the best in others. While the target of your Encouragement has any of the Temporary Hit Points left, it can’t have Disadvantage on D20 Tests to which it adds its Proficiency Bonus.
+
+---

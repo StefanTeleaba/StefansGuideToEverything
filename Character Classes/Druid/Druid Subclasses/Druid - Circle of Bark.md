@@ -1,12 +1,10 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.2*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Circle of Bark
 *Defend Forests with Martial Prowess*  
 Druids of the Circle of Bark typically hail from dense forests, nearly untouched by the outside world. Fiercely protective of their homes, these druids train to blend their primal magic with martial prowess, favoring close quarters combat to draw enemies into their spell effects. Legends tell of these warriors wading into battle with skin as thick as bark. In truth, they draw power from ancient trees to transmute matter into bark, both to protect themselves, and to encase any foe foolish enough to intrude on their lands.
 
 ## Level 3: Circle Spells
-Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of Bark Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this circle ensures that you always have certain spells ready. When you reach a Druid level specified in the Circle of Bark Spells table, you thereafter always have the listed spells prepared.  
 **Circle of Bark Spells**
 | Druid Level | Prepared Spells                |
 |:-----------:|--------------------------------|
@@ -31,3 +29,5 @@ Your Restricting Bark grows stronger and more debilitating. Once per turn when y
 ## Level 14: Reeling Roots
 Resembling the sturdy roots of a tree, you can use a Magic action to cause tendrils to shoot out from your body, drawing your enemies toward you. Choose a number of creatures within 30 feet of you up to your Wisdom modifier (minimum 1 creature). Each target must make a Strength saving throw against your spell save DC. On a failure, a creature takes Bludgeoning damage equal to 2d8 plus your Wisdom modifier, is pulled up to 30 feet toward you and has the Restrained condition until the start of your next turn. On a success, it takes half as much damage and is not pulled or Restrained.  
 You can use this feature a number of times equal to your Wisdom modifier (minimum once) and you regain all expended uses when you finish a Long Rest.
+
+---

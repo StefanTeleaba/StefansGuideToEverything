@@ -35,3 +35,5 @@ When you hit a Bloodied creature with an attack roll, you can attempt to critica
 ***Sluggish.*** The target’s Speed is halved, and it has a −2 penalty to its Armor Class.  
 These effects last until the target regains Hit Points.  
 Once a target fails its saving throw against this feature, you can’t use it again until you finish a Long Rest.
+
+---

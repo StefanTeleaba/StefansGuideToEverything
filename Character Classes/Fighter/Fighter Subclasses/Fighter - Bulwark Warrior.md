@@ -23,3 +23,5 @@ Your endurance is unrivaled. When you regain Hit Points from Second Wind, you ga
 
 ## Level 18: Halt the Assault
 When another creature you can see within 5 feet of you is hit by an attack roll, you can take a Reaction to change the target to yourself. You have Resistance to all damage against that attack.
+
+---

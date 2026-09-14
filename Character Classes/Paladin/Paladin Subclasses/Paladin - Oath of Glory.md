@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.114*
 # Oath of Glory
-*Player's Handbook 5.5e*  
-
 *Strive for the Heights of Heroism*  
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.  
 These paladins share the following tenets:  
@@ -9,10 +8,10 @@ These paladins share the following tenets:
 - Inspire others to strive for glory.
 
 ## Level 3: Oath of Glory Spells
-The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.
-### Oath of Glory Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.  
+**Oath of Glory Spells**
 | Paladin Level | Spells                                |
-|---------------|---------------------------------------|
+|:-------------:|---------------------------------------|
 | 3rd           | Guiding Bolt, Heroism                 |
 | 5th           | Enhance Ability, Magic Weapon         |
 | 9th           | Haste, Protection from Energy         |
@@ -38,3 +37,7 @@ You can empower yourself with the legends—whether true or exaggerated—of you
 ***Charismatic.*** You are blessed with an otherworldly presence and have Advantage on all Charisma checks.  
 ***Saving Throw Reroll.*** If you fail a saving throw, you can take a Reaction to reroll it. You must use this new roll.  
 ***Unerring Strike.*** Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead.
+
+![Oath of Glory](https://5e.tools/img/classes/XPHB/Glory%20Paladin.webp)
+
+---

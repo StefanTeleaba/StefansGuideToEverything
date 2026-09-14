@@ -1,7 +1,6 @@
 *Homebrew 5.5e*
 # Blightguard
-*Shield (Tower Shield), Uncommon*
-
+*Shield (Tower Shield), Uncommon*  
 While holding this Shield, you have a +1 bonus to Armor Class, in addition to the Shield's normal bonus to AC, you have Resistance to damage from attacks made by Plant creatures.
 
 ---

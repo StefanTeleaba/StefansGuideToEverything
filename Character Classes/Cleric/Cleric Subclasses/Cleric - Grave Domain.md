@@ -5,8 +5,7 @@ The Grave Domain concerns itself with the boundary between life and death. To th
 The magic of this domain also allows these Clerics to stave off death for a time. But this is merely a delay of death, not a denial of it, for the grave will always claim its due.
 
 ## Level 3: Grave Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Grave Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Grave Domain Spells table, you thereafter always have the listed spells prepared.  
 **Grave Domain Spells**
 | Cleric Level | Spells                                                                                |
 |:------------:|---------------------------------------------------------------------------------------|

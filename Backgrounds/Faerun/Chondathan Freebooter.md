@@ -8,6 +8,6 @@ Though most youths in Chondath accept their four-year term of compulsory militar
 **Tool Proficiencies:** Weaver's Tools  
 **Equipment:** Choose A or B: (A) Dagger, Weaver's Tools, Backpack, Ball Bearings, Basket, Bedroll, Bucket, Rations (3 days' worth), Rope, Signal Whistle, Traveler's Clothes, 38 GP; or (B) 50 GP
 
-![hondathan Freebooter](https://5e.tools/img/backgrounds/FRHoF/Chondathan%20Freebooter.webp)
+![Chondathan Freebooter](https://5e.tools/img/backgrounds/FRHoF/Chondathan%20Freebooter.webp)
 
 ---

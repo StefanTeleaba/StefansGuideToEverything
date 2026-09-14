@@ -114,3 +114,5 @@ Whenever damage from your Hellfire Weapon or Infernal Wound reduces a creature t
 
 ## Level 18: Infernal Bargain
 When you roll your Infernal Wound Die, you can treat a roll of 1 as a 6.
+
+---

@@ -1,6 +1,5 @@
+*The Gunslinger Class: Valda's Spire of Secrets*
 # Gunslinger
-*The Gunslinger Class: Valda's Spire of Secrets*  
-
 Risk is in a Gunslinger's blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits and relying on split-second timing and a considerable amount of luck to survive.  
 **Guts and Gunpowder**  
 Black powder isn't for the faint of heart. Its thunderous applause is volatile and imprecise—a barely controlled explosion directed at an enemy. Only the truly fearless seek to master it. But Gunslingers have nerves of steel, hurling death from their guns in a roaring cacophony. Adapted for shootouts, gunslingers are mobile and daring, knowing that life or death hangs on snap decision-making and one's own mettle.  
@@ -80,3 +79,4 @@ You gain a feature from your Gunslinger Subclass.
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.  
 You don't benefit from this feature if you have the Incapacitated condition.
 
+---

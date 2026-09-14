@@ -18,7 +18,9 @@ If you are Charmed, Frightened, or Poisoned when you use your Heroic Effort feat
 When you use your Bolstering Presence feature, each of the chosen creatures gains a bonus to D20 Tests and damage rolls equal to your Charisma modifier (minimum of +1) until the end of your next turn.
 
 ## Level 15: Durable Presence
-When you use your Bolstering Presence feature, each of the chosen creatures gains a bonus to D20 Tests and damage rolls equal to your Charisma modifier (minimum of +1) until the end of your next turn.
+You now regain all expended uses of your Bolstering Presence feature when you finish a Short or Long Rest.
 
 ## Level 18: Mighty Effort
 When you use your Heroic Effort feature, you can now target up to two additional creatures, instead of only one.
+
+---

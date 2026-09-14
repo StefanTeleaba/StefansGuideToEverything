@@ -5,8 +5,7 @@ The Trickery Domain offers magic of deception, illusion, and stealth. Clerics wh
 Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
 ## Level 3: Trickery Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.  
 **Trickery Domain Spells**
 | Cleric Level | Prepared Spells                                               |
 |:------------:|---------------------------------------------------------------|
@@ -31,3 +30,7 @@ Whenever you take the Bonus Action to create or move the illusion of your Invoke
 The illusion of your Invoke Duplicity has grown more powerful in the following ways.  
 ***Shared Distraction.*** When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have Advantage.  
 ***Healing Illusion.*** When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of Hit Points equal to your Cleric level.
+
+![Trickery Domain](https://5e.tools/img/classes/XPHB/Trickery%20Cleric.webp)
+
+---

@@ -6,8 +6,7 @@ The balm of peace thrives at the heart of healthy communities, between friendly 
 Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Peace Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Peace Domain Spells table, you thereafter always have the listed spells prepared.  
 **Peace Domain Spells**
 | Cleric Level | Spells                                      |
 |:------------:|---------------------------------------------|
@@ -27,3 +26,10 @@ The bond you forge between people helps them protect each other. When a creature
 
 ## Level 17: Expansive Bond
 The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else's damage, the creature has Resistance to that damage.
+
+---
+
+*Tasha's Cauldron of Everything 5e p.32*
+# Peace Domain
+
+---

@@ -6,8 +6,7 @@ When civilization violates the natural world—by deforesting ancient groves, po
 
 ## Level 3: Circle of the Titan Spells
 When you reach a Druid level specified in the Circle of the Titan Spells table, you thereafter always have the listed spells prepared.  
-In addition, you can cast the spells from this feature while you’re in your Titan Form.
-
+In addition, you can cast the spells from this feature while you’re in your Titan Form.  
 **Circle of the Titan Spells**
 | Druid Level | Prepared Spells                          |
 |:-----------:|------------------------------------------|
@@ -19,8 +18,7 @@ In addition, you can cast the spells from this feature while you’re in your Ti
 ## Level 3: Titan Form
 When you use Wild Shape, you can adopt a Titan Form, choosing from the Behemoth, Leviathan, and Insectoid stat blocks presented later in this subclass’s description. You can stay in a Titan Form for 10 minutes, instead of a number of hours.  
 Each Titan Form gains additional benefits when you reach the specified Druid Levels, as noted in its respective stat block. Features that apply to your Beast forms also apply to your Titan Form.  
-You determine what your Titan Form looks like. Roll on or choose from the Titan Appearance table to inspire aspects of your form’s appearance.
-
+You determine what your Titan Form looks like. Roll on or choose from the Titan Appearance table to inspire aspects of your form’s appearance.  
 **Titan Appearance**
 | 1d4 | Behemoth          | Leviathan                | Insectoid                  |
 |:---:|-------------------|--------------------------|----------------------------|
@@ -227,3 +225,5 @@ The number of creatures you can have swallowed at a time equals your Wisdom modi
 ***Multiattack (Requires Level 5+).*** You make two Rend attacks.  
 ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d8 plus your Wisdom modifier Piercing damage.  
 ***Energizing Pollen.*** You expend a level 1+ spell slot and emit a cloud of healing pollen that can restore a number of Hit Points equal to 2d8 plus five times the expended spell slot’s level. Choose any number of creatures within 15 feet of yourself, and divide those Hit Points among them.
+
+---

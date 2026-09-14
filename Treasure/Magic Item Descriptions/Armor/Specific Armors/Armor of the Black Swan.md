@@ -1,3 +1,4 @@
+*Homebrew 5.5e*
 # Armor of the Black Swan
 *Heavy Armor (Half Plate Armor), Very Rare (Requires Attunement)*  
 *20 lb.*

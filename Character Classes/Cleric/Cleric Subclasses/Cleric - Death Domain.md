@@ -5,9 +5,8 @@
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Death Domain Spells table, you thereafter always have the listed spells prepared.
-
-### Death Domain Spells
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Death Domain Spells table, you thereafter always have the listed spells prepared.  
+**Death Domain Spells**
 | Cleric Level | Spells                                                               |
 |:------------:|----------------------------------------------------------------------|
 | 3            | Blindness/Deafness, False Life, Ray of Enfeeblement, Ray of Sickness |

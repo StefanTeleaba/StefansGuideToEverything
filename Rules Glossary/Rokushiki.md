@@ -1,5 +1,5 @@
-# Rokushiki
 *Homebrew 5.5e*
+# Rokushiki
 
 **Geppo**  
 You can push off cushions of air as if on solid ground. You have a *Fly Speed* equal to your *Speed*, and can hover. If your Speed is 0, you fall.
@@ -21,3 +21,5 @@ If a creature hits you with a melee attack, you can take a Reaction to add your 
 
 **Rokuogan**  
 As an Action, you unleash a devastating shockwave. Each creature in a 60-foot Cone originating from you makes a Dexterity saving throw, taking Force equal to a number of d10s equal to your level on a failed save or half as much damage on a successful one. Once you use this feature, you can't do so again until you finish a Short or Long Rest.
+
+---

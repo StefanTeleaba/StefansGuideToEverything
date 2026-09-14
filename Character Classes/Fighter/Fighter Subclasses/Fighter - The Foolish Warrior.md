@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # The Foolish Warrior
 *Stumble through Combat With Incredible Luck*  
 Foolish Warriors obliviously breeze through combat with extraordinary luck, barely dodging out of the way of hazards and stumbling into successful maneuvers. This luck may be supernatural in nature, the result of some blessing or curse, or perhaps your foolish warrior just has random chance on their side.
@@ -40,3 +39,5 @@ Your luck magnifies, granting you the following benefits:
 
 ## Level 18: Accidental Success
 Whenever you roll for a D20 Test and roll a 1 on the d20, you can expend one Lucky Break to turn it into a 20. You do not regain a Lucky Break from your Incredible Luck feature when you do so.
+
+---

@@ -6,8 +6,7 @@ The twilit transition from light into darkness often brings calm and even joy, a
 Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
 
 ## Level 3: Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Twilight Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Twilight Domain Spells table, you thereafter always have the listed spells prepared.  
 **Twilight Domain Spells**
 | Cleric Level | Spells                                         |
 |:------------:|------------------------------------------------|
@@ -30,3 +29,10 @@ You can use this feature a number of times equal to your Wisdom modifier and reg
 
 ## Level 17: Twilight Shroud
 The twilight that you summon offers a protective embrace. While you and any creature of your choice is within your Twilight Sanctuary Emanation, it has Half Cover.
+
+---
+
+*Tasha's Cauldron of Everything 5e p.34*
+# Twilight Domain
+
+---

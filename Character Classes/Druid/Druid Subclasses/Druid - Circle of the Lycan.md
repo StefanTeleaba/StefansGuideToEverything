@@ -4,8 +4,7 @@
 Druids of the Circle of the Lycan perform foul, accursed rites to hijack their ability to Wild Shape, allowing them to transform into twised hybrids of their normal forms and that of nature’s creations. Often mistaken for lycanthropes, these outcasts rend their foes with sharpened fang and claw, in terrifying tandem with spellcraft.
 
 ## Level 3: Circle of the Lycan Spells
-When you reach a Druid level specified in the Circle of the Lycan Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Druid level specified in the Circle of the Lycan Spells table, you thereafter always have the listed spells prepared.  
 **Circle of the Lycan Spells**
 | Druid Level | Prepared Spells                                  |
 |:-----------:|--------------------------------------------------|

@@ -64,3 +64,7 @@ You revert to your true form after 1 minute, if you choose to end the transforma
 Once you have used this ability, you can’t do so again until you finish a Long Rest or spend 7 Sorcery Points (no action required) to restore your use of it.
 
 ---
+*Drizzt Do'Urden's Guide to the Underdark 2e*
+
+---
+*Menzoberranzan 1e*

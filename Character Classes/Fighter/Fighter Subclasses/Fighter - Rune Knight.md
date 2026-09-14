@@ -59,3 +59,10 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 ***Storm Rune (Level 7 or Higher).*** Using this rune, you can glimpse the future like a storm giant seer.  
 - While wearing or carrying an object inscribed with this Rune, you have Advantage on Arcana checks, and you can't be Surprised as long as you don’t have the Incapacitated condition.  
 - You can invoke the Rune as a Bonus Action to enter a prophetic state for 1 minute or until you have the Incapacitated condition. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage.  
+
+---
+
+*Tasha's Cauldron of Everything 5e p.14*
+# Rune Knight
+
+---

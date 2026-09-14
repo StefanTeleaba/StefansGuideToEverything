@@ -2,6 +2,7 @@
 *Shades the Mothman*  
 *Spaghetti0 Homebrew*
 # Path of the Battlerager
+*Assail Grappled Enemies with Spiked Armor*
 Often followers of gods of war, these furious Barbarians pride themselves in very close combat. They adorn their armor with metal pins and spikes that pierce a foe upon contact. These Barbarians often fight bare handed, preferring to instead grab and wrestle with their enemies as their armor pokes bleeding holes in them.
 
 ## Level 3: Ravager Armor

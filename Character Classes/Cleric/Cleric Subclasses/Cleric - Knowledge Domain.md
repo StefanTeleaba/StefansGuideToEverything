@@ -8,8 +8,7 @@ Gods of knowledge vary from masters of arcane magic to patrons of craft and inve
 You gain proficiency with one type of Artisan's Tools of your choice and in two of the following skills of your choice: Arcana, History, Nature, or Religion. You have Expertise in those two skills.
 
 ## Level 3: Knowledge Domain Spells
-When you reach a Cleric level specified in the Knowledge Domain Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Cleric level specified in the Knowledge Domain Spells table, you thereafter always have the listed spells prepared.  
 **Knowledge Domain Spells**
 | Cleric Level | Spells |
 |:------------:|--------|

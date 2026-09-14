@@ -1,5 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Circle of the Aurora
 *Channel Arctic Power to Inspire and Beguile*  
 In the cold, harsh climates of the arctic and antarctic tundras, druids can be found communing with brilliant and colorful lights which streak the skies - known as auroras. These druids channel the dazzling power of these aurorae to protect their ancestral homes, beguiling would-be invaders with enchanting lights of their own.
@@ -33,3 +32,5 @@ Your Enchanting Aurora’s appearance becomes even more awe-striking. A creature
 Your Enchanting Aurora feature improves in the following ways:  
 ***Hopeful Lights.*** When a friendly creature starts their turn within the glow of one of the lights, it has Advantage on the first attack roll or ability check it makes on that turn.  
 ***Mesmerizing Lights.*** When you use Mesmerizing Lights you can attempt to mesmerize creatures in the glow of any number of the lights, not just one.
+
+---

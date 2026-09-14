@@ -6,7 +6,6 @@ Druids of the Circle of Preservation work tirelessly to conserve natural resourc
 
 ## Level 3: Circle of Preservation Spells
 When you reach a Druid level specified in the Circle of Preservation Spells table, you thereafter always have the listed spells prepared.  
-
 **Circle of Preservation Spells**  
 | Druid Level | Prepared Spells                                              |
 |:-----------:|--------------------------------------------------------------|
@@ -40,3 +39,5 @@ You can cast Lesser Restoration or Greater Restoration without expending a spell
 ## Level 14: Sacrosanct Land
 The size of the Cube created by your Preserved Land increases to a 30-foot Cube.  
 In addition, when a creature you can see in the area of your Preserved Land is hit by an attack roll, you can take a Reaction to halve that attack’s damage against the creature.
+
+---

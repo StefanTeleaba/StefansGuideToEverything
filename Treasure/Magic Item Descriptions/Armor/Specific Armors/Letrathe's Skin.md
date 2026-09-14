@@ -1,20 +1,16 @@
+*Homebrew 5.5e*
 # Letrathe's Skin
-*Dragon Magazine 284, p.98*
-
-**Associated Spell:** Magic Jar, Protection from Energy  
-**Attunement:** 1 Hour  
-**Aura:** Strong Abjuration  
-**Body Slot:** Body  
-**Price:** 56,650 GP  
-**Weight:** 65 lb.
-
-*Letrathe's Skin is a suit of Plate Armor crafted of red dragon scales. It is particularly unusual because of the huge diamond set in the breastplate. Letrathe cut the diamond to resemble a dragon's scale, and the gem acts as the repository for the armor's primary ability.*
-
-You have a +1 bonus to AC while wearing this armor.  
-***Magic Jar.*** While wearing this armor, you can cast Magic Jar with it (save DC 18), using the diamond in the breastplate as the material component for the spell. The armor can't cast this spell again until you finish 2d4 Long Rests.  
+*Heavy Armor (Plate Armor), Legendary (Requires Attunement)*  
+You have a +3 bonus to AC while wearing this armor.  
+***Magic Jar.*** While wearing this armor, you can cast *Magic Jar* with it (save DC 18), using the diamond in the breastplate as the material component for the spell. The armor can't cast this spell again until you finish 2d4 Long Rests.  
 ***Fire Ward.*** Whenever you take Fire damage, the armor absorbs the damage instead, up to a total of 120 HP. If you have any Resistances or Vulnerabilities, apply them before deducting from the buffer. If the damage reduces the buffer to 0 Hit Points, you take any remaining damage. Recharging the pool of Hit Points requires the wearer to immerse the armor in the blood of a freshly slain red dragon over the course of a Long Rest.
 
 ---
+
+*Dragon Magazine 284, p.98*
+
+*Letrathe's Skin is a suit of Plate Armor crafted of red dragon scales. It is particularly unusual because of the huge diamond set in the breastplate. Letrathe cut the diamond to resemble a dragon's scale, and the gem acts as the repository for the armor's primary ability.*
+
 **Lore:**
 In his younger days, when he spent less time protecting his hoard. Nightcandle ventured both near and far in various guises. Notably, he spent much time with the ogre mage witch Delathe. The product of their liaison was a daughter, whom the world came to know as Letrathe. Nightcandle eventually grew tired of Delathe and slew her in Letrathe's fifteenth year. He then seized the ogre mage's wealth to add to his own. Finding his daughter to be an amusement, he brought her back to his lair and spent the next few seasons tutoring her in the arcane arts.  
 Letrathe learned her lessons well and left before her father tired of her as he did her mother. She made her way wasily in the world by using her natural inclination toward magic, shapeshifting, and brutality. Her time spent with Nightcandle awakened more than her magical abilities; it kindled both a burning lust for wealth and an intense hatred of herself and her father. More than anything, Letrathe wanted to be a dragon, not just a half-breed, and it was through a suit of magic armor that she thought she could achieve her goal. This drove her to gather a select group of mercenaries to assist her.  

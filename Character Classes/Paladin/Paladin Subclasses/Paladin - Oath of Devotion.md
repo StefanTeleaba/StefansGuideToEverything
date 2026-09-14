@@ -1,6 +1,5 @@
+*Player's Handbook 5.5e p.113*
 # Oath of Devotion
-*Player's Handbook 5.5e*  
-
 *Uphold the Ideals of Justice and Order*  
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.  
 Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.  
@@ -13,7 +12,7 @@ These paladins share the following tenets:
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.
 **Oath of Devotion Spells**  
 | Paladin Level | Spells                                         |
-|---------------|------------------------------------------------|
+|:-------------:|------------------------------------------------|
 | 3rd           | Protection from Evil And Good, Shield of Faith |
 | 5th           | Aid, Zone of Truth                             |
 | 9th           | Beacon of Hope, Dispel Magic                   |
@@ -36,3 +35,7 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 ***Holy Ward.*** You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.  
 ***Radiant Damage.*** Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.  
 ***Sunlight.*** The aura is filled with Bright Light that is sunlight.
+
+![Oath of Devotion](https://5e.tools/img/classes/XPHB/Devotion%20Paladin.webp)
+
+---

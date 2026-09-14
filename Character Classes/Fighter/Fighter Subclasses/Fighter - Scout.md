@@ -1,6 +1,4 @@
-*Unearthed Arcana: Kits of Old*
-*Published on January 4th, 2016.*
-*Modified*
+*Homebrew 5.5e*
 # Scout
 The archetypal scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
 
@@ -38,3 +36,11 @@ The maneuvers are presented here in alphabetical order.
 ***Precision Attack.*** When you miss with an attack roll, you can expend one Superiority Die, roll that die, and add it to the attack roll, potentially causing the attack to hit.
 
 ***Scout’s Evasion.*** While you you aren't wearing Heavy armor, you can take a Reaction and expend one Superiority Die, roll that die, and add it to your Armor Class, potentially causing the attack to miss you. You only take half damage if the attack still hits.
+
+---
+
+*Unearthed Arcana: Kits of Old*
+*Published on January 4th, 2016.*
+# Scout
+
+---

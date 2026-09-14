@@ -7,8 +7,7 @@ The Purification Domain believes sickness, mutation, and other forms of bodily c
 When you deal damage with a cantrip or an attack with a weapon or Unarmed Strike, you can deal an additional 1d8 Fire damage. You can use this feature a number of times equal to your Wisdom modifier plus your Proficiency Bonus (minimum of once), and you regain all expended uses when you finish a Short or Long Rest.
 
 ## Level 3: Purification Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Purification Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Purification Domain Spells table, you thereafter always have the listed spells prepared.  
 **Purification Domain Spells**  
 | Cleric Level | Spells                                 |
 |:------------:|----------------------------------------|
@@ -26,3 +25,5 @@ As a Magic action, you can touch a willing creature to grant this benefit, but t
 
 ## Level 17: Sear Imperfections
 You can cast Lesser Restoration and Greater Restoration on a willing creature without expending spell slots and without Material components, but the target takes 1d6 Fire damage for each level of the spell slot immediately after you cast it. This damage ignores Resistance and Immunity.
+
+---

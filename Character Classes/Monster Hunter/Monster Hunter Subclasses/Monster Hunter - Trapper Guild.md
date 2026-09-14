@@ -1,6 +1,5 @@
-# Trapper Guild
 *Grim Hollow: Player's Guide 2024 5.5e*
-
+# Trapper Guild
 *Dispatch Monsters with Cunning Traps*  
 Legends say that the founding members of the Trapper Guild were game hunters who had grown bored of stalking common elk and dreamed of taking down bigger game. Trappers take pride in their kills and the ingenuity exhibited when a trap works perfectly.  
 The legacy of the Trapper Guild is a consistent testament to the benefits of lying in wait. The element of surprise is paramount to the trapper, whose kit can flourish before the hunter and monster even meet. Preparation is key, and the resourceful trapper has devices to assist in bringing down even the strongest foes.
@@ -49,3 +48,5 @@ Modifications require the armor to be worn to function.
 ## Level 18: Rapid Tinkerer
 You have become capable of crafting trapper tools at a much faster rate. You can spend 1 minute to make a Trapper Gadget without spending GP or components.  
 You can use this feature twice, and you regain all expended uses when you finish a Long Rest.
+
+---

@@ -21,4 +21,6 @@ As a Magic action while entirely within Dim Light or Darkness, you can expend 3 
 ***Partially Incorporeal.*** You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.  
 ***Shadow Flurry.*** You can use your Flurry of Blows without expending any Focus Points.
 
+![Warrior of Shadow](https://5e.tools/img/classes/XPHB/Shadow%20Monk.webp)
+
 ---

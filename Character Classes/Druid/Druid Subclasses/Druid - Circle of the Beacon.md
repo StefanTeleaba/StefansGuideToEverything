@@ -7,8 +7,7 @@ Life in coastal cities remains distinct from that in the wilderness or other reg
 *“There are countless lamps throughout this city, and they guide lost souls safely home like a lighthouse does a sailor. I keep them lit, and that little boy or frightened woman gets home safely.” — Callus Lamorde, Druid of Lanterns*
 
 ## Level 3: Circle Spells
-When you reach a Druid level specified in the Circle of Lanterns Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Druid level specified in the Circle of Lanterns Spells table, you thereafter always have the listed spells prepared.  
 **Circle of the Beacon Spells**  
 | Druid Level | Prepared Spells                                                                        |
 |:-----------:|----------------------------------------------------------------------------------------|

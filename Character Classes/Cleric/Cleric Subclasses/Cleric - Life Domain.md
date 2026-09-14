@@ -5,8 +5,7 @@ The Life Domain focuses on the positive energy that helps sustain all life in th
 Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.
 
 ## Level 3: Life Domain Spells
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
-
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.  
 **Life Domain Spells**
 | Cleric Level | Prepared Spells                             |
 |:------------:|---------------------------------------------|
@@ -26,3 +25,7 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 
 ## Level 17: Supreme Healing
 When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+
+![Life Domain](https://5e.tools/img/classes/XPHB/Life%20Cleric.webp)
+
+---

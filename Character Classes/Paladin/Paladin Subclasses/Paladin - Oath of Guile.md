@@ -1,7 +1,5 @@
+[*Created by Spaghetti0*](https://bio.site/spaghetti0)
 # Oath of Guile
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)  
-*v1.0*  
-
 *Beguile your foes with Fey tricks*  
 A Paladin’s sacred oath is incredibly personal and spiritually significant to the paladin - it is a deeply important and defining aspect of who they are. Nobody said they needed to be particularly serious though. Paladins who swear the Oath of Guile are committed to solving problems through quick wit and trickery, drawing power from the same source as many fey
 creatures. They are particularly adept enchanters, beguiling and tricking others to act on their behalf on the battlefield.  
@@ -11,10 +9,10 @@ Paladins who swear the Oath of Guile tend to be chaotic by nature, but do share 
 - If someone is helpful, always consider their angle.
 
 ## Level 3: Oath Spells
-The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Guile Spells table, you thereafter always have the listed spells prepared.
-### Oath of Guile Spells
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Guile Spells table, you thereafter always have the listed spells prepared.  
+**Oath of Guile Spells**
 | Paladin Level | Spells                          |
-|---------------|---------------------------------|
+|:-------------:|---------------------------------|
 | 3rd           | Charm Person, Sanctuary         |
 | 5th           | Misty Step, Mirror Image        |
 | 9th           | Blink, Hypnotic Pattern         |

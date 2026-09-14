@@ -4,8 +4,7 @@
 Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
 
 ## Level 3: Circle of the Sea Spells
-When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.
-
+When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.  
 **Circle of the Sea Spells**
 | Druid Level | Prepared Spells                                             |
 |:-----------:|-------------------------------------------------------------|
@@ -30,3 +29,7 @@ Your Wrath of the Sea confers two more benefits while active, as detailed below.
 ## Level 14: Oceanic Gift
 Instead of manifesting the Emanation of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the Emanation and uses your spell save DC and Wisdom modifier for it.  
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
+
+![Circle of the Sea](https://5e.tools/img/classes/XPHB/Sea%20Druid.webp)
+
+---
