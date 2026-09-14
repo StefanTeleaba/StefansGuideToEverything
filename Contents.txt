@@ -1,0 +1,72 @@
+Contents
+
+Backgrounds  
+Character Classes  
+Feats  
+    Archetype Feats  
+    Class Feats  
+    Epic Boon Feats
+    Fighting Style Feats
+    General Feats
+    Origin Feats
+    Paths of Villainy
+    Planar Pact Feats
+    Racial Feats
+    Specialization Feats
+    Wild Talent Feats
+Items
+    Magic
+        Magic Item Descriptions
+            Ammunition
+                Generic Variants
+            Armor
+                Armor Special Abilities
+                Generic Variants
+                Specific Armors
+            Clothing
+                Arms
+                Body
+                Face
+                Feet
+                Hands
+                Head
+                Ring
+                Shoulders
+                Throat
+                Torso
+                Waist
+            Rods
+            Shields
+                Shield Special Abilities
+                Specific Shields
+            Staves
+            Wands
+            Weapons
+                Generic Variants
+                Specific Weapons
+                Weapon Minor Properties
+                Weapon Special Abilities
+            Wondrous Items
+                Containers
+                Figurines of Wondrous Power
+                Ioun Stones
+                Musical Instruments
+                Quivers
+                Skins, Psychoactive
+                Tomes
+        Special Materials
+    Mundane
+        Adventuring Gear
+        Ammunition
+        Armor
+        Clothing
+        Mounts
+        Shields
+        Weapons
+            Firearms
+            Mastery Properties
+            Properties
+Rules Glossary
+Species
+Spells
+    Spell Descriptiona
