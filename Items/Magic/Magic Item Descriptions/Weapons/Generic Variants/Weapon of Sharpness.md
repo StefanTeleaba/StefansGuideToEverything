@@ -1,6 +1,6 @@
 *Homebrew 5.5e*
-# Sword of Sharpness
-*Weapon (Glaive, Greatsword, Longsword, or Scimitar), Very Rare*  
+# Weapon of Sharpness
+*Weapon (Any Slashing Weapon), Very Rare*  
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.  
 When you attack a creature with this weapon and score a Critical Hit, that target takes an extra 4d6 Slashing damage and gains 1 Exhaustion level.
 
