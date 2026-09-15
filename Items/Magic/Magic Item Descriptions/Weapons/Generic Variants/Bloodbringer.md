@@ -15,8 +15,7 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 # Bloodbringer
 *Weapon (any sword), very rare (requires attunement)*  
 This magic blade is brimming with hungering necromancy. You gain a +1 bonus to attack and damage rolls made with it. When you hit a creature with the weapon, you can expend up to three Hit Dice (without regaining hit points as normal). Roll the Hit Dice: you deal extra necrotic damage to the target equal to the result, and you regain half as many hit points.  
-*My blood burns in my veins. It begs for more to be spilled, and I drink: hungrily.*
-
+*My blood burns in my veins. It begs for more to be spilled, and I drink: hungrily.*  
 ![Bloodbringer](https://preview.redd.it/the-griffons-saddlebag-bloodbringer-weapon-any-sword-v0-15zsfvo4nwoh1.png?auto=webp&s=bde95daac99ff1233af5a5a63d4430d6f5994a43)
 
 ---

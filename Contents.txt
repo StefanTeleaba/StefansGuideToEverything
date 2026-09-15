@@ -20,7 +20,6 @@ Items
             Ammunition
                 Generic Variants
             Armor
-                Armor Special Abilities
                 Generic Variants
                 Specific Armors
             Clothing
@@ -49,7 +48,6 @@ Items
             Wondrous Items
                 Containers
                 Figurines of Wondrous Power
-                Ioun Stones
                 Musical Instruments
                 Quivers
                 Skins, Psychoactive
