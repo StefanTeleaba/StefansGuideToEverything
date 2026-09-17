@@ -1,7 +1,9 @@
-*Arcana Unleashed 5.5e p.*
+*Arcana Unleashed 5.5e p.125*
 # Wand of Freshness
 *Wand, Uncommon*  
 This wand has 4 charges and regains 1d4+1 charges daily at dawn. While holding it, you can expend 1 charge to cast the *Purify Food and Drink* spell from it.
+
+![Wand of Freshness](https://5e.tools/img/items/AU/Wand%20of%20Freshness.webp)
 
 ---
 
