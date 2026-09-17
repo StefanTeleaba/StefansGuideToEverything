@@ -1,6 +1,8 @@
 *Homebrew 5.5e*
 # Assassin's Cloak
-While you're in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a spell slot.
+*Wondrous Item, Rare*  
+While you wear this cloak, Wisdom (Perception) checks made to perceive you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks.
+While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on yourself without expending a spell slot.
 
 ---
 

@@ -1,15 +1,26 @@
 *Homebrew 5.5e*
-# Cutlass (50 GP)
+# Cutlass (25 GP)
 *Martial Melee Weapon*  
 
-**Damage:** 1d6 Slashing  
-**Properties:** Defending, Finesse, Light  
-**Mastery:** Slow  
-**Weight:** 3 lb.
+**Damage:** 1d8 Slashing  
+**Properties:** Finesse  
+**Mastery:** Vex  
+**Weight:** 2 lb.
 
-***Defending.*** A Defending weapon is either made for parrying, has advanced techniques for use in parrying, or both. When wielding a Defending weapon, you may use your Reaction when you are hit by a melee attack roll. Roll 1d4 and add the result to your AC against the triggering attack.  
 ***Finesse.*** When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.  
-***Light.*** When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+
+---
+
+*Valda's Spire of Secrets 5.5e*
+# Cutlass (30 GP)
+*Martial Melee Weapon*  
+**Damage:** 1d8 Slashing  
+**Properties:** Finesse  
+**Mastery:** Vex  
+**Weight:** 2 lb.  
+***Finesse.*** When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.  
+***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
 ---
 

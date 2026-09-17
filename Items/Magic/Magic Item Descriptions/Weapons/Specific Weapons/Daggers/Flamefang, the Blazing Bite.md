@@ -12,4 +12,5 @@ This weapon deals an extra 1d4 Fire damage on a Hit.
 This weapon returns to your hand immediately after hitting or missing a target with a ranged attack.
 
 ---
+
 *Magic of Myth Drannor*

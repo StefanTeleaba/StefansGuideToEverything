@@ -1,7 +1,12 @@
+*Homebrew 5.5e*
+# Boots of Levitation
+
+---
+
 *Dungeon Master's Guide 5.5e p.239*
 # Boots of Levitation
 *Wondrous Item, Rare (Requires Attunement)*  
-While you wear these boots, you can cast Levitate on yourself.
+While you wear these boots, you can cast *Levitate* on yourself.
 
 ---
 

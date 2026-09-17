@@ -4,7 +4,7 @@
 While wearing this cloak, you can cast *Charm Monster* with it (save DC 17). The item can't cast this spell again until the next dawn.
 
 *Wondrous Item, Rare (Requires Attunement)*  
-You gain a +2 bonus to your Charisma score while wearing this Cloak.  
+While wearing this cloak, your Charisma score increases by 2, to a mazimum of 22.  
 ***Charm Monster.*** While wearing this cloak, you can cast *Charm Monster* with it (save DC 18). The item can't cast this spell again until the next dawn.
 
 ---
