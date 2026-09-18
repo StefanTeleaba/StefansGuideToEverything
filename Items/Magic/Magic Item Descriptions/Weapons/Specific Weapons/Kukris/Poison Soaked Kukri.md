@@ -15,4 +15,4 @@ You can take a Bonus Action to magically coat the blade of this Dagger with pois
 
 ---
 
-*Stranger Things: Welcome to the Hellfire Club*
+*Stranger Things: Welcome to the Hellfire Club 5.5e*

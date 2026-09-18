@@ -1,11 +1,8 @@
 *D&D Beyond Drops July 2026*
 # Stormwalker's Cloak
-*Wondrous Item, Rare (Requires Attunement)*
-
-While wearing this cloak, you gain the following benefits.
-
-***Shocking Feedback.*** The cloak has 3 charges and regains all expended charges daily at dawn. You can expend 1 charge to cast *Hellish Rebuke* from the cloak (DC 13), and the spell deals your choice of Lightning or Thunder damage instead of the usual Fire damage.
-
+*Wondrous Item, Rare (Requires Attunement)*  
+While wearing this cloak, you gain the following benefits.  
+***Shocking Feedback.*** The cloak has 3 charges and regains all expended charges daily at dawn. You can expend 1 charge to cast *Hellish Rebuke* from the cloak (DC 13), and the spell deals your choice of Lightning or Thunder damage instead of the usual Fire damage.  
 ***Storm Resistance.*** You have Resistance to Lightning and Thunder damage.
 
 ---
@@ -44,3 +41,5 @@ All the collection benefits of the raiment function normally for and can be acti
 **2 Pieces:** You can use obscuring mist (CL 5th) as a standard (mental) action three times per day.  
 **3 Pieces:** You can use call lightning (CL 5th) as a standard (mental action) once per day.  
 **4 Pieces:** You take only half damage from electricity. If such an attack allows a save for half damage, you instead take no damage on a successful save.
+
+---

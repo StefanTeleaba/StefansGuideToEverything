@@ -5,7 +5,7 @@ While you're wearing this fearsome steel helm, your eyes glow red and the rest o
 
 ---
 
-*Stranger Things: Welcome to the Hellfire Club*
+*Stranger Things: Welcome to the Hellfire Club 5.5e*
 # Dread Helm
 *Wondrous Item, Common*  
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.  

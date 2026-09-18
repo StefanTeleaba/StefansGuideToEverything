@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Periapt of Wisdom
 *Wondrous Item, Uncommon*  
-While wearing this pendant, your Wisdom score increases by 2.
+While wearing this pendant, your Wisdom increases by 2, to a maximum of 22.
+
+*Wondrous Item, Rare*  
+While wearing this pendant, your Wisdom increases by 4, to a maximum of 24.
+
+*Wondrous Item, Very Rare*  
+While wearing this pendant, your Wisdom increases by 6, to a maximum of 26.
 
 ---
 *Magic Item Compendium, p.70*  

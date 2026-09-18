@@ -12,7 +12,7 @@
 
 ---
 
-*Stranger Things: Welcome to the Hellfire Club*
+*Stranger Things: Welcome to the Hellfire Club 5.5e*
 # Kukri (2 GP)
 *Simple Melee Weapon*  
 **Damage:** 1d4 Piercing  

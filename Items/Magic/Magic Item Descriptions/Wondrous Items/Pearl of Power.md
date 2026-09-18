@@ -3,6 +3,12 @@
 *Wondrous Item, Uncommon*  
 While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.
 
+*Wondrous Item, Rare*  
+While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 5 or lower. Once you use the pearl, it can't be used again until the next dawn.
+
+*Wondrous Item, Very Rare*  
+While this pearl is on your person, you can take a Magic action to regain one expended spell slot of level 7 or lower. Once you use the pearl, it can't be used again until the next dawn.
+
 ---
 
 *Dungeon Master's Guide 5.5e p.284*

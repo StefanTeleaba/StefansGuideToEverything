@@ -19,7 +19,7 @@ Crude metal spikes adorn this magic Shield. It has the following properties that
 
 ---
 
-*Stranger Things: Welcome to the Hellfire Club*
+*Stranger Things: Welcome to the Hellfire Club 5.5e*
 # Spiked Shield
 *Shield (Shield), Uncommon (Requires Attunement)*  
 Crude metal spikes adorn this magic Shield. It has the following properties that you can use while holding it.  

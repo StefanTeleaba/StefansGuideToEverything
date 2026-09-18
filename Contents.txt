@@ -36,8 +36,6 @@ Items
                 Waist
             Rods
             Shields
-                Shield Special Abilities
-                Specific Shields
             Staves
             Wands
             Weapons
