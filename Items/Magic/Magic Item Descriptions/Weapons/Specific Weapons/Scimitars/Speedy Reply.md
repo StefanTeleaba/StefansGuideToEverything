@@ -11,6 +11,7 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 
 ---
 
-*Baldur's Gate 3*
-
+*Baldur's Gate 3*  
 *A heavy haft and wide blade belie the speed of this weapon. It parts the air as swiftly as any dueling sabre.*
+
+---

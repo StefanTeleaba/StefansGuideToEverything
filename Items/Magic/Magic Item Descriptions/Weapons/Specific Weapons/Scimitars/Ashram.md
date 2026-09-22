@@ -12,23 +12,19 @@ You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon
 
 *Dragon Magazine 277, p.87*
 # Ashram
-
 **Associated Spell:** Flame Strike, Magic Jar  
 **Attunement:** 1 Hour  
 **Aura:** Strong Evocation  
 **Body Slot:** Held  
 **Price:** 128,315 GP  
-**Weight:** 3 lb.
-
-*Ashram is a scimitar of bronze that exhibits the strength of the highest quality steel. Its guard is also made of bronze, and the weapon's grip is wrapped with strips of fire-lizard hide. The scimitar's pommel is a claw clutching a gem that flickers with a red flame that some sages postulate is a sliver of elemental fire.*
-
+**Weight:** 3 lb.  
+*Ashram is a scimitar of bronze that exhibits the strength of the highest quality steel. Its guard is also made of bronze, and the weapon's grip is wrapped with strips of fire-lizard hide. The scimitar's pommel is a claw clutching a gem that flickers with a red flame that some sages postulate is a sliver of elemental fire.*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Unbreakable.*** The item can't be broken. Special means must be used to destroy it.  
 ***Guardian.*** The item warns you, granting a +4 bonus to your Initiative rolls if you don't have the Incapacitated condition.  
 ***Flaming.*** This weapon deals an additional 1d6 Fire damage on a Hit.  
 ***Flaming Burst.*** This weapon deals an additional 1d10 Fire damage on a Critical Hit.  
 ***Stunning.*** When you score a Critical Hit with this weapon, the creature must succeed on a DC 16 Constitution saving throw or have the Stunned condition until the end of your next turn.  
-
 
 ---
 **Lore:**  

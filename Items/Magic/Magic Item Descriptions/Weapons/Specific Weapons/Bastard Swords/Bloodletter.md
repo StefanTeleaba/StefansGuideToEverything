@@ -1,8 +1,19 @@
 *Homebrew 5.5e*
 # Blood Letter
+*Weapon (Bastard Sword), Uncommon*  
+When you hit a creature with an attack using this magic weapon, the target takes an extra 1d6 Necrotic damage, and you gain a number of Temporary Hit Points equal to half the amount of Necrotic damage dealt.
+
+*Weapon (Bastard Sword), Rare*  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
+When you hit a creature with an attack using this magic weapon, the target takes an extra 2d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.
+
 *Weapon (Bastard Sword), Very Rare*  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
+When you hit a creature with an attack using this magic weapon, the target takes an extra 3d6 Necrotic damage, and you regain Hit Points equal to the amount of Necrotic damage dealt.
+
+*Weapon (Bastard Sword), Legendary*  
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
-When you hit a creature with an attack using this magic weapon, the target takes an extra 3d6 Necrotic damage, and you regain Hit Points equal to the amount of Necrotic damage dealt. The target must succeed on a DC 15 Constitution saving throw or be unable to regain Hit Points for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+When you hit a creature with an attack using this magic weapon, the target takes an extra 3d6 Necrotic damage, and you regain Hit Points equal to the amount of Necrotic damage dealt. If you have all of your Hit Points, you instead gain a number of Temporary Hit Points equal to the amount of Necrotic damage dealt.
 
 ---
 

@@ -6,6 +6,5 @@ When you reduce an enemy to 0 Hit Points while wielding this weapon, you gain th
 
 ---
 
-*Baldur's Gate*
-
+*Baldur's Gate*  
 *The length of this blade is etched with flames, genies, and whirlwinds. Small glittering particles along its length evoke a sandstorm. The style and quality of the blade indicates it was made in Calimshan.*
