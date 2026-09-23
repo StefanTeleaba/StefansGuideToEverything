@@ -23,3 +23,5 @@ As an Action, you brandish the weapon and conjure spectral bolts that launch for
 *Light crossbow of speed: 'The Army Scythe'. A short-lived human outpost in the Frozen Forest unearthed this weapon, and many others, from the ruins of an ancient settlement deep within that cold land. Never knowing the names of their extinct benefactors, the colonists used these "tools" to carve a large territory for themselves, though in the end it was for naught. Crushed by a superior number of hobgoblins, these unfortunate souls have joined the ancients in their anonymity.*
 
 ---
+
+@Gecko
