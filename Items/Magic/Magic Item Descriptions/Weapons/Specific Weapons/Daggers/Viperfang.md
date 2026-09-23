@@ -11,10 +11,8 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 *Attuned to:*  
 ***Assassination.*** The DC of your Cunning Strike and Death Strike features increase by 1.
 
-**Source:** *City of Splendors: Waterdeep 3.5e p.147*
-
-
-
 ---
+
+*City of Splendors: Waterdeep 3.5e p.147*  
 Custom-built to the Black Viper’s specifications by Hadrhune, making it a Shadow Magic item, this unique black +2 corrosive assassin’s dagger of venom has a curved blade and serrated edge. It allows the wielder to use a poison effect (as the spell, save DC 14) upon a creature struck by the blade once per day. The wielder can decide to use the power after he has struck. Doing so is a free action, but the poison effect must be invoked in the same round that the dagger strikes. In addition, the dagger provides a +1 bonus to the DC of the Fortitude save forced by the death attack of an assassin.  
 Moderate necromancy; CL 15th; Craft Magic Arms and Armor, acid fog, acid storm, Melf’s acid arrow, or storm of vengeance, poison; Price 50,302 gp; Cost 25,302 gp + 2,000 XP; Weight 4 lb.

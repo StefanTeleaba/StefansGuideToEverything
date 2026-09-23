@@ -1,8 +1,17 @@
 *Homebrew 5.5e*
 # Winter's Eye
+*Weapon (Longsword), Uncommon*  
+When you hit with an attack roll using this magic weapon, the target takes an extra 1d8 Cold damage.
+
 *Weapon (Longsword), Rare*  
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. When you hit with an attack roll using this magic weapon, the target takes an extra 1d8 Cold damage.
+
+*Weapon (Longsword), Very Rare*  
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. When you hit with an attack roll using this magic weapon, the target takes an extra 1d8 Cold damage.
+
+---
+
 *Winter's Eye has had several continual flame spells cast upon it as a joke. The illusory flames do no damage but sometimes trick enemies into guarding themselves with flame-resistant magic instead of cold.*  
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The weapon deals an additional 1d8 Cold damage on a Hit.
 
 ---
 

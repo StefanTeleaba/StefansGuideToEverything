@@ -8,8 +8,7 @@ When you score a Critical Hit, the target takes an extra 15 Slashing damage and 
 ---
 
 *Heroes' Lorebook 2e p.133*
-**Crackletongue**, her magical saber. It is a saber of sharpness +5 with a basketed hilt. When it is drawn, blue flames run along its blade, and the flames crackle when it is around creatures or persons dedicated to evil. When the saber hits an evil being, it emits a snarl and showers of blue sparks, and it easily cuts through armor, muscle, and bone.
-
+**Crackletongue**, her magical saber. It is a saber of sharpness +5 with a basketed hilt. When it is drawn, blue flames run along its blade, and the flames crackle when it is around creatures or persons dedicated to evil. When the saber hits an evil being, it emits a snarl and showers of blue sparks, and it easily cuts through armor, muscle, and bone.  
 *A basketed hilt saber, when Crackletongue is drawn, blue flames run along its blade and the flames crackle when evil creatures get close.*
 
 ---

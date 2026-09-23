@@ -1,10 +1,10 @@
 *Homebrew 5.5e*
 # Quick
-*Weapon (Rapier), Rare*
+*Weapon (Rapier), Rare (Requires Attunement)*
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
 While holding this magic weapon, you can use the command word *"Storm's lash!"* to cause lightning to infuse the weapon (no action required). While the weapon is alight, it deals an extra 2d8 Lightning damage on a hit. The lightning lasts until you issue the command again or until you drop, stow, or sheathe the weapon.
 
-*Weapon (Rapier), Very Rare*
+*Weapon (Rapier), Very Rare (Requires Attunement)*
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
 While holding this magic weapon, you can use the command word *"Storm's lash!"* to cause lightning to infuse the weapon (no action required). While the weapon is alight, it deals an extra 2d8 Lightning damage on a hit. The lightning lasts until you issue the command again or until you drop, stow, or sheathe the weapon.
 

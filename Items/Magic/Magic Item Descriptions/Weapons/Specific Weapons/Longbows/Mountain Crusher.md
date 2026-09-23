@@ -1,5 +1,6 @@
+*Homebrew 5.5e*
 # Mountain Crusher
-*Weapon (Longbow), Very Rare*  
+*Weapon (Longbow), Legendary*  
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon and you can add your Strength modifier to the damage rolls.
 
 ---

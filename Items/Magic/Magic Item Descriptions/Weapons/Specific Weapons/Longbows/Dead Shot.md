@@ -1,15 +1,7 @@
 *Homebrew 5.5e*
 # Dead Shot
-*Weapon (Longbow), Uncommon*  
-The Critical Range of this weapon increases by 1 and you can add double your Proficiency Bonus to attack rolls you make with this weapon if you don't have Disadvantage on the attack roll. 
-
-*Weapon (Longbow), Rare*  
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.  
-The Critical Range of this weapon increases by 1 and you can add double your Proficiency Bonus to attack rolls you make with this weapon if you don't have Disadvantage on the attack roll. 
-
-*Weapon (Longbow), Very Rare*  
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.  
-The Critical Range of this weapon increases by 1 and you can add double your Proficiency Bonus to attack rolls you make with this weapon if you don't have Disadvantage on the attack roll. 
+*Weapon (Longbow), Legendary (Requires Attunement)*  
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. Its Critical Range increases by 1 and you can add double your Proficiency Bonus to attack rolls you make with this magic weapon. 
 
 ---
 

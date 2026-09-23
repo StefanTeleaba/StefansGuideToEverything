@@ -6,8 +6,11 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 *Weapon (Rapier), Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you gain a bonus to damage rolls equal to your Charisma modifier.
 
-*Weapon (Rapier), VeryRare*  
+*Weapon (Rapier), Very Rare*  
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you gain a bonus to damage rolls equal to your Charisma modifier.
+
+*Weapon (Rapier), Legendary*  
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you gain a bonus to attack and damage rolls equal to your Charisma modifier.
 
 ---
 

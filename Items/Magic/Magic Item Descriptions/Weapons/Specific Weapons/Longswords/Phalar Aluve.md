@@ -1,9 +1,6 @@
 *Homebrew 5.5e*
 # Phalar Aluve
-*Weapon (Longsword), Rare*
-
-*The Drow inscription on this blade appears to have been recently carved. It translates to: 'Though I have to leave you, I will dance forever in Eilistraee's Light.'*
-
+*Weapon (Longsword), Rare*  
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
 While this sword is on your person, you gain a +1 bonus to Charisma (Performance) checks.
@@ -17,4 +14,7 @@ Once this property is used, it can't be used again until the next dawn.
 
 ---
 
-*Baldur's Gate 3*
+*Baldur's Gate 3*  
+*The Drow inscription on this blade appears to have been recently carved. It translates to: 'Though I have to leave you, I will dance forever in Eilistraee's Light.'*
+
+---

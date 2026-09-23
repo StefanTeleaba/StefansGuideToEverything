@@ -1,8 +1,8 @@
 *Homebrew 5.5e*
 # Taulmaril, the Heartseeker
-*Weapon (Longbow), Legendary*  
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. The Critical Range of this weapon increases by 1.  
-***Force.*** If you do not nock an arrow, a magical arrow made of energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target.
+*Weapon (Longbow), Legendary (Requires Attunement)*  
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon and its Critical Range increases by 1.  
+***Force.*** If you do not nock an arrow, a magical arrow made of energy appears nocked and ready to fire. An arrow produced by this weapon deals 2d8 Force damage instead of its normal Piercing damage, and it disappears after it hits or misses its target.
 
 ---
 
