@@ -10,6 +10,7 @@ While wearing this amulet, your Constitution increases by 4, to a maximum of 24.
 While wearing this amulet, your Constitution increases by 6, to a maximum of 26.
 
 ---
+
 *Dungeon Master's Guide 5.5e p.228*
 # Amulet of Health
 *Wondrous Item, Rare (Requires Attunement)*  

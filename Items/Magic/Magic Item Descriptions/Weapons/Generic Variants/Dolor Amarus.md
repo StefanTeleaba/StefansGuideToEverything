@@ -9,5 +9,3 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 *Once wielded by a murderer, the weapon's handle retains an eerie, clammy warmth, as if Dolor's pre-slaughter sweat somehow crept into the leather - and lingers there still.*
 
 ---
-
-@Gecko

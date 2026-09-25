@@ -3,7 +3,7 @@
 *Barbarian Feat (Prerequisite: Level 4+, Rage Feature)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Constitution score by 1, to a maximum of 20.  
-***Extra Rage.*** The number of times you can enter your Rage increases by 2.  
+***Extra Rage.*** The number of times you can enter your Rage increases by 2 and you regain one more expended use when you finish a Short Rest.  
 ***Repeatable.*** You can take this feat more than once.
 
 ---

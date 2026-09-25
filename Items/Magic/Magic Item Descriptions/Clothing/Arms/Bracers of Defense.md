@@ -1,7 +1,13 @@
 *Homebrew 5.5e*
 # Bracers of Defense
-*Wondrous Item, Uncommon*  
+*Wondrous Item, Uncommon (Requires Attunement)*  
 While wearing these bracers, you gain a +1 bonus to Armor Class if you are wearing no armor and using no Shield.
+
+*Wondrous Item, Rare (Requires Attunement)*  
+While wearing these bracers, you gain a +2 bonus to Armor Class if you are wearing no armor and using no Shield.
+
+*Wondrous Item, Very Rare (Requires Attunement)*  
+While wearing these bracers, you gain a +3 bonus to Armor Class if you are wearing no armor and using no Shield.
 
 ---
 

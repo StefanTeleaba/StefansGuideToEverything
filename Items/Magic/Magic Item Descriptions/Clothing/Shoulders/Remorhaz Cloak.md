@@ -1,3 +1,4 @@
+[*The Griffon's Saddlebag*](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/173u09f/the_griffons_saddlebag_remorhaz_cloak_wondrous/)
 # Remorhaz Cloak
 *Wondrous Item, Very Rare (Requires Attunement)*
 
@@ -9,4 +10,4 @@ The first time you attune to this item, and then again each day at dawn, you can
 
 ***Boiling Blood.*** If you're a Barbarian and are wearing this cloak, your blood boils whenever you rage. While you don't have the Temporary Hit Points from the cloak's Fiery Carapace property, any creature automatically takes 1d4 Fire damage whenever it hits you with a melee attack while you're raging.
 
-[*The Griffon's Saddlebag*](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/173u09f/the_griffons_saddlebag_remorhaz_cloak_wondrous/)
+---

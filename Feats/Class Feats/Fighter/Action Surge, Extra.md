@@ -6,3 +6,4 @@ You gain the following benefits.
 ***Action Surge.*** You gain one more use of your Action Surge feature.  
 ***Repeatable.*** You can take this feat more than once.
 
+---

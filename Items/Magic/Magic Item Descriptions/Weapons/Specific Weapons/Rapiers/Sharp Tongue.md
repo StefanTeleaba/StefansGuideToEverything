@@ -19,4 +19,6 @@ You deal an extra 1d4 Psychic damage with this magic weapon to any creature that
 You deal an extra 1d4 Psychic damage with this magic weapon to any creature that's been targeted by the *Vicious Mockery* spell since the start of your last turn. In addition, while holding it, your spell save DC for any Vicious Mockery spell you cast is increased by 1, and you can cast the spell as a reaction when a creature that you can see misses you with a melee attack or instead of making an attack of opportunity with the weapon.  
 *My words will only be the first thing to cut you down.*
 
+![Sharp Tongue](https://preview.redd.it/the-griffons-saddlebag-sharp-tongue-weapon-rapier-v0-47jkuy93z88h1.png?auto=webp&s=290e77a24a05f547fbe33b195ead7dd37cbf40d8)
+
 ---
