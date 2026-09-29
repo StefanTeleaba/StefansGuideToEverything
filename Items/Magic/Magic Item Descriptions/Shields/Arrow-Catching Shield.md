@@ -1,3 +1,18 @@
+*Homebrew 5.5e*
+# Arrow-Catching Shield
+*Shield (Shield), Uncommon (Requires Attunement)*  
+Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a Reaction to become the target of the attack instead.
+
+*Shield (Shield), Rare (Requires Attunement)*  
+You gain a +2 bonus to Armor Class against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.  
+Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a Reaction to become the target of the attack instead.
+
+*Shield (Shield), Very Rare (Requires Attunement)*  
+You gain a +1 bonus to Armor Class while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC. This bonus increases to +3 against ranged attack rolls.  
+Whenever an attacker makes a ranged attack roll against a target within 10 feet of you, you can take a Reaction to become the target of the attack instead.
+
+---
+
 *Dungeon Master's Guide 5.5e p.231*
 # Arrow-Catching Shield
 *Shield (Shield), Rare (Requires Attunement)*  

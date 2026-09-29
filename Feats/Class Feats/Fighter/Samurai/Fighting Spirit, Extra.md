@@ -3,5 +3,7 @@
 *Class Feat (Prerequisite: Level 4+, Fighting Spirit Feature)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Strength or Dexterity score by 1, to a maximum of 20.  
-***Extra Fighting Spirit.*** The number of times you can use your Fighting Spirit feature increases by 2.  
+***Extra Fighting Spirit.*** The number of times you can use your Fighting Spirit feature increases by 2 and you regain one more expended use when you finish a Short Rest.  
 ***Repeatable.*** You can take this feat more than once.
+
+---
