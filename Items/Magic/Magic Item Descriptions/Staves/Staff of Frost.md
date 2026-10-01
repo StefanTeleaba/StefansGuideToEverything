@@ -1,8 +1,7 @@
+*Dungeon Master's Guide 5.5e p.308*
 # Staff of Frost
-*Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)*
-
-You have Resistance to Cold damage while you hold this staff.
-
+*Staff, Very Rare (Requires Attunement by a Druid, Sorcerer, Warlock, or Wizard)*  
+You have Resistance to Cold damage while you hold this staff.  
 ***Spells.*** The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
 | Spell         | Charge Cost |
@@ -13,3 +12,5 @@ You have Resistance to Cold damage while you hold this staff.
 | Wall of Ice   | 4           |
 
 ***Regaining Charges.*** The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff crumbles into cinders and is destroyed.
+
+---

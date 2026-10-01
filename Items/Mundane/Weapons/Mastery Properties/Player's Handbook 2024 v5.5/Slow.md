@@ -1,4 +1,5 @@
-# Slow
-If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+*Player's Handbook 2024 5.5e p.214*
 
-**Source:** *Player's Handbook 2024 5.5e p.214*
+***Mastery: Slow.*** If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+
+---

@@ -2,10 +2,23 @@
 # Naginata (50 GP)
 *Martial Melee Weapon*  
 **Damage:** 1d10 Slashing  
-**Properties:** Brutal, Heavy, Reach, Two‑Handed  
+**Properties:** Heavy, Reach, Two‑Handed  
 **Mastery:** Graze  
-**Weight:** 6 lb.  
-***Brutal.*** When you score a Critical Hit with a Brutal weapon against a creature, the weapon deals one additional die of damage.
+**Weight:** 5 lb.  
+***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
+***Reach.*** A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.  
+***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.  
+***Mastery: Graze.*** If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.
+
+---
+
+*Valda's Spire of Secrets 5.5e*
+# Naginata (50 GP)
+*Martial Melee Weapon*  
+**Damage:** 1d10 Slashing  
+**Properties:** Heavy, Reach, Two‑Handed  
+**Mastery:** Graze  
+**Weight:** 5 lb.  
 ***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
 ***Reach.*** A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.  
 ***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.  
@@ -19,7 +32,7 @@
 *Martial Melee Weapon*  
 **Cost:** 10 GP  
 **Damage:** 1d10  
-**Critical:** ×3
+**Critical:** ×3  
 **Range Increment:** -  
 **Weight:** 15 lb.  
 **Type:** Slashing  

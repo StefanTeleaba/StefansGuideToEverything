@@ -1,10 +1,10 @@
+*Homebrew 5.5e*
 # Boomerang (5 SP)
 *Simple Ranged Weapon*  
-
 **Damage:** 1d4 Bludgeoning  
 **Properties:** Light, Special, Thrown (60/120)  
 **Mastery:** Slow  
-**Weight:** 1/5 lb.
+**Weight:** 1/5 lb.  
 
 **Special:** On a miss, the Boomerang returns to the thrower’s hand.
 

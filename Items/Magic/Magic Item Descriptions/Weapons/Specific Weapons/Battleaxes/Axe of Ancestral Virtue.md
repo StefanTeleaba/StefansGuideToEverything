@@ -1,8 +1,6 @@
 # Axe of Ancestral Virtue
 *Weapon (Battleaxe), Legendary (Requires Attunement)*
 
-*A holy symbol of Moradin decorates the joint between the head and the haft of this sturdy adamantine waraxe.*
-
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.  
 ***Adamantine.*** Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.  
 ***Keen.*** The number you need to roll on the d20 to score a Critical Hit on attacks rolls with this weapon decreases by 1.  
@@ -13,8 +11,6 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 - 3/day: Cure Wounds (Range: Self, Level 3)
 - 3/day: Faerie Fire
 - 3/day: Haste (Range: Self)
-
-
 
 ---
 # Axe of Ancestral Virtue
