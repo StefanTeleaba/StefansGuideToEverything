@@ -1,4 +1,4 @@
-*D&D Beyond Drops June 2026*
+*D&D Beyond Drops: June 2026*
 # Amulet of Retributive Healing
 *Wondrous Item, Rare (Requires Attunement)*  
 This amulet has 3 charges and regains 1d3 expended charges daily at dawn. When you restore Hit Points to one other creature, you can expend 1 charge to regain the same amount of Hit Points.

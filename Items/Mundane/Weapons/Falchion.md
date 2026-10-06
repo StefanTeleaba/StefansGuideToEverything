@@ -18,7 +18,7 @@
 *Homebrew 5.5e*
 # Falchion (75 GP)
 *Martial Melee Weapon*  
-**Damage:** 2d4 Slashing  
+**Damage:** 1d10 Slashing  
 **Properties:** Critical, Heavy, Two-Handed  
 **Mastery:** Vex  
 **Weight:** 4 lb.  
@@ -26,8 +26,6 @@
 ***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
 ***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.  
 ***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
-
-*Am stabilit impreuna cu Andrei si Bobo. Astea raman staturile stabilite.*
 
 ---
 
@@ -40,5 +38,17 @@
 **Weight:** 8 lb.  
 **Type:** Slashing  
 This sword, which is essentially a two-handed scimitar, has a curve that gives it an effectively keener edge.
+
+---
+
+*Sandstorm*
+# Great Falchion
+**Cost:** 100 GP  
+**Damage:** 1d12  
+**Critical:** 18-20/×2  
+**Range Increment:** -  
+**Weight:** 12 lb.  
+**Type:** Slashing  
+This heavy executioner's sword has the same basic profile as a falchion, albeit with a much greater blade surface. Because it is an executioner's weapon, it is often crafted as a masterwork weapon, marked with a royal seal, and created with one or more gems in the hilt.
 
 ---

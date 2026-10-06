@@ -15,3 +15,11 @@ While you hold the drawn weapon, it creates a 10-foot Emanation originating from
 ![Holy Avenger](https://5e.tools/img/items/XDMG/Holy%20Avenger.webp)
 
 ---
+
+*Dungeon Master's Guide 3.5e p.226*
+# Holy Avenger
+This +2 cold iron longsword becomes a +5 holy cold iron longsword in the hands of a paladin.  
+It provides spell resistance of 5 + the paladin’s level to the wielder and anyone adjacent to her. It also enables the wielder to use greater dispel magic (once per round as a standard action) at the class level of the paladin. (Only the area dispel is possible, not the targeted dispel or counterspell versions of greater dispel magic.)  
+Strong abjuration; CL 18th; Craft Magic Arms and Armor, holy aura, creator must be good; Price 120,630 gp; Cost 60,630 gp + 4,800 XP.
+
+---

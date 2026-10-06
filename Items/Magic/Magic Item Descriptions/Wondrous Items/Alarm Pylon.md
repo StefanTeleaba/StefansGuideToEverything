@@ -1,4 +1,4 @@
-*D&D Beyond Drops, August 2026*
+*D&D Beyond Drops: August 2026*
 # Alarm Pylon
 *Wondrous Item, Uncommon*  
 This 5-foot-tall post is made of stone and etched with runes. As a Magic action, you can activate the pylon by touching the runes and specifying one of the following triggers:

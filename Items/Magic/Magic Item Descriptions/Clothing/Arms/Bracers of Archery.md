@@ -1,13 +1,13 @@
 *Homebrew 5.5e*
 # Bracers of Archery
-*Wondrous Item, Uncommon*  
+*Wondrous Item, Uncommon (Requires Attunement)*  
 While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to damage rolls made with such weapons.
 
-*Wondrous Item, Rare*  
-While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +1 bonus to attack rolls and a +2 bonus to damage rolls made with such weapons.
+*Wondrous Item, Rare (Requires Attunement)*  
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, you gain a +4 bonus to damage rolls made with such weapons, and you can treat any 1 or 2 on a damage die as a 3.
 
-*Wondrous Item, Very Rare*  
-While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to attack rolls and a +4 bonus to damage rolls made with such weapons.
+*Wondrous Item, Very Rare (Requires Attunement)*  
+While wearing these bracers, you have proficiency with the Longbow and Shortbow, your Critical Range with such weapons increases by 1, you gain a +6 bonus to damage rolls made with such weapons, and you can treat any 1 or 2 on a damage die as a 3.
 
 ---
 

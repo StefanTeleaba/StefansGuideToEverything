@@ -17,3 +17,10 @@ While holding this magic weapon, you can take a Bonus Action and use a command w
 ![Flame Tongue](https://5e.tools/img/items/XDMG/Flame%20Tongue.webp)
 
 ---
+
+*Dungeon Master's Guide 3.5e p.226*
+# Flame Tongue
+This is a +1 flaming burst longsword. Once per day, the sword can blast forth a fiery ray at any target within 30 feet as a ranged touch attack. The ray deals 4d6 points of fire damage on a successful hit.  
+Moderate evocation; CL 12th; Craft Magic Arms and Armor, scorching ray, and flame blade, flame strike, or fireball; Price 20,715 gp; Cost 10,515 gp + 816 XP.
+
+---

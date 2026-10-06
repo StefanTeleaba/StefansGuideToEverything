@@ -1,4 +1,4 @@
-*D&D Beyond Drops July 2026*
+*D&D Beyond Drops: July 2026*
 # Goggles of Foe-Finding
 *Wondrous Item, Rare (Requires Attunement)*  
 While you’re wearing these goggles, your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.

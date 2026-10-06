@@ -26,3 +26,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
 ---
+
+*Dungeon Master's Guide 3.5e p.226*
+# Dwarven Thrower
+This weapon commonly functions as a +2 warhammer. In the hands of a dwarf, the warhammer gains an additional +1 enhancement bonus (for a total enhancement bonus of +3) and gains the returning special ability. It can be hurled with a 30-foot range increment. When hurled, it deals an extra 2d8 points of damage against giants or an extra 1d8 points of damage against any other target.  
+Moderate evocation; CL 10th; Craft Magic Arms and Armor, creator must be a dwarf of at least 10th level; Price 60,312 gp; Cost 30,312 gp + 2,400 XP.
+
+---

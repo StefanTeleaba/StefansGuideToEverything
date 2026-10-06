@@ -1,15 +1,16 @@
 *Homebrew 5.5e*
 # Mithral Armor
 *Armor (Any Medium or Heavy, Except Hide Armor), Uncommon*  
-Mithral is a light, flexible metal. Armor made of this substance can be worn under normal clothes. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
+If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
 
 *Armor (Any Medium or Heavy, Except Hide Armor), Rare*  
-You gain a +1 bonus to Armor Class while you wear this armor.  
-Mithral is a light, flexible metal. Armor made of this substance can be worn under normal clothes. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
+You gain a +1 bonus to Armor Class while you wear this armor. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
 
 *Armor (Any Medium or Heavy, Except Hide Armor), Very Rare*  
-You gain a +2 bonus to Armor Class while you wear this armor.  
-Mithral is a light, flexible metal. Armor made of this substance can be worn under normal clothes. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
+You gain a +2 bonus to Armor Class while you wear this armor. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn’t.
+
+*Armor (Any Medium or Heavy, Except Hide Armor), Legendary*  
+You gain a +3 bonus to Armor Class while you wear this armor and you can add your full Dexterity modifier when determining your Armor Class. If the armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, this version of the armor doesn’t.
 
 ---
 
