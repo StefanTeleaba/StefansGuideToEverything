@@ -1,10 +1,10 @@
 # Vest of Legends
 *Wondrous Item, Rare*
-
-*Even though this silk vest is festooned with buckles and precious gems, it manages to look classy and fashionable rather than overly gaudy.*
-
 While wearing this vest, you gain a +5 bonus to Charisma (Performance and Persuasion) checks. In addition, when a creature rolls one of your Bardic Inspiration Dice, it adds your Charisma Bonus to the roll.
 
+---
+
+*Even though this silk vest is festooned with buckles and precious gems, it manages to look classy and fashionable rather than overly gaudy.*
 
 ---
 *Dungeon Master's Guide II 3.5e p.272*

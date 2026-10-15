@@ -1,7 +1,7 @@
 *Valda's Spire of Secrets: Player Pack*
 # Arachnoid Stalker
 *Sling Webs and Crawl Walls*  
-*A life-changing event, such as being cursed by a drider or being bitten by a dangerously transmuted arachnid, has imbued you with the abilities of a spider. This transformation might have left you physically unchanged, or you may have developed a half-dozen eyes, lanky and hairy limbs, or a set of inhuman mandibles. Whatever the side effects, you can now produce deadly poison and ropes of silken web from your palms, and even scale walls with your fingertips.*
+A life-changing event, such as being cursed by a drider or being bitten by a dangerously transmuted arachnid, has imbued you with the abilities of a spider. This transformation might have left you physically unchanged, or you may have developed a half-dozen eyes, lanky and hairy limbs, or a set of inhuman mandibles. Whatever the side effects, you can now produce deadly poison and ropes of silken web from your palms, and even scale walls with your fingertips.
 
 ## Level 3: Webbing
 You can magically produce sticky, silken spider webs from your hands as a Bonus Action. This web dissolves after 1 minute. When you create the webs, you can use them to do one of the following.  

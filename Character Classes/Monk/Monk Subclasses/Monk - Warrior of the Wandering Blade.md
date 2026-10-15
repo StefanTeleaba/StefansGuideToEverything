@@ -1,4 +1,4 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://drive.google.com/file/d/1whoCP4OtcWoONu09BLZ7ujs6LVhG4N19/view)
 # Warrior of the Wandering Blade
 Attack in Tandem with a Floating Weapon Warriors of the Wandering Blade learn to invest part of their own spirit into non-living objects, granting them powers to learn more about those objects and animate them with spiritual energy. These Monks use this power to bond with weapons, which they telekinetically wield with finesse and grace, forming a double-threat on the battlefield.
 

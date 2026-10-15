@@ -1,6 +1,5 @@
 # Crafter
-*Origin Feat*
-
+*Origin Feat*  
 You gain the following benefits.  
 ***Tool Proficiency.*** You gain proficiency with three different Artisan's Tools of your choice from the Fast Crafting table.  
 ***Discount.*** Whenever you buy a nonmagical item, you receive a 20 percent discount on it.  

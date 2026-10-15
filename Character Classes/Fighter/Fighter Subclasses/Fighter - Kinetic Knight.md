@@ -1,34 +1,42 @@
-[*Created by Spaghetti0*](https://bio.site/spaghetti0)
+[*Created by Spaghetti0*](https://drive.google.com/file/d/1VB9nbboSs9algntP85b_n9aB36dt4gcZ/view)
 # Kinetic Knight
-Kinetic Knights channel evocation magic into their weapons to manipulate the potential energy within, and release that energy to cause their weaponry to erupt in highly destructive explosions. Whether you studied the arcane to attain this power or were simply born with it, your explosive powers are a force to be reckoned with.
+*Toss, Toss... Kaboom!*  
+Kinetic Knights channel evocation magic into objects to manipulate the potential energy within. The release of this energy causes their weaponry to erupt in highly destructive explosions. Whether you studied the arcane to attain this power or were simply born with it, you find that making things go boom is often the best solution to a given problem.
 
-## Level 3: Motion Manipulation
-You can convert some of the potential energy in matter that you touch into kinetic energy, increasing its speed. You gain the following benefits:  
-***Speed Boost.*** As a Bonus Action, you can touch a willing creature and increase its Speed by 15 feet until the start of your next turn.  
-***Accelerate Projectile.*** When you make a ranged attack with a weapon, its normal and long ranges both increase by 15 feet for that attack.
+## Level 3: Kinetic Armaments
+You are able to activate the latent kinetic energy within everyday objects, turning them into deadly weapons.  
+***Improvised Proficiency.*** You have proficiency with improvised weapons, and when you attack with one you can roll 1d8 for its damage, instead of 1d4, and it has the Finesse and Thrown (20/60) properties for you.  
+***Improvised Mastery.*** You can select improvised weapons as one of your weapon choices for your Weapon Mastery feature. An improvised weapon’s Mastery property depends on whether it can be wielded in one or two hands: Sap for one-handed, and Push for two-handed.
 
 ## Level 3: Kinetic Charge
-Once per turn when you make an attack with a weapon, you can imbue the weapon or its ammunition with explosive energy, changing its damage type to Force. Immediately after the attack hits or misses, you can create one of the following effects.  
-These effects use your Kinetic DC, which is equal to 8 + your Constitution modifier + your Proficiency Bonus.  
-***Kinetic Explosion.*** The target and each creature within 5 feet of it, other than you, must succeed on a Dexterity saving throw or take Force damage equal to 1d6 + your Constitution modifier (minimum 1 damage), or half as much on a success.  
-***Pushing Blast.*** The target and each creature within 5 feet of it, other than you, must succeed on a Strength saving throw or be pushed 5 feet away from the weapon or projectile. A Huge or larger creature automatically succeeds on its saving throw.  
-You can use this feature 3 times, and regain all uses when you finish a Short or Long Rest. You gain one additional use when you reach level 7 (4 uses), level 10 (5 uses) and level 18 (6 uses) in this class.
+You can charge your weapons and ammunition with excess kinetic energy, causing them to explode.  
+***Kinetic Modifier.*** When you select this subclass, choose your Intelligence, Wisdom or Charisma modifier to be your Kinetic modifier. Some features call for your Kinetic DC, which is equal to 8 plus your Proficiency Bonus and your Kinetic Modifier.  
+***Kinetic Explosion.*** Once on each of your turns when you hit with an attack made with a weapon or an improvised weapon, you can imbue the weapon or its ammunition with explosive energy, changing its damage type to Force and creating a 10-foot Emanation explosion which originates from the weapon or projectile. Roll 3d6 and select one of the following effects. Each creature, other than you, and each object that isn’t being worn or carried in the Emanation is subjected to the chosen effect.  
+**Rending Blast.** Targets in the Emanation take Force damage equal to the roll. An affected creature can make a Dexterity saving throw against your Kinetic DC, taking half as much damage on a success.  
+**Pushing Blast.** Targets in the Emanation are pushed a number of feet away from the explosion’s origin equal to the roll. An affected creature can make a Strength saving throw against your Kinetic DC, and isn’t pushed on a success. A Huge or larger creature automatically succeeds on its saving throw.  
+***Uses.*** You can use this feature a number of times equal to your Kinetic modifier (minimum once), and you regain all expended uses when you finish a Short or Long Rest.
 
 ## Level 7: Reflexive Toss
-When you are targeted by an attack, you can take a Reaction to expend one use of your Kinetic Charge feature and attempt throw off the attack with a quickly charged explosion. Make a Dexterity (Sleight of Hand) check with a DC equal to the attacker’s attack roll. On a success, the attack automatically misses you. If you successfully throw off a melee attack, both you and the attacker are also pushed back 10 feet in opposite directions by the explosion.
+When you are targeted by an attack, you can take a Reaction to attempt to throw off the attack with a quickly charged explosion. Make a Dexterity (Sleight of Hand) check with a DC equal to the attacker’s attack roll. On a success, the attack automatically misses you. If you successfully throw off a melee attack, both you and the attacker are also pushed back 10 feet in opposite directions by the explosion.  
+Once you use this Reaction, you can’t use it again until you finish a Short or Long Rest, unless you expend a use of your Kinetic Charge to use it again.
 
-## Level 10: Supercharge
-When you charge a weapon or piece of ammunition with your Kinetic Charge feature, you can expend two uses at once, empowering the feature’s effects, and providing a third option:  
-***Kinetic Explosion.*** The explosion now has a radius of 10 feet, and the damage increases to 2d6 + your Fighter level on a failed save, or half as much on a success.  
-***Pushing Blast.*** On a failed save, a creature is now pushed 10 feet away from the weapon or projectile and has the Prone condition. On a successful save, it is only pushed 5 feet, and is not Prone.  
-***Concussive Burst.*** The target must succeed on a Constitution saving throw, or on its next turn it must choose between its action, Bonus Action or Move - it can only take one.
+## Level 7: Volatile Explosions
+When you use your Kinetic Explosion, if you roll a 6 on any of the d6s, you can roll another d6 for each 6 rolled and add the result to the total. If the new die also rolls a 6, you can roll another, following the same process, and so on, to a maximum number of extra dice equal to your Kinetic modifier.
 
-## Level 15: Energy Font
-You are no longer limited in the number of times per turn you can charge an object with your Kinetic Charge.  
-Also, if you have no remaining uses of Kinetic Charge, you can now use your Bonus Action to regain one use.
+## Level 10: Compounding Energy
+The roll for your Kinetic Explosion feature increases to 4d6. It increases again by 1d6 at Fighter levels 15 (5d6) and 18 (6d6).
+
+## Level 10: Mollecular Acceleration
+You turn your control over kinetic energy inward, enhancing your agility. Your Speed increases by 10 feet, and you gain a bonus to your Dexterity (Acrobatics) and Dexterity (Sleight of Hand) checks equal to your Kinetic modifier (minimum +1).
+
+## Level 15: Improved Kinetic Charge
+Your Kinetic Charge feature improves.  
+***Megaton Blast.*** When you use your Kinetic Explosion, you can expend additional uses of Kinetic Charge to increase the size of the Emanation by 10 feet for each charge beyond the first.  
+***Recharge.*** When you use your Second Wind to regain Hit Points, you also regain one expended use of your Kinetic Charge.
 
 ## Level 18: Kinetic Detonation
-As a Magic action, you can touch one Tiny non-magical object you are carrying, such as a piece of ammunition, a playing card or a dart, and flood it with kinetic energy, making it extremely volatile. The object erupts in a violent explosion after 1 hour, or when you stop Concentrating on it, as if Concentrating on a spell. When it explodes, each creature within 30 feet of the object must succeed on a Dexterity saving throw against your Kinetic DC or take 8d8 Force damage and has the Prone condition. On a success, a creature takes half as much damage and is not Prone.  
-Once you use this feature, you can’t use it again until you finish a Long Rest, or until you expend 3 uses of your Kinetic Charge to use it again.
+When you use your Kinetic Explosion feature, you can take a Bonus Action to amplify the effects. The explosion creates both effects, instead of choosing one.  
+A target creature only makes one saving throw against this combined effect: you choose whether it is a Strength or Dexterity save. Regardless of your choice, a creature has the Prone condition on a failed save. Furthermore, Huge and larger creatures do not automatically succeed on their saving throw.  
+Once you use this feature, you can’t use it again until you finish a Short or Long Rest, unless you expend one use of your Kinetic Charge to use it again.
 
 ---

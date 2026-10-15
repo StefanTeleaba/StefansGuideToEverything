@@ -1,6 +1,5 @@
 # War Caster
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
-
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*  
 You gain the following benefits.  
 ***Ability Score Increase.*** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.  
 ***Concentration.*** You have Advantage on Constitution saving throws that you make to maintain Concentration.  

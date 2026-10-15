@@ -19,7 +19,7 @@ While active, your Rage follows the rules below.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
-## Level 1:Unarmored Defense
+## Level 1: Unarmored Defense
 While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
 
 ## Level 1: Weapon Mastery

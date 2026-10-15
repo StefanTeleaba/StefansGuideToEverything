@@ -1,7 +1,6 @@
 *Player's Handbook 5.5e p.219*
 # Half Plate Armor
 *Medium Armor*  
-
 **AC:** 15 + Dex modifier (max 2)  
 **Strength:** -  
 **Stealth:** Disadvantage  

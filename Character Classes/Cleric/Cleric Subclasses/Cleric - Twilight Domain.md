@@ -8,12 +8,12 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 ## Level 3: Domain Spells
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Twilight Domain Spells table, you thereafter always have the listed spells prepared.  
 **Twilight Domain Spells**
-| Cleric Level | Spells                                         |
-|:------------:|------------------------------------------------|
+| Cleric Level | Spells |
+|:------------:|--------|
 | 3            | Faerie Fire, Moonbeam, Sleep, See Invisibility |
-| 5            | Aura of Vitality, Leomund's Tiny Hut           |
-| 7            | Aura of Life, Greater Invisibility             |
-| 9            | Circle of Power, Mislead                       |
+| 5            | Aura of Vitality, Leomund's Tiny Hut |
+| 7            | Aura of Life, Greater Invisibility |
+| 9            | Circle of Power, Mislead |
 
 ## Level 3: Eyes of Night
 You can see through the deepest gloom. You have Darkvision with a range of 120 feet and as a Magic action, you can share it with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of 1), which lasts for 1 hour. Once you share it, you can't do so again until you finish a Long Rest, unless you expend a spell slot of any level to share it again.

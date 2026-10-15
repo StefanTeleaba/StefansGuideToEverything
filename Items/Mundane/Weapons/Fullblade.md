@@ -11,7 +11,7 @@
 
 ---
 
-*Sword and Fist*
+*Arms and Equipment Guide 3e p.7*
 # Fullblade
 *Exotic Melee Weapon*  
 **Cost:** 100 GP  
