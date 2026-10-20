@@ -1,12 +1,15 @@
 *Homebrew 5.5e*
 # Returning Weapon
-*Weapon (Any Simple or Martial with the Thrown Property), Uncommon*  
+*Weapon (Any Weapon with the Thrown Property), Common*  
+This magic weapon returns to your hand immediately after you use it to make a ranged attack roll.
+
+*Weapon (Any Weapon with the Thrown Property), Uncommon*  
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
-*Weapon (Any Simple or Martial with the Thrown Property), Rare*  
+*Weapon (Any Weapon with the Thrown Property), Rare*  
 This magic weapon grants a +2 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
-*Weapon (Any Simple or Martial with the Thrown Property), Very Rare*  
+*Weapon (Any Weapon with the Thrown Property), Very Rare*  
 This magic weapon grants a +3 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
 ---

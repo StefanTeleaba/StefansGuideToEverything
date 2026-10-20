@@ -1,5 +1,5 @@
 *Homebrew 5.5e*
-# Composite Shortbow (25 GP)
+# Composite Shortbow (50 GP)
 *Simple Ranged Weapon*  
 **Damage:** 1d6 Piercing  
 **Properties:** Ammunition (Range 100/400; Arrow), Two-Handed  

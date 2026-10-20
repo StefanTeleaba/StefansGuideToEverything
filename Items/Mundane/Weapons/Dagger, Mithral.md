@@ -1,5 +1,5 @@
 *Homebrew 5.5e*
-# Dagger (102 GP)
+# Mithral Dagger (102 GP)
 *Simple Melee Weapon*  
 **Damage:** 1d4 Piercing  
 **Properties:** Finesse, Light, Thrown (Range 40/120)  

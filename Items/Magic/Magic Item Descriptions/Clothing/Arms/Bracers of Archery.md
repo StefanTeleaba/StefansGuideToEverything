@@ -30,3 +30,10 @@ These wristbands look like normal protective wear. The bracers empower the weare
 Moderate transmutation; CL 8th; Craft Wondrous Item, Craft Magic Arms and Armor; Price 25,000 gp; Weight 1 lb.
 
 ---
+
+*Encyclopedia Magica Volume One 1e p.220*
+# Bracers of Archery
+These magical wrist bands are indistinguishable from normal, nonmagical protective gear. When worn by a character or creature able to employ a bow, they enable the wearer to excel at archery.  
+The bracers empower a wearer to use any bow (not including crossbows) as if he or she were proficient in its usage, if this is not the case. If the wearer of the bracers has proficiency with any type of bow, he or she gains a +2 bonus to attack rolls and a +1 bonus to damage whenever that type of bow is used. These bonuses are cumulative with any others, including those already bestowed by a magical bow or magical arrows, except for a bonus due to weapon specialization.
+
+---
