@@ -1,3 +1,17 @@
+*Homebrew 5.5e*
+# Falchion (75 GP)
+*Martial Melee Weapon*  
+**Damage:** 1d10 Slashing  
+**Properties:** Critical, Heavy, Two-Handed  
+**Mastery:** Vex  
+**Weight:** 4 lb.  
+***Critical.*** The Critical Range of this weapon increases by 1.  
+***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
+***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.  
+***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+
+---
+
 *Khel'Tanis*
 # Falchion (75 GP)
 *Martial Melee Weapon*  
@@ -12,20 +26,6 @@
 ***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
 *Am stabilit impreuna cu Andrei si Bobo. Astea raman staturile stabilite.*
-
----
-
-*Homebrew 5.5e*
-# Falchion (75 GP)
-*Martial Melee Weapon*  
-**Damage:** 1d10 Slashing  
-**Properties:** Critical, Heavy, Two-Handed  
-**Mastery:** Vex  
-**Weight:** 4 lb.  
-***Critical.*** The Critical Range of this weapon increases by 1.  
-***Heavy.*** You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.  
-***Two-Handed.*** A Two-Handed weapon requires two hands when you attack with it.  
-***Mastery: Vex.*** If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
 ---
 
