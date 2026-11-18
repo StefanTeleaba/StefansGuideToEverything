@@ -9,3 +9,14 @@ Your reflexes and agility improve. You gain the following benefits.
 ***Speed Increase.*** Your Speed increases by 10 feet.
 
 ---
+---
+
+*D&D Beyond*
+# Feline Grace
+*Prerequisite: Tabaxi*  
+Your incredible reflexes and agility further improve. You gain the following benefits:
+- Increase your Dexterity score by 1, to a maximum of 20.
+- You can use your Feline Agility trait twice before you must move 0 feet on one of your turns to use the trait again. You can still only use this ability once per turn when you move.
+- You don't take damage from falling 20 feet or less if you aren't incapacitated.
+
+---

@@ -1,10 +1,20 @@
-*[the_twig](https://www.youtube.com/watch?v=6tWlylp-hpo)*
+*[the_twig](https://www.youtube.com/watch?v=6tWlylp-hpo)*  
+*[the_twig](https://www.youtube.com/watch?v=rZPo2aNKGbk)*
 # Ranger
 
+## Core Ranger Traits
+**Primary Ability:** Dexterity and Wisdom  
+**Hit Point Die:** D10 per Ranger level  
+**Saving Throw Proficiencies:** Strength, Dexterity  
+**Skill Proficiencies:** Choose 3: Acrobatics, Animal Handling, Athletics, Insight, Investigation, Medicine, Nature, Perception, Sleight of Hand, Stealth, or Survival.  
+**Weapon Proficiencies:** Simple and Martial weapons  
+**Armor Training:** Light and Medium armor and Shields  
+**Starting Equipment:** Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP
+
 ## Level 1: Deft Explorer
-Thanks to your travels, you gain the following benefits.
-Expertise. Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
-Languages. You know two languages of your choice from the language tables in chapter 2.
+Thanks to your travels, you gain the following benefits.  
+***Expertise.*** Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.  
+***Languages.*** You know two languages of your choice from the language tables in chapter 2.
 
 ## Level 1: Spellcasting
 You have learned to channel the magical essence of nature to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class's description.  
@@ -26,7 +36,7 @@ You have trained in the wilds and become adept at a style of your choice.
 You can summon your Primal Companion a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.  
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you use this feature’s ritual again or if you die.  
 In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action.  
-***Form of the Hunter.*** You always have the Hunter's Mark spell prepared. You can cast it without expending a spell slot a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.  
+***Form of the Hunter.*** You always have the *Hunter's Mark* spell prepared. You can cast it without expending a spell slot a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.  
 Additionally, if the target drops to 0 Hit Points before this spell ends, you can move the mark to a new creature you can see within range without using a Bonus Action.  
 ***Form of the Trapper.*** You can take the Utilize action or the Magic action to use a magic item that requires that action as a Bonus Action (except to cast a spell).  
 Whenever you force a creature to make a saving throw by using a piece of Adventuring Gear, or a creature makes an ability check to interact with a piece of Adventuring Gear that you have used, you can use your Spell Save DC instead of the normal DC.
@@ -63,7 +73,7 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 ## Level 10: Perfected Form
 The option you chose for your Favoured Form becomes more powerful, as detailed below.  
 ***Form of the Beast Master.*** Your Primal Companion gains its Perfected Bond feature.  
-***Form of the Hunter.*** Hunter’s Mark no longer requires concentration.  
+***Form of the Hunter.*** *Hunter’s Mark* no longer requires concentration.  
 ***Form of the Trapper.*** You can now attune to up to four magic items at once.
 
 ## Level 10: Rapid Recovery
@@ -103,6 +113,74 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 ## Level 20: Primal Awareness
 Your senses are so sharp that no one can get the upper hand. You can never have disadvantage on a d20 test, and creatures can never have advantage on Attack Rolls against you.
 
+## Primal Companion
+
+### Beast of the Land
+*Small or Medium Beast, Neutral*  
+**AC** 13 plus your Wisdom modifier  
+**HP** five times your Wisdom Modifier (minimum of 1) plus your Ranger level (twice your Ranger level starting from level 10)  
+**Speed** 40 ft., Climb 40 ft.  
+|      | STR | DEX | CON | INT | WIS | CHA |
+|------|-----|-----|-----|-----|-----|-----|
+|      | 14  | 14  | 15  | 8   | 14  | 11  |
+| MOD  | +2  | +2  | +2  | -1  | +2  | +0  |
+| SAVE | +2  | +2  | +2  | -1  | +2  | +0  |
+
+**Senses** Darkvision 60 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)  
+**Traits**  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.  
+***Perfected Bond.*** When you reach 10th level, the beast can be Large, can take the Disengage action as a bonus action, and can make two Beast’s Strikes when you command it.  
+In addition, its HP becomes five times your Wisdom Modifier (minimum of 1) plus twice your Ranger level.  
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target has the Prone condition if it is a Large or smaller creature.
+
+### Beast of the Sea
+*Small or Medium Beast, Neutral*  
+**AC** 13 plus your Wisdom modifier  
+**HP** five times your Wisdom Modifier (minimum of 1) plus your Ranger level (twice your Ranger level starting from level 10)  
+**Speed** 5 ft., Swim 60 ft.  
+|      | STR | DEX | CON | INT | WIS | CHA |
+|------|-----|-----|-----|-----|-----|-----|
+|      | 14  | 14  | 15  | 8   | 14  | 11  |
+| MOD  | +2  | +2  | +2  | -1  | +2  | +0  |
+| SAVE | +2  | +2  | +2  | -1  | +2  | +0  |
+
+**Senses** Darkvision 90 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)  
+**Traits**  
+***Amphibious.*** The beast can breathe air and water.  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.  
+***Perfected Bond.*** When you reach 10th level, the beast can be Large, can take the Disengage action as a bonus action,and can make two Beast’s Strikes when you command it.  
+In addition, its HP becomes five times your Wisdom Modifier (minimum of 1) plus twice your Ranger level.  
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the Grappled condition (escape DC equals your spell save DC).
+
+### Beast of the Sky
+*Tiny or Small Beast, Neutral*  
+**AC** 13 plus your Wisdom modifier  
+**HP** four times your Wisdom Modifier (minimum of 1) plus your Ranger level (twice your Ranger level starting from level 10)  
+**Speed** 10 ft., Fly 60 ft.  
+|      | STR | DEX | CON | INT | WIS | CHA |
+|------|-----|-----|-----|-----|-----|-----|
+|      | 6   | 15  | 13  | 8   | 14  | 11  |
+| MOD  | -2  | +2  | +1  | -1  | +2  | +0  |
+| SAVE | -2  | +2  | +1  | -1  | +2  | +0  |
+
+**Senses** Darkvision 60 ft., Passive Perception 12  
+**Languages** Understands the languages you know  
+**CR** None (XP 0; PB equals your Proficiency Bonus)  
+**Traits**  
+***Flyby.*** The beast doesn’t provoke Opportunity Attacks when it flies out of an enemy’s reach.  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.  
+***Perfected Bond.*** When you reach 10th level, the beast can take the Dodge or Help action as a Bonus Action, and can make two Beast’s Strikes when you command it.  
+In addition, its HP becomes four times your Wisdom Modifier (minimum of 1) plus twice your Ranger level.  
+**Actions**  
+***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 2 Slashing damage.
+
+---
 ---
 
 *[Treantmonk's Temple](https://youtu.be/z_XVH-P_5Nw?si=oEwYYIgedpU7-gcL)*
@@ -184,6 +262,7 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 The damage die of your Hunter's Mark is a d10 rather than a d6.  
 When you hit with an attack roll, you may turn the hit into a Critical Hit. You may turn a hit into a Critical Hit a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
+---
 ---
 
 *Player's Handbook 5.5e p.118*

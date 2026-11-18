@@ -1,4 +1,4 @@
-[*Created by Spaghetti0*](https://drive.google.com/file/d/16d-pzgzkP9iNV_4kYOzp6zTDU5L0RPUG/view)
+[*Spaghetti0*](https://drive.google.com/file/d/16d-pzgzkP9iNV_4kYOzp6zTDU5L0RPUG/view)
 # Bounty Hunter
 *Hunt Down Villains, Collect their Bounties*  
 Bounty Hunters are experts at tracking and capturing dangerous fugitives, a task they perform in exchange for lucrative bounties. Once set on a quarry, the hunter’s every waking minute is devoted to their target, relentlessly hunting them down.  

@@ -1,6 +1,6 @@
 *Homebrew 5.5e*
 # Tongues
-*Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
+*Level 3 Divination (Bard, Cleric, Ranger, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action  
 **Range:** Touch  

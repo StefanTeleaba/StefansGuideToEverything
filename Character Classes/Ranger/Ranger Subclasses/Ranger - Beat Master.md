@@ -1,6 +1,5 @@
-# Beast Master
 *[Treantmonk's Temple](https://youtu.be/GDCkB1FGW0Q?si=XjjoJXQUl6adRw3o)*
-
+# Beast Master
 *Bond with a Primal Beast*  
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.
 
@@ -26,10 +25,10 @@ In addition, if the Primal Companion needs to make a Saving Throw, it can use yo
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 
 ---
+---
 
+*Player's Handbook 5.5e p.*
 # Beast Master
-*Player's Handbook 5.5e*  
-
 *Bond with a Primal Beast*  
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.
 

@@ -1,22 +1,53 @@
+*[the_twig](https://www.youtube.com/watch?v=rZPo2aNKGbk)*
 # Horizon Walker
-*by*  
+
+## Level 3: Detect the Extraplanar
+You have trained to sense anything not of this world. You always have the *Detect Evil and Good* spell  prepared, and can cast it without expending a spell slot a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.  
+When you cast it in this way, it allows you to sense locations within 1 mile, doesn’t require Concentration, and isn’t blocked by anything except lead.
+
+## Level 3: Horizon Walker Magic
+When you reach a Ranger level specified in the Horizon Walker Spells table, you thereafter always have the listed spells prepared.  
+**Horizon Walker Spells**
+| Ranger Level | Spells                        |
+|:------------:|-------------------------------|
+| 3            | Comprehend Languages, Detect Evil and Good, Protection from Evil and Good |
+| 5            | Misty Step, Rope Trick |
+| 9            | Magic Circle, Protection from Energy |
+| 13           | Banishment, Dimension Door |
+| 17           | Planar Binding, Teleportation Circle |
+
+## Level 3: Planar Lore
+You have studied the planes and the threats that reside outside the world. Whenever you make an Arcana or Religion check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
+
+## Level 7: Protection from Beyond
+You can protect yourself with energy from the outer planes. Whenever you finish a Long Rest, choose two of the following damage types: Acid, Cold, Fire, Lightning, Necrotic, Psychic, Radiant or Thunder. You have Resistance to those damage types until you choose different ones with this feature.
+
+## Level 11: Warping Strike
+You gain the ability to create tunnels through the planes. When you make an attack with the Attack action, you can teleport up to 10 feet to an unoccupied space you can see. You do so either before or after the attack.
+
+## Level 15: Call to the Planes
+You can call an extraplanar ally to your side. As a Bonus Action, you cast *Summon Aberration*, *Summon Elemental*, or *Summon Fey* as a 4th level spell without spending a spell slot or a Material Component. It doesn’t require Concentration and has a duration of 1 minute.  
+Once you cast a spell with this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 4+ spell slot (no action required).
+
+---
+---
+
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Horizon Walker
 Horizon walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse – especially benevolent dragons, fey, and elementals – that work to preserve life and the order of the planes.
 
 ## Level 3: Horizon Walker Magic
-Your travels through the multiverse ensure you always have certain spells ready; when you reach a Ranger level specified in the Horizon Walker Spells table, you thereafter always have the listed spells prepared.
-
-### Horizon Walker Spells
-| Ranger Level |             Spells            |
-| :----------: | ----------------------------- |
-|       3      | Protection from Evil and Good |
-|       5      | Misty Step                    |
-|       9      | Haste                         |
-|       13     | Banishment                    |
-|       17     | Teleportation Circle          |
+Your travels through the multiverse ensure you always have certain spells ready; when you reach a Ranger level specified in the Horizon Walker Spells table, you thereafter always have the listed spells prepared.  
+**Horizon Walker Spells**
+| Ranger Level | Spells                        |
+|:------------:|-------------------------------|
+| 3            | Protection from Evil and Good |
+| 5            | Misty Step                    |
+| 9            | Haste                         |
+| 13           | Banishment                    |
+| 17           | Teleportation Circle          |
 
 ## Level 3: Blitzing Strikes
 You gain the ability to pass between the planes in a blink of an eye. Once on your turn when you use the Attack action, you can Teleport up to 10 feet before one attack to an unoccupied space you can see. That attack deals an additional 1d4 Force damage.

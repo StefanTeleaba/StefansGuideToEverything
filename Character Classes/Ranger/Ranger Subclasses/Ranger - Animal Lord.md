@@ -1,16 +1,14 @@
-# Animal Lord
-*Created by Stefan*  
+*Homebrew 5.5e*  
 Inspired by the Animal Lord Prestige Class  
 *Complete Adventurer 3.5e p.22*  
-
-*Assume the form of a Beast*  
-
+# Animal Lord
+*Assume the form of a Beast*
 
 ## Level 3: Animal Lord Spells
 When you reach a Ranger level specified in the Animal Lord Spells table, you thereafter always have the listed spells prepared.  
-### Animal Lord Spells
+**Animal Lord Spells**
 | Ranger Level | Spells               |
-|--------------|----------------------|
+|:------------:|----------------------|
 | 3            | Speak With Animals   |
 | 5            | Beast Sense          |
 | 9            | Speak with Plants    |

@@ -1,9 +1,7 @@
-# Drakewarden
-*by*  
 *PerfectlyCircularSeal*  
 *Shades the Mothman*  
-*Spaghetti0 Homebrew*  
-
+*Spaghetti0 Homebrew*
+# Drakewarden
 Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.
 
 ## Level 3: Draconic Gift
@@ -59,12 +57,14 @@ Your bond to your drake reaches the pinnacle of its power. While your Drake is s
 **Languages** understands the languages you know  
 **CR** None (XP 0; PB equals your Proficiency Bonus)
 
-#### Traits
-**Primal Bond.** Add your Proficiency Bonus to any ability check or saving throw the beast makes.  
-**Draconic Essence.** When you summon the Drake, choose a damage type: Acid, Cold, Fire, Lightning, or Poison. The chosen type determines the Drake's damage Immunity and the damage of its Infused Strikes trait.
+**Traits**  
+***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.  
+***Draconic Essence.*** When you summon the Drake, choose a damage type: Acid, Cold, Fire, Lightning, or Poison. The chosen type determines the Drake's damage Immunity and the damage of its Infused Strikes trait.
 
-#### Actions
-**Bite.** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 plus your Wisdom modifier damage of the type chosen for its Draconic Essence trait.
+**Actions**  
+***Bite.*** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 plus your Wisdom modifier damage of the type chosen for its Draconic Essence trait.
 
-#### Reactions
-**Infused Strikes.** When another creature within 30 feet of the Drake that it can see hits a target with a weapon attack, the Drake infuses the strike with its essence, causing the target to take an extra 1d6 damage of the type determined by its Draconic Essence.
+**Reactions**  
+***Infused Strikes.*** When another creature within 30 feet of the Drake that it can see hits a target with a weapon attack, the Drake infuses the strike with its essence, causing the target to take an extra 1d6 damage of the type determined by its Draconic Essence.
+
+---
